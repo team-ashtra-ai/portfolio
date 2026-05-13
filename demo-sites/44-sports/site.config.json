@@ -1,0 +1,283 @@
+{
+  "siteName": "Pulse",
+  "industry": "Sports, Fitness & Recreation",
+  "number": 44,
+  "slug": "sports",
+  "baseUrl": "https://team-ashtra-ai.github.io/44/",
+  "repo": "https://github.com/team-ashtra-ai/44.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Join Class",
+  "schema": "Organization",
+  "visualDirection": "Sport retail with bold hero imagery, black-white contrast, and direct product/program CTAs",
+  "premiumDirection": "A fitness site with athlete-scale hero, program cards, coach proof, schedule filters, and membership CTAs",
+  "layoutSignature": "Athletic product-program system",
+  "heroType": "Big sport campaign hero",
+  "headerType": "Sport retail header",
+  "footerType": "community footer",
+  "cardStyle": "Performance program cards",
+  "formStyle": "Trial class form",
+  "jsSignature": "Timetable filter, membership toggle, coach selector",
+  "motionStyle": "Kinetic reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A fitness site with athlete-scale hero, program cards, coach proof, schedule filters, and membership CTAs",
+    "brandMood": "active community",
+    "buyerPsychology": "progress and belonging",
+    "typography": {
+      "display": "\"Arial Narrow\", Arial, sans-serif",
+      "body": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "accent": "\"Palatino Linotype\", Palatino, serif",
+      "summary": "\"Arial Narrow\" display with Inter body and \"Palatino Linotype\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for progress and belonging",
+    "layoutArchetype": "Athletic product-program system",
+    "density": "spacious",
+    "shapeLanguage": "Performance program cards",
+    "surfaceMaterial": "Sport retail with bold hero imagery, black-white contrast, and direct product/program CTAs",
+    "imageSystem": "Athletes, training spaces, shoes, performance metrics",
+    "interactionModel": "Big sport campaign hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Join Class",
+    "pricingStyle": "membership cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Nike",
+    "url": "https://www.nike.com/",
+    "palette": [
+      "#ffffff",
+      "#111111",
+      "#ff3d00",
+      "#f4f4f4",
+      "#c8c8c8"
+    ],
+    "visualDirection": "Nike-style sport retail with bold hero imagery, black-white contrast, and direct product/program CTAs",
+    "premiumDirection": "A fitness site with athlete-scale hero, program cards, coach proof, schedule filters, and membership CTAs",
+    "layoutSignature": "athletic product-program system",
+    "heroType": "big sport campaign hero",
+    "headerType": "sport retail header",
+    "cardStyle": "performance program cards",
+    "formStyle": "trial class form",
+    "motionStyle": "kinetic reveal",
+    "imageDirection": "athletes, training spaces, shoes, performance metrics",
+    "cssProfile": "nike"
+  },
+  "targetCssProfile": "nike",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Nike",
+      "url": "https://www.nike.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Equinox",
+      "url": "https://www.equinox.com"
+    },
+    {
+      "category": "direct",
+      "name": "Strava",
+      "url": "https://www.strava.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "WHOOP",
+      "url": "https://www.whoop.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Barrys",
+      "url": "https://www.barrys.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Peloton",
+      "url": "https://www.onepeloton.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple Fitness Plus",
+      "url": "https://www.apple.com/apple-fitness-plus"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin timetable and membership patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/sports-logo.svg",
+    "brandSymbol": "assets/brand/sports-symbol.svg",
+    "favicon": "assets/brand/sports-favicon.svg",
+    "appleTouchIcon": "assets/brand/sports-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/sports-home-open-graph.svg",
+    "mockup": "assets/mockups/sports-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Goal",
+        "Barrier",
+        "Promise",
+        "Programs",
+        "Classes",
+        "Results",
+        "Community",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Club",
+      "file": "club.html",
+      "sections": [
+        "Hero",
+        "Philosophy",
+        "Community",
+        "Facilities",
+        "Coaches",
+        "Standards",
+        "Values",
+        "Energy",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Programs",
+      "file": "programs.html",
+      "sections": [
+        "Hero",
+        "Beginner",
+        "Performance",
+        "Recovery",
+        "Weight",
+        "Strength",
+        "Plans",
+        "Outcomes",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Classes",
+      "file": "classes.html",
+      "sections": [
+        "Hero",
+        "Group",
+        "Private",
+        "Online",
+        "Levels",
+        "Timetable",
+        "Equipment",
+        "Benefits",
+        "Booking",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Coaches",
+      "file": "coaches.html",
+      "sections": [
+        "Hero",
+        "Team",
+        "Qualifications",
+        "Specialisms",
+        "Profiles",
+        "Style",
+        "Availability",
+        "Reviews",
+        "Meet",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Transformations",
+        "Stories",
+        "Metrics",
+        "Reviews",
+        "Consistency",
+        "Expectations",
+        "Proof",
+        "Motivation",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Memberships",
+        "Packages",
+        "Dropin",
+        "Training",
+        "Inclusions",
+        "Terms",
+        "Comparison",
+        "Join",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Schedule",
+      "file": "schedule.html",
+      "sections": [
+        "Hero",
+        "Timetable",
+        "Days",
+        "Times",
+        "Locations",
+        "Booking",
+        "Reminders",
+        "Capacity",
+        "Updates",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Level",
+        "Equipment",
+        "Injuries",
+        "Policies",
+        "Payments",
+        "Cancellations",
+        "Trial",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Trial",
+        "Membership",
+        "Phone",
+        "Location",
+        "Hours",
+        "Map",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-09T17:31:47.908Z",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "totalPages": 17,
+    "pagesWithErrors": 0,
+    "pagesWithLowContrast": 10,
+    "pagesWithOverflow": 0,
+    "pagesWithBrokenImages": 0,
+    "pagesWithTallHeaders": 0,
+    "outputDirectory": "premium-static-site-system/reports/visual-audit/2026-05-09T17-31-00-725Z"
+  },
+  "bySite": {
+    "17": {
+      "pages": 17,
+      "errors": 0,
+      "lowContrast": 10,
+      "overflow": 0,
+      "brokenImages": 0,
+      "tallHeaders": 0
+    }
+  },
+  "results": [
+    {
+      "file": "demo-sites/17-construction/404.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/404.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Page Not Found | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1680
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/accessibility.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/accessibility.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1771
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/company.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/company.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Company | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 9514
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/contact.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/contact.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Contact | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 10144
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/cookies.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/cookies.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Cookie Notice | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1663
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/index.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/index.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Home | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 10483
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/materials.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/materials.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Materials | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 9514
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/pricing.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/pricing.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Pricing | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 9467
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/privacy.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/privacy.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Privacy Notice | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1689
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/process.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/process.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Process | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 9514
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/projects.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/projects.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Projects | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 9716
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/questions.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/questions.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Questions | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 9514
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/safety.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/safety.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Safety | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 9467
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/services.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/services.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Services | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 9514
+        },
+        "sectionCount": 14,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [
+          {
+            "selector": "a.button.secondary",
+            "text": "Discuss build",
+            "ratio": 1.18,
+            "required": 4.5,
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/sitemap.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/sitemap.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Sitemap Page | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 2026
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/terms.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/terms.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Terms of Use | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1689
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/17-construction/thanks.html",
+      "site": "17",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/thanks.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Thank You | ForgeBuild Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1692
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 124,
+          "footerHeight": 503,
+          "navWidth": 514
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    }
+  ]
+}

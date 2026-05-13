@@ -1,0 +1,288 @@
+{
+  "siteName": "Clear",
+  "industry": "Utilities, Water & Essential Infrastructure",
+  "number": 23,
+  "slug": "utilities",
+  "baseUrl": "https://team-ashtra-ai.github.io/23/",
+  "repo": "https://github.com/team-ashtra-ai/23.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Service",
+  "schema": "Organization",
+  "visualDirection": "Utilities with playful purple energy, rounded service blocks, and transparent tariff flow",
+  "premiumDirection": "A utility service site with bright service cards, friendly calculator modules, alert strips, and help routing",
+  "layoutSignature": "Playful utility account flow",
+  "heroType": "Purple service hero",
+  "headerType": "Friendly utility header",
+  "footerType": "public service footer",
+  "cardStyle": "Rounded tariff cards",
+  "formStyle": "Service request form",
+  "jsSignature": "Service request finder, alert banner, report filter",
+  "motionStyle": "Playful account reveal",
+  "themeMode": "civic",
+  "designPassport": {
+    "premiumDirection": "A utility service site with bright service cards, friendly calculator modules, alert strips, and help routing",
+    "brandMood": "civic essential",
+    "buyerPsychology": "public service access",
+    "typography": {
+      "display": "\"Palatino Linotype\", Palatino, serif",
+      "body": "Arial, Helvetica, sans-serif",
+      "accent": "Constantia, Georgia, serif",
+      "summary": "\"Palatino Linotype\" display with Arial body and Constantia accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for public service access",
+    "layoutArchetype": "Playful utility account flow",
+    "density": "practical",
+    "shapeLanguage": "Rounded tariff cards",
+    "surfaceMaterial": "Utilities with playful purple energy, rounded service blocks, and transparent tariff flow",
+    "imageSystem": "Energy accounts, meters, tariff calculators, service notices",
+    "interactionModel": "Purple service hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Service",
+    "pricingStyle": "service route cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Octopus Energy",
+    "url": "https://octopus.energy/",
+    "palette": [
+      "#140021",
+      "#7f3cff",
+      "#ff4fd8",
+      "#f6f1ff",
+      "#00d1ff"
+    ],
+    "visualDirection": "Octopus-style utilities with playful purple energy, rounded service blocks, and transparent tariff flow",
+    "premiumDirection": "A utility service site with bright service cards, friendly calculator modules, alert strips, and help routing",
+    "layoutSignature": "playful utility account flow",
+    "heroType": "purple service hero",
+    "headerType": "friendly utility header",
+    "cardStyle": "rounded tariff cards",
+    "formStyle": "service request form",
+    "motionStyle": "playful account reveal",
+    "imageDirection": "energy accounts, meters, tariff calculators, service notices",
+    "cssProfile": "octopus"
+  },
+  "targetCssProfile": "octopus",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Octopus Energy",
+      "url": "https://octopus.energy/"
+    },
+    {
+      "category": "direct",
+      "name": "National Grid",
+      "url": "https://www.nationalgrid.com"
+    },
+    {
+      "category": "direct",
+      "name": "Thames Water",
+      "url": "https://www.thameswater.co.uk"
+    },
+    {
+      "category": "direct",
+      "name": "Scottish Water",
+      "url": "https://www.scottishwater.co.uk"
+    },
+    {
+      "category": "adjacent",
+      "name": "EDF",
+      "url": "https://www.edfenergy.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "gov.br service portal",
+      "url": "https://www.gov.br"
+    },
+    {
+      "category": "contrast",
+      "name": "GOV.UK",
+      "url": "https://www.gov.uk"
+    },
+    {
+      "category": "contrast",
+      "name": "USWDS",
+      "url": "https://designsystem.digital.gov"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin fault reporting flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/utilities-logo.svg",
+    "brandSymbol": "assets/brand/utilities-symbol.svg",
+    "favicon": "assets/brand/utilities-favicon.svg",
+    "appleTouchIcon": "assets/brand/utilities-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/utilities-home-open-graph.svg",
+    "mockup": "assets/mockups/utilities-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Reliability",
+        "Access",
+        "Network",
+        "Safety",
+        "Updates",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Authority",
+      "file": "authority.html",
+      "sections": [
+        "Hero",
+        "Organisation",
+        "Governance",
+        "Value",
+        "Team",
+        "Standards",
+        "Responsibility",
+        "Community",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Water",
+        "Waste",
+        "Power",
+        "Maintenance",
+        "Requests",
+        "Applications",
+        "Benefits",
+        "Access",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Network",
+      "file": "network.html",
+      "sections": [
+        "Hero",
+        "Assets",
+        "Plants",
+        "Systems",
+        "Capacity",
+        "Monitoring",
+        "Upgrades",
+        "Maps",
+        "Reliability",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Safety",
+      "file": "safety.html",
+      "sections": [
+        "Hero",
+        "Standards",
+        "Monitoring",
+        "Compliance",
+        "Emergency",
+        "Risk",
+        "Reporting",
+        "Training",
+        "Public",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Projects",
+      "file": "projects.html",
+      "sections": [
+        "Hero",
+        "Work",
+        "Planning",
+        "Delivery",
+        "Maintenance",
+        "Impact",
+        "Timelines",
+        "Updates",
+        "Results",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Support",
+      "file": "support.html",
+      "sections": [
+        "Hero",
+        "Faults",
+        "Billing",
+        "Requests",
+        "Complaints",
+        "Response",
+        "Escalation",
+        "Guides",
+        "Contact",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Reports",
+      "file": "reports.html",
+      "sections": [
+        "Hero",
+        "Quality",
+        "Performance",
+        "Sustainability",
+        "Compliance",
+        "Downloads",
+        "Method",
+        "Updates",
+        "Archive",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Access",
+        "Billing",
+        "Faults",
+        "Rules",
+        "Documents",
+        "Requests",
+        "Complaints",
+        "Emergency",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Emergency",
+        "Service",
+        "Admin",
+        "Offices",
+        "Hours",
+        "Phone",
+        "Email",
+        "Map",
+        "CTA"
+      ]
+    }
+  ]
+}

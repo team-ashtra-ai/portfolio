@@ -1,0 +1,283 @@
+{
+  "siteName": "Legal",
+  "industry": "Legal, Compliance & Immigration Services",
+  "number": 11,
+  "slug": "legal",
+  "baseUrl": "https://team-ashtra-ai.github.io/11/",
+  "repo": "https://github.com/team-ashtra-ai/11.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Book Consultation",
+  "schema": "LegalService",
+  "visualDirection": "Legal SaaS with calm blue authority, soft cream pages, and product proof",
+  "premiumDirection": "A law-practice platform site with blue navigation, document panels, workflow cards, and consultation routing",
+  "layoutSignature": "Legal platform workflow",
+  "heroType": "Blue legal software hero",
+  "headerType": "Practice product header",
+  "footerType": "jurisdiction footer",
+  "cardStyle": "Workflow document cards",
+  "formStyle": "Consultation intake form",
+  "jsSignature": "Case type selector, document checklist, consultation route form",
+  "motionStyle": "Workflow tab reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A law-practice platform site with blue navigation, document panels, workflow cards, and consultation routing",
+    "brandMood": "formal private",
+    "buyerPsychology": "privacy and legal certainty",
+    "typography": {
+      "display": "Georgia, \"Times New Roman\", serif",
+      "body": "Verdana, Geneva, sans-serif",
+      "accent": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "summary": "Georgia display with Verdana body and Inter accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for privacy and legal certainty",
+    "layoutArchetype": "Legal platform workflow",
+    "density": "measured",
+    "shapeLanguage": "Workflow document cards",
+    "surfaceMaterial": "Legal SaaS with calm blue authority, soft cream pages, and product proof",
+    "imageSystem": "Legal dashboards, document checklists, calm office detail",
+    "interactionModel": "Blue legal software hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Book Consultation",
+    "pricingStyle": "fixed/hourly fee cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Clio",
+    "url": "https://www.clio.com/",
+    "palette": [
+      "#f7f2e8",
+      "#183b72",
+      "#5ba8ff",
+      "#111827",
+      "#f4c95d"
+    ],
+    "visualDirection": "Clio-style legal SaaS with calm blue authority, soft cream pages, and product proof",
+    "premiumDirection": "A law-practice platform site with blue navigation, document panels, workflow cards, and consultation routing",
+    "layoutSignature": "legal platform workflow",
+    "heroType": "blue legal software hero",
+    "headerType": "practice product header",
+    "cardStyle": "workflow document cards",
+    "formStyle": "consultation intake form",
+    "motionStyle": "workflow tab reveal",
+    "imageDirection": "legal dashboards, document checklists, calm office detail",
+    "cssProfile": "clio"
+  },
+  "targetCssProfile": "clio",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Clio",
+      "url": "https://www.clio.com/"
+    },
+    {
+      "category": "direct",
+      "name": "AO Shearman",
+      "url": "https://www.aoshearman.com"
+    },
+    {
+      "category": "direct",
+      "name": "Fragomen",
+      "url": "https://www.fragomen.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Boundless",
+      "url": "https://www.boundless.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "LegalZoom",
+      "url": "https://www.legalzoom.com"
+    },
+    {
+      "category": "contrast",
+      "name": "GOV.UK",
+      "url": "https://www.gov.uk"
+    },
+    {
+      "category": "contrast",
+      "name": "USWDS",
+      "url": "https://designsystem.digital.gov"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin document checklist flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/legal-logo.svg",
+    "brandSymbol": "assets/brand/legal-symbol.svg",
+    "favicon": "assets/brand/legal-favicon.svg",
+    "appleTouchIcon": "assets/brand/legal-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/legal-home-open-graph.svg",
+    "mockup": "assets/mockups/legal-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Problem",
+        "Risk",
+        "Promise",
+        "Services",
+        "Process",
+        "Trust",
+        "Cases",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Firm",
+      "file": "firm.html",
+      "sections": [
+        "Hero",
+        "Credentials",
+        "Jurisdictions",
+        "Team",
+        "Values",
+        "Standards",
+        "Privacy",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Areas",
+        "Legal",
+        "Compliance",
+        "Immigration",
+        "Advisory",
+        "Documents",
+        "Representation",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Cases",
+      "file": "cases.html",
+      "sections": [
+        "Hero",
+        "Types",
+        "Individuals",
+        "Families",
+        "Companies",
+        "Documents",
+        "Requirements",
+        "Timelines",
+        "Risks",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Assessment",
+        "Strategy",
+        "Review",
+        "Filing",
+        "Representation",
+        "Updates",
+        "Followup",
+        "Closure",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Outcomes",
+        "Testimonials",
+        "Summaries",
+        "Factors",
+        "Limits",
+        "Privacy",
+        "Proof",
+        "Disclaimer",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Models",
+        "Fixed",
+        "Hourly",
+        "Packages",
+        "Inclusions",
+        "Extras",
+        "Payments",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Guides",
+        "Updates",
+        "Checklists",
+        "Documents",
+        "Explainers",
+        "Downloads",
+        "Articles",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Eligibility",
+        "Documents",
+        "Timelines",
+        "Fees",
+        "Risks",
+        "Privacy",
+        "Policies",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Consultation",
+        "Upload",
+        "Phone",
+        "Office",
+        "Notes",
+        "Response",
+        "Emergency",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

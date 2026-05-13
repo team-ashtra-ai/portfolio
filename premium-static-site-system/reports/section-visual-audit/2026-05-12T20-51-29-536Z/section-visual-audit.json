@@ -1,0 +1,2863 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-12T20:51:41.283Z",
+    "viewport": {
+      "width": 390,
+      "height": 844,
+      "mobile": true,
+      "quality": 62
+    },
+    "screenshotMode": "issues",
+    "totalPages": 18,
+    "totalSections": 121,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-12T20-51-29-536Z"
+  },
+  "bySite": {
+    "01": {
+      "pages": 18,
+      "sections": 121,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/01-healthcare/404.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/404.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1887
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 686
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/accessibility.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/accessibility.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2224
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1023
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/asset-system.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/asset-system.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Asset System | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/asset-system.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 15894
+        },
+        "pageOverflow": false,
+        "sectionCount": 3,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Asset-System section 1",
+            "heading": "Aster assets",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 851
+            },
+            "textLength": 248,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "",
+            "label": "Asset-System section 2",
+            "heading": "Site-local files in use",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 974,
+              "width": 390,
+              "height": 12718
+            },
+            "textLength": 2406,
+            "imageCount": 22,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "",
+            "label": "Asset-System section 3",
+            "heading": "Pages using this system",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 13691,
+              "width": 390,
+              "height": 1125
+            },
+            "textLength": 386,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/care.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/care.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Care | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/care.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16991
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Care by Aster",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1727
+            },
+            "textLength": 923,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-concerns",
+            "label": "Concerns",
+            "heading": "Concerns",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 1850,
+              "width": 390,
+              "height": 1667
+            },
+            "textLength": 763,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-assessment",
+            "label": "Assessment",
+            "heading": "Assessment",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 3516,
+              "width": 390,
+              "height": 1392
+            },
+            "textLength": 760,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-diagnosis",
+            "label": "Diagnosis",
+            "heading": "Diagnosis",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 4908,
+              "width": 390,
+              "height": 1602
+            },
+            "textLength": 747,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-options",
+            "label": "Options",
+            "heading": "Options",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 6509,
+              "width": 390,
+              "height": 1242
+            },
+            "textLength": 751,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-safety",
+            "label": "Safety",
+            "heading": "Safety",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 7750,
+              "width": 390,
+              "height": 1667
+            },
+            "textLength": 757,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Support",
+            "sectionType": "services",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-service-matrix",
+            "rect": {
+              "x": 0,
+              "y": 9417,
+              "width": 390,
+              "height": 983
+            },
+            "textLength": 541,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-followup",
+            "label": "Followup",
+            "heading": "Followup",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 10400,
+              "width": 390,
+              "height": 1878
+            },
+            "textLength": 754,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-suitability",
+            "label": "Suitability",
+            "heading": "Suitability",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 12277,
+              "width": 390,
+              "height": 1878
+            },
+            "textLength": 763,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "cta",
+            "patternFamily": "form-studio",
+            "layoutVariation": "embedded-form-cta",
+            "rect": {
+              "x": 0,
+              "y": 14155,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 818,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 15677,
+              "width": 390,
+              "height": 237
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/clinic.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/clinic.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Clinic | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/clinic.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16717
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Clinic by Aster",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "video-poster-stage",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1782
+            },
+            "textLength": 922,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-story",
+            "label": "Story",
+            "heading": "Story",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 1905,
+              "width": 390,
+              "height": 1667
+            },
+            "textLength": 760,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-mission",
+            "label": "Mission",
+            "heading": "Mission",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 3571,
+              "width": 390,
+              "height": 1392
+            },
+            "textLength": 757,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-team",
+            "label": "Team",
+            "heading": "Team",
+            "sectionType": "profiles",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "founder-spotlight",
+            "rect": {
+              "x": 0,
+              "y": 4962,
+              "width": 390,
+              "height": 1516
+            },
+            "textLength": 590,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-standards",
+            "label": "Standards",
+            "heading": "Standards",
+            "sectionType": "trust",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "publication-list",
+            "rect": {
+              "x": 0,
+              "y": 6478,
+              "width": 390,
+              "height": 1082
+            },
+            "textLength": 566,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-facilities",
+            "label": "Facilities",
+            "heading": "Facilities",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 7559,
+              "width": 390,
+              "height": 1663
+            },
+            "textLength": 775,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-credentials",
+            "label": "Credentials",
+            "heading": "Credentials",
+            "sectionType": "trust",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "partner-strip-safe",
+            "rect": {
+              "x": 0,
+              "y": 9222,
+              "width": 390,
+              "height": 905
+            },
+            "textLength": 516,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-values",
+            "label": "Values",
+            "heading": "Values",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 10126,
+              "width": 390,
+              "height": 1878
+            },
+            "textLength": 754,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-ethics",
+            "label": "Ethics",
+            "heading": "Ethics",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 12003,
+              "width": 390,
+              "height": 1878
+            },
+            "textLength": 754,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "cta",
+            "patternFamily": "route-cards",
+            "layoutVariation": "two-option-cta",
+            "rect": {
+              "x": 0,
+              "y": 13880,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 824,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 15403,
+              "width": 390,
+              "height": 237
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/contact.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/contact.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Contact | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/contact.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16988
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Contact by Aster",
+            "sectionType": "hero",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "data-stat-hero",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1810
+            },
+            "textLength": 932,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-appointments",
+            "label": "Appointments",
+            "heading": "Appointments",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 1933,
+              "width": 390,
+              "height": 1526
+            },
+            "textLength": 639,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-form",
+            "label": "Form",
+            "heading": "Form",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 3459,
+              "width": 390,
+              "height": 2084
+            },
+            "textLength": 698,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-phone",
+            "label": "Phone",
+            "heading": "Phone",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 5542,
+              "width": 390,
+              "height": 1518
+            },
+            "textLength": 617,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-whatsapp",
+            "label": "WhatsApp",
+            "heading": "WhatsApp",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 7059,
+              "width": 390,
+              "height": 1158
+            },
+            "textLength": 622,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-location",
+            "label": "Location",
+            "heading": "Location",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 8217,
+              "width": 390,
+              "height": 1526
+            },
+            "textLength": 631,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-hours",
+            "label": "Hours",
+            "heading": "Hours",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 9742,
+              "width": 390,
+              "height": 907
+            },
+            "textLength": 502,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-map",
+            "label": "Map",
+            "heading": "Map",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 10648,
+              "width": 390,
+              "height": 1757
+            },
+            "textLength": 612,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Support",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "advisory-pillar-cards",
+            "rect": {
+              "x": 0,
+              "y": 12404,
+              "width": 390,
+              "height": 1760
+            },
+            "textLength": 597,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 14164,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 825,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 15686,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/cookies.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/cookies.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cookie Notice | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/cookies.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2160
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Cookies section 1",
+            "heading": "Cookie Notice",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 959
+            },
+            "textLength": 586,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/doctors.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/doctors.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Doctors | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/doctors.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16357
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Doctors by Aster",
+            "sectionType": "hero",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-focused-panel",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1810
+            },
+            "textLength": 944,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-specialists",
+            "label": "Specialists",
+            "heading": "Specialists",
+            "sectionType": "profiles",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credentials-split",
+            "rect": {
+              "x": 0,
+              "y": 1933,
+              "width": 390,
+              "height": 1570
+            },
+            "textLength": 647,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-profiles",
+            "label": "Profiles",
+            "heading": "Profiles",
+            "sectionType": "profiles",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "availability-cards",
+            "rect": {
+              "x": 0,
+              "y": 3503,
+              "width": 390,
+              "height": 1331
+            },
+            "textLength": 629,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-qualifications",
+            "label": "Qualifications",
+            "heading": "Qualifications",
+            "sectionType": "profiles",
+            "patternFamily": "route-cards",
+            "layoutVariation": "profile-card-grid",
+            "rect": {
+              "x": 0,
+              "y": 4834,
+              "width": 390,
+              "height": 1568
+            },
+            "textLength": 632,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-experience",
+            "label": "Experience",
+            "heading": "Experience",
+            "sectionType": "profiles",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-bio",
+            "rect": {
+              "x": 0,
+              "y": 6401,
+              "width": 390,
+              "height": 1134
+            },
+            "textLength": 635,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-approach",
+            "label": "Approach",
+            "heading": "Approach",
+            "sectionType": "profiles",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "specialist-filter-cards",
+            "rect": {
+              "x": 0,
+              "y": 7535,
+              "width": 390,
+              "height": 1570
+            },
+            "textLength": 638,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-availability",
+            "label": "Availability",
+            "heading": "Availability",
+            "sectionType": "profiles",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "founder-spotlight",
+            "rect": {
+              "x": 0,
+              "y": 9105,
+              "width": 390,
+              "height": 905
+            },
+            "textLength": 509,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust",
+            "sectionType": "trust",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credential-panel",
+            "rect": {
+              "x": 0,
+              "y": 10009,
+              "width": 390,
+              "height": 1706
+            },
+            "textLength": 557,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-introductions",
+            "label": "Introductions",
+            "heading": "Introductions",
+            "sectionType": "profiles",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "availability-cards",
+            "rect": {
+              "x": 0,
+              "y": 11714,
+              "width": 390,
+              "height": 1806
+            },
+            "textLength": 644,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "profiles",
+            "patternFamily": "route-cards",
+            "layoutVariation": "profile-card-grid",
+            "rect": {
+              "x": 0,
+              "y": 13520,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 829,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "profiles",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-bio",
+            "rect": {
+              "x": 0,
+              "y": 15042,
+              "width": 390,
+              "height": 237
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/guides.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/guides.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Guides | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/guides.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 18796
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Guides by Aster",
+            "sectionType": "hero",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "product-stage",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1810
+            },
+            "textLength": 930,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-topics",
+            "label": "Topics",
+            "heading": "Topics",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 1933,
+              "width": 390,
+              "height": 1511
+            },
+            "textLength": 600,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-prevention",
+            "label": "Prevention",
+            "heading": "Prevention",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 3444,
+              "width": 390,
+              "height": 1308
+            },
+            "textLength": 599,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-symptoms",
+            "label": "Symptoms",
+            "heading": "Symptoms",
+            "sectionType": "problem",
+            "patternFamily": "form-studio",
+            "layoutVariation": "symptom-checker",
+            "rect": {
+              "x": 0,
+              "y": 4751,
+              "width": 390,
+              "height": 1568
+            },
+            "textLength": 695,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-recovery",
+            "label": "Recovery",
+            "heading": "Recovery",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 6318,
+              "width": 390,
+              "height": 1106
+            },
+            "textLength": 595,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-lifestyle",
+            "label": "Lifestyle",
+            "heading": "Lifestyle",
+            "sectionType": "resources",
+            "patternFamily": "route-cards",
+            "layoutVariation": "resource-index",
+            "rect": {
+              "x": 0,
+              "y": 7423,
+              "width": 390,
+              "height": 1511
+            },
+            "textLength": 606,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-articles",
+            "label": "Articles",
+            "heading": "Articles",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 8933,
+              "width": 390,
+              "height": 2241
+            },
+            "textLength": 903,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-downloads",
+            "label": "Downloads",
+            "heading": "Downloads",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 11174,
+              "width": 390,
+              "height": 3030
+            },
+            "textLength": 995,
+            "imageCount": 7,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-education",
+            "label": "Education",
+            "heading": "Education",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 14204,
+              "width": 390,
+              "height": 1768
+            },
+            "textLength": 597,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "cta",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "split-cta-image",
+            "rect": {
+              "x": 0,
+              "y": 15971,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 824,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 17493,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/index.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/index.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Home | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/index.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 21881
+        },
+        "pageOverflow": false,
+        "sectionCount": 12,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Aster",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-location-hero",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1895
+            },
+            "textLength": 1001,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "site-atlas",
+            "label": "Site atlas",
+            "heading": "Every route through Aster",
+            "sectionType": "homepage-atlas",
+            "patternFamily": "homepage-atlas",
+            "layoutVariation": "constellation-site-index",
+            "rect": {
+              "x": 0,
+              "y": 2018,
+              "width": 390,
+              "height": 4028
+            },
+            "textLength": 2967,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-need",
+            "label": "Need",
+            "heading": "Need",
+            "sectionType": "problem",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "risk-matrix",
+            "rect": {
+              "x": 0,
+              "y": 6045,
+              "width": 390,
+              "height": 1679
+            },
+            "textLength": 669,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-symptoms",
+            "label": "Symptoms",
+            "heading": "Symptoms",
+            "sectionType": "problem",
+            "patternFamily": "form-studio",
+            "layoutVariation": "symptom-checker",
+            "rect": {
+              "x": 0,
+              "y": 7724,
+              "width": 390,
+              "height": 1357
+            },
+            "textLength": 670,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-promise",
+            "label": "Promise",
+            "heading": "Promise",
+            "sectionType": "solution",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "what-changes-comparison",
+            "rect": {
+              "x": 0,
+              "y": 9081,
+              "width": 390,
+              "height": 1593
+            },
+            "textLength": 711,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-services",
+            "label": "Services",
+            "heading": "Services",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "advisory-pillar-cards",
+            "rect": {
+              "x": 0,
+              "y": 10674,
+              "width": 390,
+              "height": 2111
+            },
+            "textLength": 836,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-pathway",
+            "label": "Pathway",
+            "heading": "Pathway",
+            "sectionType": "process",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "icon-process",
+            "rect": {
+              "x": 0,
+              "y": 12784,
+              "width": 390,
+              "height": 1484
+            },
+            "textLength": 577,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-evidence",
+            "label": "Evidence",
+            "heading": "Evidence",
+            "sectionType": "trust",
+            "patternFamily": "route-cards",
+            "layoutVariation": "evidence-cards",
+            "rect": {
+              "x": 0,
+              "y": 14268,
+              "width": 390,
+              "height": 1078
+            },
+            "textLength": 558,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Reviews",
+            "sectionType": "reviews",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "single-large-testimonial",
+            "rect": {
+              "x": 0,
+              "y": 15345,
+              "width": 390,
+              "height": 1796
+            },
+            "textLength": 586,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-reassurance",
+            "label": "Reassurance",
+            "heading": "Reassurance",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 17141,
+              "width": 390,
+              "height": 1904
+            },
+            "textLength": 762,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 19044,
+              "width": 390,
+              "height": 237
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 12,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "cta",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dark-contrast-cta",
+            "rect": {
+              "x": 0,
+              "y": 19281,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 818,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/journey.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/journey.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Journey | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/journey.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16103
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Journey by Aster",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "portrait-authority",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 2008
+            },
+            "textLength": 936,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-booking",
+            "label": "Booking",
+            "heading": "Booking",
+            "sectionType": "process",
+            "patternFamily": "map-console",
+            "layoutVariation": "circular-process",
+            "rect": {
+              "x": 0,
+              "y": 2130,
+              "width": 390,
+              "height": 1257
+            },
+            "textLength": 729,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-intake",
+            "label": "Intake",
+            "heading": "Intake",
+            "sectionType": "process",
+            "patternFamily": "route-cards",
+            "layoutVariation": "numbered-cards",
+            "rect": {
+              "x": 0,
+              "y": 3387,
+              "width": 390,
+              "height": 1308
+            },
+            "textLength": 572,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-consultation",
+            "label": "Consultation",
+            "heading": "Consultation",
+            "sectionType": "process",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "scroll-journey",
+            "rect": {
+              "x": 0,
+              "y": 4694,
+              "width": 390,
+              "height": 1503
+            },
+            "textLength": 559,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-examination",
+            "label": "Examination",
+            "heading": "Examination",
+            "sectionType": "process",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "icon-process",
+            "rect": {
+              "x": 0,
+              "y": 6197,
+              "width": 390,
+              "height": 1080
+            },
+            "textLength": 582,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-planning",
+            "label": "Planning",
+            "heading": "Planning",
+            "sectionType": "process",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "image-per-step",
+            "rect": {
+              "x": 0,
+              "y": 7276,
+              "width": 390,
+              "height": 1484
+            },
+            "textLength": 585,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-treatment",
+            "label": "Treatment",
+            "heading": "Treatment",
+            "sectionType": "services",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "concierge-service-list",
+            "rect": {
+              "x": 0,
+              "y": 8760,
+              "width": 390,
+              "height": 983
+            },
+            "textLength": 553,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-monitoring",
+            "label": "Monitoring",
+            "heading": "Monitoring",
+            "sectionType": "process",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "roadmap-board",
+            "rect": {
+              "x": 0,
+              "y": 9743,
+              "width": 390,
+              "height": 1757
+            },
+            "textLength": 580,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-aftercare",
+            "label": "Aftercare",
+            "heading": "Aftercare",
+            "sectionType": "process",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "horizontal-stepper",
+            "rect": {
+              "x": 0,
+              "y": 11499,
+              "width": 390,
+              "height": 1768
+            },
+            "textLength": 578,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "process",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "vertical-timeline",
+            "rect": {
+              "x": 0,
+              "y": 13266,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 827,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "process",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "zig-zag-process",
+            "rect": {
+              "x": 0,
+              "y": 14788,
+              "width": 390,
+              "height": 237
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/outcomes.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/outcomes.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Outcomes | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/outcomes.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 15981
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Outcomes by Aster",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "calm-trust-split",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 2055
+            },
+            "textLength": 942,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-results",
+            "label": "Results",
+            "heading": "Results",
+            "sectionType": "results",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "before-after-proof",
+            "rect": {
+              "x": 0,
+              "y": 2178,
+              "width": 390,
+              "height": 1183
+            },
+            "textLength": 615,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-stories",
+            "label": "Stories",
+            "heading": "Stories",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "score-improvement-cards",
+            "rect": {
+              "x": 0,
+              "y": 3360,
+              "width": 390,
+              "height": 1280
+            },
+            "textLength": 590,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-testimonials",
+            "label": "Testimonials",
+            "heading": "Testimonials",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "savings-cards",
+            "rect": {
+              "x": 0,
+              "y": 4639,
+              "width": 390,
+              "height": 1518
+            },
+            "textLength": 599,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-evidence",
+            "label": "Evidence",
+            "heading": "Evidence",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "impact-report-style",
+            "rect": {
+              "x": 0,
+              "y": 6156,
+              "width": 390,
+              "height": 1106
+            },
+            "textLength": 594,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-expectations",
+            "label": "Expectations",
+            "heading": "Expectations",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "evidence-table",
+            "rect": {
+              "x": 0,
+              "y": 7262,
+              "width": 390,
+              "height": 1464
+            },
+            "textLength": 619,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-limits",
+            "label": "Limits",
+            "heading": "Limits",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "portfolio-outcome-cards",
+            "rect": {
+              "x": 0,
+              "y": 8725,
+              "width": 390,
+              "height": 905
+            },
+            "textLength": 515,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-disclaimers",
+            "label": "Disclaimers",
+            "heading": "Disclaimers",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "stats-dashboard",
+            "rect": {
+              "x": 0,
+              "y": 9629,
+              "width": 390,
+              "height": 1757
+            },
+            "textLength": 606,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-confidence",
+            "label": "Confidence",
+            "heading": "Confidence",
+            "sectionType": "results",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 11385,
+              "width": 390,
+              "height": 1772
+            },
+            "textLength": 602,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "transformation-grid",
+            "rect": {
+              "x": 0,
+              "y": 13157,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 826,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "results",
+            "patternFamily": "route-cards",
+            "layoutVariation": "review-result-cards",
+            "rect": {
+              "x": 0,
+              "y": 14679,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/pricing.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/pricing.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Pricing | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/pricing.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 18710
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Pricing by Aster",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "cinematic-full-bleed",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1782
+            },
+            "textLength": 933,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-fees",
+            "label": "Fees",
+            "heading": "Fees",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 1905,
+              "width": 390,
+              "height": 2485
+            },
+            "textLength": 1002,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-consults",
+            "label": "Consults",
+            "heading": "Consults",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 4390,
+              "width": 390,
+              "height": 1385
+            },
+            "textLength": 655,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-procedures",
+            "label": "Procedures",
+            "heading": "Procedures",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 5774,
+              "width": 390,
+              "height": 1570
+            },
+            "textLength": 648,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-packages",
+            "label": "Packages",
+            "heading": "Packages",
+            "sectionType": "pricing",
+            "patternFamily": "form-studio",
+            "layoutVariation": "calculator-style",
+            "rect": {
+              "x": 0,
+              "y": 7344,
+              "width": 390,
+              "height": 2577
+            },
+            "textLength": 1010,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-insurance",
+            "label": "Insurance",
+            "heading": "Insurance",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 9920,
+              "width": 390,
+              "height": 1439
+            },
+            "textLength": 666,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-payments",
+            "label": "Payments",
+            "heading": "Payments",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 11359,
+              "width": 390,
+              "height": 907
+            },
+            "textLength": 471,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-policies",
+            "label": "Policies",
+            "heading": "Policies",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 12266,
+              "width": 390,
+              "height": 1838
+            },
+            "textLength": 655,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-clarity",
+            "label": "Clarity",
+            "heading": "Clarity",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 14103,
+              "width": 390,
+              "height": 1784
+            },
+            "textLength": 653,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 15886,
+              "width": 390,
+              "height": 1523
+            },
+            "textLength": 820,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 17408,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/privacy.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/privacy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Privacy Notice | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/privacy.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2212
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Privacy section 1",
+            "heading": "Privacy Notice",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1011
+            },
+            "textLength": 667,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/sitemap.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/sitemap.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Sitemap Page | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/sitemap.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2445
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Sitemap section 1",
+            "heading": "Sitemap Page",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1244
+            },
+            "textLength": 553,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/terms.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/terms.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Terms of Use | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/terms.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2160
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Terms section 1",
+            "heading": "Terms of Use",
+            "sectionType": "faq",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "two-column-faq",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 959
+            },
+            "textLength": 626,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/thanks.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/thanks.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Thank You | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/thanks.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2190
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Thanks section 1",
+            "heading": "Thank You",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 990
+            },
+            "textLength": 510,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/treatments.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/treatments.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Treatments | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/treatments.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16817
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Treatments by Aster",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "video-poster-stage",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 390,
+              "height": 1810
+            },
+            "textLength": 954,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-overview",
+            "label": "Overview",
+            "heading": "Overview",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "patient-need-cards",
+            "rect": {
+              "x": 0,
+              "y": 1933,
+              "width": 390,
+              "height": 1674
+            },
+            "textLength": 621,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-preventive",
+            "label": "Preventive",
+            "heading": "Preventive",
+            "sectionType": "services",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-service-matrix",
+            "rect": {
+              "x": 0,
+              "y": 3606,
+              "width": 390,
+              "height": 1308
+            },
+            "textLength": 618,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-diagnostic",
+            "label": "Diagnostic",
+            "heading": "Diagnostic",
+            "sectionType": "services",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-practice-index",
+            "rect": {
+              "x": 0,
+              "y": 4913,
+              "width": 390,
+              "height": 1522
+            },
+            "textLength": 601,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-specialist",
+            "label": "Specialist",
+            "heading": "Specialist",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "treatment-product-shelf",
+            "rect": {
+              "x": 0,
+              "y": 6435,
+              "width": 390,
+              "height": 1106
+            },
+            "textLength": 618,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-benefits",
+            "label": "Benefits",
+            "heading": "Benefits",
+            "sectionType": "solution",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 7540,
+              "width": 390,
+              "height": 1844
+            },
+            "textLength": 740,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-preparation",
+            "label": "Preparation",
+            "heading": "Preparation",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "advisory-pillar-cards",
+            "rect": {
+              "x": 0,
+              "y": 9384,
+              "width": 390,
+              "height": 983
+            },
+            "textLength": 565,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-risks",
+            "label": "Risks",
+            "heading": "Risks",
+            "sectionType": "problem",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "problem-consequence-opportunity",
+            "rect": {
+              "x": 0,
+              "y": 10367,
+              "width": 390,
+              "height": 1818
+            },
+            "textLength": 682,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-recovery",
+            "label": "Recovery",
+            "heading": "Recovery",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "course-service-catalogue",
+            "rect": {
+              "x": 0,
+              "y": 12184,
+              "width": 390,
+              "height": 1758
+            },
+            "textLength": 612,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "services",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "concierge-service-list",
+            "rect": {
+              "x": 0,
+              "y": 13942,
+              "width": 390,
+              "height": 1573
+            },
+            "textLength": 848,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "services",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "program-impact-cards",
+            "rect": {
+              "x": 0,
+              "y": 15515,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    }
+  ]
+}

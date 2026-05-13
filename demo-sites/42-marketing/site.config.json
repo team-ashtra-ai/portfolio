@@ -1,0 +1,283 @@
+{
+  "siteName": "Spark",
+  "industry": "Marketing, Advertising & Communications",
+  "number": 42,
+  "slug": "marketing",
+  "baseUrl": "https://team-ashtra-ai.github.io/42/",
+  "repo": "https://github.com/team-ashtra-ai/42.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Send Campaign Brief",
+  "schema": "Organization",
+  "visualDirection": "Agency minimalism with dark futurist surfaces, crisp white type, and case-study gravity",
+  "premiumDirection": "A marketing agency site with immersive black work panels, sharp case filters, results proof, and brief routes",
+  "layoutSignature": "Dark agency case system",
+  "heroType": "Immersive case-study hero",
+  "headerType": "Minimal agency header",
+  "footerType": "case study footer",
+  "cardStyle": "Dark campaign cards",
+  "formStyle": "Brief form",
+  "jsSignature": "Case study filter, campaign result tabs, brief form",
+  "motionStyle": "Case panel reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A marketing agency site with immersive black work panels, sharp case filters, results proof, and brief routes",
+    "brandMood": "campaign performance",
+    "buyerPsychology": "results and creative confidence",
+    "typography": {
+      "display": "Verdana, Geneva, sans-serif",
+      "body": "Aptos, Calibri, sans-serif",
+      "accent": "\"Courier New\", ui-monospace, monospace",
+      "summary": "Verdana display with Aptos body and \"Courier New\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for results and creative confidence",
+    "layoutArchetype": "Dark agency case system",
+    "density": "medium",
+    "shapeLanguage": "Dark campaign cards",
+    "surfaceMaterial": "Agency minimalism with dark futurist surfaces, crisp white type, and case-study gravity",
+    "imageSystem": "Campaign visuals, digital products, studio screens, metrics",
+    "interactionModel": "Immersive case-study hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Send Campaign Brief",
+    "pricingStyle": "campaign package cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "AKQA",
+    "url": "https://www.akqa.com/",
+    "palette": [
+      "#050505",
+      "#ffffff",
+      "#6bdcff",
+      "#151515",
+      "#9bff6d"
+    ],
+    "visualDirection": "AKQA-style agency minimalism with dark futurist surfaces, crisp white type, and case-study gravity",
+    "premiumDirection": "A marketing agency site with immersive black work panels, sharp case filters, results proof, and brief routes",
+    "layoutSignature": "dark agency case system",
+    "heroType": "immersive case-study hero",
+    "headerType": "minimal agency header",
+    "cardStyle": "dark campaign cards",
+    "formStyle": "brief form",
+    "motionStyle": "case panel reveal",
+    "imageDirection": "campaign visuals, digital products, studio screens, metrics",
+    "cssProfile": "akqa"
+  },
+  "targetCssProfile": "akqa",
+  "references": [
+    {
+      "category": "direct",
+      "name": "AKQA",
+      "url": "https://www.akqa.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Wieden Kennedy",
+      "url": "https://www.wk.com"
+    },
+    {
+      "category": "direct",
+      "name": "Ogilvy",
+      "url": "https://www.ogilvy.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "RGA",
+      "url": "https://www.rga.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Media.Monks",
+      "url": "https://media.monks.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Pentagram",
+      "url": "https://www.pentagram.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Stripe",
+      "url": "https://stripe.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin case study filter patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/marketing-logo.svg",
+    "brandSymbol": "assets/brand/marketing-symbol.svg",
+    "favicon": "assets/brand/marketing-favicon.svg",
+    "appleTouchIcon": "assets/brand/marketing-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/marketing-home-open-graph.svg",
+    "mockup": "assets/mockups/marketing-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Problem",
+        "Positioning",
+        "Promise",
+        "Services",
+        "Work",
+        "Results",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Agency",
+      "file": "agency.html",
+      "sections": [
+        "Hero",
+        "Team",
+        "Culture",
+        "Values",
+        "Standards",
+        "Fit",
+        "Recognition",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Branding",
+        "Campaigns",
+        "Content",
+        "Ads",
+        "Communications",
+        "Social",
+        "Deliverables",
+        "Benefits",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Work",
+      "file": "work.html",
+      "sections": [
+        "Hero",
+        "Portfolio",
+        "Campaigns",
+        "Brands",
+        "Websites",
+        "Direction",
+        "Outcomes",
+        "Metrics",
+        "Reviews",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Strategy",
+      "file": "strategy.html",
+      "sections": [
+        "Hero",
+        "Audience",
+        "Message",
+        "Channels",
+        "Funnel",
+        "KPIs",
+        "Roadmap",
+        "Testing",
+        "Alignment",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Discover",
+        "Plan",
+        "Create",
+        "Launch",
+        "Measure",
+        "Optimise",
+        "Report",
+        "Scale",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Leads",
+        "Sales",
+        "Reach",
+        "Lift",
+        "Metrics",
+        "Reviews",
+        "Before",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Projects",
+        "Retainers",
+        "Campaigns",
+        "Scope",
+        "Inclusions",
+        "Comparison",
+        "Fit",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Insights",
+      "file": "insights.html",
+      "sections": [
+        "Hero",
+        "Trends",
+        "Guides",
+        "Frameworks",
+        "Analysis",
+        "Campaigns",
+        "Tips",
+        "Downloads",
+        "Read",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Brief",
+        "Budget",
+        "Timeline",
+        "Goals",
+        "Call",
+        "Proposal",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

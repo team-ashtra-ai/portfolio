@@ -1,0 +1,288 @@
+{
+  "siteName": "Room",
+  "industry": "Interiors, Furniture & Home Design",
+  "number": 19,
+  "slug": "interiors",
+  "baseUrl": "https://team-ashtra-ai.github.io/19/",
+  "repo": "https://github.com/team-ashtra-ai/19.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Start Design",
+  "schema": "Organization",
+  "visualDirection": "Interiors with tactile luxury, material contrast, and editorial commerce",
+  "premiumDirection": "A material-led interiors site with luxe moodboards, serif headlines, room selectors, and sourcing CTAs",
+  "layoutSignature": "Luxury material moodboard",
+  "heroType": "Editorial room hero",
+  "headerType": "Atelier commerce header",
+  "footerType": "materials footer",
+  "cardStyle": "Material mood cards",
+  "formStyle": "Design brief form",
+  "jsSignature": "Moodboard filter, room selector, material palette interaction",
+  "motionStyle": "Material fade reveal",
+  "themeMode": "commerce",
+  "designPassport": {
+    "premiumDirection": "A material-led interiors site with luxe moodboards, serif headlines, room selectors, and sourcing CTAs",
+    "brandMood": "tactile refined",
+    "buyerPsychology": "taste and home confidence",
+    "typography": {
+      "display": "\"Trebuchet MS\", Arial, sans-serif",
+      "body": "Georgia, \"Times New Roman\", serif",
+      "accent": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "summary": "\"Trebuchet MS\" display with Georgia body and Aptos accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for taste and home confidence",
+    "layoutArchetype": "Luxury material moodboard",
+    "density": "image-rich",
+    "shapeLanguage": "Material mood cards",
+    "surfaceMaterial": "Interiors with tactile luxury, material contrast, and editorial commerce",
+    "imageSystem": "Textures, sculptural furniture, styled rooms, swatches",
+    "interactionModel": "Editorial room hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Start Design",
+    "pricingStyle": "styling package cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Kelly Wearstler",
+    "url": "https://www.kellywearstler.com/",
+    "palette": [
+      "#f6eee6",
+      "#4a2b2a",
+      "#c99a6b",
+      "#111111",
+      "#e7c9a9"
+    ],
+    "visualDirection": "Kelly Wearstler-style interiors with tactile luxury, material contrast, and editorial commerce",
+    "premiumDirection": "A material-led interiors site with luxe moodboards, serif headlines, room selectors, and sourcing CTAs",
+    "layoutSignature": "luxury material moodboard",
+    "heroType": "editorial room hero",
+    "headerType": "atelier commerce header",
+    "cardStyle": "material mood cards",
+    "formStyle": "design brief form",
+    "motionStyle": "material fade reveal",
+    "imageDirection": "textures, sculptural furniture, styled rooms, swatches",
+    "cssProfile": "wearstler"
+  },
+  "targetCssProfile": "wearstler",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Kelly Wearstler",
+      "url": "https://www.kellywearstler.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Studio McGee",
+      "url": "https://www.studiomcgee.com"
+    },
+    {
+      "category": "direct",
+      "name": "Design Within Reach",
+      "url": "https://www.dwr.com"
+    },
+    {
+      "category": "direct",
+      "name": "Soho Home",
+      "url": "https://www.sohohome.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Muuto",
+      "url": "https://www.muuto.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "The Future Perfect",
+      "url": "https://www.thefutureperfect.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aesop",
+      "url": "https://www.aesop.com"
+    },
+    {
+      "category": "contrast",
+      "name": "The Modern House",
+      "url": "https://www.themodernhouse.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin moodboard and room selector patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/interiors-logo.svg",
+    "brandSymbol": "assets/brand/interiors-symbol.svg",
+    "favicon": "assets/brand/interiors-favicon.svg",
+    "appleTouchIcon": "assets/brand/interiors-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/interiors-home-open-graph.svg",
+    "mockup": "assets/mockups/interiors-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Vision",
+        "Problem",
+        "Promise",
+        "Rooms",
+        "Projects",
+        "Shop",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Studio",
+      "file": "studio.html",
+      "sections": [
+        "Hero",
+        "Taste",
+        "Values",
+        "Signature",
+        "Team",
+        "Materials",
+        "Experience",
+        "Process",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Design",
+        "Styling",
+        "Sourcing",
+        "Installation",
+        "Colour",
+        "Layout",
+        "Deliverables",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Rooms",
+      "file": "rooms.html",
+      "sections": [
+        "Hero",
+        "Living",
+        "Kitchen",
+        "Bedroom",
+        "Bathroom",
+        "Office",
+        "Moodboards",
+        "Needs",
+        "Ideas",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Projects",
+      "file": "projects.html",
+      "sections": [
+        "Hero",
+        "Portfolio",
+        "Before",
+        "Mood",
+        "Finishes",
+        "Furniture",
+        "Story",
+        "Results",
+        "Reviews",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Shop",
+      "file": "shop.html",
+      "sections": [
+        "Hero",
+        "Collections",
+        "Furniture",
+        "Decor",
+        "Lighting",
+        "Textiles",
+        "Materials",
+        "Details",
+        "Enquiry",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Consultation",
+        "Design",
+        "Styling",
+        "Sourcing",
+        "Install",
+        "Inclusions",
+        "Comparison",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Journal",
+      "file": "journal.html",
+      "sections": [
+        "Hero",
+        "Trends",
+        "Materials",
+        "Styling",
+        "Rooms",
+        "Seasons",
+        "Buying",
+        "Guides",
+        "Ideas",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Timeline",
+        "Budget",
+        "Sourcing",
+        "Revisions",
+        "Purchases",
+        "Install",
+        "Remote",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Form",
+        "Photos",
+        "Budget",
+        "Style",
+        "Booking",
+        "Phone",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

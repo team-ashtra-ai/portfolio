@@ -1,0 +1,2863 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-12T20:56:57.862Z",
+    "viewport": {
+      "width": 390,
+      "height": 844,
+      "mobile": true,
+      "quality": 62
+    },
+    "screenshotMode": "issues",
+    "totalPages": 18,
+    "totalSections": 121,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-12T20-56-46-092Z"
+  },
+  "bySite": {
+    "27": {
+      "pages": 18,
+      "sections": 121,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/27-restaurant/404.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/404.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1474
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 646
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/accessibility.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/accessibility.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1811
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 983
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/asset-system.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/asset-system.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Asset System | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/asset-system.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 13603
+        },
+        "pageOverflow": false,
+        "sectionCount": 3,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Asset-System section 1",
+            "heading": "Table assets",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 805
+            },
+            "textLength": 239,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "",
+            "label": "Asset-System section 2",
+            "heading": "Site-local files in use",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 1008,
+              "width": 390,
+              "height": 10937
+            },
+            "textLength": 2462,
+            "imageCount": 22,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "",
+            "label": "Asset-System section 3",
+            "heading": "Pages using this system",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 11944,
+              "width": 390,
+              "height": 1034
+            },
+            "textLength": 377,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/booking.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/booking.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Booking | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/booking.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16425
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Booking by Table",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1488
+            },
+            "textLength": 881,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-reservations",
+            "label": "Reservations",
+            "heading": "Reservations",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 1691,
+              "width": 390,
+              "height": 1695
+            },
+            "textLength": 625,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-dates",
+            "label": "Dates",
+            "heading": "Dates",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 3385,
+              "width": 390,
+              "height": 1240
+            },
+            "textLength": 611,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-groups",
+            "label": "Groups",
+            "heading": "Groups",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 4624,
+              "width": 390,
+              "height": 1268
+            },
+            "textLength": 613,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-policies",
+            "label": "Policies",
+            "heading": "Policies",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 5891,
+              "width": 390,
+              "height": 1706
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-confirmation",
+            "label": "Confirmation",
+            "heading": "Confirmation",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 7597,
+              "width": 390,
+              "height": 1706
+            },
+            "textLength": 625,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-requests",
+            "label": "Requests",
+            "heading": "Requests",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 9302,
+              "width": 390,
+              "height": 1710
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-reminders",
+            "label": "Reminders",
+            "heading": "Reminders",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 11012,
+              "width": 390,
+              "height": 865
+            },
+            "textLength": 506,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-questions",
+            "label": "Questions",
+            "heading": "Questions",
+            "sectionType": "faq",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-faq",
+            "rect": {
+              "x": 0,
+              "y": 11876,
+              "width": 390,
+              "height": 2273
+            },
+            "textLength": 934,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 14148,
+              "width": 390,
+              "height": 1453
+            },
+            "textLength": 778,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 15601,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/contact.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/contact.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Contact | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/contact.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16994
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Contact by Table",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "video-poster-stage",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1434
+            },
+            "textLength": 875,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-address",
+            "label": "Address",
+            "heading": "Address",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 1636,
+              "width": 390,
+              "height": 1706
+            },
+            "textLength": 613,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-hours",
+            "label": "Hours",
+            "heading": "Hours",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 3342,
+              "width": 390,
+              "height": 1240
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-phone",
+            "label": "Phone",
+            "heading": "Phone",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 4581,
+              "width": 390,
+              "height": 1298
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-whatsapp",
+            "label": "WhatsApp",
+            "heading": "WhatsApp",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 5878,
+              "width": 390,
+              "height": 1706
+            },
+            "textLength": 615,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-map",
+            "label": "Map",
+            "heading": "Map",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 7583,
+              "width": 390,
+              "height": 1682
+            },
+            "textLength": 605,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-transport",
+            "label": "Transport",
+            "heading": "Transport",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 9265,
+              "width": 390,
+              "height": 1706
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-socials",
+            "label": "Socials",
+            "heading": "Socials",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 10970,
+              "width": 390,
+              "height": 865
+            },
+            "textLength": 498,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-reserve",
+            "label": "Reserve",
+            "heading": "Reserve",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 11834,
+              "width": 390,
+              "height": 1706
+            },
+            "textLength": 613,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 13540,
+              "width": 390,
+              "height": 2630
+            },
+            "textLength": 982,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 16170,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/cookies.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/cookies.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cookie Notice | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/cookies.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1747
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Cookies section 1",
+            "heading": "Cookie Notice",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 919
+            },
+            "textLength": 586,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/delivery.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/delivery.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Delivery | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/delivery.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 17129
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Delivery by Table",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "search-led-hero",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1488
+            },
+            "textLength": 882,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-takeaway",
+            "label": "Takeaway",
+            "heading": "Takeaway",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 1691,
+              "width": 390,
+              "height": 1812
+            },
+            "textLength": 721,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-platforms",
+            "label": "Platforms",
+            "heading": "Platforms",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 3502,
+              "width": 390,
+              "height": 1268
+            },
+            "textLength": 621,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-menu",
+            "label": "Menu",
+            "heading": "Menu",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 4769,
+              "width": 390,
+              "height": 1883
+            },
+            "textLength": 929,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-timing",
+            "label": "Timing",
+            "heading": "Timing",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 6652,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 715,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-packaging",
+            "label": "Packaging",
+            "heading": "Packaging",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 8467,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 724,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-collection",
+            "label": "Collection",
+            "heading": "Collection",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 10282,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 727,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-area",
+            "label": "Area",
+            "heading": "Area",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 12098,
+              "width": 390,
+              "height": 919
+            },
+            "textLength": 564,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-policies",
+            "label": "Policies",
+            "heading": "Policies",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 13016,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 721,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "cta",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "final-reassurance",
+            "rect": {
+              "x": 0,
+              "y": 14831,
+              "width": 390,
+              "height": 1462
+            },
+            "textLength": 783,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 16293,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/events.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/events.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Events | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/events.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 17404
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Events by Table",
+            "sectionType": "hero",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-focused-panel",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1434
+            },
+            "textLength": 874,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-private",
+            "label": "Private",
+            "heading": "Private",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 1636,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 712,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-corporate",
+            "label": "Corporate",
+            "heading": "Corporate",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 3452,
+              "width": 390,
+              "height": 1352
+            },
+            "textLength": 718,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-catering",
+            "label": "Catering",
+            "heading": "Catering",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 4803,
+              "width": 390,
+              "height": 1352
+            },
+            "textLength": 715,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-menus",
+            "label": "Menus",
+            "heading": "Menus",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 6154,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 706,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-capacity",
+            "label": "Capacity",
+            "heading": "Capacity",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 7969,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 715,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-styling",
+            "label": "Styling",
+            "heading": "Styling",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 9785,
+              "width": 390,
+              "height": 1812
+            },
+            "textLength": 712,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-packages",
+            "label": "Packages",
+            "heading": "Packages",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 11596,
+              "width": 390,
+              "height": 2378
+            },
+            "textLength": 979,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-proof",
+            "label": "Proof",
+            "heading": "Proof",
+            "sectionType": "results",
+            "patternFamily": "route-cards",
+            "layoutVariation": "review-result-cards",
+            "rect": {
+              "x": 0,
+              "y": 13974,
+              "width": 390,
+              "height": 1142
+            },
+            "textLength": 605,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "cta",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "pattern-background-cta",
+            "rect": {
+              "x": 0,
+              "y": 15116,
+              "width": 390,
+              "height": 1453
+            },
+            "textLength": 777,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 16568,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/faq.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/faq.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "FAQ | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/faq.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16013
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "FAQ by Table",
+            "sectionType": "hero",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "product-stage",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1434
+            },
+            "textLength": 860,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-allergens",
+            "label": "Allergens",
+            "heading": "Allergens",
+            "sectionType": "faq",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "before-you-book",
+            "rect": {
+              "x": 0,
+              "y": 1636,
+              "width": 390,
+              "height": 1730
+            },
+            "textLength": 620,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-parking",
+            "label": "Parking",
+            "heading": "Parking",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 3365,
+              "width": 390,
+              "height": 1265
+            },
+            "textLength": 614,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-children",
+            "label": "Children",
+            "heading": "Children",
+            "sectionType": "faq",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-faq",
+            "rect": {
+              "x": 0,
+              "y": 4630,
+              "width": 390,
+              "height": 1265
+            },
+            "textLength": 617,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-groups",
+            "label": "Groups",
+            "heading": "Groups",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "accessible-accordion",
+            "rect": {
+              "x": 0,
+              "y": 5895,
+              "width": 390,
+              "height": 1730
+            },
+            "textLength": 611,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-reservations",
+            "label": "Reservations",
+            "heading": "Reservations",
+            "sectionType": "faq",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "two-column-faq",
+            "rect": {
+              "x": 0,
+              "y": 7625,
+              "width": 390,
+              "height": 1786
+            },
+            "textLength": 629,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-delivery",
+            "label": "Delivery",
+            "heading": "Delivery",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 9410,
+              "width": 390,
+              "height": 1730
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-payments",
+            "label": "Payments",
+            "heading": "Payments",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 11139,
+              "width": 390,
+              "height": 865
+            },
+            "textLength": 461,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-policies",
+            "label": "Policies",
+            "heading": "Policies",
+            "sectionType": "faq",
+            "patternFamily": "route-cards",
+            "layoutVariation": "faq-cards",
+            "rect": {
+              "x": 0,
+              "y": 12004,
+              "width": 390,
+              "height": 1734
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "faq",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "before-you-book",
+            "rect": {
+              "x": 0,
+              "y": 13737,
+              "width": 390,
+              "height": 1453
+            },
+            "textLength": 768,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 15189,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/gallery.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/gallery.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Gallery | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/gallery.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16550
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Gallery by Table",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-location-hero",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1434
+            },
+            "textLength": 874,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-food",
+            "label": "Food",
+            "heading": "Food",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 1636,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 706,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-interior",
+            "label": "Interior",
+            "heading": "Interior",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 3452,
+              "width": 390,
+              "height": 1352
+            },
+            "textLength": 718,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-people",
+            "label": "People",
+            "heading": "People",
+            "sectionType": "profiles",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credentials-split",
+            "rect": {
+              "x": 0,
+              "y": 4803,
+              "width": 390,
+              "height": 1291
+            },
+            "textLength": 623,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-events",
+            "label": "Events",
+            "heading": "Events",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 6094,
+              "width": 390,
+              "height": 1812
+            },
+            "textLength": 712,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-details",
+            "label": "Details",
+            "heading": "Details",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 7905,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 715,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-mood",
+            "label": "Mood",
+            "heading": "Mood",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 9720,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 706,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-social",
+            "label": "Social",
+            "heading": "Social",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 11536,
+              "width": 390,
+              "height": 923
+            },
+            "textLength": 567,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-instagram",
+            "label": "Instagram",
+            "heading": "Instagram",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 12458,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 721,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "cta",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "split-cta-image",
+            "rect": {
+              "x": 0,
+              "y": 14274,
+              "width": 390,
+              "height": 1453
+            },
+            "textLength": 780,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 15726,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/index.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/index.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Home | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/index.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 22331
+        },
+        "pageOverflow": false,
+        "sectionCount": 12,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Table",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "portrait-authority",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1902
+            },
+            "textLength": 929,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "site-atlas",
+            "label": "Site atlas",
+            "heading": "Every route through Table",
+            "sectionType": "homepage-atlas",
+            "patternFamily": "homepage-atlas",
+            "layoutVariation": "shelf-site-index",
+            "rect": {
+              "x": 0,
+              "y": 2104,
+              "width": 390,
+              "height": 4445
+            },
+            "textLength": 2774,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-mood",
+            "label": "Mood",
+            "heading": "Mood",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 6549,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 695,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-food",
+            "label": "Food",
+            "heading": "Food",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 8364,
+              "width": 390,
+              "height": 1352
+            },
+            "textLength": 694,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-menu",
+            "label": "Menu",
+            "heading": "Menu",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 9715,
+              "width": 390,
+              "height": 1879
+            },
+            "textLength": 917,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-booking",
+            "label": "Booking",
+            "heading": "Booking",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 11593,
+              "width": 390,
+              "height": 1190
+            },
+            "textLength": 730,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-gallery",
+            "label": "Gallery",
+            "heading": "Gallery",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 12783,
+              "width": 390,
+              "height": 2443
+            },
+            "textLength": 977,
+            "imageCount": 5,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Reviews",
+            "sectionType": "reviews",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "review-carousel",
+            "rect": {
+              "x": 0,
+              "y": 15225,
+              "width": 390,
+              "height": 1704
+            },
+            "textLength": 586,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-location",
+            "label": "Location",
+            "heading": "Location",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 16928,
+              "width": 390,
+              "height": 865
+            },
+            "textLength": 496,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-questions",
+            "label": "Questions",
+            "heading": "Questions",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 17792,
+              "width": 390,
+              "height": 2250
+            },
+            "textLength": 931,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 20042,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 12,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "cta",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dark-contrast-cta",
+            "rect": {
+              "x": 0,
+              "y": 20252,
+              "width": 390,
+              "height": 1453
+            },
+            "textLength": 771,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/menu.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/menu.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Menu | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/menu.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16754
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Menu by Table",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "calm-trust-split",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1619
+            },
+            "textLength": 864,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-overview",
+            "label": "Overview",
+            "heading": "Overview",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 1822,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 709,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-starters",
+            "label": "Starters",
+            "heading": "Starters",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 3637,
+              "width": 390,
+              "height": 1347
+            },
+            "textLength": 709,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-mains",
+            "label": "Mains",
+            "heading": "Mains",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 4984,
+              "width": 390,
+              "height": 1352
+            },
+            "textLength": 700,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-desserts",
+            "label": "Desserts",
+            "heading": "Desserts",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 6335,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 709,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-drinks",
+            "label": "Drinks",
+            "heading": "Drinks",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 8151,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 703,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-specials",
+            "label": "Specials",
+            "heading": "Specials",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 9966,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 709,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-allergens",
+            "label": "Allergens",
+            "heading": "Allergens",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 11782,
+              "width": 390,
+              "height": 923
+            },
+            "textLength": 567,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-prices",
+            "label": "Prices",
+            "heading": "Prices",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 12704,
+              "width": 390,
+              "height": 1762
+            },
+            "textLength": 632,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "cta",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "minimal-luxury-cta",
+            "rect": {
+              "x": 0,
+              "y": 14466,
+              "width": 390,
+              "height": 1453
+            },
+            "textLength": 771,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 15918,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/offers.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/offers.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Offers | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/offers.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16469
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Offers by Table",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "cinematic-full-bleed",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1434
+            },
+            "textLength": 874,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-lunch",
+            "label": "Lunch",
+            "heading": "Lunch",
+            "sectionType": "solution",
+            "patternFamily": "map-console",
+            "layoutVariation": "solution-diagram",
+            "rect": {
+              "x": 0,
+              "y": 1636,
+              "width": 390,
+              "height": 1782
+            },
+            "textLength": 694,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-seasonal",
+            "label": "Seasonal",
+            "heading": "Seasonal",
+            "sectionType": "solution",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 3417,
+              "width": 390,
+              "height": 1343
+            },
+            "textLength": 703,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-loyalty",
+            "label": "Loyalty",
+            "heading": "Loyalty",
+            "sectionType": "solution",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-pillar-framework",
+            "rect": {
+              "x": 0,
+              "y": 4760,
+              "width": 390,
+              "height": 1343
+            },
+            "textLength": 700,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-happyhour",
+            "label": "Happyhour",
+            "heading": "Happyhour",
+            "sectionType": "solution",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "overview-panel",
+            "rect": {
+              "x": 0,
+              "y": 6103,
+              "width": 390,
+              "height": 1770
+            },
+            "textLength": 706,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-groups",
+            "label": "Groups",
+            "heading": "Groups",
+            "sectionType": "solution",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "outcome-grid",
+            "rect": {
+              "x": 0,
+              "y": 7873,
+              "width": 390,
+              "height": 1772
+            },
+            "textLength": 697,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-conditions",
+            "label": "Conditions",
+            "heading": "Conditions",
+            "sectionType": "solution",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "what-changes-comparison",
+            "rect": {
+              "x": 0,
+              "y": 9644,
+              "width": 390,
+              "height": 1748
+            },
+            "textLength": 709,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-expiry",
+            "label": "Expiry",
+            "heading": "Expiry",
+            "sectionType": "solution",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "abstract-system-visual",
+            "rect": {
+              "x": 0,
+              "y": 11391,
+              "width": 390,
+              "height": 965
+            },
+            "textLength": 605,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-signup",
+            "label": "Signup",
+            "heading": "Signup",
+            "sectionType": "solution",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 12356,
+              "width": 390,
+              "height": 1786
+            },
+            "textLength": 697,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "solution",
+            "patternFamily": "map-console",
+            "layoutVariation": "solution-diagram",
+            "rect": {
+              "x": 0,
+              "y": 14141,
+              "width": 390,
+              "height": 1504
+            },
+            "textLength": 794,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "solution",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 15645,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/privacy.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/privacy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Privacy Notice | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/privacy.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1799
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Privacy section 1",
+            "heading": "Privacy Notice",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 971
+            },
+            "textLength": 667,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/sitemap.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/sitemap.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Sitemap Page | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/sitemap.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2032
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Sitemap section 1",
+            "heading": "Sitemap Page",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1204
+            },
+            "textLength": 544,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/story.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/story.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Story | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/story.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16425
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Story by Table",
+            "sectionType": "hero",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "luxury-minimal",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 1434
+            },
+            "textLength": 871,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-chef",
+            "label": "Chef",
+            "heading": "Chef",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 1636,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 700,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-ingredients",
+            "label": "Ingredients",
+            "heading": "Ingredients",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 3452,
+              "width": 390,
+              "height": 1352
+            },
+            "textLength": 721,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-values",
+            "label": "Values",
+            "heading": "Values",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 4803,
+              "width": 390,
+              "height": 1352
+            },
+            "textLength": 706,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-atmosphere",
+            "label": "Atmosphere",
+            "heading": "Atmosphere",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 6154,
+              "width": 390,
+              "height": 1838
+            },
+            "textLength": 718,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-team",
+            "label": "Team",
+            "heading": "Team",
+            "sectionType": "profiles",
+            "patternFamily": "route-cards",
+            "layoutVariation": "profile-card-grid",
+            "rect": {
+              "x": 0,
+              "y": 7991,
+              "width": 390,
+              "height": 1734
+            },
+            "textLength": 613,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-locality",
+            "label": "Locality",
+            "heading": "Locality",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 9724,
+              "width": 390,
+              "height": 1816
+            },
+            "textLength": 712,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-heritage",
+            "label": "Heritage",
+            "heading": "Heritage",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 11540,
+              "width": 390,
+              "height": 923
+            },
+            "textLength": 567,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust",
+            "sectionType": "trust",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "review-carousel-static",
+            "rect": {
+              "x": 0,
+              "y": 12462,
+              "width": 390,
+              "height": 1678
+            },
+            "textLength": 548,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Reserve Table",
+            "sectionType": "cta",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "final-reassurance",
+            "rect": {
+              "x": 0,
+              "y": 14140,
+              "width": 390,
+              "height": 1462
+            },
+            "textLength": 774,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 15601,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 108,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/terms.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/terms.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Terms of Use | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/terms.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1721
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Terms section 1",
+            "heading": "Terms of Use",
+            "sectionType": "faq",
+            "patternFamily": "route-cards",
+            "layoutVariation": "faq-cards",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 893
+            },
+            "textLength": 575,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/27-restaurant/thanks.html",
+      "site": "27",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/thanks.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Thank You | Table Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/thanks.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1778
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Thanks section 1",
+            "heading": "Thank You",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 203,
+              "width": 390,
+              "height": 950
+            },
+            "textLength": 510,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    }
+  ]
+}

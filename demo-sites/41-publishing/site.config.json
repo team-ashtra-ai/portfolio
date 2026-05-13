@@ -1,0 +1,283 @@
+{
+  "siteName": "Index",
+  "industry": "Publishing, Information & Knowledge Platforms",
+  "number": 41,
+  "slug": "publishing",
+  "baseUrl": "https://team-ashtra-ai.github.io/41/",
+  "repo": "https://github.com/team-ashtra-ai/41.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Subscribe",
+  "schema": "Organization",
+  "visualDirection": "Publishing with print cadence, yellow accents, compact columns, and editorial authority",
+  "premiumDirection": "A knowledge platform with magazine columns, archive search, author cards, and newsletter conversion",
+  "layoutSignature": "Print magazine archive",
+  "heroType": "Editorial masthead hero",
+  "headerType": "Print index header",
+  "footerType": "archive footer",
+  "cardStyle": "Column article cards",
+  "formStyle": "Newsletter form",
+  "jsSignature": "Library search, author filter, newsletter modal",
+  "motionStyle": "Print-column reveal",
+  "themeMode": "editorial",
+  "designPassport": {
+    "premiumDirection": "A knowledge platform with magazine columns, archive search, author cards, and newsletter conversion",
+    "brandMood": "knowledge editorial",
+    "buyerPsychology": "authority and discovery",
+    "typography": {
+      "display": "Verdana, Geneva, sans-serif",
+      "body": "\"Trebuchet MS\", Arial, sans-serif",
+      "accent": "Inter, ui-sans-serif, system-ui, sans-serif",
+      "summary": "Verdana display with \"Trebuchet MS\" body and Inter accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for authority and discovery",
+    "layoutArchetype": "Print magazine archive",
+    "density": "medium",
+    "shapeLanguage": "Column article cards",
+    "surfaceMaterial": "Publishing with print cadence, yellow accents, compact columns, and editorial authority",
+    "imageSystem": "Magazine spreads, desks, books, archive covers",
+    "interactionModel": "Editorial masthead hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Subscribe",
+    "pricingStyle": "subscription cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Monocle",
+    "url": "https://www.monocle.com/",
+    "palette": [
+      "#f7efd2",
+      "#111111",
+      "#f6c400",
+      "#ffffff",
+      "#8c1d18"
+    ],
+    "visualDirection": "Monocle-style publishing with print cadence, yellow accents, compact columns, and editorial authority",
+    "premiumDirection": "A knowledge platform with magazine columns, archive search, author cards, and newsletter conversion",
+    "layoutSignature": "print magazine archive",
+    "heroType": "editorial masthead hero",
+    "headerType": "print index header",
+    "cardStyle": "column article cards",
+    "formStyle": "newsletter form",
+    "motionStyle": "print-column reveal",
+    "imageDirection": "magazine spreads, desks, books, archive covers",
+    "cssProfile": "monocle"
+  },
+  "targetCssProfile": "monocle",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Monocle",
+      "url": "https://www.monocle.com/"
+    },
+    {
+      "category": "direct",
+      "name": "The New Yorker",
+      "url": "https://www.newyorker.com"
+    },
+    {
+      "category": "direct",
+      "name": "Financial Times",
+      "url": "https://www.ft.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Substack",
+      "url": "https://substack.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Harvard Business Review",
+      "url": "https://hbr.org"
+    },
+    {
+      "category": "contrast",
+      "name": "Readymag",
+      "url": "https://readymag.com"
+    },
+    {
+      "category": "contrast",
+      "name": "The Pudding",
+      "url": "https://pudding.cool"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin library search patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/publishing-logo.svg",
+    "brandSymbol": "assets/brand/publishing-symbol.svg",
+    "favicon": "assets/brand/publishing-favicon.svg",
+    "appleTouchIcon": "assets/brand/publishing-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/publishing-home-open-graph.svg",
+    "mockup": "assets/mockups/publishing-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Promise",
+        "Topics",
+        "Featured",
+        "Archive",
+        "Authors",
+        "Newsletter",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Platform",
+      "file": "platform.html",
+      "sections": [
+        "Hero",
+        "Mission",
+        "Editorial",
+        "Standards",
+        "Team",
+        "Values",
+        "Sources",
+        "Governance",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Library",
+      "file": "library.html",
+      "sections": [
+        "Hero",
+        "Categories",
+        "Search",
+        "Featured",
+        "Recent",
+        "Popular",
+        "Filters",
+        "Access",
+        "Explore",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Articles",
+      "file": "articles.html",
+      "sections": [
+        "Hero",
+        "Latest",
+        "Analysis",
+        "Guides",
+        "Opinion",
+        "Research",
+        "Authors",
+        "Related",
+        "Read",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Authors",
+      "file": "authors.html",
+      "sections": [
+        "Hero",
+        "Experts",
+        "Profiles",
+        "Credentials",
+        "Topics",
+        "Contributions",
+        "Interviews",
+        "Socials",
+        "Follow",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Reports",
+      "file": "reports.html",
+      "sections": [
+        "Hero",
+        "Research",
+        "Data",
+        "Downloads",
+        "Methodology",
+        "Findings",
+        "Sources",
+        "Archive",
+        "Access",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Newsletter",
+      "file": "newsletter.html",
+      "sections": [
+        "Hero",
+        "Promise",
+        "Topics",
+        "Frequency",
+        "Samples",
+        "Benefits",
+        "Form",
+        "Archive",
+        "Subscribe",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Submissions",
+      "file": "submissions.html",
+      "sections": [
+        "Hero",
+        "Guidelines",
+        "Topics",
+        "Review",
+        "Standards",
+        "Rights",
+        "Process",
+        "Timeline",
+        "Submit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Access",
+        "Sources",
+        "Rights",
+        "Submissions",
+        "Corrections",
+        "Accounts",
+        "Support",
+        "Contact",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Editorial",
+        "Submissions",
+        "Partnerships",
+        "Press",
+        "Form",
+        "Routing",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-09T15:41:42.885Z",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "totalPages": 2,
+    "pagesWithErrors": 0,
+    "pagesWithLowContrast": 0,
+    "pagesWithOverflow": 0,
+    "pagesWithBrokenImages": 0,
+    "pagesWithTallHeaders": 0,
+    "outputDirectory": "premium-static-site-system/reports/visual-audit/2026-05-09T15-41-39-625Z"
+  },
+  "bySite": {
+    "01": {
+      "pages": 2,
+      "errors": 0,
+      "lowContrast": 0,
+      "overflow": 0,
+      "brokenImages": 0,
+      "tallHeaders": 0
+    }
+  },
+  "results": [
+    {
+      "file": "demo-sites/01-healthcare/404.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/404.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Page Not Found | AsterCare Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1799
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 123,
+          "footerHeight": 613,
+          "navWidth": 481
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/accessibility.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/accessibility.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | AsterCare Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1890
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 123,
+          "footerHeight": 613,
+          "navWidth": 481
+        },
+        "lowContrast": [],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "siteName": "Forge",
+  "industry": "Construction, Building & Renovation",
+  "number": 17,
+  "slug": "construction",
+  "baseUrl": "https://team-ashtra-ai.github.io/17/",
+  "repo": "https://github.com/team-ashtra-ai/17.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Estimate",
+  "schema": "Organization",
+  "visualDirection": "Construction software with orange action, black contrast, and worksite proof",
+  "premiumDirection": "A build-management site with construction CTAs, project panels, safety proof, and estimate routing",
+  "layoutSignature": "Construction platform grid",
+  "heroType": "Worksite software hero",
+  "headerType": "Construction product header",
+  "footerType": "handover footer",
+  "cardStyle": "Project control cards",
+  "formStyle": "Estimate form",
+  "jsSignature": "Project estimator form, before/after slider, upload photos",
+  "motionStyle": "Project progress reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A build-management site with construction CTAs, project panels, safety proof, and estimate routing",
+    "brandMood": "practical strong",
+    "buyerPsychology": "certainty around cost and disruption",
+    "typography": {
+      "display": "\"Trebuchet MS\", Arial, sans-serif",
+      "body": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "accent": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "summary": "\"Trebuchet MS\" display with \"Segoe UI\" body and Aptos accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for certainty around cost and disruption",
+    "layoutArchetype": "Construction platform grid",
+    "density": "dense",
+    "shapeLanguage": "Project control cards",
+    "surfaceMaterial": "Construction software with orange action, black contrast, and worksite proof",
+    "imageSystem": "Job sites, schedule boards, build dashboards",
+    "interactionModel": "Worksite software hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Estimate",
+    "pricingStyle": "stage cost panels",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Procore",
+    "url": "https://www.procore.com/",
+    "palette": [
+      "#fff7ed",
+      "#ff6a00",
+      "#111827",
+      "#1f2937",
+      "#ffd166"
+    ],
+    "visualDirection": "Procore-style construction software with orange action, black contrast, and worksite proof",
+    "premiumDirection": "A build-management site with construction CTAs, project panels, safety proof, and estimate routing",
+    "layoutSignature": "construction platform grid",
+    "heroType": "worksite software hero",
+    "headerType": "construction product header",
+    "cardStyle": "project control cards",
+    "formStyle": "estimate form",
+    "motionStyle": "project progress reveal",
+    "imageDirection": "job sites, schedule boards, build dashboards",
+    "cssProfile": "procore"
+  },
+  "targetCssProfile": "procore",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Procore",
+      "url": "https://www.procore.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Turner Construction",
+      "url": "https://www.turnerconstruction.com"
+    },
+    {
+      "category": "direct",
+      "name": "Skanska",
+      "url": "https://www.skanska.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Hilti",
+      "url": "https://www.hilti.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Houzz",
+      "url": "https://www.houzz.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Patagonia",
+      "url": "https://www.patagonia.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Tesla",
+      "url": "https://www.tesla.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin estimate and upload flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/construction-logo.svg",
+    "brandSymbol": "assets/brand/construction-symbol.svg",
+    "favicon": "assets/brand/construction-favicon.svg",
+    "appleTouchIcon": "assets/brand/construction-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/construction-home-open-graph.svg",
+    "mockup": "assets/mockups/construction-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Vision",
+        "Problem",
+        "Promise",
+        "Services",
+        "Projects",
+        "Process",
+        "Proof",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Company",
+      "file": "company.html",
+      "sections": [
+        "Hero",
+        "Crew",
+        "Experience",
+        "Values",
+        "Certifications",
+        "Insurance",
+        "Standards",
+        "Reputation",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Newbuild",
+        "Renovation",
+        "Extension",
+        "Repair",
+        "Commercial",
+        "Residential",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Projects",
+      "file": "projects.html",
+      "sections": [
+        "Hero",
+        "Portfolio",
+        "Before",
+        "Residential",
+        "Commercial",
+        "Details",
+        "Materials",
+        "Results",
+        "Reviews",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Visit",
+        "Survey",
+        "Estimate",
+        "Planning",
+        "Build",
+        "Inspection",
+        "Handover",
+        "Aftercare",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Materials",
+      "file": "materials.html",
+      "sections": [
+        "Hero",
+        "Quality",
+        "Suppliers",
+        "Finishes",
+        "Durability",
+        "Options",
+        "Sustainability",
+        "Maintenance",
+        "Guidance",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Factors",
+        "Labour",
+        "Materials",
+        "Timeline",
+        "Estimates",
+        "Allowances",
+        "Stages",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Safety",
+      "file": "safety.html",
+      "sections": [
+        "Hero",
+        "Site",
+        "Insurance",
+        "Compliance",
+        "Crew",
+        "Risks",
+        "Documents",
+        "Cleanliness",
+        "Communication",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Permits",
+        "Timelines",
+        "Disruption",
+        "Payments",
+        "Guarantees",
+        "Materials",
+        "Changes",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Project",
+        "Upload",
+        "Location",
+        "Budget",
+        "Visit",
+        "Phone",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

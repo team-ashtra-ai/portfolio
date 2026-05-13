@@ -1,0 +1,288 @@
+{
+  "siteName": "Urban",
+  "industry": "Real Estate, Property & Land Services",
+  "number": 16,
+  "slug": "real-estate",
+  "baseUrl": "https://team-ashtra-ai.github.io/16/",
+  "repo": "https://github.com/team-ashtra-ai/16.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Get Valuation",
+  "schema": "Organization",
+  "visualDirection": "Property editorial with quiet type, generous imagery, and thin-rule listings",
+  "premiumDirection": "A real-estate editorial site with architecture-led listings, sparse navigation, area guides, and valuation flow",
+  "layoutSignature": "Minimal property journal",
+  "heroType": "Architectural listing hero",
+  "headerType": "Quiet property header",
+  "footerType": "area guide footer",
+  "cardStyle": "Thin-rule listing cards",
+  "formStyle": "Valuation enquiry form",
+  "jsSignature": "Property filter, gallery modal, map-style area cards",
+  "motionStyle": "Slow image reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A real-estate editorial site with architecture-led listings, sparse navigation, area guides, and valuation flow",
+    "brandMood": "local visual",
+    "buyerPsychology": "market confidence and discovery",
+    "typography": {
+      "display": "\"Trebuchet MS\", Arial, sans-serif",
+      "body": "Arial, Helvetica, sans-serif",
+      "accent": "Aptos, Calibri, sans-serif",
+      "summary": "\"Trebuchet MS\" display with Arial body and Aptos accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for market confidence and discovery",
+    "layoutArchetype": "Minimal property journal",
+    "density": "spacious",
+    "shapeLanguage": "Thin-rule listing cards",
+    "surfaceMaterial": "Property editorial with quiet type, generous imagery, and thin-rule listings",
+    "imageSystem": "Modern homes, interiors, floor plans, neighbourhood details",
+    "interactionModel": "Architectural listing hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Get Valuation",
+    "pricingStyle": "commission and management cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "The Modern House",
+    "url": "https://www.themodernhouse.com/",
+    "palette": [
+      "#fbfaf7",
+      "#111111",
+      "#8a8f83",
+      "#ffffff",
+      "#c7b299"
+    ],
+    "visualDirection": "The Modern House-style property editorial with quiet type, generous imagery, and thin-rule listings",
+    "premiumDirection": "A real-estate editorial site with architecture-led listings, sparse navigation, area guides, and valuation flow",
+    "layoutSignature": "minimal property journal",
+    "heroType": "architectural listing hero",
+    "headerType": "quiet property header",
+    "cardStyle": "thin-rule listing cards",
+    "formStyle": "valuation enquiry form",
+    "motionStyle": "slow image reveal",
+    "imageDirection": "modern homes, interiors, floor plans, neighbourhood details",
+    "cssProfile": "modernhouse"
+  },
+  "targetCssProfile": "modernhouse",
+  "references": [
+    {
+      "category": "direct",
+      "name": "The Modern House",
+      "url": "https://www.themodernhouse.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Zillow",
+      "url": "https://www.zillow.com"
+    },
+    {
+      "category": "direct",
+      "name": "Compass",
+      "url": "https://www.compass.com"
+    },
+    {
+      "category": "direct",
+      "name": "Redfin",
+      "url": "https://www.redfin.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "The Modern House",
+      "url": "https://www.themodernhouse.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Airbnb",
+      "url": "https://www.airbnb.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aman",
+      "url": "https://www.aman.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin property filter patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/real-estate-logo.svg",
+    "brandSymbol": "assets/brand/real-estate-symbol.svg",
+    "favicon": "assets/brand/real-estate-favicon.svg",
+    "appleTouchIcon": "assets/brand/real-estate-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/real-estate-home-open-graph.svg",
+    "mockup": "assets/mockups/real-estate-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Goal",
+        "Market",
+        "Featured",
+        "Services",
+        "Areas",
+        "Proof",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Agency",
+      "file": "agency.html",
+      "sections": [
+        "Hero",
+        "Market",
+        "Team",
+        "Values",
+        "Reviews",
+        "Standards",
+        "Local",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Properties",
+      "file": "properties.html",
+      "sections": [
+        "Hero",
+        "Search",
+        "Featured",
+        "Filters",
+        "Cards",
+        "Details",
+        "Gallery",
+        "Enquiry",
+        "Similar",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Sales",
+        "Lettings",
+        "Management",
+        "Valuation",
+        "Land",
+        "Investment",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Areas",
+      "file": "areas.html",
+      "sections": [
+        "Hero",
+        "Locations",
+        "Neighbourhoods",
+        "Prices",
+        "Lifestyle",
+        "Schools",
+        "Transport",
+        "Maps",
+        "Tips",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Valuation",
+        "Marketing",
+        "Viewings",
+        "Offers",
+        "Negotiation",
+        "Documents",
+        "Closing",
+        "Aftercare",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Fees",
+        "Commission",
+        "Management",
+        "Marketing",
+        "Inclusions",
+        "Comparison",
+        "Terms",
+        "Clarity",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Buyers",
+        "Sellers",
+        "Landlords",
+        "Checklists",
+        "Reports",
+        "Documents",
+        "Downloads",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Buying",
+        "Selling",
+        "Renting",
+        "Fees",
+        "Documents",
+        "Timelines",
+        "Legal",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Viewings",
+        "Valuation",
+        "Phone",
+        "Office",
+        "Hours",
+        "Map",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

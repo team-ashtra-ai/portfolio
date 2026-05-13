@@ -1,0 +1,2863 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-12T20:57:19.845Z",
+    "viewport": {
+      "width": 390,
+      "height": 844,
+      "mobile": true,
+      "quality": 62
+    },
+    "screenshotMode": "issues",
+    "totalPages": 18,
+    "totalSections": 121,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-12T20-57-09-130Z"
+  },
+  "bySite": {
+    "29": {
+      "pages": 18,
+      "sections": 121,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/29-travel/404.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/404.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1499
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 722
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/accessibility.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/accessibility.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1836
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1059
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/agency.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/agency.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Agency | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/agency.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16290
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Agency by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "video-poster-stage",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1629
+            },
+            "textLength": 753,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-story",
+            "label": "Story",
+            "heading": "Story",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 1738,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 735,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-philosophy",
+            "label": "Philosophy",
+            "heading": "Philosophy",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 3441,
+              "width": 390,
+              "height": 1428
+            },
+            "textLength": 741,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-team",
+            "label": "Team",
+            "heading": "Team",
+            "sectionType": "profiles",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "availability-cards",
+            "rect": {
+              "x": 0,
+              "y": 4868,
+              "width": 390,
+              "height": 1547
+            },
+            "textLength": 590,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-partners",
+            "label": "Partners",
+            "heading": "Partners",
+            "sectionType": "trust",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "partner-strip-safe",
+            "rect": {
+              "x": 0,
+              "y": 6414,
+              "width": 390,
+              "height": 1088
+            },
+            "textLength": 551,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-responsibility",
+            "label": "Responsibility",
+            "heading": "Responsibility",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 7502,
+              "width": 390,
+              "height": 1729
+            },
+            "textLength": 762,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-safety",
+            "label": "Safety",
+            "heading": "Safety",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 9230,
+              "width": 390,
+              "height": 1001
+            },
+            "textLength": 566,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-values",
+            "label": "Values",
+            "heading": "Values",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 10231,
+              "width": 390,
+              "height": 1911
+            },
+            "textLength": 729,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust",
+            "sectionType": "trust",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credential-panel",
+            "rect": {
+              "x": 0,
+              "y": 12141,
+              "width": 390,
+              "height": 1713
+            },
+            "textLength": 542,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "cta",
+            "patternFamily": "form-studio",
+            "layoutVariation": "embedded-form-cta",
+            "rect": {
+              "x": 0,
+              "y": 13854,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 755,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 15412,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/asset-system.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/asset-system.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Asset System | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/asset-system.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 12897
+        },
+        "pageOverflow": false,
+        "sectionCount": 3,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Asset-System section 1",
+            "heading": "Atlas assets",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 843
+            },
+            "textLength": 235,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "",
+            "label": "Asset-System section 2",
+            "heading": "Site-local files in use",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 953,
+              "width": 390,
+              "height": 10130
+            },
+            "textLength": 2434,
+            "imageCount": 22,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "",
+            "label": "Asset-System section 3",
+            "heading": "Pages using this system",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 11083,
+              "width": 390,
+              "height": 1147
+            },
+            "textLength": 378,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/contact.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/contact.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Contact | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/contact.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16013
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Contact by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "search-led-hero",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1629
+            },
+            "textLength": 764,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-destination",
+            "label": "Destination",
+            "heading": "Destination",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 1738,
+              "width": 390,
+              "height": 1534
+            },
+            "textLength": 622,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-dates",
+            "label": "Dates",
+            "heading": "Dates",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 3272,
+              "width": 390,
+              "height": 1316
+            },
+            "textLength": 601,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-budget",
+            "label": "Budget",
+            "heading": "Budget",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 4587,
+              "width": 390,
+              "height": 1526
+            },
+            "textLength": 604,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-travellers",
+            "label": "Travellers",
+            "heading": "Travellers",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 6112,
+              "width": 390,
+              "height": 1166
+            },
+            "textLength": 611,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-call",
+            "label": "Call",
+            "heading": "Call",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 7278,
+              "width": 390,
+              "height": 1534
+            },
+            "textLength": 608,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-response",
+            "label": "Response",
+            "heading": "Response",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 8811,
+              "width": 390,
+              "height": 915
+            },
+            "textLength": 489,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-form",
+            "label": "Form",
+            "heading": "Form",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 9725,
+              "width": 390,
+              "height": 2092
+            },
+            "textLength": 678,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-submit",
+            "label": "Submit",
+            "heading": "Submit",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 11816,
+              "width": 390,
+              "height": 1773
+            },
+            "textLength": 603,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 13589,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 756,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 15147,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/cookies.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/cookies.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cookie Notice | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/cookies.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1772
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Cookies section 1",
+            "heading": "Cookie Notice",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 995
+            },
+            "textLength": 586,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/faq.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/faq.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "FAQ | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/faq.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 15946
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "FAQ by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "product-stage",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1574
+            },
+            "textLength": 734,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-visas",
+            "label": "Visas",
+            "heading": "Visas",
+            "sectionType": "faq",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "before-you-book",
+            "rect": {
+              "x": 0,
+              "y": 1684,
+              "width": 390,
+              "height": 1581
+            },
+            "textLength": 627,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-safety",
+            "label": "Safety",
+            "heading": "Safety",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 3264,
+              "width": 390,
+              "height": 1341
+            },
+            "textLength": 621,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-weather",
+            "label": "Weather",
+            "heading": "Weather",
+            "sectionType": "faq",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-faq",
+            "rect": {
+              "x": 0,
+              "y": 4605,
+              "width": 390,
+              "height": 1547
+            },
+            "textLength": 613,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-payments",
+            "label": "Payments",
+            "heading": "Payments",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 6151,
+              "width": 390,
+              "height": 1196
+            },
+            "textLength": 633,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-cancellations",
+            "label": "Cancellations",
+            "heading": "Cancellations",
+            "sectionType": "faq",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "two-column-faq",
+            "rect": {
+              "x": 0,
+              "y": 7346,
+              "width": 390,
+              "height": 1637
+            },
+            "textLength": 651,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-insurance",
+            "label": "Insurance",
+            "heading": "Insurance",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 8983,
+              "width": 390,
+              "height": 915
+            },
+            "textLength": 466,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-access",
+            "label": "Access",
+            "heading": "Access",
+            "sectionType": "faq",
+            "patternFamily": "form-studio",
+            "layoutVariation": "searchable-faq",
+            "rect": {
+              "x": 0,
+              "y": 9897,
+              "width": 390,
+              "height": 1825
+            },
+            "textLength": 621,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Support",
+            "sectionType": "services",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "build-scope-lanes",
+            "rect": {
+              "x": 0,
+              "y": 11721,
+              "width": 390,
+              "height": 1801
+            },
+            "textLength": 585,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "faq",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "before-you-book",
+            "rect": {
+              "x": 0,
+              "y": 13522,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 746,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 15080,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/index.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/index.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Home | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/index.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 21461
+        },
+        "pageOverflow": false,
+        "sectionCount": 12,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Atlas",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-location-hero",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1740
+            },
+            "textLength": 818,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "site-atlas",
+            "label": "Site atlas",
+            "heading": "Every route through Atlas",
+            "sectionType": "homepage-atlas",
+            "patternFamily": "homepage-atlas",
+            "layoutVariation": "civic-site-index",
+            "rect": {
+              "x": 0,
+              "y": 1850,
+              "width": 390,
+              "height": 4279
+            },
+            "textLength": 2882,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-dream",
+            "label": "Dream",
+            "heading": "Dream",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 6129,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 728,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-destination",
+            "label": "Destination",
+            "heading": "Destination",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 7831,
+              "width": 390,
+              "height": 1428
+            },
+            "textLength": 736,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-promise",
+            "label": "Promise",
+            "heading": "Promise",
+            "sectionType": "solution",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 9258,
+              "width": 390,
+              "height": 1629
+            },
+            "textLength": 697,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-trips",
+            "label": "Trips",
+            "heading": "Trips",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 10886,
+              "width": 390,
+              "height": 1220
+            },
+            "textLength": 718,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-tours",
+            "label": "Tours",
+            "heading": "Tours",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 12106,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 730,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-planning",
+            "label": "Planning",
+            "heading": "Planning",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 13808,
+              "width": 390,
+              "height": 915
+            },
+            "textLength": 454,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-stories",
+            "label": "Stories",
+            "heading": "Stories",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 14722,
+              "width": 390,
+              "height": 1911
+            },
+            "textLength": 726,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-questions",
+            "label": "Questions",
+            "heading": "Questions",
+            "sectionType": "faq",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "before-you-book",
+            "rect": {
+              "x": 0,
+              "y": 16633,
+              "width": 390,
+              "height": 2405
+            },
+            "textLength": 937,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 19038,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 12,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "cta",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "split-cta-image",
+            "rect": {
+              "x": 0,
+              "y": 19236,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 749,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/places.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/places.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Places | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/places.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16993
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Places by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "portrait-authority",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1855
+            },
+            "textLength": 762,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-destinations",
+            "label": "Destinations",
+            "heading": "Destinations",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 1964,
+              "width": 390,
+              "height": 1729
+            },
+            "textLength": 756,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-regions",
+            "label": "Regions",
+            "heading": "Regions",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 3693,
+              "width": 390,
+              "height": 1428
+            },
+            "textLength": 732,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-highlights",
+            "label": "Highlights",
+            "heading": "Highlights",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 5120,
+              "width": 390,
+              "height": 1601
+            },
+            "textLength": 732,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-seasons",
+            "label": "Seasons",
+            "heading": "Seasons",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 6720,
+              "width": 390,
+              "height": 1252
+            },
+            "textLength": 732,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-maps",
+            "label": "Maps",
+            "heading": "Maps",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 7971,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 732,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-notes",
+            "label": "Notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 9674,
+              "width": 390,
+              "height": 1001
+            },
+            "textLength": 563,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-recommendations",
+            "label": "Recommendations",
+            "heading": "Recommendations",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 10674,
+              "width": 390,
+              "height": 1973
+            },
+            "textLength": 756,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-related",
+            "label": "Related",
+            "heading": "Related",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 12646,
+              "width": 390,
+              "height": 1911
+            },
+            "textLength": 732,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "cta",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dark-contrast-cta",
+            "rect": {
+              "x": 0,
+              "y": 14557,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 755,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 16115,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/planning.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/planning.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Planning | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/planning.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16058
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Planning by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "calm-trust-split",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1881
+            },
+            "textLength": 776,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-consultation",
+            "label": "Consultation",
+            "heading": "Consultation",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 1990,
+              "width": 390,
+              "height": 1475
+            },
+            "textLength": 653,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-customisation",
+            "label": "Customisation",
+            "heading": "Customisation",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 3465,
+              "width": 390,
+              "height": 1395
+            },
+            "textLength": 653,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-budget",
+            "label": "Budget",
+            "heading": "Budget",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 4860,
+              "width": 390,
+              "height": 1552
+            },
+            "textLength": 636,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-booking",
+            "label": "Booking",
+            "heading": "Booking",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 6411,
+              "width": 390,
+              "height": 1265
+            },
+            "textLength": 683,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Documents",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 7676,
+              "width": 390,
+              "height": 1443
+            },
+            "textLength": 654,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-visas",
+            "label": "Visas",
+            "heading": "Visas",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 9119,
+              "width": 390,
+              "height": 915
+            },
+            "textLength": 453,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Support",
+            "sectionType": "services",
+            "patternFamily": "map-console",
+            "layoutVariation": "logistics-lane-cards",
+            "rect": {
+              "x": 0,
+              "y": 10033,
+              "width": 390,
+              "height": 1801
+            },
+            "textLength": 595,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-timeline",
+            "label": "Timeline",
+            "heading": "Timeline",
+            "sectionType": "process",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "image-per-step",
+            "rect": {
+              "x": 0,
+              "y": 11834,
+              "width": 390,
+              "height": 1801
+            },
+            "textLength": 578,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 13635,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 754,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 15193,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/pricing.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/pricing.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Pricing | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/pricing.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16783
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Pricing by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "cinematic-full-bleed",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1629
+            },
+            "textLength": 764,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-packages",
+            "label": "Packages",
+            "heading": "Packages",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 1738,
+              "width": 390,
+              "height": 2528
+            },
+            "textLength": 988,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-quotes",
+            "label": "Quotes",
+            "heading": "Quotes",
+            "sectionType": "reviews",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "single-large-testimonial",
+            "rect": {
+              "x": 0,
+              "y": 4266,
+              "width": 390,
+              "height": 1346
+            },
+            "textLength": 589,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-deposits",
+            "label": "Deposits",
+            "heading": "Deposits",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 5611,
+              "width": 390,
+              "height": 1547
+            },
+            "textLength": 638,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-inclusions",
+            "label": "Inclusions",
+            "heading": "Inclusions",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 7157,
+              "width": 390,
+              "height": 1192
+            },
+            "textLength": 645,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-exclusions",
+            "label": "Exclusions",
+            "heading": "Exclusions",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 8349,
+              "width": 390,
+              "height": 1443
+            },
+            "textLength": 654,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-payment",
+            "label": "Payment",
+            "heading": "Payment",
+            "sectionType": "pricing",
+            "patternFamily": "form-studio",
+            "layoutVariation": "calculator-style",
+            "rect": {
+              "x": 0,
+              "y": 9791,
+              "width": 390,
+              "height": 915
+            },
+            "textLength": 457,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-terms",
+            "label": "Terms",
+            "heading": "Terms",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 10705,
+              "width": 390,
+              "height": 1829
+            },
+            "textLength": 635,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-clarity",
+            "label": "Clarity",
+            "heading": "Clarity",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 12534,
+              "width": 390,
+              "height": 1825
+            },
+            "textLength": 639,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 14359,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 751,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 15917,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/privacy.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/privacy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Privacy Notice | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/privacy.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1823
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Privacy section 1",
+            "heading": "Privacy Notice",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1047
+            },
+            "textLength": 667,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/sitemap.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/sitemap.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Sitemap Page | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/sitemap.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2057
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Sitemap section 1",
+            "heading": "Sitemap Page",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1280
+            },
+            "textLength": 545,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/stories.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/stories.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Stories | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/stories.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 17952
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Stories by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "luxury-minimal",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1629
+            },
+            "textLength": 763,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-stories",
+            "label": "Stories",
+            "heading": "Stories",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 1738,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 744,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-photos",
+            "label": "Photos",
+            "heading": "Photos",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 3441,
+              "width": 390,
+              "height": 1998
+            },
+            "textLength": 780,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-guides",
+            "label": "Guides",
+            "heading": "Guides",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 5439,
+              "width": 390,
+              "height": 2418
+            },
+            "textLength": 949,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-testimonials",
+            "label": "Testimonials",
+            "heading": "Testimonials",
+            "sectionType": "reviews",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "quote-wall",
+            "rect": {
+              "x": 0,
+              "y": 7856,
+              "width": 390,
+              "height": 1140
+            },
+            "textLength": 601,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-itineraries",
+            "label": "Itineraries",
+            "heading": "Itineraries",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 8996,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 756,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-tips",
+            "label": "Tips",
+            "heading": "Tips",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 10698,
+              "width": 390,
+              "height": 1001
+            },
+            "textLength": 563,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-inspiration",
+            "label": "Inspiration",
+            "heading": "Inspiration",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 11699,
+              "width": 390,
+              "height": 1911
+            },
+            "textLength": 747,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-related",
+            "label": "Related",
+            "heading": "Related",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 13610,
+              "width": 390,
+              "height": 1911
+            },
+            "textLength": 735,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "cta",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "final-reassurance",
+            "rect": {
+              "x": 0,
+              "y": 15520,
+              "width": 390,
+              "height": 1567
+            },
+            "textLength": 758,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 17087,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/terms.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/terms.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Terms of Use | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/terms.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1772
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Terms section 1",
+            "heading": "Terms of Use",
+            "sectionType": "faq",
+            "patternFamily": "route-cards",
+            "layoutVariation": "faq-cards",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 995
+            },
+            "textLength": 582,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/thanks.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/thanks.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Thank You | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/thanks.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1802
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Thanks section 1",
+            "heading": "Thank You",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1026
+            },
+            "textLength": 510,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/tours.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/tours.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Tours | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/tours.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 17739
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Tours by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "data-stat-hero",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1629
+            },
+            "textLength": 751,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-activities",
+            "label": "Activities",
+            "heading": "Activities",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 1738,
+              "width": 390,
+              "height": 1671
+            },
+            "textLength": 747,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-levels",
+            "label": "Levels",
+            "heading": "Levels",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 3409,
+              "width": 390,
+              "height": 1428
+            },
+            "textLength": 726,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-durations",
+            "label": "Durations",
+            "heading": "Durations",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 4836,
+              "width": 390,
+              "height": 1633
+            },
+            "textLength": 725,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-guides",
+            "label": "Guides",
+            "heading": "Guides",
+            "sectionType": "resources",
+            "patternFamily": "route-cards",
+            "layoutVariation": "resource-index",
+            "rect": {
+              "x": 0,
+              "y": 6468,
+              "width": 390,
+              "height": 2422
+            },
+            "textLength": 947,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-inclusions",
+            "label": "Inclusions",
+            "heading": "Inclusions",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 8890,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 747,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-safety",
+            "label": "Safety",
+            "heading": "Safety",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 10593,
+              "width": 390,
+              "height": 1001
+            },
+            "textLength": 563,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-groups",
+            "label": "Groups",
+            "heading": "Groups",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 11593,
+              "width": 390,
+              "height": 1879
+            },
+            "textLength": 726,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Reviews",
+            "sectionType": "reviews",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "single-large-testimonial",
+            "rect": {
+              "x": 0,
+              "y": 13471,
+              "width": 390,
+              "height": 1832
+            },
+            "textLength": 587,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "cta",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "split-cta-image",
+            "rect": {
+              "x": 0,
+              "y": 15303,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 752,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 16861,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/29-travel/trips.html",
+      "site": "29",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/trips.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Trips | Atlas Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/29-travel/trips.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16680
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Trips by Atlas",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "search-led-hero",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 390,
+              "height": 1629
+            },
+            "textLength": 747,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-types",
+            "label": "Types",
+            "heading": "Types",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 1738,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 732,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-adventure",
+            "label": "Adventure",
+            "heading": "Adventure",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 3441,
+              "width": 390,
+              "height": 1428
+            },
+            "textLength": 735,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-culture",
+            "label": "Culture",
+            "heading": "Culture",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 4868,
+              "width": 390,
+              "height": 1633
+            },
+            "textLength": 717,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-luxury",
+            "label": "Luxury",
+            "heading": "Luxury",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 6501,
+              "width": 390,
+              "height": 1252
+            },
+            "textLength": 726,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-family",
+            "label": "Family",
+            "heading": "Family",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 7752,
+              "width": 390,
+              "height": 1703
+            },
+            "textLength": 735,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-dates",
+            "label": "Dates",
+            "heading": "Dates",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 9455,
+              "width": 390,
+              "height": 969
+            },
+            "textLength": 560,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-inclusions",
+            "label": "Inclusions",
+            "heading": "Inclusions",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 10423,
+              "width": 390,
+              "height": 1911
+            },
+            "textLength": 738,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-fit",
+            "label": "Fit",
+            "heading": "Fit",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 12333,
+              "width": 390,
+              "height": 1911
+            },
+            "textLength": 717,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Plan Trip",
+            "sectionType": "cta",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dark-contrast-cta",
+            "rect": {
+              "x": 0,
+              "y": 14244,
+              "width": 390,
+              "height": 1559
+            },
+            "textLength": 752,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 15802,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 107,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "siteName": "Vow",
+  "industry": "Events, Weddings & Experience Production",
+  "number": 45,
+  "slug": "events",
+  "baseUrl": "https://team-ashtra-ai.github.io/45/",
+  "repo": "https://github.com/team-ashtra-ai/45.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Enquire Date",
+  "schema": "Event",
+  "visualDirection": "Events with clean cards, soft gradients, calendar utility, and quick RSVP routes",
+  "premiumDirection": "An events site with elegant event cards, date filters, host proof, and RSVP-style enquiry",
+  "layoutSignature": "Clean event calendar system",
+  "heroType": "Event card hero",
+  "headerType": "Calendar utility header",
+  "footerType": "venue and supplier footer",
+  "cardStyle": "RSVP event cards",
+  "formStyle": "Date enquiry form",
+  "jsSignature": "Event type selector, venue filter, package calculator",
+  "motionStyle": "Calendar card reveal",
+  "themeMode": "hospitality",
+  "designPassport": {
+    "premiumDirection": "An events site with elegant event cards, date filters, host proof, and RSVP-style enquiry",
+    "brandMood": "celebratory planning",
+    "buyerPsychology": "emotion and confidence",
+    "typography": {
+      "display": "\"Arial Narrow\", Arial, sans-serif",
+      "body": "Arial, Helvetica, sans-serif",
+      "accent": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "summary": "\"Arial Narrow\" display with Arial body and \"Segoe UI\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for emotion and confidence",
+    "layoutArchetype": "Clean event calendar system",
+    "density": "image-rich",
+    "shapeLanguage": "RSVP event cards",
+    "surfaceMaterial": "Events with clean cards, soft gradients, calendar utility, and quick RSVP routes",
+    "imageSystem": "Event cards, calendars, guest lists, venue details",
+    "interactionModel": "Event card hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Enquire Date",
+    "pricingStyle": "package calculator cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Luma",
+    "url": "https://luma.com/",
+    "palette": [
+      "#f7f8ff",
+      "#6c47ff",
+      "#14b8a6",
+      "#ffffff",
+      "#ffb703"
+    ],
+    "visualDirection": "Luma-style events with clean cards, soft gradients, calendar utility, and quick RSVP routes",
+    "premiumDirection": "An events site with elegant event cards, date filters, host proof, and RSVP-style enquiry",
+    "layoutSignature": "clean event calendar system",
+    "heroType": "event card hero",
+    "headerType": "calendar utility header",
+    "cardStyle": "RSVP event cards",
+    "formStyle": "date enquiry form",
+    "motionStyle": "calendar card reveal",
+    "imageDirection": "event cards, calendars, guest lists, venue details",
+    "cssProfile": "luma"
+  },
+  "targetCssProfile": "luma",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Luma",
+      "url": "https://luma.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Eventbrite",
+      "url": "https://www.eventbrite.com"
+    },
+    {
+      "category": "direct",
+      "name": "The Knot",
+      "url": "https://www.theknot.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Cvent",
+      "url": "https://www.cvent.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Vogue Weddings",
+      "url": "https://www.vogue.com/weddings"
+    },
+    {
+      "category": "contrast",
+      "name": "Aman",
+      "url": "https://www.aman.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aesop",
+      "url": "https://www.aesop.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin event planner patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/events-logo.svg",
+    "brandSymbol": "assets/brand/events-symbol.svg",
+    "favicon": "assets/brand/events-favicon.svg",
+    "appleTouchIcon": "assets/brand/events-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/events-home-open-graph.svg",
+    "mockup": "assets/mockups/events-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Vision",
+        "Emotion",
+        "Promise",
+        "Services",
+        "Portfolio",
+        "Process",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Studio",
+      "file": "studio.html",
+      "sections": [
+        "Hero",
+        "Style",
+        "Team",
+        "Values",
+        "Suppliers",
+        "Standards",
+        "Recognition",
+        "Taste",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Planning",
+        "Styling",
+        "Production",
+        "Coordination",
+        "Suppliers",
+        "Guests",
+        "Deliverables",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Weddings",
+      "file": "weddings.html",
+      "sections": [
+        "Hero",
+        "Dream",
+        "Ceremony",
+        "Reception",
+        "Styling",
+        "Timeline",
+        "Suppliers",
+        "Packages",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Events",
+      "file": "events.html",
+      "sections": [
+        "Hero",
+        "Corporate",
+        "Private",
+        "Launches",
+        "Experiences",
+        "Production",
+        "Logistics",
+        "Outcomes",
+        "Enquiry",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Portfolio",
+      "file": "portfolio.html",
+      "sections": [
+        "Hero",
+        "Galleries",
+        "Concepts",
+        "Details",
+        "Venues",
+        "Stories",
+        "Before",
+        "Reviews",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Packages",
+        "Custom",
+        "Addons",
+        "Deposits",
+        "Inclusions",
+        "Payment",
+        "Terms",
+        "Quote",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Venues",
+      "file": "venues.html",
+      "sections": [
+        "Hero",
+        "Indoor",
+        "Outdoor",
+        "Destination",
+        "Capacity",
+        "Logistics",
+        "Styling",
+        "Recommendations",
+        "Explore",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Timeline",
+        "Budget",
+        "Suppliers",
+        "Deposits",
+        "Changes",
+        "Weather",
+        "Guests",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Date",
+        "Location",
+        "Guests",
+        "Type",
+        "Budget",
+        "Consultation",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

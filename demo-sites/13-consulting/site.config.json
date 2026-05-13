@@ -1,0 +1,288 @@
+{
+  "siteName": "Vector",
+  "industry": "Consulting, Strategy & Business Advisory",
+  "number": 13,
+  "slug": "consulting",
+  "baseUrl": "https://team-ashtra-ai.github.io/13/",
+  "repo": "https://github.com/team-ashtra-ai/13.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Send Brief",
+  "schema": "Organization",
+  "visualDirection": "Creative consulting with editorial whitespace, bold project thinking, and case-study rhythm",
+  "premiumDirection": "A strategy studio site with large editorial type, idea-led modules, mosaic proof, and workshop conversion",
+  "layoutSignature": "Editorial innovation studio",
+  "heroType": "Idea-led editorial hero",
+  "headerType": "Studio index header",
+  "footerType": "insight archive footer",
+  "cardStyle": "Case thinking cards",
+  "formStyle": "Brief workshop form",
+  "jsSignature": "Diagnostic quiz, framework tabs, case filter",
+  "motionStyle": "Project tile reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A strategy studio site with large editorial type, idea-led modules, mosaic proof, and workshop conversion",
+    "brandMood": "executive",
+    "buyerPsychology": "clarity, leverage and measurable progress",
+    "typography": {
+      "display": "Georgia, \"Times New Roman\", serif",
+      "body": "Aptos, Calibri, sans-serif",
+      "accent": "\"Arial Narrow\", Arial, sans-serif",
+      "summary": "Georgia display with Aptos body and \"Arial Narrow\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for clarity, leverage and measurable progress",
+    "layoutArchetype": "Editorial innovation studio",
+    "density": "medium",
+    "shapeLanguage": "Case thinking cards",
+    "surfaceMaterial": "Creative consulting with editorial whitespace, bold project thinking, and case-study rhythm",
+    "imageSystem": "Workshops, prototypes, research walls, creative teams",
+    "interactionModel": "Idea-led editorial hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Send Brief",
+    "pricingStyle": "workshop/project/retainer cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "IDEO",
+    "url": "https://www.ideo.com/",
+    "palette": [
+      "#ffffff",
+      "#111111",
+      "#ff5a1f",
+      "#f4f4f0",
+      "#0066ff"
+    ],
+    "visualDirection": "IDEO-style creative consulting with editorial whitespace, bold project thinking, and case-study rhythm",
+    "premiumDirection": "A strategy studio site with large editorial type, idea-led modules, mosaic proof, and workshop conversion",
+    "layoutSignature": "editorial innovation studio",
+    "heroType": "idea-led editorial hero",
+    "headerType": "studio index header",
+    "cardStyle": "case thinking cards",
+    "formStyle": "brief workshop form",
+    "motionStyle": "project tile reveal",
+    "imageDirection": "workshops, prototypes, research walls, creative teams",
+    "cssProfile": "ideo"
+  },
+  "targetCssProfile": "ideo",
+  "references": [
+    {
+      "category": "direct",
+      "name": "IDEO",
+      "url": "https://www.ideo.com/"
+    },
+    {
+      "category": "direct",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com"
+    },
+    {
+      "category": "direct",
+      "name": "BCG",
+      "url": "https://www.bcg.com"
+    },
+    {
+      "category": "direct",
+      "name": "Bain",
+      "url": "https://www.bain.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "IDEO",
+      "url": "https://www.ideo.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Accenture",
+      "url": "https://www.accenture.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Pentagram",
+      "url": "https://www.pentagram.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Harvard Business Review",
+      "url": "https://hbr.org"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin diagnostic quiz patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/consulting-logo.svg",
+    "brandSymbol": "assets/brand/consulting-symbol.svg",
+    "favicon": "assets/brand/consulting-favicon.svg",
+    "appleTouchIcon": "assets/brand/consulting-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/consulting-home-open-graph.svg",
+    "mockup": "assets/mockups/consulting-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Challenge",
+        "Gap",
+        "Promise",
+        "Services",
+        "Process",
+        "Results",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Firm",
+      "file": "firm.html",
+      "sections": [
+        "Hero",
+        "Expertise",
+        "Method",
+        "Values",
+        "Team",
+        "Fit",
+        "Standards",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Advisory",
+        "Strategy",
+        "Operations",
+        "Growth",
+        "Transformation",
+        "Workshops",
+        "Retainers",
+        "Benefits",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Strategy",
+      "file": "strategy.html",
+      "sections": [
+        "Hero",
+        "Market",
+        "Positioning",
+        "Priorities",
+        "Roadmap",
+        "Execution",
+        "Measurement",
+        "Risks",
+        "Alignment",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Diagnose",
+        "Analyse",
+        "Design",
+        "Execute",
+        "Measure",
+        "Adjust",
+        "Transfer",
+        "Sustain",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Revenue",
+        "Efficiency",
+        "Clarity",
+        "Metrics",
+        "Reviews",
+        "Before",
+        "Lessons",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Workshops",
+        "Projects",
+        "Retainers",
+        "Scope",
+        "Inclusions",
+        "Comparison",
+        "Fit",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Insights",
+      "file": "insights.html",
+      "sections": [
+        "Hero",
+        "Frameworks",
+        "Reports",
+        "Trends",
+        "Analysis",
+        "Leadership",
+        "Growth",
+        "Downloads",
+        "Articles",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Cases",
+      "file": "cases.html",
+      "sections": [
+        "Hero",
+        "Problem",
+        "Context",
+        "Approach",
+        "Execution",
+        "Outcome",
+        "Metrics",
+        "Lessons",
+        "Testimonial",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Brief",
+        "Call",
+        "Budget",
+        "Timeline",
+        "Fit",
+        "Proposal",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

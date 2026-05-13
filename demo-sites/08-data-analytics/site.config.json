@@ -1,0 +1,288 @@
+{
+  "siteName": "Prism",
+  "industry": "Data, Analytics & Business Intelligence",
+  "number": 8,
+  "slug": "data-analytics",
+  "baseUrl": "https://team-ashtra-ai.github.io/8/",
+  "repo": "https://github.com/team-ashtra-ai/8.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Plan Dashboard",
+  "schema": "Organization",
+  "visualDirection": "Context-layer data site with warm surfaces, blue product depth, and collaborative metadata cards",
+  "premiumDirection": "A data catalogue experience with friendly dashboards, metadata proof, search panels, and AI-context positioning",
+  "layoutSignature": "Context layer data workspace",
+  "heroType": "Metadata dashboard hero",
+  "headerType": "Data product header",
+  "footerType": "data library footer",
+  "cardStyle": "Collaborative data cards",
+  "formStyle": "Dashboard planning form",
+  "jsSignature": "Dashboard tabs, KPI filters, tool stack selector",
+  "motionStyle": "Dashboard stack reveal",
+  "themeMode": "technical",
+  "designPassport": {
+    "premiumDirection": "A data catalogue experience with friendly dashboards, metadata proof, search panels, and AI-context positioning",
+    "brandMood": "analytical",
+    "buyerPsychology": "decision clarity and visibility",
+    "typography": {
+      "display": "Georgia, \"Times New Roman\", serif",
+      "body": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "accent": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "summary": "Georgia display with Inter body and \"Segoe UI\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for decision clarity and visibility",
+    "layoutArchetype": "Context layer data workspace",
+    "density": "dense",
+    "shapeLanguage": "Collaborative data cards",
+    "surfaceMaterial": "Context-layer data site with warm surfaces, blue product depth, and collaborative metadata cards",
+    "imageSystem": "Data catalogues, lineage graphs, metadata workspaces",
+    "interactionModel": "Metadata dashboard hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Plan Dashboard",
+    "pricingStyle": "reporting packages",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Atlan",
+    "url": "https://atlan.com/",
+    "palette": [
+      "#f7f1e7",
+      "#2357ff",
+      "#25d0a3",
+      "#151a2d",
+      "#ffb84d"
+    ],
+    "visualDirection": "Atlan-style context-layer data site with warm surfaces, blue product depth, and collaborative metadata cards",
+    "premiumDirection": "A data catalogue experience with friendly dashboards, metadata proof, search panels, and AI-context positioning",
+    "layoutSignature": "context layer data workspace",
+    "heroType": "metadata dashboard hero",
+    "headerType": "data product header",
+    "cardStyle": "collaborative data cards",
+    "formStyle": "dashboard planning form",
+    "motionStyle": "dashboard stack reveal",
+    "imageDirection": "data catalogues, lineage graphs, metadata workspaces",
+    "cssProfile": "atlan"
+  },
+  "targetCssProfile": "atlan",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Atlan",
+      "url": "https://atlan.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Databricks",
+      "url": "https://www.databricks.com"
+    },
+    {
+      "category": "direct",
+      "name": "Snowflake",
+      "url": "https://www.snowflake.com"
+    },
+    {
+      "category": "direct",
+      "name": "Tableau",
+      "url": "https://www.tableau.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Looker",
+      "url": "https://cloud.google.com/looker"
+    },
+    {
+      "category": "adjacent",
+      "name": "Amplitude",
+      "url": "https://amplitude.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "category": "contrast",
+      "name": "The Pudding",
+      "url": "https://pudding.cool"
+    },
+    {
+      "category": "interaction",
+      "name": "Observable notebook patterns",
+      "url": "https://observablehq.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/data-analytics-logo.svg",
+    "brandSymbol": "assets/brand/data-analytics-symbol.svg",
+    "favicon": "assets/brand/data-analytics-favicon.svg",
+    "appleTouchIcon": "assets/brand/data-analytics-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/data-analytics-home-open-graph.svg",
+    "mockup": "assets/mockups/data-analytics-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Problem",
+        "Blindspots",
+        "Promise",
+        "Dashboards",
+        "Services",
+        "Proof",
+        "Tools",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Company",
+      "file": "company.html",
+      "sections": [
+        "Hero",
+        "Story",
+        "Analysts",
+        "Standards",
+        "Ethics",
+        "Tools",
+        "Method",
+        "Fit",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Tracking",
+        "BI",
+        "Reporting",
+        "Governance",
+        "Training",
+        "Maintenance",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Dashboards",
+      "file": "dashboards.html",
+      "sections": [
+        "Hero",
+        "Executive",
+        "Sales",
+        "Marketing",
+        "Finance",
+        "Operations",
+        "KPIs",
+        "Examples",
+        "Benefits",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Strategy",
+      "file": "strategy.html",
+      "sections": [
+        "Hero",
+        "Maturity",
+        "Sources",
+        "Metrics",
+        "Models",
+        "Governance",
+        "Ownership",
+        "Roadmap",
+        "Priorities",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Audit",
+        "Mapping",
+        "Tracking",
+        "Modelling",
+        "Visualisation",
+        "Testing",
+        "Training",
+        "Iteration",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Visibility",
+        "Decisions",
+        "Revenue",
+        "Savings",
+        "Cases",
+        "Metrics",
+        "Reviews",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Setup",
+        "Dashboards",
+        "Reporting",
+        "Retainers",
+        "Training",
+        "Addons",
+        "Comparison",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Tools",
+      "file": "tools.html",
+      "sections": [
+        "Hero",
+        "Stack",
+        "GA4",
+        "Looker",
+        "PowerBI",
+        "SQL",
+        "CRM",
+        "Integrations",
+        "Advice",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Audit",
+        "Dashboard",
+        "Training",
+        "Quote",
+        "Form",
+        "Phone",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

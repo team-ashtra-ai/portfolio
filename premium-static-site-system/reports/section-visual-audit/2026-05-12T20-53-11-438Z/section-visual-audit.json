@@ -1,0 +1,2863 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-12T20:53:23.002Z",
+    "viewport": {
+      "width": 390,
+      "height": 844,
+      "mobile": true,
+      "quality": 62
+    },
+    "screenshotMode": "issues",
+    "totalPages": 18,
+    "totalSections": 121,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-12T20-53-11-438Z"
+  },
+  "bySite": {
+    "09": {
+      "pages": 18,
+      "sections": 121,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/09-finance/404.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/404.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2282
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 666
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/accessibility.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/accessibility.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2619
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1003
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/advice.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/advice.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Advice | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/advice.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 17370
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Advice by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "portrait-authority",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1778
+            },
+            "textLength": 889,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-personal",
+            "label": "Personal",
+            "heading": "Personal",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 1872,
+              "width": 390,
+              "height": 1847
+            },
+            "textLength": 719,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-business",
+            "label": "Business",
+            "heading": "Business",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 3718,
+              "width": 390,
+              "height": 1283
+            },
+            "textLength": 734,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-investment",
+            "label": "Investment",
+            "heading": "Investment",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 5001,
+              "width": 390,
+              "height": 1177
+            },
+            "textLength": 725,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-risk",
+            "label": "Risk",
+            "heading": "Risk",
+            "sectionType": "problem",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "dark-contrast-warning",
+            "rect": {
+              "x": 0,
+              "y": 6177,
+              "width": 390,
+              "height": 1441
+            },
+            "textLength": 912,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-recommendations",
+            "label": "Recommendations",
+            "heading": "Recommendations",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 7618,
+              "width": 390,
+              "height": 1598
+            },
+            "textLength": 736,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-tools",
+            "label": "Tools",
+            "heading": "Tools",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 9216,
+              "width": 390,
+              "height": 1847
+            },
+            "textLength": 710,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Reviews",
+            "sectionType": "reviews",
+            "patternFamily": "route-cards",
+            "layoutVariation": "testimonial-grid",
+            "rect": {
+              "x": 0,
+              "y": 11062,
+              "width": 390,
+              "height": 1739
+            },
+            "textLength": 590,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-action",
+            "label": "Action",
+            "heading": "Action",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 12801,
+              "width": 390,
+              "height": 1373
+            },
+            "textLength": 713,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "cta",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "minimal-luxury-cta",
+            "rect": {
+              "x": 0,
+              "y": 14173,
+              "width": 390,
+              "height": 1465
+            },
+            "textLength": 818,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 15638,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/asset-system.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/asset-system.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Asset System | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/asset-system.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 14038
+        },
+        "pageOverflow": false,
+        "sectionCount": 3,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Asset-System section 1",
+            "heading": "Harbor assets",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 841
+            },
+            "textLength": 240,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "",
+            "label": "Asset-System section 2",
+            "heading": "Site-local files in use",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 935,
+              "width": 390,
+              "height": 10490
+            },
+            "textLength": 2210,
+            "imageCount": 22,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "",
+            "label": "Asset-System section 3",
+            "heading": "Pages using this system",
+            "sectionType": "resources",
+            "patternFamily": "route-cards",
+            "layoutVariation": "resource-index",
+            "rect": {
+              "x": 0,
+              "y": 11424,
+              "width": 390,
+              "height": 1091
+            },
+            "textLength": 388,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/contact.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/contact.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Contact | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/contact.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 17204
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Contact by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "cinematic-full-bleed",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1532
+            },
+            "textLength": 893,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-appointment",
+            "label": "Appointment",
+            "heading": "Appointment",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 1626,
+              "width": 390,
+              "height": 1763
+            },
+            "textLength": 632,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-form",
+            "label": "Form",
+            "heading": "Form",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 3388,
+              "width": 390,
+              "height": 2058
+            },
+            "textLength": 712,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Documents",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 5446,
+              "width": 390,
+              "height": 1119
+            },
+            "textLength": 628,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-phone",
+            "label": "Phone",
+            "heading": "Phone",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 6564,
+              "width": 390,
+              "height": 1119
+            },
+            "textLength": 620,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-office",
+            "label": "Office",
+            "heading": "Office",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 7682,
+              "width": 390,
+              "height": 1525
+            },
+            "textLength": 624,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-routing",
+            "label": "Routing",
+            "heading": "Routing",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 9206,
+              "width": 390,
+              "height": 1763
+            },
+            "textLength": 624,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-response",
+            "label": "Response",
+            "heading": "Response",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 10968,
+              "width": 390,
+              "height": 1763
+            },
+            "textLength": 626,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-submit",
+            "label": "Submit",
+            "heading": "Submit",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 12731,
+              "width": 390,
+              "height": 1289
+            },
+            "textLength": 622,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 14019,
+              "width": 390,
+              "height": 1465
+            },
+            "textLength": 819,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 15483,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/cookies.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/cookies.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cookie Notice | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/cookies.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2555
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Cookies section 1",
+            "heading": "Cookie Notice",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 939
+            },
+            "textLength": 586,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/firm.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/firm.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Firm | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/firm.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16287
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Firm by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dashboard-command",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1552
+            },
+            "textLength": 888,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-regulation",
+            "label": "Regulation",
+            "heading": "Regulation",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 1646,
+              "width": 390,
+              "height": 1815
+            },
+            "textLength": 719,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-advisors",
+            "label": "Advisors",
+            "heading": "Advisors",
+            "sectionType": "profiles",
+            "patternFamily": "route-cards",
+            "layoutVariation": "profile-card-grid",
+            "rect": {
+              "x": 0,
+              "y": 3460,
+              "width": 390,
+              "height": 1227
+            },
+            "textLength": 641,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-standards",
+            "label": "Standards",
+            "heading": "Standards",
+            "sectionType": "trust",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "review-carousel-static",
+            "rect": {
+              "x": 0,
+              "y": 4686,
+              "width": 390,
+              "height": 987
+            },
+            "textLength": 559,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-independence",
+            "label": "Independence",
+            "heading": "Independence",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 5673,
+              "width": 390,
+              "height": 1177
+            },
+            "textLength": 725,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-credentials",
+            "label": "Credentials",
+            "heading": "Credentials",
+            "sectionType": "trust",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "compliance-grid",
+            "rect": {
+              "x": 0,
+              "y": 6849,
+              "width": 390,
+              "height": 1441
+            },
+            "textLength": 554,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-values",
+            "label": "Values",
+            "heading": "Values",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 8290,
+              "width": 390,
+              "height": 1819
+            },
+            "textLength": 707,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-security",
+            "label": "Security",
+            "heading": "Security",
+            "sectionType": "trust",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "press-index",
+            "rect": {
+              "x": 0,
+              "y": 10108,
+              "width": 390,
+              "height": 1673
+            },
+            "textLength": 556,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust",
+            "sectionType": "trust",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credential-panel",
+            "rect": {
+              "x": 0,
+              "y": 11781,
+              "width": 390,
+              "height": 1235
+            },
+            "textLength": 547,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "cta",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "final-reassurance",
+            "rect": {
+              "x": 0,
+              "y": 13015,
+              "width": 390,
+              "height": 1539
+            },
+            "textLength": 812,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 14554,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/index.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/index.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Home | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/index.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 21942
+        },
+        "pageOverflow": false,
+        "sectionCount": 12,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Harbor",
+            "sectionType": "hero",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "luxury-minimal",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1636
+            },
+            "textLength": 962,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "site-atlas",
+            "label": "Site atlas",
+            "heading": "Every route through Harbor",
+            "sectionType": "homepage-atlas",
+            "patternFamily": "homepage-atlas",
+            "layoutVariation": "civic-site-index",
+            "rect": {
+              "x": 0,
+              "y": 1729,
+              "width": 390,
+              "height": 4136
+            },
+            "textLength": 2876,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-goals",
+            "label": "Goals",
+            "heading": "Goals",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 5865,
+              "width": 390,
+              "height": 1819
+            },
+            "textLength": 701,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-risk",
+            "label": "Risk",
+            "heading": "Risk",
+            "sectionType": "problem",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-pain-cards",
+            "rect": {
+              "x": 0,
+              "y": 7683,
+              "width": 390,
+              "height": 1604
+            },
+            "textLength": 917,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-promise",
+            "label": "Promise",
+            "heading": "Promise",
+            "sectionType": "solution",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "overview-panel",
+            "rect": {
+              "x": 0,
+              "y": 9286,
+              "width": 390,
+              "height": 1117
+            },
+            "textLength": 702,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-services",
+            "label": "Services",
+            "heading": "Services",
+            "sectionType": "services",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-service-matrix",
+            "rect": {
+              "x": 0,
+              "y": 10402,
+              "width": 390,
+              "height": 2077
+            },
+            "textLength": 836,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-advice",
+            "label": "Advice",
+            "heading": "Advice",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 12478,
+              "width": 390,
+              "height": 1551
+            },
+            "textLength": 694,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-proof",
+            "label": "Proof",
+            "heading": "Proof",
+            "sectionType": "results",
+            "patternFamily": "route-cards",
+            "layoutVariation": "review-result-cards",
+            "rect": {
+              "x": 0,
+              "y": 14029,
+              "width": 390,
+              "height": 1175
+            },
+            "textLength": 598,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-results",
+            "label": "Results",
+            "heading": "Results",
+            "sectionType": "results",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "before-after-proof",
+            "rect": {
+              "x": 0,
+              "y": 15203,
+              "width": 390,
+              "height": 1171
+            },
+            "textLength": 606,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-questions",
+            "label": "Questions",
+            "heading": "Questions",
+            "sectionType": "faq",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "two-column-faq",
+            "rect": {
+              "x": 0,
+              "y": 16374,
+              "width": 390,
+              "height": 2371
+            },
+            "textLength": 949,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 18745,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 12,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "cta",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "pattern-background-cta",
+            "rect": {
+              "x": 0,
+              "y": 18955,
+              "width": 390,
+              "height": 1465
+            },
+            "textLength": 812,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/markets.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/markets.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Markets | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/markets.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 18635
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Markets by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1552
+            },
+            "textLength": 890,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-context",
+            "label": "Context",
+            "heading": "Context",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 1646,
+              "width": 390,
+              "height": 1847
+            },
+            "textLength": 719,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-rates",
+            "label": "Rates",
+            "heading": "Rates",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 3492,
+              "width": 390,
+              "height": 1971
+            },
+            "textLength": 1080,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-trends",
+            "label": "Trends",
+            "heading": "Trends",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 5463,
+              "width": 390,
+              "height": 1177
+            },
+            "textLength": 716,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-products",
+            "label": "Products",
+            "heading": "Products",
+            "sectionType": "services",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-practice-index",
+            "rect": {
+              "x": 0,
+              "y": 6639,
+              "width": 390,
+              "height": 1850
+            },
+            "textLength": 822,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-commentary",
+            "label": "Commentary",
+            "heading": "Commentary",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 8488,
+              "width": 390,
+              "height": 1573
+            },
+            "textLength": 719,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-risk",
+            "label": "Risk",
+            "heading": "Risk",
+            "sectionType": "problem",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "friction-icon-grid",
+            "rect": {
+              "x": 0,
+              "y": 10060,
+              "width": 390,
+              "height": 2128
+            },
+            "textLength": 915,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-opportunities",
+            "label": "Opportunities",
+            "heading": "Opportunities",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 12188,
+              "width": 390,
+              "height": 1873
+            },
+            "textLength": 737,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-disclaimer",
+            "label": "Disclaimer",
+            "heading": "Disclaimer",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 14060,
+              "width": 390,
+              "height": 1373
+            },
+            "textLength": 728,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "cta",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "full-width-final-banner",
+            "rect": {
+              "x": 0,
+              "y": 15432,
+              "width": 390,
+              "height": 1471
+            },
+            "textLength": 821,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 16902,
+              "width": 390,
+              "height": 211
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/pricing.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/pricing.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Pricing | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/pricing.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 17375
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Pricing by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "video-poster-stage",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1532
+            },
+            "textLength": 893,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-fees",
+            "label": "Fees",
+            "heading": "Fees",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 1626,
+              "width": 390,
+              "height": 2422
+            },
+            "textLength": 984,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-consults",
+            "label": "Consults",
+            "heading": "Consults",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 4048,
+              "width": 390,
+              "height": 1227
+            },
+            "textLength": 673,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-advisory",
+            "label": "Advisory",
+            "heading": "Advisory",
+            "sectionType": "profiles",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credentials-split",
+            "rect": {
+              "x": 0,
+              "y": 5274,
+              "width": 390,
+              "height": 1091
+            },
+            "textLength": 630,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-retainers",
+            "label": "Retainers",
+            "heading": "Retainers",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 6364,
+              "width": 390,
+              "height": 1117
+            },
+            "textLength": 649,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-products",
+            "label": "Products",
+            "heading": "Products",
+            "sectionType": "services",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "build-scope-lanes",
+            "rect": {
+              "x": 0,
+              "y": 7480,
+              "width": 390,
+              "height": 1846
+            },
+            "textLength": 822,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-inclusions",
+            "label": "Inclusions",
+            "heading": "Inclusions",
+            "sectionType": "pricing",
+            "patternFamily": "form-studio",
+            "layoutVariation": "calculator-style",
+            "rect": {
+              "x": 0,
+              "y": 9325,
+              "width": 390,
+              "height": 1761
+            },
+            "textLength": 651,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-comparison",
+            "label": "Comparison",
+            "heading": "Comparison",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 11086,
+              "width": 390,
+              "height": 1793
+            },
+            "textLength": 651,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-terms",
+            "label": "Terms",
+            "heading": "Terms",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 12878,
+              "width": 390,
+              "height": 1312
+            },
+            "textLength": 641,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 14190,
+              "width": 390,
+              "height": 1465
+            },
+            "textLength": 814,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 15655,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/privacy.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/privacy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Privacy Notice | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/privacy.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2607
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Privacy section 1",
+            "heading": "Privacy Notice",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 991
+            },
+            "textLength": 668,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/questions.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/questions.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Questions | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/questions.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 17783
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Questions by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "search-led-hero",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1552
+            },
+            "textLength": 902,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-eligibility",
+            "label": "Eligibility",
+            "heading": "Eligibility",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 1646,
+              "width": 390,
+              "height": 1727
+            },
+            "textLength": 647,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Documents",
+            "sectionType": "faq",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-faq",
+            "rect": {
+              "x": 0,
+              "y": 3372,
+              "width": 390,
+              "height": 1186
+            },
+            "textLength": 657,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-fees",
+            "label": "Fees",
+            "heading": "Fees",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 4557,
+              "width": 390,
+              "height": 2400
+            },
+            "textLength": 986,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-risk",
+            "label": "Risk",
+            "heading": "Risk",
+            "sectionType": "problem",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "dark-contrast-warning",
+            "rect": {
+              "x": 0,
+              "y": 6957,
+              "width": 390,
+              "height": 1441
+            },
+            "textLength": 921,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-regulation",
+            "label": "Regulation",
+            "heading": "Regulation",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 8398,
+              "width": 390,
+              "height": 1493
+            },
+            "textLength": 636,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-timelines",
+            "label": "Timelines",
+            "heading": "Timelines",
+            "sectionType": "process",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "image-per-step",
+            "rect": {
+              "x": 0,
+              "y": 9890,
+              "width": 390,
+              "height": 1737
+            },
+            "textLength": 584,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-security",
+            "label": "Security",
+            "heading": "Security",
+            "sectionType": "trust",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "partner-strip-safe",
+            "rect": {
+              "x": 0,
+              "y": 11627,
+              "width": 390,
+              "height": 1683
+            },
+            "textLength": 571,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Support",
+            "sectionType": "services",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "program-impact-cards",
+            "rect": {
+              "x": 0,
+              "y": 13309,
+              "width": 390,
+              "height": 1289
+            },
+            "textLength": 598,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 14597,
+              "width": 390,
+              "height": 1465
+            },
+            "textLength": 827,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "faq",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-faq",
+            "rect": {
+              "x": 0,
+              "y": 16062,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/resources.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/resources.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Resources | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/resources.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 19404
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Resources by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-focused-panel",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1552
+            },
+            "textLength": 908,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-guides",
+            "label": "Guides",
+            "heading": "Guides",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 1646,
+              "width": 390,
+              "height": 2389
+            },
+            "textLength": 980,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-calculators",
+            "label": "Calculators",
+            "heading": "Calculators",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 4034,
+              "width": 390,
+              "height": 1169
+            },
+            "textLength": 624,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-reports",
+            "label": "Reports",
+            "heading": "Reports",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 5203,
+              "width": 390,
+              "height": 2357
+            },
+            "textLength": 988,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-checklists",
+            "label": "Checklists",
+            "heading": "Checklists",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 7559,
+              "width": 390,
+              "height": 1067
+            },
+            "textLength": 606,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-glossary",
+            "label": "Glossary",
+            "heading": "Glossary",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 8625,
+              "width": 390,
+              "height": 1521
+            },
+            "textLength": 604,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-downloads",
+            "label": "Downloads",
+            "heading": "Downloads",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 10146,
+              "width": 390,
+              "height": 3041
+            },
+            "textLength": 995,
+            "imageCount": 7,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-newsletter",
+            "label": "Newsletter",
+            "heading": "Newsletter",
+            "sectionType": "resources",
+            "patternFamily": "route-cards",
+            "layoutVariation": "resource-index",
+            "rect": {
+              "x": 0,
+              "y": 13186,
+              "width": 390,
+              "height": 1741
+            },
+            "textLength": 606,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-topics",
+            "label": "Topics",
+            "heading": "Topics",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 14927,
+              "width": 390,
+              "height": 1293
+            },
+            "textLength": 598,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "cta",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "cta-with-trust",
+            "rect": {
+              "x": 0,
+              "y": 16219,
+              "width": 390,
+              "height": 1465
+            },
+            "textLength": 827,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 17684,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/results.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/results.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Results | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/results.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 15992
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Results by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "product-stage",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1552
+            },
+            "textLength": 895,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-outcomes",
+            "label": "Outcomes",
+            "heading": "Outcomes",
+            "sectionType": "results",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "before-after-proof",
+            "rect": {
+              "x": 0,
+              "y": 1646,
+              "width": 390,
+              "height": 1737
+            },
+            "textLength": 593,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-savings",
+            "label": "Savings",
+            "heading": "Savings",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "score-improvement-cards",
+            "rect": {
+              "x": 0,
+              "y": 3382,
+              "width": 390,
+              "height": 1141
+            },
+            "textLength": 612,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-growth",
+            "label": "Growth",
+            "heading": "Growth",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "savings-cards",
+            "rect": {
+              "x": 0,
+              "y": 4523,
+              "width": 390,
+              "height": 1013
+            },
+            "textLength": 585,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-protection",
+            "label": "Protection",
+            "heading": "Protection",
+            "sectionType": "solution",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-pillar-framework",
+            "rect": {
+              "x": 0,
+              "y": 5535,
+              "width": 390,
+              "height": 1117
+            },
+            "textLength": 718,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-cases",
+            "label": "Cases",
+            "heading": "Cases",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "evidence-table",
+            "rect": {
+              "x": 0,
+              "y": 6651,
+              "width": 390,
+              "height": 1467
+            },
+            "textLength": 570,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Reviews",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "portfolio-outcome-cards",
+            "rect": {
+              "x": 0,
+              "y": 8118,
+              "width": 390,
+              "height": 1699
+            },
+            "textLength": 589,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-metrics",
+            "label": "Metrics",
+            "heading": "Metrics",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "stats-dashboard",
+            "rect": {
+              "x": 0,
+              "y": 9816,
+              "width": 390,
+              "height": 1698
+            },
+            "textLength": 589,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-notes",
+            "label": "Notes",
+            "heading": "Notes",
+            "sectionType": "results",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 11514,
+              "width": 390,
+              "height": 1293
+            },
+            "textLength": 581,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "transformation-grid",
+            "rect": {
+              "x": 0,
+              "y": 12806,
+              "width": 390,
+              "height": 1465
+            },
+            "textLength": 817,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "results",
+            "patternFamily": "route-cards",
+            "layoutVariation": "review-result-cards",
+            "rect": {
+              "x": 0,
+              "y": 14271,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/services.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/services.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Services | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/services.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 16293
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Services by Harbor",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-location-hero",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1552
+            },
+            "textLength": 900,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-planning",
+            "label": "Planning",
+            "heading": "Planning",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "advisory-pillar-cards",
+            "rect": {
+              "x": 0,
+              "y": 1646,
+              "width": 390,
+              "height": 1741
+            },
+            "textLength": 603,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-lending",
+            "label": "Lending",
+            "heading": "Lending",
+            "sectionType": "services",
+            "patternFamily": "map-console",
+            "layoutVariation": "logistics-lane-cards",
+            "rect": {
+              "x": 0,
+              "y": 3386,
+              "width": 390,
+              "height": 1199
+            },
+            "textLength": 607,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-wealth",
+            "label": "Wealth",
+            "heading": "Wealth",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "course-service-catalogue",
+            "rect": {
+              "x": 0,
+              "y": 4585,
+              "width": 390,
+              "height": 1067
+            },
+            "textLength": 597,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-protection",
+            "label": "Protection",
+            "heading": "Protection",
+            "sectionType": "solution",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "overview-panel",
+            "rect": {
+              "x": 0,
+              "y": 5651,
+              "width": 390,
+              "height": 1117
+            },
+            "textLength": 720,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-business",
+            "label": "Business",
+            "heading": "Business",
+            "sectionType": "services",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "program-impact-cards",
+            "rect": {
+              "x": 0,
+              "y": 6767,
+              "width": 390,
+              "height": 1495
+            },
+            "textLength": 582,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-benefits",
+            "label": "Benefits",
+            "heading": "Benefits",
+            "sectionType": "solution",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "what-changes-comparison",
+            "rect": {
+              "x": 0,
+              "y": 8262,
+              "width": 390,
+              "height": 1779
+            },
+            "textLength": 714,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-suitability",
+            "label": "Suitability",
+            "heading": "Suitability",
+            "sectionType": "services",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-service-matrix",
+            "rect": {
+              "x": 0,
+              "y": 10040,
+              "width": 390,
+              "height": 1726
+            },
+            "textLength": 612,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-scope",
+            "label": "Scope",
+            "heading": "Scope",
+            "sectionType": "services",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-practice-index",
+            "rect": {
+              "x": 0,
+              "y": 11765,
+              "width": 390,
+              "height": 1293
+            },
+            "textLength": 594,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Advisor Call",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "treatment-product-shelf",
+            "rect": {
+              "x": 0,
+              "y": 13057,
+              "width": 390,
+              "height": 1516
+            },
+            "textLength": 836,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "services",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "build-scope-lanes",
+            "rect": {
+              "x": 0,
+              "y": 14573,
+              "width": 390,
+              "height": 199
+            },
+            "textLength": 124,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/sitemap.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/sitemap.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Sitemap Page | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/sitemap.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2840
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Sitemap section 1",
+            "heading": "Sitemap Page",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 1224
+            },
+            "textLength": 555,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/terms.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/terms.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Terms of Use | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/terms.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2529
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Terms section 1",
+            "heading": "Terms of Use",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 913
+            },
+            "textLength": 595,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/09-finance/thanks.html",
+      "site": "09",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/thanks.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Thank You | Harbor Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/09-finance/thanks.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2585
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Thanks section 1",
+            "heading": "Thank You",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "width": 390,
+              "height": 970
+            },
+            "textLength": 510,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "siteName": "Studio",
+  "industry": "Creative, Design & Visual Production",
+  "number": 43,
+  "slug": "creative",
+  "baseUrl": "https://team-ashtra-ai.github.io/43/",
+  "repo": "https://github.com/team-ashtra-ai/43.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Start Project",
+  "schema": "Organization",
+  "visualDirection": "Design portfolio with stark white, red accents, huge typography, and rigorous grids",
+  "premiumDirection": "A creative portfolio with identity-led project tiles, typographic scale, lightbox logic, and studio enquiry",
+  "layoutSignature": "Graphic design portfolio grid",
+  "heroType": "Typographic work hero",
+  "headerType": "Design studio header",
+  "footerType": "project footer",
+  "cardStyle": "Identity project cards",
+  "formStyle": "Creative brief form",
+  "jsSignature": "Portfolio filter, project lightbox, file/brief upload",
+  "motionStyle": "Grid reveal",
+  "themeMode": "editorial",
+  "designPassport": {
+    "premiumDirection": "A creative portfolio with identity-led project tiles, typographic scale, lightbox logic, and studio enquiry",
+    "brandMood": "visual craft",
+    "buyerPsychology": "taste and production trust",
+    "typography": {
+      "display": "Verdana, Geneva, sans-serif",
+      "body": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "accent": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "summary": "Verdana display with \"Lucida Sans\" body and Inter accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for taste and production trust",
+    "layoutArchetype": "Graphic design portfolio grid",
+    "density": "spacious",
+    "shapeLanguage": "Identity project cards",
+    "surfaceMaterial": "Design portfolio with stark white, red accents, huge typography, and rigorous grids",
+    "imageSystem": "Brand systems, posters, design boards, case images",
+    "interactionModel": "Typographic work hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Start Project",
+    "pricingStyle": "production package cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Pentagram",
+    "url": "https://www.pentagram.com/",
+    "palette": [
+      "#ffffff",
+      "#111111",
+      "#e30613",
+      "#f2f2f2",
+      "#0057ff"
+    ],
+    "visualDirection": "Pentagram-style design portfolio with stark white, red accents, huge typography, and rigorous grids",
+    "premiumDirection": "A creative portfolio with identity-led project tiles, typographic scale, lightbox logic, and studio enquiry",
+    "layoutSignature": "graphic design portfolio grid",
+    "heroType": "typographic work hero",
+    "headerType": "design studio header",
+    "cardStyle": "identity project cards",
+    "formStyle": "creative brief form",
+    "motionStyle": "grid reveal",
+    "imageDirection": "brand systems, posters, design boards, case images",
+    "cssProfile": "pentagram"
+  },
+  "targetCssProfile": "pentagram",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Pentagram",
+      "url": "https://www.pentagram.com/"
+    },
+    {
+      "category": "direct",
+      "name": "COLLINS",
+      "url": "https://www.wearecollins.com"
+    },
+    {
+      "category": "direct",
+      "name": "Buck",
+      "url": "https://buck.co"
+    },
+    {
+      "category": "adjacent",
+      "name": "Instrument",
+      "url": "https://www.instrument.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Metalab",
+      "url": "https://www.metalab.com"
+    },
+    {
+      "category": "contrast",
+      "name": "A24",
+      "url": "https://a24films.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple",
+      "url": "https://www.apple.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin portfolio lightbox patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/creative-logo.svg",
+    "brandSymbol": "assets/brand/creative-symbol.svg",
+    "favicon": "assets/brand/creative-favicon.svg",
+    "appleTouchIcon": "assets/brand/creative-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/creative-home-open-graph.svg",
+    "mockup": "assets/mockups/creative-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Positioning",
+        "Problem",
+        "Promise",
+        "Work",
+        "Services",
+        "Process",
+        "Recognition",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Studio",
+      "file": "studio.html",
+      "sections": [
+        "Hero",
+        "Philosophy",
+        "Team",
+        "Taste",
+        "Influences",
+        "Standards",
+        "Clients",
+        "Reputation",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Work",
+      "file": "work.html",
+      "sections": [
+        "Hero",
+        "Portfolio",
+        "Branding",
+        "Photo",
+        "Video",
+        "Digital",
+        "Details",
+        "Outcomes",
+        "Reviews",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Identity",
+        "Production",
+        "Direction",
+        "Design",
+        "Content",
+        "Campaigns",
+        "Deliverables",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Brief",
+        "Concept",
+        "Production",
+        "Refinement",
+        "Delivery",
+        "Files",
+        "Usage",
+        "Aftercare",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Journal",
+      "file": "journal.html",
+      "sections": [
+        "Hero",
+        "Trends",
+        "Notes",
+        "Cases",
+        "Inspiration",
+        "Tools",
+        "Behind",
+        "Ideas",
+        "Read",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Identity",
+        "Campaigns",
+        "Retainers",
+        "Inclusions",
+        "Revisions",
+        "Usage",
+        "Terms",
+        "Quote",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Shop",
+      "file": "shop.html",
+      "sections": [
+        "Hero",
+        "Templates",
+        "Prints",
+        "Assets",
+        "Licenses",
+        "Details",
+        "Usage",
+        "Downloads",
+        "Buy",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Revisions",
+        "Files",
+        "Timelines",
+        "Usage",
+        "Payments",
+        "Ownership",
+        "Delivery",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Project",
+        "Timeline",
+        "Budget",
+        "Style",
+        "Uploads",
+        "Response",
+        "Form",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

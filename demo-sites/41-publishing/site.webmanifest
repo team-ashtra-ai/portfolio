@@ -1,0 +1,35 @@
+{
+  "name": "Index",
+  "short_name": "Index",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f7efd2",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "assets/brand/publishing-favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/brand/publishing-favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/publishing-favicon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/publishing-apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/publishing-social-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

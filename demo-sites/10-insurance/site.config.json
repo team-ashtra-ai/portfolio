@@ -1,0 +1,283 @@
+{
+  "siteName": "Shield",
+  "industry": "Insurance, Protection & Risk Cover",
+  "number": 10,
+  "slug": "insurance",
+  "baseUrl": "https://team-ashtra-ai.github.io/10/",
+  "repo": "https://github.com/team-ashtra-ai/10.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Quote",
+  "schema": "FinancialService",
+  "visualDirection": "Insurance quote flow with hot pink, friendly copy, and simple white cards",
+  "premiumDirection": "A quote-first insurance site with pink action, chat-like steps, playful policy cards, and claims reassurance",
+  "layoutSignature": "Pink quote journey",
+  "heroType": "Friendly quote hero",
+  "headerType": "Simple insurance header",
+  "footerType": "policy support footer",
+  "cardStyle": "Rounded policy cards",
+  "formStyle": "Quote route form",
+  "jsSignature": "Cover comparison, claims stepper, quote form logic",
+  "motionStyle": "Friendly step reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A quote-first insurance site with pink action, chat-like steps, playful policy cards, and claims reassurance",
+    "brandMood": "protective",
+    "buyerPsychology": "family and asset protection",
+    "typography": {
+      "display": "Georgia, \"Times New Roman\", serif",
+      "body": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "accent": "\"Palatino Linotype\", Palatino, serif",
+      "summary": "Georgia display with \"Segoe UI\" body and \"Palatino Linotype\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for family and asset protection",
+    "layoutArchetype": "Pink quote journey",
+    "density": "practical",
+    "shapeLanguage": "Rounded policy cards",
+    "surfaceMaterial": "Insurance quote flow with hot pink, friendly copy, and simple white cards",
+    "imageSystem": "Quote flows, policy cards, soft character-free illustrations",
+    "interactionModel": "Friendly quote hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Quote",
+    "pricingStyle": "premium factors cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Lemonade",
+    "url": "https://www.lemonade.com/",
+    "palette": [
+      "#fff2f7",
+      "#ff0083",
+      "#251024",
+      "#ffffff",
+      "#ffb3d9"
+    ],
+    "visualDirection": "Lemonade-style insurance quote flow with hot pink, friendly copy, and simple white cards",
+    "premiumDirection": "A quote-first insurance site with pink action, chat-like steps, playful policy cards, and claims reassurance",
+    "layoutSignature": "pink quote journey",
+    "heroType": "friendly quote hero",
+    "headerType": "simple insurance header",
+    "cardStyle": "rounded policy cards",
+    "formStyle": "quote route form",
+    "motionStyle": "friendly step reveal",
+    "imageDirection": "quote flows, policy cards, soft character-free illustrations",
+    "cssProfile": "lemonade"
+  },
+  "targetCssProfile": "lemonade",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Lemonade",
+      "url": "https://www.lemonade.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Oscar Health",
+      "url": "https://www.hioscar.com"
+    },
+    {
+      "category": "direct",
+      "name": "Allianz",
+      "url": "https://www.allianz.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Policygenius",
+      "url": "https://www.policygenius.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Simply Business",
+      "url": "https://www.simplybusiness.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Wise",
+      "url": "https://wise.com"
+    },
+    {
+      "category": "contrast",
+      "name": "GOV.UK benefits service flows",
+      "url": "https://www.gov.uk"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin quote and claims flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/insurance-logo.svg",
+    "brandSymbol": "assets/brand/insurance-symbol.svg",
+    "favicon": "assets/brand/insurance-favicon.svg",
+    "appleTouchIcon": "assets/brand/insurance-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/insurance-home-open-graph.svg",
+    "mockup": "assets/mockups/insurance-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Protection",
+        "Risk",
+        "Promise",
+        "Cover",
+        "Claims",
+        "Proof",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Broker",
+      "file": "broker.html",
+      "sections": [
+        "Hero",
+        "Independence",
+        "Partners",
+        "Standards",
+        "Team",
+        "Values",
+        "Regulation",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Cover",
+      "file": "cover.html",
+      "sections": [
+        "Hero",
+        "Overview",
+        "Life",
+        "Health",
+        "Business",
+        "Property",
+        "Vehicle",
+        "Exclusions",
+        "Suitability",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Claims",
+      "file": "claims.html",
+      "sections": [
+        "Hero",
+        "Stress",
+        "Report",
+        "Evidence",
+        "Review",
+        "Approval",
+        "Payout",
+        "Support",
+        "Timelines",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Advice",
+      "file": "advice.html",
+      "sections": [
+        "Hero",
+        "Gaps",
+        "Personal",
+        "Family",
+        "Business",
+        "Recommendations",
+        "Review",
+        "Updates",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Compare",
+      "file": "compare.html",
+      "sections": [
+        "Hero",
+        "Choice",
+        "Coverage",
+        "Limits",
+        "Excess",
+        "Exclusions",
+        "Cost",
+        "Fit",
+        "Warnings",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Premiums",
+        "Age",
+        "Assets",
+        "Risk",
+        "Excess",
+        "Discounts",
+        "Payments",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Guides",
+        "Checklists",
+        "Explainers",
+        "Claims",
+        "Risk",
+        "Downloads",
+        "Articles",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Eligibility",
+        "Documents",
+        "Claims",
+        "Payments",
+        "Cancellations",
+        "Exclusions",
+        "Support",
+        "Contact",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Quote",
+        "Claims",
+        "Support",
+        "Upload",
+        "Phone",
+        "Office",
+        "Hours",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

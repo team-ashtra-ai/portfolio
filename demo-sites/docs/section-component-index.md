@@ -1,0 +1,56 @@
+# 50-Site Section Component Index
+
+Every numbered site now exposes main-body sections as static portfolio components with WordPress-ready metadata and site-local pattern CSS.
+
+| Site | Brand | Sections mapped | Section types | Pattern families |
+| --- | --- | ---: | --- | --- |
+| 01-healthcare | AsterCare | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, form-studio, map-console, minimal-luxury |
+| 02-life-sciences | HelixNova | 122 | contact, cta, editorial, faq, hero, process, profiles, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 03-wellness | LumaStudio | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 04-technology | NexusOps | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, form-studio, map-console, minimal-luxury |
+| 05-saas | OrbitDesk | 152 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, form-studio, map-console, minimal-luxury |
+| 06-telecommunications | SignalNorth | 122 | contact, cta, editorial, faq, hero, pricing, process, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 07-cybersecurity | CipherWard | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 08-data-analytics | PrismBI | 152 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 09-finance | HarborLedger | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 10-insurance | Shieldline | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console, minimal-luxury |
+| 11-legal | CivicLex | 152 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 12-accounting | LedgerFlow | 152 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 13-consulting | VectorNorth | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, form-studio, map-console, minimal-luxury |
+| 14-education | BrightPath | 122 | contact, cta, editorial, faq, hero, pricing, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 15-recruitment | TalentBridge | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 16-real-estate | UrbanNest | 122 | contact, cta, editorial, faq, hero, pricing, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 17-construction | ForgeBuild | 152 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 18-architecture | AtelierGrid | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 19-interiors | RoomMuse | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 20-manufacturing | LineWorks | 152 | contact, cta, editorial, faq, hero, problem, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, form-studio, map-console, minimal-luxury |
+| 21-engineering | CoreSystems | 152 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 22-energy | SunVault | 152 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 23-utilities | ClearGrid | 152 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 24-environmental | TerraMetric | 152 | contact, cta, editorial, faq, hero, problem, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 25-agriculture | Fieldwise | 122 | contact, cta, editorial, faq, hero, pricing, problem, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 26-food-production | HarvestPack | 122 | contact, cta, editorial, faq, hero, process, profiles, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 27-restaurant | TableFlame | 122 | contact, cta, editorial, faq, hero, pricing, profiles, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 28-hotel | StayHaven | 122 | contact, cta, editorial, faq, hero, pricing, profiles, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 29-travel | AtlasKind | 122 | contact, cta, editorial, faq, hero, pricing, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 30-transport | RideSure | 122 | contact, cta, editorial, faq, hero, pricing, problem, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 31-logistics | ChainPilot | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 32-automotive | MotorArc | 122 | contact, cta, editorial, faq, hero, profiles, resources, results | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 33-aviation | AeroVector | 122 | contact, cta, editorial, faq, hero, problem, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 34-maritime | HarborLine | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 35-retail | CornerGoods | 122 | contact, cta, editorial, faq, hero, pricing, profiles, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 36-ecommerce | MarketPulse | 122 | contact, cta, editorial, faq, hero, pricing, process, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 37-fashion | LineaMode | 122 | contact, cta, editorial, faq, hero, profiles, resources, reviews | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 38-beauty | SkinTheory | 122 | contact, cta, editorial, faq, hero, process, resources, results | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 39-media | WaveCast | 122 | contact, cta, editorial, faq, hero, pricing, process, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 40-entertainment | StageCurrent | 122 | contact, cta, editorial, faq, hero, pricing, profiles, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 41-publishing | IndexHouse | 122 | contact, cta, editorial, faq, hero, process, profiles, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 42-marketing | SignalCraft | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 43-creative | StudioFrame | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 44-sports | PulseClub | 122 | contact, cta, editorial, faq, hero, pricing, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 45-events | VowVenue | 122 | contact, cta, editorial, faq, hero, pricing, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 46-government | CivicAccess | 122 | contact, cta, editorial, faq, hero, pricing, problem, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 47-nonprofit | CommonGood | 122 | contact, cta, editorial, faq, hero, problem, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, form-studio, map-console, minimal-luxury |
+| 48-veterinary | PawHealth | 122 | contact, cta, editorial, faq, hero, pricing, problem, process | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 49-luxury | MaisonVale | 122 | contact, cta, editorial, faq, hero, pricing, process, profiles | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |
+| 50-personal-brand | Nameplate | 122 | contact, cta, editorial, faq, hero, process, profiles, resources | bento-grid, cinematic-bleed, collage-stack, dashboard-command, editorial-split, faq-panel, form-studio, map-console |

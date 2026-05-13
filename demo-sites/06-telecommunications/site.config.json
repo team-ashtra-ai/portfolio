@@ -1,0 +1,283 @@
+{
+  "siteName": "Signal",
+  "industry": "Telecommunications, Internet & Connectivity",
+  "number": 6,
+  "slug": "telecommunications",
+  "baseUrl": "https://team-ashtra-ai.github.io/6/",
+  "repo": "https://github.com/team-ashtra-ai/6.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Check Coverage",
+  "schema": "Organization",
+  "visualDirection": "Black space utility with full-bleed contrast, uppercase navigation, and availability CTAs",
+  "premiumDirection": "A coverage-first telecom site with stark dark hero, satellite-map panels, speed proof, and direct address checking",
+  "layoutSignature": "Space coverage landing",
+  "heroType": "Black full-bleed coverage hero",
+  "headerType": "Uppercase utility header",
+  "footerType": "coverage support footer",
+  "cardStyle": "Satellite coverage cards",
+  "formStyle": "Availability checker form",
+  "jsSignature": "Coverage checker mockup, plan filter, outage alert panel",
+  "motionStyle": "Slow parallax and signal reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A coverage-first telecom site with stark dark hero, satellite-map panels, speed proof, and direct address checking",
+    "brandMood": "coverage-led",
+    "buyerPsychology": "availability and reliability",
+    "typography": {
+      "display": "Inter, ui-sans-serif, system-ui, sans-serif",
+      "body": "Aptos, Calibri, sans-serif",
+      "accent": "\"Trebuchet MS\", Arial, sans-serif",
+      "summary": "Inter display with Aptos body and \"Trebuchet MS\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for availability and reliability",
+    "layoutArchetype": "Space coverage landing",
+    "density": "practical",
+    "shapeLanguage": "Satellite coverage cards",
+    "surfaceMaterial": "Black space utility with full-bleed contrast, uppercase navigation, and availability CTAs",
+    "imageSystem": "Satellite fields, night skies, coverage maps, hardware silhouettes",
+    "interactionModel": "Black full-bleed coverage hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Check Coverage",
+    "pricingStyle": "plan speed cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Starlink",
+    "url": "https://www.starlink.com/",
+    "palette": [
+      "#050505",
+      "#ffffff",
+      "#8b949e",
+      "#f5f5f5",
+      "#b8c7d9"
+    ],
+    "visualDirection": "Starlink-style black space utility with full-bleed contrast, uppercase navigation, and availability CTAs",
+    "premiumDirection": "A coverage-first telecom site with stark dark hero, satellite-map panels, speed proof, and direct address checking",
+    "layoutSignature": "space coverage landing",
+    "heroType": "black full-bleed coverage hero",
+    "headerType": "uppercase utility header",
+    "cardStyle": "satellite coverage cards",
+    "formStyle": "availability checker form",
+    "motionStyle": "slow parallax and signal reveal",
+    "imageDirection": "satellite fields, night skies, coverage maps, hardware silhouettes",
+    "cssProfile": "starlink"
+  },
+  "targetCssProfile": "starlink",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Starlink",
+      "url": "https://www.starlink.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Verizon Business",
+      "url": "https://www.verizon.com/business"
+    },
+    {
+      "category": "direct",
+      "name": "Google Fiber",
+      "url": "https://fiber.google.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Ting Internet",
+      "url": "https://ting.com/internet"
+    },
+    {
+      "category": "adjacent",
+      "name": "T-Mobile Business",
+      "url": "https://www.t-mobile.com/business"
+    },
+    {
+      "category": "contrast",
+      "name": "Citymapper",
+      "url": "https://citymapper.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Octopus Energy",
+      "url": "https://octopus.energy"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin availability checker patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/telecommunications-logo.svg",
+    "brandSymbol": "assets/brand/telecommunications-symbol.svg",
+    "favicon": "assets/brand/telecommunications-favicon.svg",
+    "appleTouchIcon": "assets/brand/telecommunications-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/telecommunications-home-open-graph.svg",
+    "mockup": "assets/mockups/telecommunications-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Connectivity",
+        "Speed",
+        "Coverage",
+        "Plans",
+        "Business",
+        "Reliability",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Network",
+      "file": "network.html",
+      "sections": [
+        "Hero",
+        "Mission",
+        "Company",
+        "Community",
+        "Infrastructure",
+        "Team",
+        "Standards",
+        "Expansion",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Plans",
+      "file": "plans.html",
+      "sections": [
+        "Hero",
+        "Residential",
+        "Business",
+        "Enterprise",
+        "Speeds",
+        "Routers",
+        "Contracts",
+        "Comparison",
+        "Details",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Coverage",
+      "file": "coverage.html",
+      "sections": [
+        "Hero",
+        "Areas",
+        "Map",
+        "Check",
+        "Expansion",
+        "Waiting",
+        "Availability",
+        "Reliability",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Business",
+      "file": "business.html",
+      "sections": [
+        "Hero",
+        "Internet",
+        "Failover",
+        "Static",
+        "SLAs",
+        "Security",
+        "Support",
+        "Scale",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Install",
+      "file": "install.html",
+      "sections": [
+        "Hero",
+        "Booking",
+        "Equipment",
+        "Visit",
+        "Setup",
+        "Activation",
+        "Testing",
+        "WiFi",
+        "Aftercare",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Support",
+      "file": "support.html",
+      "sections": [
+        "Hero",
+        "Outages",
+        "Billing",
+        "Setup",
+        "Router",
+        "Speed",
+        "Tickets",
+        "Response",
+        "Escalation",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Guides",
+      "file": "guides.html",
+      "sections": [
+        "Hero",
+        "WiFi",
+        "Security",
+        "Remote",
+        "Routers",
+        "Speed",
+        "Advice",
+        "Updates",
+        "Articles",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Speeds",
+        "Contracts",
+        "Routers",
+        "Install",
+        "Billing",
+        "Support",
+        "Policies",
+        "Help",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Sales",
+        "Help",
+        "Billing",
+        "Address",
+        "Phone",
+        "Hours",
+        "WhatsApp",
+        "Map",
+        "CTA"
+      ]
+    }
+  ]
+}

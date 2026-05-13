@@ -1,0 +1,288 @@
+{
+  "siteName": "Field",
+  "industry": "Agriculture, Farming & Rural Business",
+  "number": 25,
+  "slug": "agriculture",
+  "baseUrl": "https://team-ashtra-ai.github.io/25/",
+  "repo": "https://github.com/team-ashtra-ai/25.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Plan Visit",
+  "schema": "Organization",
+  "visualDirection": "Agriculture with deep green, vertical-farm rhythm, and controlled-growth proof",
+  "premiumDirection": "A controlled-agriculture site with vertical growing surfaces, yield metrics, season planning, and visit routes",
+  "layoutSignature": "Vertical farm growth system",
+  "heroType": "Deep-green grow room hero",
+  "headerType": "Agri innovation header",
+  "footerType": "seasonal footer",
+  "cardStyle": "Growth metric cards",
+  "formStyle": "Season visit form",
+  "jsSignature": "Seasonal calendar, product filter, advice route selector",
+  "motionStyle": "Vertical row reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A controlled-agriculture site with vertical growing surfaces, yield metrics, season planning, and visit routes",
+    "brandMood": "rural practical",
+    "buyerPsychology": "seasonal timing and trust",
+    "typography": {
+      "display": "\"Palatino Linotype\", Palatino, serif",
+      "body": "Verdana, Geneva, sans-serif",
+      "accent": "Constantia, Georgia, serif",
+      "summary": "\"Palatino Linotype\" display with Verdana body and Constantia accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for seasonal timing and trust",
+    "layoutArchetype": "Vertical farm growth system",
+    "density": "practical",
+    "shapeLanguage": "Growth metric cards",
+    "surfaceMaterial": "Agriculture with deep green, vertical-farm rhythm, and controlled-growth proof",
+    "imageSystem": "Indoor farms, leafy crops, grow lights, yield data",
+    "interactionModel": "Deep-green grow room hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Plan Visit",
+    "pricingStyle": "season package cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "AeroFarms",
+    "url": "https://www.aerofarms.com/",
+    "palette": [
+      "#061b12",
+      "#20c36b",
+      "#a6e22e",
+      "#f2f7e8",
+      "#6bbf59"
+    ],
+    "visualDirection": "AeroFarms-style agriculture with deep green, vertical-farm rhythm, and controlled-growth proof",
+    "premiumDirection": "A controlled-agriculture site with vertical growing surfaces, yield metrics, season planning, and visit routes",
+    "layoutSignature": "vertical farm growth system",
+    "heroType": "deep-green grow room hero",
+    "headerType": "agri innovation header",
+    "cardStyle": "growth metric cards",
+    "formStyle": "season visit form",
+    "motionStyle": "vertical row reveal",
+    "imageDirection": "indoor farms, leafy crops, grow lights, yield data",
+    "cssProfile": "aerofarms"
+  },
+  "targetCssProfile": "aerofarms",
+  "references": [
+    {
+      "category": "direct",
+      "name": "AeroFarms",
+      "url": "https://www.aerofarms.com/"
+    },
+    {
+      "category": "direct",
+      "name": "John Deere",
+      "url": "https://www.deere.com"
+    },
+    {
+      "category": "direct",
+      "name": "Bayer Crop Science",
+      "url": "https://www.cropscience.bayer.com"
+    },
+    {
+      "category": "direct",
+      "name": "Indigo Ag",
+      "url": "https://www.indigoag.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Farmers Business Network",
+      "url": "https://www.fbn.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Yara",
+      "url": "https://www.yara.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Patagonia",
+      "url": "https://www.patagonia.com"
+    },
+    {
+      "category": "contrast",
+      "name": "National Geographic",
+      "url": "https://www.nationalgeographic.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin seasonal planner patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/agriculture-logo.svg",
+    "brandSymbol": "assets/brand/agriculture-symbol.svg",
+    "favicon": "assets/brand/agriculture-favicon.svg",
+    "appleTouchIcon": "assets/brand/agriculture-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/agriculture-home-open-graph.svg",
+    "mockup": "assets/mockups/agriculture-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Yield",
+        "Promise",
+        "Services",
+        "Products",
+        "Advice",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Farm",
+      "file": "farm.html",
+      "sections": [
+        "Hero",
+        "Heritage",
+        "Region",
+        "Team",
+        "Values",
+        "Knowledge",
+        "Suppliers",
+        "Community",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Planning",
+        "Supply",
+        "Maintenance",
+        "Advisory",
+        "Seasonal",
+        "Visits",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Products",
+      "file": "products.html",
+      "sections": [
+        "Hero",
+        "Inputs",
+        "Equipment",
+        "Seeds",
+        "Feed",
+        "Tools",
+        "Specs",
+        "Uses",
+        "Availability",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Land",
+      "file": "land.html",
+      "sections": [
+        "Hero",
+        "Soil",
+        "Water",
+        "Crops",
+        "Livestock",
+        "Improvement",
+        "Monitoring",
+        "Sustainability",
+        "Planning",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Advice",
+      "file": "advice.html",
+      "sections": [
+        "Hero",
+        "Productivity",
+        "Compliance",
+        "Finance",
+        "Seasonality",
+        "Risk",
+        "Recommendations",
+        "Plan",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Fees",
+        "Ranges",
+        "Packages",
+        "Delivery",
+        "Bulk",
+        "Terms",
+        "Quote",
+        "Payment",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Seasonal",
+        "Crops",
+        "Livestock",
+        "Compliance",
+        "Checklists",
+        "Downloads",
+        "Updates",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Delivery",
+        "Seasonality",
+        "Fit",
+        "Visits",
+        "Support",
+        "Payment",
+        "Returns",
+        "Advice",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Visit",
+        "Order",
+        "Advice",
+        "Location",
+        "Phone",
+        "WhatsApp",
+        "Hours",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

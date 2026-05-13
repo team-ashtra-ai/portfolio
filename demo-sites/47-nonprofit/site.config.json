@@ -1,0 +1,288 @@
+{
+  "siteName": "Good",
+  "industry": "Nonprofit, Charity & Social Impact",
+  "number": 47,
+  "slug": "nonprofit",
+  "baseUrl": "https://team-ashtra-ai.github.io/47/",
+  "repo": "https://github.com/team-ashtra-ai/47.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Donate Today",
+  "schema": "NGO",
+  "visualDirection": "Nonprofit with yellow urgency, human impact proof, and donation clarity",
+  "premiumDirection": "A donor site with bold yellow impact modules, transparent metrics, story cards, and donation selector",
+  "layoutSignature": "Transparent donation impact flow",
+  "heroType": "Yellow impact hero",
+  "headerType": "Donation campaign header",
+  "footerType": "impact footer",
+  "cardStyle": "Impact story cards",
+  "formStyle": "Donation form",
+  "jsSignature": "Donation selector, impact calculator, volunteer role filter",
+  "motionStyle": "Impact counter reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A donor site with bold yellow impact modules, transparent metrics, story cards, and donation selector",
+    "brandMood": "urgent transparent",
+    "buyerPsychology": "trust and contribution",
+    "typography": {
+      "display": "\"Arial Narrow\", Arial, sans-serif",
+      "body": "Verdana, Geneva, sans-serif",
+      "accent": "Inter, ui-sans-serif, system-ui, sans-serif",
+      "summary": "\"Arial Narrow\" display with Verdana body and Inter accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for trust and contribution",
+    "layoutArchetype": "Transparent donation impact flow",
+    "density": "medium",
+    "shapeLanguage": "Impact story cards",
+    "surfaceMaterial": "Nonprofit with yellow urgency, human impact proof, and donation clarity",
+    "imageSystem": "Community photos, water projects, donor reports, maps",
+    "interactionModel": "Yellow impact hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Donate Today",
+    "pricingStyle": "donation impact cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "charity: water",
+    "url": "https://www.charitywater.org/",
+    "palette": [
+      "#ffffff",
+      "#ffc907",
+      "#111111",
+      "#f6f6f2",
+      "#2b6cb0"
+    ],
+    "visualDirection": "charity: water-style nonprofit with yellow urgency, human impact proof, and donation clarity",
+    "premiumDirection": "A donor site with bold yellow impact modules, transparent metrics, story cards, and donation selector",
+    "layoutSignature": "transparent donation impact flow",
+    "heroType": "yellow impact hero",
+    "headerType": "donation campaign header",
+    "cardStyle": "impact story cards",
+    "formStyle": "donation form",
+    "motionStyle": "impact counter reveal",
+    "imageDirection": "community photos, water projects, donor reports, maps",
+    "cssProfile": "charitywater"
+  },
+  "targetCssProfile": "charitywater",
+  "references": [
+    {
+      "category": "direct",
+      "name": "charity: water",
+      "url": "https://www.charitywater.org/"
+    },
+    {
+      "category": "direct",
+      "name": "charity water",
+      "url": "https://www.charitywater.org"
+    },
+    {
+      "category": "direct",
+      "name": "WWF",
+      "url": "https://www.worldwildlife.org"
+    },
+    {
+      "category": "direct",
+      "name": "Red Cross",
+      "url": "https://www.redcross.org"
+    },
+    {
+      "category": "adjacent",
+      "name": "UNICEF",
+      "url": "https://www.unicef.org"
+    },
+    {
+      "category": "adjacent",
+      "name": "Kiva",
+      "url": "https://www.kiva.org"
+    },
+    {
+      "category": "contrast",
+      "name": "Patagonia",
+      "url": "https://www.patagonia.com"
+    },
+    {
+      "category": "contrast",
+      "name": "National Geographic",
+      "url": "https://www.nationalgeographic.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin donation selector patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/nonprofit-logo.svg",
+    "brandSymbol": "assets/brand/nonprofit-symbol.svg",
+    "favicon": "assets/brand/nonprofit-favicon.svg",
+    "appleTouchIcon": "assets/brand/nonprofit-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/nonprofit-home-open-graph.svg",
+    "mockup": "assets/mockups/nonprofit-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Cause",
+        "Urgency",
+        "Promise",
+        "Impact",
+        "Programs",
+        "Donate",
+        "Stories",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Organisation",
+      "file": "organisation.html",
+      "sections": [
+        "Hero",
+        "Team",
+        "Board",
+        "Governance",
+        "Values",
+        "Partners",
+        "Transparency",
+        "History",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Mission",
+      "file": "mission.html",
+      "sections": [
+        "Hero",
+        "Purpose",
+        "Vision",
+        "Values",
+        "Change",
+        "Goals",
+        "Principles",
+        "Impact",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Impact",
+      "file": "impact.html",
+      "sections": [
+        "Hero",
+        "Numbers",
+        "Outcomes",
+        "Reports",
+        "People",
+        "Community",
+        "Transparency",
+        "Proof",
+        "Donate",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Programs",
+      "file": "programs.html",
+      "sections": [
+        "Hero",
+        "Overview",
+        "Education",
+        "Relief",
+        "Advocacy",
+        "Community",
+        "Activities",
+        "People",
+        "Join",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Donate",
+      "file": "donate.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Onetime",
+        "Monthly",
+        "Corporate",
+        "Funds",
+        "Trust",
+        "Security",
+        "Give",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Volunteer",
+      "file": "volunteer.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Roles",
+        "Skills",
+        "Time",
+        "Requirements",
+        "Training",
+        "Application",
+        "Join",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Stories",
+      "file": "stories.html",
+      "sections": [
+        "Hero",
+        "People",
+        "Beneficiaries",
+        "Volunteers",
+        "Communities",
+        "Photos",
+        "Outcomes",
+        "Related",
+        "Read",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Reports",
+        "Toolkits",
+        "Guides",
+        "Campaigns",
+        "Downloads",
+        "Share",
+        "Learn",
+        "Use",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Donate",
+        "Volunteer",
+        "Partner",
+        "Media",
+        "Form",
+        "Response",
+        "Details",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

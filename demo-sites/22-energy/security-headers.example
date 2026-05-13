@@ -1,0 +1,14 @@
+# Static hosting security header baseline
+
+Apply equivalent headers in the chosen static host. Tighten Content-Security-Policy
+after inventorying every required script, style, font, image, form, analytics, and
+embed endpoint.
+
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; img-src 'self' data: https:; font-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; connect-src 'self'; frame-src 'self'
+
+Optional after confirming all subdomains use HTTPS:
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload

@@ -1,0 +1,283 @@
+{
+  "siteName": "Motor",
+  "industry": "Automotive, Vehicles & Mobility Products",
+  "number": 32,
+  "slug": "automotive",
+  "baseUrl": "https://team-ashtra-ai.github.io/32/",
+  "repo": "https://github.com/team-ashtra-ai/32.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Book Test Drive",
+  "schema": "Organization",
+  "visualDirection": "Automotive minimalism with cool greys, product focus, and restrained configurator energy",
+  "premiumDirection": "A vehicle showroom site with precise white space, car-card rhythm, finance paths, and test-drive CTAs",
+  "layoutSignature": "Minimal EV showroom",
+  "heroType": "Stark vehicle product hero",
+  "headerType": "Minimal showroom header",
+  "footerType": "service bay footer",
+  "cardStyle": "Precise vehicle cards",
+  "formStyle": "Test-drive form",
+  "jsSignature": "Inventory filter, finance calculator, test-drive form",
+  "motionStyle": "Clean configurator reveal",
+  "themeMode": "dark",
+  "designPassport": {
+    "premiumDirection": "A vehicle showroom site with precise white space, car-card rhythm, finance paths, and test-drive CTAs",
+    "brandMood": "showroom performance",
+    "buyerPsychology": "purchase confidence and desire",
+    "typography": {
+      "display": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "body": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "accent": "Constantia, Georgia, serif",
+      "summary": "Aptos display with \"Segoe UI\" body and Constantia accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for purchase confidence and desire",
+    "layoutArchetype": "Minimal EV showroom",
+    "density": "spacious",
+    "shapeLanguage": "Precise vehicle cards",
+    "surfaceMaterial": "Automotive minimalism with cool greys, product focus, and restrained configurator energy",
+    "imageSystem": "EV silhouettes, interiors, chargers, specification panels",
+    "interactionModel": "Stark vehicle product hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Book Test Drive",
+    "pricingStyle": "finance calculator cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Polestar",
+    "url": "https://www.polestar.com/",
+    "palette": [
+      "#f8f8f8",
+      "#111111",
+      "#d8dadd",
+      "#ffffff",
+      "#8a8f98"
+    ],
+    "visualDirection": "Polestar-style automotive minimalism with cool greys, product focus, and restrained configurator energy",
+    "premiumDirection": "A vehicle showroom site with precise white space, car-card rhythm, finance paths, and test-drive CTAs",
+    "layoutSignature": "minimal EV showroom",
+    "heroType": "stark vehicle product hero",
+    "headerType": "minimal showroom header",
+    "cardStyle": "precise vehicle cards",
+    "formStyle": "test-drive form",
+    "motionStyle": "clean configurator reveal",
+    "imageDirection": "EV silhouettes, interiors, chargers, specification panels",
+    "cssProfile": "polestar"
+  },
+  "targetCssProfile": "polestar",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Polestar",
+      "url": "https://www.polestar.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Porsche",
+      "url": "https://www.porsche.com"
+    },
+    {
+      "category": "direct",
+      "name": "Rivian",
+      "url": "https://rivian.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Tesla",
+      "url": "https://www.tesla.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Volvo Cars",
+      "url": "https://www.volvocars.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple",
+      "url": "https://www.apple.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Nike",
+      "url": "https://www.nike.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin inventory and finance flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/automotive-logo.svg",
+    "brandSymbol": "assets/brand/automotive-symbol.svg",
+    "favicon": "assets/brand/automotive-favicon.svg",
+    "appleTouchIcon": "assets/brand/automotive-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/automotive-home-open-graph.svg",
+    "mockup": "assets/mockups/automotive-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Desire",
+        "Featured",
+        "Services",
+        "Finance",
+        "Workshop",
+        "Offers",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Dealer",
+      "file": "dealer.html",
+      "sections": [
+        "Hero",
+        "Brands",
+        "Team",
+        "Standards",
+        "Reviews",
+        "Facilities",
+        "Values",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Vehicles",
+      "file": "vehicles.html",
+      "sections": [
+        "Hero",
+        "Inventory",
+        "New",
+        "Used",
+        "Electric",
+        "Specs",
+        "Photos",
+        "Availability",
+        "Compare",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Sales",
+        "Leasing",
+        "Maintenance",
+        "Tradein",
+        "Fleet",
+        "Advice",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Finance",
+      "file": "finance.html",
+      "sections": [
+        "Hero",
+        "Options",
+        "Loans",
+        "Leasing",
+        "Tradein",
+        "Eligibility",
+        "Calculator",
+        "Documents",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Workshop",
+      "file": "workshop.html",
+      "sections": [
+        "Hero",
+        "Repairs",
+        "Servicing",
+        "Diagnostics",
+        "Tyres",
+        "Warranty",
+        "Booking",
+        "Tips",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Offers",
+      "file": "offers.html",
+      "sections": [
+        "Hero",
+        "Deals",
+        "Finance",
+        "Service",
+        "Seasonal",
+        "Tradein",
+        "Packages",
+        "Terms",
+        "Savings",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Parts",
+      "file": "parts.html",
+      "sections": [
+        "Hero",
+        "Accessories",
+        "Tyres",
+        "Genuine",
+        "Compatibility",
+        "Ordering",
+        "Installation",
+        "Availability",
+        "Help",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Warranty",
+        "Testdrive",
+        "Documents",
+        "Finance",
+        "Booking",
+        "Tradein",
+        "Service",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Testdrive",
+        "Service",
+        "Sales",
+        "Location",
+        "Hours",
+        "Phone",
+        "Map",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

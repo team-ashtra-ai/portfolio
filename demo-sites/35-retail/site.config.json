@@ -1,0 +1,283 @@
+{
+  "siteName": "Corner",
+  "industry": "Retail, Shops & Consumer Sales",
+  "number": 35,
+  "slug": "retail",
+  "baseUrl": "https://team-ashtra-ai.github.io/35/",
+  "repo": "https://github.com/team-ashtra-ai/35.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Visit Shop",
+  "schema": "Store",
+  "visualDirection": "Retail minimalism with soft grey surfaces, product tiles, and clear shopping paths",
+  "premiumDirection": "A retail shopfront with clean product shelves, rounded offer cards, service proof, and store-finder CTAs",
+  "layoutSignature": "Minimal product store",
+  "heroType": "Soft product shelf hero",
+  "headerType": "Clean shop header",
+  "footerType": "store finder footer",
+  "cardStyle": "Rounded product tiles",
+  "formStyle": "Store finder form",
+  "jsSignature": "Product/category filter, loyalty signup, store finder",
+  "motionStyle": "Polished product reveal",
+  "themeMode": "commerce",
+  "designPassport": {
+    "premiumDirection": "A retail shopfront with clean product shelves, rounded offer cards, service proof, and store-finder CTAs",
+    "brandMood": "shopfront",
+    "buyerPsychology": "convenience and offer discovery",
+    "typography": {
+      "display": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "body": "\"Trebuchet MS\", Arial, sans-serif",
+      "accent": "\"Palatino Linotype\", Palatino, serif",
+      "summary": "Aptos display with \"Trebuchet MS\" body and \"Palatino Linotype\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for convenience and offer discovery",
+    "layoutArchetype": "Minimal product store",
+    "density": "medium",
+    "shapeLanguage": "Rounded product tiles",
+    "surfaceMaterial": "Retail minimalism with soft grey surfaces, product tiles, and clear shopping paths",
+    "imageSystem": "Product tiles, store spaces, service cards, device-like panels",
+    "interactionModel": "Soft product shelf hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Visit Shop",
+    "pricingStyle": "offer bundle cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Apple Store",
+    "url": "https://www.apple.com/store",
+    "palette": [
+      "#f5f5f7",
+      "#1d1d1f",
+      "#0071e3",
+      "#ffffff",
+      "#a1a1a6"
+    ],
+    "visualDirection": "Apple Store-style retail minimalism with soft grey surfaces, product tiles, and clear shopping paths",
+    "premiumDirection": "A retail shopfront with clean product shelves, rounded offer cards, service proof, and store-finder CTAs",
+    "layoutSignature": "minimal product store",
+    "heroType": "soft product shelf hero",
+    "headerType": "clean shop header",
+    "cardStyle": "rounded product tiles",
+    "formStyle": "store finder form",
+    "motionStyle": "polished product reveal",
+    "imageDirection": "product tiles, store spaces, service cards, device-like panels",
+    "cssProfile": "apple"
+  },
+  "targetCssProfile": "apple",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Apple Store",
+      "url": "https://www.apple.com/store"
+    },
+    {
+      "category": "direct",
+      "name": "Nike",
+      "url": "https://www.nike.com"
+    },
+    {
+      "category": "direct",
+      "name": "Patagonia",
+      "url": "https://www.patagonia.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Muji",
+      "url": "https://www.muji.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Target",
+      "url": "https://www.target.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aesop",
+      "url": "https://www.aesop.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Oatly",
+      "url": "https://www.oatly.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin category and store finder patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/retail-logo.svg",
+    "brandSymbol": "assets/brand/retail-symbol.svg",
+    "favicon": "assets/brand/retail-favicon.svg",
+    "appleTouchIcon": "assets/brand/retail-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/retail-home-open-graph.svg",
+    "mockup": "assets/mockups/retail-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Promise",
+        "Featured",
+        "Categories",
+        "Offers",
+        "Stores",
+        "Reviews",
+        "Story",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Brand",
+      "file": "brand.html",
+      "sections": [
+        "Hero",
+        "Story",
+        "Taste",
+        "Values",
+        "Team",
+        "Quality",
+        "Community",
+        "Recognition",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Shop",
+      "file": "shop.html",
+      "sections": [
+        "Hero",
+        "Categories",
+        "Collections",
+        "Bestsellers",
+        "New",
+        "Filters",
+        "Cards",
+        "Recommendations",
+        "Cart",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Products",
+      "file": "products.html",
+      "sections": [
+        "Hero",
+        "Range",
+        "Features",
+        "Materials",
+        "Uses",
+        "Details",
+        "Reviews",
+        "Related",
+        "Stock",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Offers",
+      "file": "offers.html",
+      "sections": [
+        "Hero",
+        "Promotions",
+        "Bundles",
+        "Seasonal",
+        "Clearance",
+        "Perks",
+        "Conditions",
+        "Expiry",
+        "Featured",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Stores",
+      "file": "stores.html",
+      "sections": [
+        "Hero",
+        "Locations",
+        "Hours",
+        "Services",
+        "Map",
+        "Parking",
+        "Events",
+        "Stock",
+        "Visit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Loyalty",
+      "file": "loyalty.html",
+      "sections": [
+        "Hero",
+        "Rewards",
+        "Points",
+        "Tiers",
+        "Benefits",
+        "Rules",
+        "Signup",
+        "Offers",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Journal",
+      "file": "journal.html",
+      "sections": [
+        "Hero",
+        "Guides",
+        "Trends",
+        "Howto",
+        "Inspiration",
+        "Tips",
+        "Gifts",
+        "Products",
+        "Read",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Returns",
+        "Delivery",
+        "Payment",
+        "Stock",
+        "Loyalty",
+        "Stores",
+        "Care",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Store",
+        "Online",
+        "Wholesale",
+        "Phone",
+        "Email",
+        "Map",
+        "Hours",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

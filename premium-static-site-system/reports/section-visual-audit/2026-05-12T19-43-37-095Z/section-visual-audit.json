@@ -1,0 +1,457 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-12T19:43:51.207Z",
+    "viewport": {
+      "width": 1440,
+      "height": 960,
+      "mobile": false,
+      "quality": 60
+    },
+    "screenshotMode": "all",
+    "totalPages": 4,
+    "totalSections": 16,
+    "sectionsCaptured": 16,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-12T19-43-37-095Z"
+  },
+  "bySite": {
+    "01": {
+      "pages": 4,
+      "sections": 16,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/01-healthcare/404.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/404.html",
+        "viewport": {
+          "width": 1440,
+          "height": 960
+        },
+        "documentSize": {
+          "width": 1425,
+          "height": 1782
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 1425,
+              "height": 1063
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/404/01-404-section-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/accessibility.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/accessibility.html",
+        "viewport": {
+          "width": 1440,
+          "height": 960
+        },
+        "documentSize": {
+          "width": 1425,
+          "height": 1874
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 1425,
+              "height": 1154
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/accessibility/01-accessibility-section-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/asset-system.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/asset-system.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Asset System | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/asset-system.html",
+        "viewport": {
+          "width": 1440,
+          "height": 960
+        },
+        "documentSize": {
+          "width": 1425,
+          "height": 4781
+        },
+        "pageOverflow": false,
+        "sectionCount": 3,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Asset-System section 1",
+            "heading": "Aster assets",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 1425,
+              "height": 696
+            },
+            "textLength": 248,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/asset-system/01-asset-system-section-1.jpg"
+          },
+          {
+            "index": 2,
+            "id": "",
+            "label": "Asset-System section 2",
+            "heading": "Site-local files in use",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 818,
+              "width": 1425,
+              "height": 2656
+            },
+            "textLength": 2406,
+            "imageCount": 22,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/asset-system/02-asset-system-section-2.jpg"
+          },
+          {
+            "index": 3,
+            "id": "",
+            "label": "Asset-System section 3",
+            "heading": "Pages using this system",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 3473,
+              "width": 1425,
+              "height": 712
+            },
+            "textLength": 386,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/asset-system/03-asset-system-section-3.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/care.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/care.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Care | Aster Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/care.html",
+        "viewport": {
+          "width": 1440,
+          "height": 960
+        },
+        "documentSize": {
+          "width": 1425,
+          "height": 10137
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Care by Aster",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 123,
+              "width": 1425,
+              "height": 1166
+            },
+            "textLength": 923,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/01-section-hero.jpg"
+          },
+          {
+            "index": 2,
+            "id": "section-concerns",
+            "label": "Concerns",
+            "heading": "Concerns",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 1289,
+              "width": 1425,
+              "height": 927
+            },
+            "textLength": 763,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/02-section-concerns.jpg"
+          },
+          {
+            "index": 3,
+            "id": "section-assessment",
+            "label": "Assessment",
+            "heading": "Assessment",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 2216,
+              "width": 1425,
+              "height": 892
+            },
+            "textLength": 760,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/03-section-assessment.jpg"
+          },
+          {
+            "index": 4,
+            "id": "section-diagnosis",
+            "label": "Diagnosis",
+            "heading": "Diagnosis",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 3107,
+              "width": 1425,
+              "height": 830
+            },
+            "textLength": 747,
+            "imageCount": 3,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/04-section-diagnosis.jpg"
+          },
+          {
+            "index": 5,
+            "id": "section-options",
+            "label": "Options",
+            "heading": "Options",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 3936,
+              "width": 1425,
+              "height": 823
+            },
+            "textLength": 751,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/05-section-options.jpg"
+          },
+          {
+            "index": 6,
+            "id": "section-safety",
+            "label": "Safety",
+            "heading": "Safety",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 4759,
+              "width": 1425,
+              "height": 927
+            },
+            "textLength": 757,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/06-section-safety.jpg"
+          },
+          {
+            "index": 7,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Support",
+            "sectionType": "services",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-service-matrix",
+            "rect": {
+              "x": 0,
+              "y": 5686,
+              "width": 1425,
+              "height": 690
+            },
+            "textLength": 541,
+            "imageCount": 1,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/07-section-support.jpg"
+          },
+          {
+            "index": 8,
+            "id": "section-followup",
+            "label": "Followup",
+            "heading": "Followup",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 6376,
+              "width": 1425,
+              "height": 823
+            },
+            "textLength": 754,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/08-section-followup.jpg"
+          },
+          {
+            "index": 9,
+            "id": "section-suitability",
+            "label": "Suitability",
+            "heading": "Suitability",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 7199,
+              "width": 1425,
+              "height": 892
+            },
+            "textLength": 763,
+            "imageCount": 4,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/09-section-suitability.jpg"
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Appointment",
+            "sectionType": "cta",
+            "patternFamily": "form-studio",
+            "layoutVariation": "embedded-form-cta",
+            "rect": {
+              "x": 0,
+              "y": 8090,
+              "width": 1425,
+              "height": 1256
+            },
+            "textLength": 818,
+            "imageCount": 2,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/10-section-cta.jpg"
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Notes",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 9346,
+              "width": 1425,
+              "height": 195
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": [],
+            "screenshot": "screenshots/01-healthcare/care/11-important-notes.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

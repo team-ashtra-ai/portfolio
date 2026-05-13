@@ -1,0 +1,35 @@
+{
+  "name": "Brand",
+  "short_name": "Brand",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#17233c",
+  "icons": [
+    {
+      "src": "assets/brand/personal-brand-favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/brand/personal-brand-favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/personal-brand-favicon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/personal-brand-apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/personal-brand-social-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "siteName": "Line",
+  "industry": "Manufacturing, Production & Industrial Operations",
+  "number": 20,
+  "slug": "manufacturing",
+  "baseUrl": "https://team-ashtra-ai.github.io/20/",
+  "repo": "https://github.com/team-ashtra-ai/20.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Send RFQ",
+  "schema": "Organization",
+  "visualDirection": "Manufacturing product clarity with precise specs, orange highlights, and printer-like panels",
+  "premiumDirection": "A production capability site with product-spec tables, precise media panels, facility proof, and RFQ routing",
+  "layoutSignature": "Industrial product specification",
+  "heroType": "Precision product hero",
+  "headerType": "Manufacturing product header",
+  "footerType": "capability footer",
+  "cardStyle": "Specification cards",
+  "formStyle": "RFQ spec form",
+  "jsSignature": "Capability filter, spec table toggle, facility gallery",
+  "motionStyle": "Spec table reveal",
+  "themeMode": "technical",
+  "designPassport": {
+    "premiumDirection": "A production capability site with product-spec tables, precise media panels, facility proof, and RFQ routing",
+    "brandMood": "industrial",
+    "buyerPsychology": "capacity and quality confidence",
+    "typography": {
+      "display": "\"Trebuchet MS\", Arial, sans-serif",
+      "body": "Aptos, Calibri, sans-serif",
+      "accent": "Didot, Bodoni 72, Georgia, serif",
+      "summary": "\"Trebuchet MS\" display with Aptos body and Didot accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for capacity and quality confidence",
+    "layoutArchetype": "Industrial product specification",
+    "density": "dense",
+    "shapeLanguage": "Specification cards",
+    "surfaceMaterial": "Manufacturing product clarity with precise specs, orange highlights, and printer-like panels",
+    "imageSystem": "3D printers, material samples, production benches",
+    "interactionModel": "Precision product hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Send RFQ",
+    "pricingStyle": "volume/spec quote table",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Formlabs",
+    "url": "https://formlabs.com/",
+    "palette": [
+      "#f8f8f8",
+      "#111111",
+      "#ff5f1f",
+      "#dfe3e6",
+      "#6b7280"
+    ],
+    "visualDirection": "Formlabs-style manufacturing product clarity with precise specs, orange highlights, and printer-like panels",
+    "premiumDirection": "A production capability site with product-spec tables, precise media panels, facility proof, and RFQ routing",
+    "layoutSignature": "industrial product specification",
+    "heroType": "precision product hero",
+    "headerType": "manufacturing product header",
+    "cardStyle": "specification cards",
+    "formStyle": "RFQ spec form",
+    "motionStyle": "spec table reveal",
+    "imageDirection": "3D printers, material samples, production benches",
+    "cssProfile": "formlabs"
+  },
+  "targetCssProfile": "formlabs",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Formlabs",
+      "url": "https://formlabs.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Siemens",
+      "url": "https://www.siemens.com"
+    },
+    {
+      "category": "direct",
+      "name": "Bosch",
+      "url": "https://www.bosch.com"
+    },
+    {
+      "category": "direct",
+      "name": "Xometry",
+      "url": "https://www.xometry.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Protolabs",
+      "url": "https://www.protolabs.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Formlabs",
+      "url": "https://formlabs.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Tesla",
+      "url": "https://www.tesla.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple manufacturing stories",
+      "url": "https://www.apple.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin RFQ and spec table patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/manufacturing-logo.svg",
+    "brandSymbol": "assets/brand/manufacturing-symbol.svg",
+    "favicon": "assets/brand/manufacturing-favicon.svg",
+    "appleTouchIcon": "assets/brand/manufacturing-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/manufacturing-home-open-graph.svg",
+    "mockup": "assets/mockups/manufacturing-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Capacity",
+        "Promise",
+        "Capabilities",
+        "Quality",
+        "Facilities",
+        "Industries",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Factory",
+      "file": "factory.html",
+      "sections": [
+        "Hero",
+        "Company",
+        "Team",
+        "Values",
+        "History",
+        "Equipment",
+        "Standards",
+        "Scale",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Capabilities",
+      "file": "capabilities.html",
+      "sections": [
+        "Hero",
+        "Fabrication",
+        "Assembly",
+        "Packaging",
+        "Machining",
+        "Finishing",
+        "Tolerances",
+        "Volumes",
+        "Specs",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Industries",
+      "file": "industries.html",
+      "sections": [
+        "Hero",
+        "Markets",
+        "Automotive",
+        "Medical",
+        "Consumer",
+        "Industrial",
+        "Food",
+        "Requirements",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Quality",
+      "file": "quality.html",
+      "sections": [
+        "Hero",
+        "System",
+        "Testing",
+        "Inspection",
+        "Traceability",
+        "Documents",
+        "Standards",
+        "Defects",
+        "Audits",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Brief",
+        "Drawings",
+        "Prototype",
+        "Production",
+        "QA",
+        "Packaging",
+        "Delivery",
+        "Review",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Facilities",
+      "file": "facilities.html",
+      "sections": [
+        "Hero",
+        "Tour",
+        "Equipment",
+        "Lines",
+        "Capacity",
+        "Storage",
+        "Safety",
+        "Maintenance",
+        "Photos",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Compliance",
+      "file": "compliance.html",
+      "sections": [
+        "Hero",
+        "Certifications",
+        "ISO",
+        "Standards",
+        "Audits",
+        "Documents",
+        "Policies",
+        "Verification",
+        "Governance",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Datasheets",
+        "Specs",
+        "Guides",
+        "Tolerances",
+        "Materials",
+        "Downloads",
+        "Preparation",
+        "Library",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "RFQ",
+        "Drawings",
+        "Quantities",
+        "Timeline",
+        "Sales",
+        "Technical",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

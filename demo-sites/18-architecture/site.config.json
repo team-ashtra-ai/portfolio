@@ -1,0 +1,283 @@
+{
+  "siteName": "Craft",
+  "industry": "Architecture, Planning & Built Environment",
+  "number": 18,
+  "slug": "architecture",
+  "baseUrl": "https://team-ashtra-ai.github.io/18/",
+  "repo": "https://github.com/team-ashtra-ai/18.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Discuss Project",
+  "schema": "Organization",
+  "visualDirection": "Architecture portfolio with radical restraint, huge imagery, and project-index logic",
+  "premiumDirection": "A spatial portfolio site with minimal chrome, full-bleed project moments, thin metadata, and studio enquiry",
+  "layoutSignature": "Spatial project index",
+  "heroType": "Minimal full-bleed project hero",
+  "headerType": "Bare studio header",
+  "footerType": "project index footer",
+  "cardStyle": "Architectural index cards",
+  "formStyle": "Project brief form",
+  "jsSignature": "Project gallery, planning stage stepper, image reveal",
+  "motionStyle": "Slow spatial reveal",
+  "themeMode": "editorial",
+  "designPassport": {
+    "premiumDirection": "A spatial portfolio site with minimal chrome, full-bleed project moments, thin metadata, and studio enquiry",
+    "brandMood": "spatial editorial",
+    "buyerPsychology": "taste and design authority",
+    "typography": {
+      "display": "\"Trebuchet MS\", Arial, sans-serif",
+      "body": "Verdana, Geneva, sans-serif",
+      "accent": "Georgia, \"Times New Roman\", serif",
+      "summary": "\"Trebuchet MS\" display with Verdana body and Georgia accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for taste and design authority",
+    "layoutArchetype": "Spatial project index",
+    "density": "spacious",
+    "shapeLanguage": "Architectural index cards",
+    "surfaceMaterial": "Architecture portfolio with radical restraint, huge imagery, and project-index logic",
+    "imageSystem": "Architecture photography, plans, models, site context",
+    "interactionModel": "Minimal full-bleed project hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Discuss Project",
+    "pricingStyle": "stage fee cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Snohetta",
+    "url": "https://snohetta.com/",
+    "palette": [
+      "#f4f1eb",
+      "#111111",
+      "#c4c7c5",
+      "#ffffff",
+      "#7a807b"
+    ],
+    "visualDirection": "Snohetta-style architecture portfolio with radical restraint, huge imagery, and project-index logic",
+    "premiumDirection": "A spatial portfolio site with minimal chrome, full-bleed project moments, thin metadata, and studio enquiry",
+    "layoutSignature": "spatial project index",
+    "heroType": "minimal full-bleed project hero",
+    "headerType": "bare studio header",
+    "cardStyle": "architectural index cards",
+    "formStyle": "project brief form",
+    "motionStyle": "slow spatial reveal",
+    "imageDirection": "architecture photography, plans, models, site context",
+    "cssProfile": "snohetta"
+  },
+  "targetCssProfile": "snohetta",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Snohetta",
+      "url": "https://snohetta.com/"
+    },
+    {
+      "category": "direct",
+      "name": "BIG",
+      "url": "https://big.dk"
+    },
+    {
+      "category": "direct",
+      "name": "Foster and Partners",
+      "url": "https://www.fosterandpartners.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Heatherwick Studio",
+      "url": "https://www.heatherwick.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aesop",
+      "url": "https://www.aesop.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aman",
+      "url": "https://www.aman.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin portfolio gallery patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/architecture-logo.svg",
+    "brandSymbol": "assets/brand/architecture-symbol.svg",
+    "favicon": "assets/brand/architecture-favicon.svg",
+    "appleTouchIcon": "assets/brand/architecture-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/architecture-home-open-graph.svg",
+    "mockup": "assets/mockups/architecture-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Vision",
+        "Context",
+        "Promise",
+        "Projects",
+        "Services",
+        "Process",
+        "Awards",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Studio",
+      "file": "studio.html",
+      "sections": [
+        "Hero",
+        "Philosophy",
+        "Team",
+        "Credentials",
+        "Values",
+        "Collaborators",
+        "Recognition",
+        "Approach",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Projects",
+      "file": "projects.html",
+      "sections": [
+        "Hero",
+        "Portfolio",
+        "Residential",
+        "Commercial",
+        "Urban",
+        "Context",
+        "Response",
+        "Details",
+        "Outcomes",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Concept",
+        "Planning",
+        "Design",
+        "Documents",
+        "Interiors",
+        "Consultation",
+        "Deliverables",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Brief",
+        "Research",
+        "Concept",
+        "Planning",
+        "Detail",
+        "Coordination",
+        "Delivery",
+        "Handover",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Planning",
+      "file": "planning.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Regulations",
+        "Applications",
+        "Drawings",
+        "Documents",
+        "Timelines",
+        "Risks",
+        "Approval",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Fees",
+        "Stages",
+        "Deliverables",
+        "Revisions",
+        "Consultants",
+        "Extras",
+        "Payments",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Insights",
+      "file": "insights.html",
+      "sections": [
+        "Hero",
+        "Design",
+        "Planning",
+        "Sustainability",
+        "Materials",
+        "Urbanism",
+        "Cases",
+        "Journal",
+        "Ideas",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Permissions",
+        "Timelines",
+        "Fees",
+        "Revisions",
+        "Role",
+        "Consultants",
+        "Documents",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Project",
+        "Site",
+        "Budget",
+        "Timeline",
+        "Consultation",
+        "Phone",
+        "Studio",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

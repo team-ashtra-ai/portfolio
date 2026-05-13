@@ -1,0 +1,283 @@
+{
+  "siteName": "Ledger",
+  "industry": "Accounting, Tax & Financial Administration",
+  "number": 12,
+  "slug": "accounting",
+  "baseUrl": "https://team-ashtra-ai.github.io/12/",
+  "repo": "https://github.com/team-ashtra-ai/12.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Quote",
+  "schema": "Organization",
+  "visualDirection": "Accounting clarity with sky blue, rounded dashboards, and friendly admin paths",
+  "premiumDirection": "An accounting command site with cloud-blue dashboards, deadline cards, plan comparison, and admin reassurance",
+  "layoutSignature": "Cloud accounting dashboard",
+  "heroType": "Rounded ledger dashboard hero",
+  "headerType": "Blue product header",
+  "footerType": "filing support footer",
+  "cardStyle": "Ledger dashboard cards",
+  "formStyle": "Filing quote form",
+  "jsSignature": "Deadline calendar, document checklist, package comparison",
+  "motionStyle": "Calendar and ledger reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "An accounting command site with cloud-blue dashboards, deadline cards, plan comparison, and admin reassurance",
+    "brandMood": "deadline-led",
+    "buyerPsychology": "order and compliance",
+    "typography": {
+      "display": "Georgia, \"Times New Roman\", serif",
+      "body": "\"Trebuchet MS\", Arial, sans-serif",
+      "accent": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "summary": "Georgia display with \"Trebuchet MS\" body and \"Lucida Sans\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for order and compliance",
+    "layoutArchetype": "Cloud accounting dashboard",
+    "density": "compact",
+    "shapeLanguage": "Ledger dashboard cards",
+    "surfaceMaterial": "Accounting clarity with sky blue, rounded dashboards, and friendly admin paths",
+    "imageSystem": "Bookkeeping dashboards, invoices, payroll cards",
+    "interactionModel": "Rounded ledger dashboard hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Quote",
+    "pricingStyle": "filing package grid",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Xero",
+    "url": "https://www.xero.com/",
+    "palette": [
+      "#eaf7ff",
+      "#13b5ea",
+      "#045c8c",
+      "#102a43",
+      "#8de1ff"
+    ],
+    "visualDirection": "Xero-style accounting clarity with sky blue, rounded dashboards, and friendly admin paths",
+    "premiumDirection": "An accounting command site with cloud-blue dashboards, deadline cards, plan comparison, and admin reassurance",
+    "layoutSignature": "cloud accounting dashboard",
+    "heroType": "rounded ledger dashboard hero",
+    "headerType": "blue product header",
+    "cardStyle": "ledger dashboard cards",
+    "formStyle": "filing quote form",
+    "motionStyle": "calendar and ledger reveal",
+    "imageDirection": "bookkeeping dashboards, invoices, payroll cards",
+    "cssProfile": "xero"
+  },
+  "targetCssProfile": "xero",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Xero",
+      "url": "https://www.xero.com/"
+    },
+    {
+      "category": "direct",
+      "name": "QuickBooks",
+      "url": "https://quickbooks.intuit.com"
+    },
+    {
+      "category": "direct",
+      "name": "FreshBooks",
+      "url": "https://www.freshbooks.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Bench",
+      "url": "https://www.bench.co"
+    },
+    {
+      "category": "adjacent",
+      "name": "Pilot",
+      "url": "https://pilot.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Notion",
+      "url": "https://www.notion.com"
+    },
+    {
+      "category": "contrast",
+      "name": "GOV.UK tax service pages",
+      "url": "https://www.gov.uk"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin admin checklist flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/accounting-logo.svg",
+    "brandSymbol": "assets/brand/accounting-symbol.svg",
+    "favicon": "assets/brand/accounting-favicon.svg",
+    "appleTouchIcon": "assets/brand/accounting-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/accounting-home-open-graph.svg",
+    "mockup": "assets/mockups/accounting-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Disorder",
+        "Risk",
+        "Promise",
+        "Services",
+        "Flow",
+        "Proof",
+        "Deadlines",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Practice",
+      "file": "practice.html",
+      "sections": [
+        "Hero",
+        "Accuracy",
+        "Team",
+        "Tools",
+        "Standards",
+        "Security",
+        "Values",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Bookkeeping",
+        "Reports",
+        "Advisory",
+        "Filing",
+        "Admin",
+        "Software",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Tax",
+      "file": "tax.html",
+      "sections": [
+        "Hero",
+        "Needs",
+        "Planning",
+        "Returns",
+        "Compliance",
+        "Deadlines",
+        "Documents",
+        "Risk",
+        "Updates",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Payroll",
+      "file": "payroll.html",
+      "sections": [
+        "Hero",
+        "Problem",
+        "Salaries",
+        "Benefits",
+        "Deductions",
+        "Reporting",
+        "Compliance",
+        "Support",
+        "Timelines",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Onboarding",
+        "Setup",
+        "Monthly",
+        "Review",
+        "Reporting",
+        "Filing",
+        "Advisory",
+        "Improvements",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Plans",
+        "Starter",
+        "Business",
+        "Advisory",
+        "Addons",
+        "Inclusions",
+        "Comparison",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Calendars",
+        "Templates",
+        "Checklists",
+        "Guides",
+        "Software",
+        "Deadlines",
+        "Downloads",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Documents",
+        "Software",
+        "Deadlines",
+        "Fees",
+        "Payroll",
+        "Tax",
+        "Security",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Quote",
+        "Documents",
+        "Consultation",
+        "Phone",
+        "Email",
+        "Office",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-12T18:21:09.884Z",
+    "totalHomepages": 1,
+    "failures": 0,
+    "desktopScreenshots": "premium-static-site-system/reports/homepage-atlas/2026-05-12T18-20-58-319Z/screenshots/desktop",
+    "mobileScreenshots": "premium-static-site-system/reports/homepage-atlas/2026-05-12T18-20-58-319Z/screenshots/mobile",
+    "outputDirectory": "premium-static-site-system/reports/homepage-atlas/2026-05-12T18-20-58-319Z"
+  },
+  "results": [
+    {
+      "site": "01",
+      "folder": "01-healthcare",
+      "file": "demo-sites/01-healthcare/index.html",
+      "expectedFiles": [
+        "404.html",
+        "accessibility.html",
+        "asset-system.html",
+        "care.html",
+        "clinic.html",
+        "contact.html",
+        "cookies.html",
+        "doctors.html",
+        "guides.html",
+        "journey.html",
+        "outcomes.html",
+        "pricing.html",
+        "privacy.html",
+        "sitemap.html",
+        "terms.html",
+        "thanks.html",
+        "treatments.html"
+      ],
+      "desktop": {
+        "title": "Home | Aster Static Site",
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "hasHero": true,
+        "hasAtlas": true,
+        "hasFinalCta": true,
+        "heroFastLinks": 4,
+        "atlasLinkCount": 31,
+        "missingLinks": [],
+        "brokenImages": [],
+        "overflow": false,
+        "overflowing": [],
+        "documentHeight": 13295,
+        "screenshot": "screenshots/desktop/01-healthcare.jpg"
+      },
+      "mobile": {
+        "title": "Home | Aster Static Site",
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "hasHero": true,
+        "hasAtlas": true,
+        "hasFinalCta": true,
+        "heroFastLinks": 4,
+        "atlasLinkCount": 31,
+        "missingLinks": [],
+        "brokenImages": [],
+        "overflow": false,
+        "overflowing": [],
+        "documentHeight": 23577,
+        "screenshot": "screenshots/mobile/01-healthcare.jpg"
+      },
+      "pageErrors": [],
+      "consoleErrors": []
+    }
+  ]
+}

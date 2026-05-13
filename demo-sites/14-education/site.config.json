@@ -1,0 +1,288 @@
+{
+  "siteName": "Bright",
+  "industry": "Education, Training & Learning Services",
+  "number": 14,
+  "slug": "education",
+  "baseUrl": "https://team-ashtra-ai.github.io/14/",
+  "repo": "https://github.com/team-ashtra-ai/14.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Book Trial",
+  "schema": "Organization",
+  "visualDirection": "Cinematic education with black stage surfaces, instructor tiles, and red CTAs",
+  "premiumDirection": "A course-led education site with cinematic hero, lesson shelves, premium teacher proof, and trial routes",
+  "layoutSignature": "Cinematic course catalogue",
+  "heroType": "Black cinematic course hero",
+  "headerType": "Streaming course header",
+  "footerType": "learning resource footer",
+  "cardStyle": "Lesson trailer cards",
+  "formStyle": "Trial lesson form",
+  "jsSignature": "Level selector, course filter, timetable interaction",
+  "motionStyle": "Trailer fade reveal",
+  "themeMode": "care",
+  "designPassport": {
+    "premiumDirection": "A course-led education site with cinematic hero, lesson shelves, premium teacher proof, and trial routes",
+    "brandMood": "supportive",
+    "buyerPsychology": "confidence and progress",
+    "typography": {
+      "display": "Georgia, \"Times New Roman\", serif",
+      "body": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "accent": "Constantia, Georgia, serif",
+      "summary": "Georgia display with \"Lucida Sans\" body and Constantia accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for confidence and progress",
+    "layoutArchetype": "Cinematic course catalogue",
+    "density": "medium",
+    "shapeLanguage": "Lesson trailer cards",
+    "surfaceMaterial": "Cinematic education with black stage surfaces, instructor tiles, and red CTAs",
+    "imageSystem": "Course stills, teacher portraits, dark learning shelves",
+    "interactionModel": "Black cinematic course hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Book Trial",
+    "pricingStyle": "lesson packages",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "MasterClass",
+    "url": "https://www.masterclass.com/",
+    "palette": [
+      "#050505",
+      "#ffffff",
+      "#d71920",
+      "#151515",
+      "#b28b55"
+    ],
+    "visualDirection": "MasterClass-style cinematic education with black stage surfaces, instructor tiles, and red CTAs",
+    "premiumDirection": "A course-led education site with cinematic hero, lesson shelves, premium teacher proof, and trial routes",
+    "layoutSignature": "cinematic course catalogue",
+    "heroType": "black cinematic course hero",
+    "headerType": "streaming course header",
+    "cardStyle": "lesson trailer cards",
+    "formStyle": "trial lesson form",
+    "motionStyle": "trailer fade reveal",
+    "imageDirection": "course stills, teacher portraits, dark learning shelves",
+    "cssProfile": "masterclass"
+  },
+  "targetCssProfile": "masterclass",
+  "references": [
+    {
+      "category": "direct",
+      "name": "MasterClass",
+      "url": "https://www.masterclass.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Coursera",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "category": "direct",
+      "name": "Duolingo",
+      "url": "https://www.duolingo.com"
+    },
+    {
+      "category": "direct",
+      "name": "Khan Academy",
+      "url": "https://www.khanacademy.org"
+    },
+    {
+      "category": "adjacent",
+      "name": "MasterClass",
+      "url": "https://www.masterclass.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "General Assembly",
+      "url": "https://generalassemb.ly"
+    },
+    {
+      "category": "contrast",
+      "name": "Headspace",
+      "url": "https://www.headspace.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple Education",
+      "url": "https://www.apple.com/education"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin course onboarding flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/education-logo.svg",
+    "brandSymbol": "assets/brand/education-symbol.svg",
+    "favicon": "assets/brand/education-favicon.svg",
+    "appleTouchIcon": "assets/brand/education-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/education-home-open-graph.svg",
+    "mockup": "assets/mockups/education-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Goal",
+        "Struggle",
+        "Promise",
+        "Courses",
+        "Method",
+        "Results",
+        "Proof",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "School",
+      "file": "school.html",
+      "sections": [
+        "Hero",
+        "Mission",
+        "Standards",
+        "Community",
+        "Values",
+        "Philosophy",
+        "Teachers",
+        "Outcomes",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Courses",
+      "file": "courses.html",
+      "sections": [
+        "Hero",
+        "Overview",
+        "Levels",
+        "Subjects",
+        "Formats",
+        "Outcomes",
+        "Schedule",
+        "Materials",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Method",
+      "file": "method.html",
+      "sections": [
+        "Hero",
+        "Diagnosis",
+        "Practice",
+        "Feedback",
+        "Correction",
+        "Review",
+        "Progress",
+        "Confidence",
+        "Independence",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Outcomes",
+        "Scores",
+        "Confidence",
+        "Testimonials",
+        "Stories",
+        "Progress",
+        "Proof",
+        "Expectations",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Lessons",
+        "Packages",
+        "Groups",
+        "Materials",
+        "Inclusions",
+        "Payments",
+        "Policies",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Teachers",
+      "file": "teachers.html",
+      "sections": [
+        "Hero",
+        "Team",
+        "Qualifications",
+        "Experience",
+        "Specialisms",
+        "Profiles",
+        "Style",
+        "Availability",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Worksheets",
+        "Guides",
+        "Videos",
+        "Practice",
+        "Plans",
+        "Downloads",
+        "Topics",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Level",
+        "Schedule",
+        "Homework",
+        "Materials",
+        "Payment",
+        "Cancellation",
+        "Progress",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Trial",
+        "Placement",
+        "Booking",
+        "WhatsApp",
+        "Email",
+        "Response",
+        "Steps",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

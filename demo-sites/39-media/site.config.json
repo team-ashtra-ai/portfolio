@@ -1,0 +1,283 @@
+{
+  "siteName": "Wave",
+  "industry": "Media, Broadcasting & Digital Content",
+  "number": 39,
+  "slug": "media",
+  "baseUrl": "https://team-ashtra-ai.github.io/39/",
+  "repo": "https://github.com/team-ashtra-ai/39.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Advertise With Us",
+  "schema": "Organization",
+  "visualDirection": "Media system with black surfaces, neon accents, angular modules, and dense story grids",
+  "premiumDirection": "A media site with bold editorial grid, neon category strips, episode cards, and advertiser download routes",
+  "layoutSignature": "Neon editorial news grid",
+  "heroType": "Angular media hero",
+  "headerType": "Neon media header",
+  "footerType": "audience footer",
+  "cardStyle": "Angled story cards",
+  "formStyle": "Advertise kit form",
+  "jsSignature": "Show schedule filter, episode cards, advertise kit download",
+  "motionStyle": "Ticker and story reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A media site with bold editorial grid, neon category strips, episode cards, and advertiser download routes",
+    "brandMood": "broadcast",
+    "buyerPsychology": "audience reach and timing",
+    "typography": {
+      "display": "Verdana, Geneva, sans-serif",
+      "body": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "accent": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "summary": "Verdana display with \"Segoe UI\" body and Inter accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for audience reach and timing",
+    "layoutArchetype": "Neon editorial news grid",
+    "density": "compact",
+    "shapeLanguage": "Angled story cards",
+    "surfaceMaterial": "Media system with black surfaces, neon accents, angular modules, and dense story grids",
+    "imageSystem": "News cards, studio images, episode panels, neon lines",
+    "interactionModel": "Angular media hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Advertise With Us",
+    "pricingStyle": "sponsorship cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/",
+    "palette": [
+      "#0b0b13",
+      "#e2127a",
+      "#fff200",
+      "#00d4ff",
+      "#ffffff"
+    ],
+    "visualDirection": "The Verge-style media system with black surfaces, neon accents, angular modules, and dense story grids",
+    "premiumDirection": "A media site with bold editorial grid, neon category strips, episode cards, and advertiser download routes",
+    "layoutSignature": "neon editorial news grid",
+    "heroType": "angular media hero",
+    "headerType": "neon media header",
+    "cardStyle": "angled story cards",
+    "formStyle": "advertise kit form",
+    "motionStyle": "ticker and story reveal",
+    "imageDirection": "news cards, studio images, episode panels, neon lines",
+    "cssProfile": "verge"
+  },
+  "targetCssProfile": "verge",
+  "references": [
+    {
+      "category": "direct",
+      "name": "The Verge",
+      "url": "https://www.theverge.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "category": "direct",
+      "name": "Vox",
+      "url": "https://www.vox.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "BBC",
+      "url": "https://www.bbc.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "NPR",
+      "url": "https://www.npr.org"
+    },
+    {
+      "category": "contrast",
+      "name": "Netflix",
+      "url": "https://www.netflix.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Spotify",
+      "url": "https://www.spotify.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin schedule filter patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/media-logo.svg",
+    "brandSymbol": "assets/brand/media-symbol.svg",
+    "favicon": "assets/brand/media-favicon.svg",
+    "appleTouchIcon": "assets/brand/media-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/media-home-open-graph.svg",
+    "mockup": "assets/mockups/media-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Promise",
+        "Featured",
+        "Shows",
+        "Schedule",
+        "Audience",
+        "Advertise",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Network",
+      "file": "network.html",
+      "sections": [
+        "Hero",
+        "Mission",
+        "Team",
+        "Standards",
+        "Audience",
+        "Reach",
+        "Values",
+        "Voice",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Shows",
+      "file": "shows.html",
+      "sections": [
+        "Hero",
+        "Programs",
+        "Episodes",
+        "Hosts",
+        "Topics",
+        "Archive",
+        "Clips",
+        "Schedule",
+        "Watch",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Content",
+      "file": "content.html",
+      "sections": [
+        "Hero",
+        "Video",
+        "Audio",
+        "Articles",
+        "Categories",
+        "Featured",
+        "Latest",
+        "Popular",
+        "Related",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Schedule",
+      "file": "schedule.html",
+      "sections": [
+        "Hero",
+        "Programming",
+        "Days",
+        "Times",
+        "Live",
+        "Reminders",
+        "Events",
+        "Updates",
+        "Subscribe",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Advertise",
+      "file": "advertise.html",
+      "sections": [
+        "Hero",
+        "Audience",
+        "Formats",
+        "Packages",
+        "Metrics",
+        "Campaigns",
+        "Proof",
+        "Kit",
+        "Contact",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Press",
+      "file": "press.html",
+      "sections": [
+        "Hero",
+        "Kit",
+        "Logos",
+        "Bios",
+        "Releases",
+        "Photos",
+        "Mentions",
+        "Media",
+        "Download",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Careers",
+      "file": "careers.html",
+      "sections": [
+        "Hero",
+        "Roles",
+        "Culture",
+        "Internships",
+        "Departments",
+        "Requirements",
+        "Benefits",
+        "Steps",
+        "Apply",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Access",
+        "Submissions",
+        "Advertising",
+        "Rights",
+        "Accounts",
+        "Usage",
+        "Support",
+        "Contact",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Editorial",
+        "Advertising",
+        "Support",
+        "Press",
+        "Form",
+        "Routing",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

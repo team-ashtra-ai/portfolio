@@ -1,0 +1,35 @@
+{
+  "name": "Core",
+  "short_name": "Core",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e21b2d",
+  "icons": [
+    {
+      "src": "assets/brand/engineering-favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/brand/engineering-favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/engineering-favicon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/engineering-apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/engineering-social-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "siteName": "Vault",
+  "industry": "Energy, Power & Renewable Solutions",
+  "number": 22,
+  "slug": "energy",
+  "baseUrl": "https://team-ashtra-ai.github.io/22/",
+  "repo": "https://github.com/team-ashtra-ai/22.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Calculate Savings",
+  "schema": "Organization",
+  "visualDirection": "Minimal product marketing with stark surfaces, centered copy, and energy-product proof",
+  "premiumDirection": "A renewable energy product site with minimalist hero, savings modules, battery/solar cards, and direct calculator",
+  "layoutSignature": "Minimal energy product landing",
+  "heroType": "Centered product hero",
+  "headerType": "Minimal energy header",
+  "footerType": "project output footer",
+  "cardStyle": "Product output cards",
+  "formStyle": "Savings calculator form",
+  "jsSignature": "Savings estimator, battery/solar toggle, project output counters",
+  "motionStyle": "Clean product reveal",
+  "themeMode": "technical",
+  "designPassport": {
+    "premiumDirection": "A renewable energy product site with minimalist hero, savings modules, battery/solar cards, and direct calculator",
+    "brandMood": "future savings",
+    "buyerPsychology": "cost reduction and resilience",
+    "typography": {
+      "display": "\"Palatino Linotype\", Palatino, serif",
+      "body": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "accent": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "summary": "\"Palatino Linotype\" display with Inter body and \"Segoe UI\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for cost reduction and resilience",
+    "layoutArchetype": "Minimal energy product landing",
+    "density": "medium",
+    "shapeLanguage": "Product output cards",
+    "surfaceMaterial": "Minimal product marketing with stark surfaces, centered copy, and energy-product proof",
+    "imageSystem": "Solar roofs, batteries, energy app panels",
+    "interactionModel": "Centered product hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Calculate Savings",
+    "pricingStyle": "project output calculator",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Tesla Energy",
+    "url": "https://www.tesla.com/energy",
+    "palette": [
+      "#f7f7f7",
+      "#111111",
+      "#e82127",
+      "#ffffff",
+      "#bfc7d5"
+    ],
+    "visualDirection": "Tesla Energy-style minimal product marketing with stark surfaces, centered copy, and energy-product proof",
+    "premiumDirection": "A renewable energy product site with minimalist hero, savings modules, battery/solar cards, and direct calculator",
+    "layoutSignature": "minimal energy product landing",
+    "heroType": "centered product hero",
+    "headerType": "minimal energy header",
+    "cardStyle": "product output cards",
+    "formStyle": "savings calculator form",
+    "motionStyle": "clean product reveal",
+    "imageDirection": "solar roofs, batteries, energy app panels",
+    "cssProfile": "tesla"
+  },
+  "targetCssProfile": "tesla",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Tesla Energy",
+      "url": "https://www.tesla.com/energy"
+    },
+    {
+      "category": "direct",
+      "name": "Octopus Energy",
+      "url": "https://octopus.energy"
+    },
+    {
+      "category": "direct",
+      "name": "GE Vernova",
+      "url": "https://www.gevernova.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Enphase",
+      "url": "https://enphase.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Sunrun",
+      "url": "https://www.sunrun.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple Environment",
+      "url": "https://www.apple.com/environment"
+    },
+    {
+      "category": "contrast",
+      "name": "Patagonia",
+      "url": "https://www.patagonia.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin savings calculator patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/energy-logo.svg",
+    "brandSymbol": "assets/brand/energy-symbol.svg",
+    "favicon": "assets/brand/energy-favicon.svg",
+    "appleTouchIcon": "assets/brand/energy-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/energy-home-open-graph.svg",
+    "mockup": "assets/mockups/energy-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Problem",
+        "Cost",
+        "Promise",
+        "Solutions",
+        "Savings",
+        "Projects",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Company",
+      "file": "company.html",
+      "sections": [
+        "Hero",
+        "Mission",
+        "Values",
+        "Team",
+        "Partners",
+        "Certifications",
+        "Standards",
+        "Sustainability",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Solutions",
+      "file": "solutions.html",
+      "sections": [
+        "Hero",
+        "Solar",
+        "Storage",
+        "Efficiency",
+        "Monitoring",
+        "Backup",
+        "Commercial",
+        "Residential",
+        "Benefits",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Audit",
+        "Design",
+        "Install",
+        "Maintain",
+        "Monitor",
+        "Support",
+        "Compliance",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Savings",
+      "file": "savings.html",
+      "sections": [
+        "Hero",
+        "Bills",
+        "Payback",
+        "Incentives",
+        "Finance",
+        "Value",
+        "Assumptions",
+        "Calculator",
+        "Review",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Projects",
+      "file": "projects.html",
+      "sections": [
+        "Hero",
+        "Installations",
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Output",
+        "Before",
+        "Metrics",
+        "Reviews",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Equipment",
+        "Labour",
+        "Finance",
+        "Packages",
+        "Maintenance",
+        "Inclusions",
+        "Comparison",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Guides",
+        "Incentives",
+        "Maintenance",
+        "Solar",
+        "Batteries",
+        "Downloads",
+        "Questions",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Connection",
+        "Warranty",
+        "Output",
+        "Finance",
+        "Weather",
+        "Permissions",
+        "Service",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Site",
+        "Bill",
+        "Consultation",
+        "Address",
+        "Phone",
+        "Response",
+        "Quote",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

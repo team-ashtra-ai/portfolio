@@ -1,0 +1,283 @@
+{
+  "siteName": "Skin",
+  "industry": "Beauty, Cosmetics & Aesthetic Products",
+  "number": 38,
+  "slug": "beauty",
+  "baseUrl": "https://team-ashtra-ai.github.io/38/",
+  "repo": "https://github.com/team-ashtra-ai/38.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Build Routine",
+  "schema": "Organization",
+  "visualDirection": "Beauty retail with muted apothecary surfaces, serif detail, and calm product education",
+  "premiumDirection": "A routine site with restrained product education, ingredient notes, tactile cards, and consultation routes",
+  "layoutSignature": "Apothecary routine journal",
+  "heroType": "Muted product education hero",
+  "headerType": "Apothecary shop header",
+  "footerType": "ingredient footer",
+  "cardStyle": "Ingredient education cards",
+  "formStyle": "Routine advice form",
+  "jsSignature": "Routine finder, ingredient glossary, product filter",
+  "motionStyle": "Quiet product reveal",
+  "themeMode": "commerce",
+  "designPassport": {
+    "premiumDirection": "A routine site with restrained product education, ingredient notes, tactile cards, and consultation routes",
+    "brandMood": "texture-led",
+    "buyerPsychology": "self-care confidence",
+    "typography": {
+      "display": "Verdana, Geneva, sans-serif",
+      "body": "Arial, Helvetica, sans-serif",
+      "accent": "\"Courier New\", ui-monospace, monospace",
+      "summary": "Verdana display with Arial body and \"Courier New\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for self-care confidence",
+    "layoutArchetype": "Apothecary routine journal",
+    "density": "relaxed",
+    "shapeLanguage": "Ingredient education cards",
+    "surfaceMaterial": "Beauty retail with muted apothecary surfaces, serif detail, and calm product education",
+    "imageSystem": "Bottles, textures, counters, botanical ingredient details",
+    "interactionModel": "Muted product education hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Build Routine",
+    "pricingStyle": "routine bundle cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Aesop",
+    "url": "https://www.aesop.com/",
+    "palette": [
+      "#f3eadc",
+      "#35291f",
+      "#8c6a4f",
+      "#ffffff",
+      "#c9b28c"
+    ],
+    "visualDirection": "Aesop-style beauty retail with muted apothecary surfaces, serif detail, and calm product education",
+    "premiumDirection": "A routine site with restrained product education, ingredient notes, tactile cards, and consultation routes",
+    "layoutSignature": "apothecary routine journal",
+    "heroType": "muted product education hero",
+    "headerType": "apothecary shop header",
+    "cardStyle": "ingredient education cards",
+    "formStyle": "routine advice form",
+    "motionStyle": "quiet product reveal",
+    "imageDirection": "bottles, textures, counters, botanical ingredient details",
+    "cssProfile": "aesop"
+  },
+  "targetCssProfile": "aesop",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Aesop",
+      "url": "https://www.aesop.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Glossier",
+      "url": "https://www.glossier.com"
+    },
+    {
+      "category": "direct",
+      "name": "Fenty Beauty",
+      "url": "https://fentybeauty.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "The Ordinary",
+      "url": "https://theordinary.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Sephora",
+      "url": "https://www.sephora.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Ritual",
+      "url": "https://ritual.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple product pages",
+      "url": "https://www.apple.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin routine finder patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/beauty-logo.svg",
+    "brandSymbol": "assets/brand/beauty-symbol.svg",
+    "favicon": "assets/brand/beauty-favicon.svg",
+    "appleTouchIcon": "assets/brand/beauty-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/beauty-home-open-graph.svg",
+    "mockup": "assets/mockups/beauty-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Goal",
+        "Concerns",
+        "Promise",
+        "Shop",
+        "Routine",
+        "Results",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Brand",
+      "file": "brand.html",
+      "sections": [
+        "Hero",
+        "Philosophy",
+        "Testing",
+        "Values",
+        "Sustainability",
+        "Formulation",
+        "Trust",
+        "Recognition",
+        "Safety",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Shop",
+      "file": "shop.html",
+      "sections": [
+        "Hero",
+        "Skincare",
+        "Makeup",
+        "Haircare",
+        "Bundles",
+        "Filters",
+        "Cards",
+        "Reviews",
+        "Cart",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Products",
+      "file": "products.html",
+      "sections": [
+        "Hero",
+        "Benefits",
+        "Texture",
+        "Usage",
+        "Ingredients",
+        "Types",
+        "Reviews",
+        "Related",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Routine",
+      "file": "routine.html",
+      "sections": [
+        "Hero",
+        "Finder",
+        "Morning",
+        "Night",
+        "Type",
+        "Steps",
+        "Match",
+        "Tips",
+        "Consistency",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Ingredients",
+      "file": "ingredients.html",
+      "sections": [
+        "Hero",
+        "Actives",
+        "Benefits",
+        "Safety",
+        "Claims",
+        "Sources",
+        "Formulation",
+        "Avoidance",
+        "Education",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Before",
+        "Reviews",
+        "Testimonials",
+        "Expectations",
+        "Timeframes",
+        "Disclaimer",
+        "Proof",
+        "Shop",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Tutorials",
+      "file": "tutorials.html",
+      "sections": [
+        "Hero",
+        "Application",
+        "Tips",
+        "Videos",
+        "Routines",
+        "Links",
+        "Mistakes",
+        "Experts",
+        "Watch",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Types",
+        "Allergies",
+        "Returns",
+        "Usage",
+        "Pregnancy",
+        "Shipping",
+        "Orders",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Orders",
+        "Advice",
+        "Wholesale",
+        "Press",
+        "Form",
+        "Social",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

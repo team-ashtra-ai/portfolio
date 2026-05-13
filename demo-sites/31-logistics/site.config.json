@@ -1,0 +1,283 @@
+{
+  "siteName": "Chain",
+  "industry": "Logistics, Delivery & Supply Chain",
+  "number": 31,
+  "slug": "logistics",
+  "baseUrl": "https://team-ashtra-ai.github.io/31/",
+  "repo": "https://github.com/team-ashtra-ai/31.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Quote",
+  "schema": "Organization",
+  "visualDirection": "Logistics platform with blue enterprise polish, orange action, and shipment dashboards",
+  "premiumDirection": "A freight-command site with shipment dashboards, network maps, quote modules, and status proof",
+  "layoutSignature": "Global freight command",
+  "heroType": "Shipment dashboard hero",
+  "headerType": "Logistics platform header",
+  "footerType": "network footer",
+  "cardStyle": "Tracking dashboard cards",
+  "formStyle": "Freight quote form",
+  "jsSignature": "Tracking mockup, quote calculator, network map filter",
+  "motionStyle": "Status map reveal",
+  "themeMode": "technical",
+  "designPassport": {
+    "premiumDirection": "A freight-command site with shipment dashboards, network maps, quote modules, and status proof",
+    "brandMood": "networked",
+    "buyerPsychology": "visibility and delivery control",
+    "typography": {
+      "display": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "body": "Arial, Helvetica, sans-serif",
+      "accent": "\"Arial Narrow\", Arial, sans-serif",
+      "summary": "Aptos display with Arial body and \"Arial Narrow\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for visibility and delivery control",
+    "layoutArchetype": "Global freight command",
+    "density": "dense",
+    "shapeLanguage": "Tracking dashboard cards",
+    "surfaceMaterial": "Logistics platform with blue enterprise polish, orange action, and shipment dashboards",
+    "imageSystem": "Ports, shipment dashboards, containers, trade lanes",
+    "interactionModel": "Shipment dashboard hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Quote",
+    "pricingStyle": "shipment quote calculator",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Flexport",
+    "url": "https://www.flexport.com/",
+    "palette": [
+      "#f4f8ff",
+      "#2563eb",
+      "#ff7a1a",
+      "#0f172a",
+      "#a7c7ff"
+    ],
+    "visualDirection": "Flexport-style logistics platform with blue enterprise polish, orange action, and shipment dashboards",
+    "premiumDirection": "A freight-command site with shipment dashboards, network maps, quote modules, and status proof",
+    "layoutSignature": "global freight command",
+    "heroType": "shipment dashboard hero",
+    "headerType": "logistics platform header",
+    "cardStyle": "tracking dashboard cards",
+    "formStyle": "freight quote form",
+    "motionStyle": "status map reveal",
+    "imageDirection": "ports, shipment dashboards, containers, trade lanes",
+    "cssProfile": "flexport"
+  },
+  "targetCssProfile": "flexport",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Flexport",
+      "url": "https://www.flexport.com/"
+    },
+    {
+      "category": "direct",
+      "name": "DHL",
+      "url": "https://www.dhl.com"
+    },
+    {
+      "category": "direct",
+      "name": "Maersk",
+      "url": "https://www.maersk.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "UPS",
+      "url": "https://www.ups.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "project44",
+      "url": "https://www.project44.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Databricks",
+      "url": "https://www.databricks.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin tracking dashboard patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/logistics-logo.svg",
+    "brandSymbol": "assets/brand/logistics-symbol.svg",
+    "favicon": "assets/brand/logistics-favicon.svg",
+    "appleTouchIcon": "assets/brand/logistics-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/logistics-home-open-graph.svg",
+    "mockup": "assets/mockups/logistics-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Challenge",
+        "Visibility",
+        "Promise",
+        "Services",
+        "Network",
+        "Tracking",
+        "Proof",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Company",
+      "file": "company.html",
+      "sections": [
+        "Hero",
+        "Fleet",
+        "Hubs",
+        "Standards",
+        "Technology",
+        "Team",
+        "Reliability",
+        "Scale",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Freight",
+        "Storage",
+        "Lastmile",
+        "Fulfilment",
+        "Express",
+        "International",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Network",
+      "file": "network.html",
+      "sections": [
+        "Hero",
+        "Regions",
+        "Hubs",
+        "Partners",
+        "Capacity",
+        "Maps",
+        "Levels",
+        "Expansion",
+        "Reliability",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Tracking",
+      "file": "tracking.html",
+      "sections": [
+        "Hero",
+        "Status",
+        "Alerts",
+        "ETA",
+        "Proof",
+        "Exceptions",
+        "Documents",
+        "Portal",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Industries",
+      "file": "industries.html",
+      "sections": [
+        "Hero",
+        "Retail",
+        "Food",
+        "Industrial",
+        "Medical",
+        "Commerce",
+        "Requirements",
+        "Solutions",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Rates",
+        "Weight",
+        "Distance",
+        "Speed",
+        "Contracts",
+        "Volume",
+        "Addons",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Support",
+      "file": "support.html",
+      "sections": [
+        "Hero",
+        "Claims",
+        "Delays",
+        "Documents",
+        "Pickup",
+        "Delivery",
+        "Escalation",
+        "Help",
+        "Contact",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Pickup",
+        "Delivery",
+        "Insurance",
+        "Restrictions",
+        "Packaging",
+        "Payments",
+        "Tracking",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Quote",
+        "Volume",
+        "Locations",
+        "Timeline",
+        "Sales",
+        "Support",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

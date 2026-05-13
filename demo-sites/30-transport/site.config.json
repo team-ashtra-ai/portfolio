@@ -1,0 +1,288 @@
+{
+  "siteName": "Ride",
+  "industry": "Transport, Mobility & Passenger Services",
+  "number": 30,
+  "slug": "transport",
+  "baseUrl": "https://team-ashtra-ai.github.io/30/",
+  "repo": "https://github.com/team-ashtra-ai/30.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Book Ride",
+  "schema": "Organization",
+  "visualDirection": "Transit utility with bright green, map-first decisions, and route cards",
+  "premiumDirection": "A passenger mobility site with green route planning, fare estimate cards, map surfaces, and fast booking",
+  "layoutSignature": "Map-first route planner",
+  "heroType": "Green transit planner hero",
+  "headerType": "Route utility header",
+  "footerType": "fleet support footer",
+  "cardStyle": "Transit route cards",
+  "formStyle": "Fare estimate form",
+  "jsSignature": "Route selector, fare estimate, fleet filter",
+  "motionStyle": "Route line reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A passenger mobility site with green route planning, fare estimate cards, map surfaces, and fast booking",
+    "brandMood": "route-led",
+    "buyerPsychology": "safe reliable movement",
+    "typography": {
+      "display": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "body": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "accent": "Constantia, Georgia, serif",
+      "summary": "Aptos display with Inter body and Constantia accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for safe reliable movement",
+    "layoutArchetype": "Map-first route planner",
+    "density": "practical",
+    "shapeLanguage": "Transit route cards",
+    "surfaceMaterial": "Transit utility with bright green, map-first decisions, and route cards",
+    "imageSystem": "Transit maps, route lines, vehicles, city movement",
+    "interactionModel": "Green transit planner hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Book Ride",
+    "pricingStyle": "fare route cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Citymapper",
+    "url": "https://citymapper.com/",
+    "palette": [
+      "#eaff57",
+      "#133a1b",
+      "#00a66a",
+      "#ffffff",
+      "#111111"
+    ],
+    "visualDirection": "Citymapper-style transit utility with bright green, map-first decisions, and route cards",
+    "premiumDirection": "A passenger mobility site with green route planning, fare estimate cards, map surfaces, and fast booking",
+    "layoutSignature": "map-first route planner",
+    "heroType": "green transit planner hero",
+    "headerType": "route utility header",
+    "cardStyle": "transit route cards",
+    "formStyle": "fare estimate form",
+    "motionStyle": "route line reveal",
+    "imageDirection": "transit maps, route lines, vehicles, city movement",
+    "cssProfile": "citymapper"
+  },
+  "targetCssProfile": "citymapper",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Citymapper",
+      "url": "https://citymapper.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Uber",
+      "url": "https://www.uber.com"
+    },
+    {
+      "category": "direct",
+      "name": "Lyft",
+      "url": "https://www.lyft.com"
+    },
+    {
+      "category": "direct",
+      "name": "Bolt",
+      "url": "https://bolt.eu"
+    },
+    {
+      "category": "adjacent",
+      "name": "Citymapper",
+      "url": "https://citymapper.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Trainline",
+      "url": "https://www.thetrainline.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Starlink",
+      "url": "https://www.starlink.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Google Maps",
+      "url": "https://www.google.com/maps"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin route selector patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/transport-logo.svg",
+    "brandSymbol": "assets/brand/transport-symbol.svg",
+    "favicon": "assets/brand/transport-favicon.svg",
+    "appleTouchIcon": "assets/brand/transport-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/transport-home-open-graph.svg",
+    "mockup": "assets/mockups/transport-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Safety",
+        "Promise",
+        "Services",
+        "Routes",
+        "Fleet",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Company",
+      "file": "company.html",
+      "sections": [
+        "Hero",
+        "Drivers",
+        "Vehicles",
+        "Standards",
+        "Reliability",
+        "Insurance",
+        "Values",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Private",
+        "Corporate",
+        "Shuttle",
+        "Accessible",
+        "Airport",
+        "Events",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Routes",
+      "file": "routes.html",
+      "sections": [
+        "Hero",
+        "Areas",
+        "Airports",
+        "Cities",
+        "Timetables",
+        "Maps",
+        "Popular",
+        "Availability",
+        "Updates",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Fleet",
+      "file": "fleet.html",
+      "sections": [
+        "Hero",
+        "Types",
+        "Capacity",
+        "Comfort",
+        "Access",
+        "Maintenance",
+        "Features",
+        "Safety",
+        "Gallery",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Booking",
+      "file": "booking.html",
+      "sections": [
+        "Hero",
+        "Pickup",
+        "Destination",
+        "Passengers",
+        "Date",
+        "Addons",
+        "Payment",
+        "Confirmation",
+        "Changes",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Fares",
+        "Distance",
+        "Time",
+        "Packages",
+        "Extras",
+        "Business",
+        "Terms",
+        "Estimate",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Safety",
+      "file": "safety.html",
+      "sections": [
+        "Hero",
+        "Drivers",
+        "Vehicles",
+        "Insurance",
+        "Cleanliness",
+        "Policies",
+        "Monitoring",
+        "Emergency",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Luggage",
+        "Delays",
+        "Changes",
+        "Cancellations",
+        "Payments",
+        "Access",
+        "Waiting",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Booking",
+        "Business",
+        "Support",
+        "Phone",
+        "WhatsApp",
+        "Hours",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "siteName": "Atlas",
+  "industry": "Travel, Tourism & Destination Experiences",
+  "number": 29,
+  "slug": "travel",
+  "baseUrl": "https://team-ashtra-ai.github.io/29/",
+  "repo": "https://github.com/team-ashtra-ai/29.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Plan Trip",
+  "schema": "Organization",
+  "visualDirection": "Travel editorial with black contrast, immersive destinations, and itinerary storytelling",
+  "premiumDirection": "A travel-planning site with dark editorial hero, trip story cards, itinerary accordions, and bespoke enquiry",
+  "layoutSignature": "Dark destination magazine",
+  "heroType": "Immersive trip hero",
+  "headerType": "Travel editorial header",
+  "footerType": "destination footer",
+  "cardStyle": "Journey story cards",
+  "formStyle": "Trip planner form",
+  "jsSignature": "Trip finder, destination filter, itinerary accordion",
+  "motionStyle": "Map and story reveal",
+  "themeMode": "editorial",
+  "designPassport": {
+    "premiumDirection": "A travel-planning site with dark editorial hero, trip story cards, itinerary accordions, and bespoke enquiry",
+    "brandMood": "destination-led",
+    "buyerPsychology": "wanderlust and practical planning",
+    "typography": {
+      "display": "\"Palatino Linotype\", Palatino, serif",
+      "body": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "accent": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "summary": "\"Palatino Linotype\" display with \"Lucida Sans\" body and \"Segoe UI\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for wanderlust and practical planning",
+    "layoutArchetype": "Dark destination magazine",
+    "density": "spacious",
+    "shapeLanguage": "Journey story cards",
+    "surfaceMaterial": "Travel editorial with black contrast, immersive destinations, and itinerary storytelling",
+    "imageSystem": "Remote places, maps, itinerary details, travel photography",
+    "interactionModel": "Immersive trip hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Plan Trip",
+    "pricingStyle": "trip package cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Black Tomato",
+    "url": "https://www.blacktomato.com/",
+    "palette": [
+      "#0b0b0b",
+      "#ffffff",
+      "#b4874a",
+      "#f1eee8",
+      "#8bb8e8"
+    ],
+    "visualDirection": "Black Tomato-style travel editorial with black contrast, immersive destinations, and itinerary storytelling",
+    "premiumDirection": "A travel-planning site with dark editorial hero, trip story cards, itinerary accordions, and bespoke enquiry",
+    "layoutSignature": "dark destination magazine",
+    "heroType": "immersive trip hero",
+    "headerType": "travel editorial header",
+    "cardStyle": "journey story cards",
+    "formStyle": "trip planner form",
+    "motionStyle": "map and story reveal",
+    "imageDirection": "remote places, maps, itinerary details, travel photography",
+    "cssProfile": "blacktomato"
+  },
+  "targetCssProfile": "blacktomato",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Black Tomato",
+      "url": "https://www.blacktomato.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Intrepid Travel",
+      "url": "https://www.intrepidtravel.com"
+    },
+    {
+      "category": "direct",
+      "name": "GetYourGuide",
+      "url": "https://www.getyourguide.com"
+    },
+    {
+      "category": "direct",
+      "name": "Airbnb Experiences",
+      "url": "https://www.airbnb.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Black Tomato",
+      "url": "https://www.blacktomato.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Lonely Planet",
+      "url": "https://www.lonelyplanet.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aman",
+      "url": "https://www.aman.com"
+    },
+    {
+      "category": "contrast",
+      "name": "NYT Travel",
+      "url": "https://www.nytimes.com/section/travel"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin itinerary planner patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/travel-logo.svg",
+    "brandSymbol": "assets/brand/travel-symbol.svg",
+    "favicon": "assets/brand/travel-favicon.svg",
+    "appleTouchIcon": "assets/brand/travel-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/travel-home-open-graph.svg",
+    "mockup": "assets/mockups/travel-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Dream",
+        "Destination",
+        "Promise",
+        "Trips",
+        "Tours",
+        "Planning",
+        "Stories",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Agency",
+      "file": "agency.html",
+      "sections": [
+        "Hero",
+        "Story",
+        "Philosophy",
+        "Team",
+        "Partners",
+        "Responsibility",
+        "Safety",
+        "Values",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Trips",
+      "file": "trips.html",
+      "sections": [
+        "Hero",
+        "Types",
+        "Adventure",
+        "Culture",
+        "Luxury",
+        "Family",
+        "Dates",
+        "Inclusions",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Places",
+      "file": "places.html",
+      "sections": [
+        "Hero",
+        "Destinations",
+        "Regions",
+        "Highlights",
+        "Seasons",
+        "Maps",
+        "Notes",
+        "Recommendations",
+        "Related",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Tours",
+      "file": "tours.html",
+      "sections": [
+        "Hero",
+        "Activities",
+        "Levels",
+        "Durations",
+        "Guides",
+        "Inclusions",
+        "Safety",
+        "Groups",
+        "Reviews",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Planning",
+      "file": "planning.html",
+      "sections": [
+        "Hero",
+        "Consultation",
+        "Customisation",
+        "Budget",
+        "Booking",
+        "Documents",
+        "Visas",
+        "Support",
+        "Timeline",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Packages",
+        "Quotes",
+        "Deposits",
+        "Inclusions",
+        "Exclusions",
+        "Payment",
+        "Terms",
+        "Clarity",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Stories",
+      "file": "stories.html",
+      "sections": [
+        "Hero",
+        "Stories",
+        "Photos",
+        "Guides",
+        "Testimonials",
+        "Itineraries",
+        "Tips",
+        "Inspiration",
+        "Related",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Visas",
+        "Safety",
+        "Weather",
+        "Payments",
+        "Cancellations",
+        "Insurance",
+        "Access",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Destination",
+        "Dates",
+        "Budget",
+        "Travellers",
+        "Call",
+        "Response",
+        "Form",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

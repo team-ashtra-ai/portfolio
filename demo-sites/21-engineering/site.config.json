@@ -1,0 +1,283 @@
+{
+  "siteName": "Core",
+  "industry": "Engineering, Technical Systems & Specialist Services",
+  "number": 21,
+  "slug": "engineering",
+  "baseUrl": "https://team-ashtra-ai.github.io/21/",
+  "repo": "https://github.com/team-ashtra-ai/21.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Ask Engineer",
+  "schema": "Organization",
+  "visualDirection": "Engineering editorial with red accents, project journalism, and technical depth",
+  "premiumDirection": "An engineering authority site with editorial project blocks, red rules, technical proof, and expert enquiry",
+  "layoutSignature": "Engineering project journal",
+  "heroType": "Red-rule technical hero",
+  "headerType": "Consulting project header",
+  "footerType": "technical document footer",
+  "cardStyle": "Engineering proof cards",
+  "formStyle": "Engineer enquiry form",
+  "jsSignature": "System diagram tabs, compliance checklist, project filter",
+  "motionStyle": "Diagram reveal",
+  "themeMode": "technical",
+  "designPassport": {
+    "premiumDirection": "An engineering authority site with editorial project blocks, red rules, technical proof, and expert enquiry",
+    "brandMood": "validated",
+    "buyerPsychology": "reliability and standards",
+    "typography": {
+      "display": "\"Trebuchet MS\", Arial, sans-serif",
+      "body": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "accent": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "summary": "\"Trebuchet MS\" display with \"Lucida Sans\" body and \"Segoe UI\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for reliability and standards",
+    "layoutArchetype": "Engineering project journal",
+    "density": "dense",
+    "shapeLanguage": "Engineering proof cards",
+    "surfaceMaterial": "Engineering editorial with red accents, project journalism, and technical depth",
+    "imageSystem": "Infrastructure projects, diagrams, field engineering",
+    "interactionModel": "Red-rule technical hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Ask Engineer",
+    "pricingStyle": "scope estimate cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Arup",
+    "url": "https://www.arup.com/",
+    "palette": [
+      "#ffffff",
+      "#e21b2d",
+      "#111111",
+      "#f0f2f4",
+      "#7f8c8d"
+    ],
+    "visualDirection": "Arup-style engineering editorial with red accents, project journalism, and technical depth",
+    "premiumDirection": "An engineering authority site with editorial project blocks, red rules, technical proof, and expert enquiry",
+    "layoutSignature": "engineering project journal",
+    "heroType": "red-rule technical hero",
+    "headerType": "consulting project header",
+    "cardStyle": "engineering proof cards",
+    "formStyle": "engineer enquiry form",
+    "motionStyle": "diagram reveal",
+    "imageDirection": "infrastructure projects, diagrams, field engineering",
+    "cssProfile": "arup"
+  },
+  "targetCssProfile": "arup",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Arup",
+      "url": "https://www.arup.com/"
+    },
+    {
+      "category": "direct",
+      "name": "WSP",
+      "url": "https://www.wsp.com"
+    },
+    {
+      "category": "direct",
+      "name": "Ramboll",
+      "url": "https://www.ramboll.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Buro Happold",
+      "url": "https://www.burohappold.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Mott MacDonald",
+      "url": "https://www.mottmac.com"
+    },
+    {
+      "category": "contrast",
+      "name": "MIT Media Lab",
+      "url": "https://www.media.mit.edu"
+    },
+    {
+      "category": "contrast",
+      "name": "NASA",
+      "url": "https://www.nasa.gov"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin diagram tabs and checklist patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/engineering-logo.svg",
+    "brandSymbol": "assets/brand/engineering-symbol.svg",
+    "favicon": "assets/brand/engineering-favicon.svg",
+    "appleTouchIcon": "assets/brand/engineering-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/engineering-home-open-graph.svg",
+    "mockup": "assets/mockups/engineering-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Challenge",
+        "Reliability",
+        "Promise",
+        "Services",
+        "Systems",
+        "Projects",
+        "Standards",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Firm",
+      "file": "firm.html",
+      "sections": [
+        "Hero",
+        "Engineers",
+        "Standards",
+        "Credentials",
+        "Tools",
+        "Values",
+        "Safety",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Design",
+        "Testing",
+        "Maintenance",
+        "Diagnostics",
+        "Compliance",
+        "Support",
+        "Deliverables",
+        "Benefits",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Systems",
+      "file": "systems.html",
+      "sections": [
+        "Hero",
+        "Types",
+        "Mechanical",
+        "Electrical",
+        "Control",
+        "Integration",
+        "Monitoring",
+        "Documents",
+        "Reliability",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Projects",
+      "file": "projects.html",
+      "sections": [
+        "Hero",
+        "Portfolio",
+        "Specification",
+        "Execution",
+        "Validation",
+        "Results",
+        "Lessons",
+        "Metrics",
+        "Reviews",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Assess",
+        "Design",
+        "Model",
+        "Validate",
+        "Implement",
+        "Test",
+        "Document",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Expertise",
+      "file": "expertise.html",
+      "sections": [
+        "Hero",
+        "Specialisms",
+        "Tools",
+        "Methods",
+        "Standards",
+        "Sectors",
+        "Credentials",
+        "Depth",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Specs",
+        "Papers",
+        "Guides",
+        "Downloads",
+        "Standards",
+        "Maintenance",
+        "Library",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Scope",
+        "Timelines",
+        "Compliance",
+        "Documents",
+        "Sitework",
+        "Maintenance",
+        "Pricing",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Enquiry",
+        "Upload",
+        "Scope",
+        "Call",
+        "Proposal",
+        "Engineer",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

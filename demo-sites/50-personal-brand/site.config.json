@@ -1,0 +1,283 @@
+{
+  "siteName": "Brand",
+  "industry": "Personal Brands, Creators & Public Figures",
+  "number": 50,
+  "slug": "personal-brand",
+  "baseUrl": "https://team-ashtra-ai.github.io/50/",
+  "repo": "https://github.com/team-ashtra-ai/50.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Book Appearance",
+  "schema": "Organization",
+  "visualDirection": "Personal brand with clean essays, author authority, newsletter focus, and simple navigation",
+  "premiumDirection": "A personal brand site with editorial essay rhythm, speaking/media cards, newsletter conversion, and booking clarity",
+  "layoutSignature": "Author essay and media system",
+  "heroType": "Editorial author hero",
+  "headerType": "Simple author header",
+  "footerType": "press kit footer",
+  "cardStyle": "Essay media cards",
+  "formStyle": "Booking form",
+  "jsSignature": "Media filter, speaking topic selector, press kit download",
+  "motionStyle": "Newsletter reveal",
+  "themeMode": "editorial",
+  "designPassport": {
+    "premiumDirection": "A personal brand site with editorial essay rhythm, speaking/media cards, newsletter conversion, and booking clarity",
+    "brandMood": "authoritative editorial",
+    "buyerPsychology": "authority and booking confidence",
+    "typography": {
+      "display": "\"Arial Narrow\", Arial, sans-serif",
+      "body": "Aptos, Calibri, sans-serif",
+      "accent": "\"Trebuchet MS\", Arial, sans-serif",
+      "summary": "\"Arial Narrow\" display with Aptos body and \"Trebuchet MS\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for authority and booking confidence",
+    "layoutArchetype": "Author essay and media system",
+    "density": "spacious",
+    "shapeLanguage": "Essay media cards",
+    "surfaceMaterial": "Personal brand with clean essays, author authority, newsletter focus, and simple navigation",
+    "imageSystem": "Author portraits, books, essays, podcast and speaking panels",
+    "interactionModel": "Editorial author hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Book Appearance",
+    "pricingStyle": "speaking rate cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "James Clear",
+    "url": "https://jamesclear.com/",
+    "palette": [
+      "#fffdf8",
+      "#17233c",
+      "#c09a4a",
+      "#f4f0e8",
+      "#3f6f6b"
+    ],
+    "visualDirection": "James Clear-style personal brand with clean essays, author authority, newsletter focus, and simple navigation",
+    "premiumDirection": "A personal brand site with editorial essay rhythm, speaking/media cards, newsletter conversion, and booking clarity",
+    "layoutSignature": "author essay and media system",
+    "heroType": "editorial author hero",
+    "headerType": "simple author header",
+    "cardStyle": "essay media cards",
+    "formStyle": "booking form",
+    "motionStyle": "newsletter reveal",
+    "imageDirection": "author portraits, books, essays, podcast and speaking panels",
+    "cssProfile": "jamesclear"
+  },
+  "targetCssProfile": "jamesclear",
+  "references": [
+    {
+      "category": "direct",
+      "name": "James Clear",
+      "url": "https://jamesclear.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Seth Godin",
+      "url": "https://seths.blog"
+    },
+    {
+      "category": "direct",
+      "name": "Tim Ferriss",
+      "url": "https://tim.blog"
+    },
+    {
+      "category": "adjacent",
+      "name": "Marie Forleo",
+      "url": "https://www.marieforleo.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Simon Sinek",
+      "url": "https://simonsinek.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Monocle",
+      "url": "https://monocle.com"
+    },
+    {
+      "category": "contrast",
+      "name": "The New Yorker",
+      "url": "https://www.newyorker.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin media kit and newsletter patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/personal-brand-logo.svg",
+    "brandSymbol": "assets/brand/personal-brand-symbol.svg",
+    "favicon": "assets/brand/personal-brand-favicon.svg",
+    "appleTouchIcon": "assets/brand/personal-brand-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/personal-brand-home-open-graph.svg",
+    "mockup": "assets/mockups/personal-brand-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Positioning",
+        "Authority",
+        "Work",
+        "Media",
+        "Speaking",
+        "Proof",
+        "Newsletter",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Profile",
+      "file": "profile.html",
+      "sections": [
+        "Hero",
+        "Biography",
+        "Story",
+        "Values",
+        "Timeline",
+        "Expertise",
+        "Proof",
+        "Recognition",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Work",
+      "file": "work.html",
+      "sections": [
+        "Hero",
+        "Projects",
+        "Services",
+        "Collaborations",
+        "Highlights",
+        "Cases",
+        "Outcomes",
+        "Links",
+        "Featured",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Media",
+      "file": "media.html",
+      "sections": [
+        "Hero",
+        "Videos",
+        "Podcasts",
+        "Interviews",
+        "Features",
+        "Clips",
+        "Appearances",
+        "Socials",
+        "Watch",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Speaking",
+      "file": "speaking.html",
+      "sections": [
+        "Hero",
+        "Topics",
+        "Keynotes",
+        "Panels",
+        "Workshops",
+        "Audiences",
+        "Reviews",
+        "Requirements",
+        "Booking",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Insights",
+      "file": "insights.html",
+      "sections": [
+        "Hero",
+        "Articles",
+        "Essays",
+        "Notes",
+        "Themes",
+        "Opinions",
+        "Resources",
+        "Related",
+        "Read",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Press",
+      "file": "press.html",
+      "sections": [
+        "Hero",
+        "Bio",
+        "Photos",
+        "Logos",
+        "Mentions",
+        "Kit",
+        "Downloads",
+        "Contact",
+        "Media",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Newsletter",
+      "file": "newsletter.html",
+      "sections": [
+        "Hero",
+        "Promise",
+        "Topics",
+        "Frequency",
+        "Samples",
+        "Benefits",
+        "Form",
+        "Archive",
+        "Subscribe",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Booking",
+      "file": "booking.html",
+      "sections": [
+        "Hero",
+        "Event",
+        "Collaboration",
+        "Interview",
+        "Requirements",
+        "Availability",
+        "Form",
+        "Response",
+        "Book",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Business",
+        "Media",
+        "General",
+        "Socials",
+        "Management",
+        "Response",
+        "Form",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

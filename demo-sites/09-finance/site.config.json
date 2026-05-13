@@ -1,0 +1,283 @@
+{
+  "siteName": "Harbor",
+  "industry": "Finance, Banking & Financial Services",
+  "number": 9,
+  "slug": "finance",
+  "baseUrl": "https://team-ashtra-ai.github.io/9/",
+  "repo": "https://github.com/team-ashtra-ai/9.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Book Advisor Call",
+  "schema": "FinancialService",
+  "visualDirection": "Financial utility with acid green, bold calculator blocks, and low-friction forms",
+  "premiumDirection": "A transfer-calculator finance site with bold green hierarchy, fee transparency, route selection, and trust notes",
+  "layoutSignature": "Green calculator flow",
+  "heroType": "Money movement calculator hero",
+  "headerType": "Utility finance header",
+  "footerType": "trust/legal footer",
+  "cardStyle": "Fee transparency cards",
+  "formStyle": "Advisor calculator form",
+  "jsSignature": "Advisory route selector, calculator-style estimate, risk toggles",
+  "motionStyle": "Counter and calculator reveal",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A transfer-calculator finance site with bold green hierarchy, fee transparency, route selection, and trust notes",
+    "brandMood": "regulated trust",
+    "buyerPsychology": "security and suitability",
+    "typography": {
+      "display": "Georgia, \"Times New Roman\", serif",
+      "body": "Arial, Helvetica, sans-serif",
+      "accent": "\"Trebuchet MS\", Arial, sans-serif",
+      "summary": "Georgia display with Arial body and \"Trebuchet MS\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for security and suitability",
+    "layoutArchetype": "Green calculator flow",
+    "density": "measured",
+    "shapeLanguage": "Fee transparency cards",
+    "surfaceMaterial": "Financial utility with acid green, bold calculator blocks, and low-friction forms",
+    "imageSystem": "Payment flows, rate cards, account panels",
+    "interactionModel": "Money movement calculator hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Book Advisor Call",
+    "pricingStyle": "fee and advisory model",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Wise",
+    "url": "https://wise.com/",
+    "palette": [
+      "#ebff53",
+      "#163300",
+      "#00b67a",
+      "#102014",
+      "#f0f5e8"
+    ],
+    "visualDirection": "Wise-style financial utility with acid green, bold calculator blocks, and low-friction forms",
+    "premiumDirection": "A transfer-calculator finance site with bold green hierarchy, fee transparency, route selection, and trust notes",
+    "layoutSignature": "green calculator flow",
+    "heroType": "money movement calculator hero",
+    "headerType": "utility finance header",
+    "cardStyle": "fee transparency cards",
+    "formStyle": "advisor calculator form",
+    "motionStyle": "counter and calculator reveal",
+    "imageDirection": "payment flows, rate cards, account panels",
+    "cssProfile": "wise"
+  },
+  "targetCssProfile": "wise",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Wise",
+      "url": "https://wise.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Revolut",
+      "url": "https://www.revolut.com"
+    },
+    {
+      "category": "direct",
+      "name": "Monzo",
+      "url": "https://monzo.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Ramp",
+      "url": "https://ramp.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Mercury",
+      "url": "https://mercury.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple Card",
+      "url": "https://www.apple.com/apple-card"
+    },
+    {
+      "category": "contrast",
+      "name": "Financial Times",
+      "url": "https://www.ft.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin finance calculator flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/finance-logo.svg",
+    "brandSymbol": "assets/brand/finance-symbol.svg",
+    "favicon": "assets/brand/finance-favicon.svg",
+    "appleTouchIcon": "assets/brand/finance-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/finance-home-open-graph.svg",
+    "mockup": "assets/mockups/finance-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Goals",
+        "Risk",
+        "Promise",
+        "Services",
+        "Advice",
+        "Proof",
+        "Results",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Firm",
+      "file": "firm.html",
+      "sections": [
+        "Hero",
+        "Regulation",
+        "Advisors",
+        "Standards",
+        "Independence",
+        "Credentials",
+        "Values",
+        "Security",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Planning",
+        "Lending",
+        "Wealth",
+        "Protection",
+        "Business",
+        "Benefits",
+        "Suitability",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Advice",
+      "file": "advice.html",
+      "sections": [
+        "Hero",
+        "Personal",
+        "Business",
+        "Investment",
+        "Risk",
+        "Recommendations",
+        "Tools",
+        "Reviews",
+        "Action",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Markets",
+      "file": "markets.html",
+      "sections": [
+        "Hero",
+        "Context",
+        "Rates",
+        "Trends",
+        "Products",
+        "Commentary",
+        "Risk",
+        "Opportunities",
+        "Disclaimer",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Outcomes",
+        "Savings",
+        "Growth",
+        "Protection",
+        "Cases",
+        "Reviews",
+        "Metrics",
+        "Notes",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Fees",
+        "Consults",
+        "Advisory",
+        "Retainers",
+        "Products",
+        "Inclusions",
+        "Comparison",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Guides",
+        "Calculators",
+        "Reports",
+        "Checklists",
+        "Glossary",
+        "Downloads",
+        "Newsletter",
+        "Topics",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Eligibility",
+        "Documents",
+        "Fees",
+        "Risk",
+        "Regulation",
+        "Timelines",
+        "Security",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Appointment",
+        "Form",
+        "Documents",
+        "Phone",
+        "Office",
+        "Routing",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

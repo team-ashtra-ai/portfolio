@@ -1,0 +1,283 @@
+{
+  "siteName": "Orbit",
+  "industry": "Software, SaaS Platforms & Digital Products",
+  "number": 5,
+  "slug": "saas",
+  "baseUrl": "https://team-ashtra-ai.github.io/5/",
+  "repo": "https://github.com/team-ashtra-ai/5.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Schedule Demo",
+  "schema": "Organization",
+  "visualDirection": "Dark product system with glass UI, fine borders, gradient light, and app panels",
+  "premiumDirection": "A product-led SaaS site with a dark dashboard hero, precise modules, issue-like cards, and calm product copy",
+  "layoutSignature": "Dark product dashboard system",
+  "heroType": "App interface hero",
+  "headerType": "Floating product header",
+  "footerType": "resource hub footer",
+  "cardStyle": "Fine-line app cards",
+  "formStyle": "Demo request form",
+  "jsSignature": "Pricing toggle, feature tabs, integration filter, product UI display",
+  "motionStyle": "Subtle glow and panel reveal",
+  "themeMode": "technical",
+  "designPassport": {
+    "premiumDirection": "A product-led SaaS site with a dark dashboard hero, precise modules, issue-like cards, and calm product copy",
+    "brandMood": "product-led",
+    "buyerPsychology": "speed, clarity, and product confidence",
+    "typography": {
+      "display": "Inter, ui-sans-serif, system-ui, sans-serif",
+      "body": "\"Trebuchet MS\", Arial, sans-serif",
+      "accent": "Verdana, Geneva, sans-serif",
+      "summary": "Inter display with \"Trebuchet MS\" body and Verdana accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for speed, clarity, and product confidence",
+    "layoutArchetype": "Dark product dashboard system",
+    "density": "medium",
+    "shapeLanguage": "Fine-line app cards",
+    "surfaceMaterial": "Dark product system with glass UI, fine borders, gradient light, and app panels",
+    "imageSystem": "Dark app screens, issue boards, roadmap panels",
+    "interactionModel": "App interface hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Schedule Demo",
+    "pricingStyle": "plan comparison toggle",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Linear",
+    "url": "https://linear.app/",
+    "palette": [
+      "#08090d",
+      "#5e6ad2",
+      "#9b8cff",
+      "#f7f8ff",
+      "#37d67a"
+    ],
+    "visualDirection": "Linear-style dark product system with glass UI, fine borders, gradient light, and app panels",
+    "premiumDirection": "A product-led SaaS site with a dark dashboard hero, precise modules, issue-like cards, and calm product copy",
+    "layoutSignature": "dark product dashboard system",
+    "heroType": "app interface hero",
+    "headerType": "floating product header",
+    "cardStyle": "fine-line app cards",
+    "formStyle": "demo request form",
+    "motionStyle": "subtle glow and panel reveal",
+    "imageDirection": "dark app screens, issue boards, roadmap panels",
+    "cssProfile": "linear"
+  },
+  "targetCssProfile": "linear",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Linear",
+      "url": "https://linear.app/"
+    },
+    {
+      "category": "direct",
+      "name": "Stripe",
+      "url": "https://stripe.com"
+    },
+    {
+      "category": "direct",
+      "name": "Figma",
+      "url": "https://www.figma.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Notion",
+      "url": "https://www.notion.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Vercel",
+      "url": "https://vercel.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Apple",
+      "url": "https://www.apple.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Arc Browser",
+      "url": "https://arc.net"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin SaaS onboarding flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/saas-logo.svg",
+    "brandSymbol": "assets/brand/saas-symbol.svg",
+    "favicon": "assets/brand/saas-favicon.svg",
+    "appleTouchIcon": "assets/brand/saas-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/saas-home-open-graph.svg",
+    "mockup": "assets/mockups/saas-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Problem",
+        "Promise",
+        "Product",
+        "Features",
+        "Solutions",
+        "Proof",
+        "Integrations",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Company",
+      "file": "company.html",
+      "sections": [
+        "Hero",
+        "Story",
+        "Mission",
+        "Team",
+        "Vision",
+        "Roadmap",
+        "Values",
+        "Customers",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Product",
+      "file": "product.html",
+      "sections": [
+        "Hero",
+        "Overview",
+        "Modules",
+        "Screens",
+        "Workflows",
+        "Roles",
+        "Integrations",
+        "Benefits",
+        "Difference",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Features",
+      "file": "features.html",
+      "sections": [
+        "Hero",
+        "Automation",
+        "Reporting",
+        "Collaboration",
+        "Permissions",
+        "Security",
+        "Comparison",
+        "Details",
+        "Flexibility",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Solutions",
+      "file": "solutions.html",
+      "sections": [
+        "Hero",
+        "Uses",
+        "Teams",
+        "Industries",
+        "Problems",
+        "Outcomes",
+        "Workflows",
+        "Proof",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Plans",
+        "Starter",
+        "Growth",
+        "Enterprise",
+        "Limits",
+        "Addons",
+        "Comparison",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Guides",
+        "Templates",
+        "Webinars",
+        "Downloads",
+        "Education",
+        "Tips",
+        "Content",
+        "Newsletter",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Blog",
+      "file": "blog.html",
+      "sections": [
+        "Hero",
+        "Updates",
+        "Strategy",
+        "Industry",
+        "Tutorials",
+        "Opinion",
+        "Categories",
+        "Featured",
+        "Archive",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Support",
+      "file": "support.html",
+      "sections": [
+        "Hero",
+        "Help",
+        "Docs",
+        "Tickets",
+        "Status",
+        "Issues",
+        "Account",
+        "Billing",
+        "Security",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Sales",
+        "Demo",
+        "Support",
+        "Partners",
+        "Form",
+        "Office",
+        "Response",
+        "Trust",
+        "CTA"
+      ]
+    }
+  ]
+}

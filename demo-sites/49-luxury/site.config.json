@@ -1,0 +1,283 @@
+{
+  "siteName": "Maison",
+  "industry": "Luxury, Premium & High-End Services",
+  "number": 49,
+  "slug": "luxury",
+  "baseUrl": "https://team-ashtra-ai.github.io/49/",
+  "repo": "https://github.com/team-ashtra-ai/49.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Private Access",
+  "schema": "Organization",
+  "visualDirection": "Luxury with deep green, gold restraint, heritage pacing, and private product focus",
+  "premiumDirection": "A luxury service site with green-gold maison mood, heritage cards, private access routes, and discreet proof",
+  "layoutSignature": "Heritage luxury maison",
+  "heroType": "Deep-green private hero",
+  "headerType": "Maison heritage header",
+  "footerType": "private concierge footer",
+  "cardStyle": "Gold hairline cards",
+  "formStyle": "Private access form",
+  "jsSignature": "Private enquiry reveal, membership request, concierge stepper",
+  "motionStyle": "Slow heritage reveal",
+  "themeMode": "luxury",
+  "designPassport": {
+    "premiumDirection": "A luxury service site with green-gold maison mood, heritage cards, private access routes, and discreet proof",
+    "brandMood": "quiet exclusive",
+    "buyerPsychology": "status and discretion",
+    "typography": {
+      "display": "\"Arial Narrow\", Arial, sans-serif",
+      "body": "\"Trebuchet MS\", Arial, sans-serif",
+      "accent": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "summary": "\"Arial Narrow\" display with \"Trebuchet MS\" body and Inter accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for status and discretion",
+    "layoutArchetype": "Heritage luxury maison",
+    "density": "spacious",
+    "shapeLanguage": "Gold hairline cards",
+    "surfaceMaterial": "Luxury with deep green, gold restraint, heritage pacing, and private product focus",
+    "imageSystem": "Craft details, watches, private rooms, heritage materials",
+    "interactionModel": "Deep-green private hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Private Access",
+    "pricingStyle": "concierge invitation cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Rolex",
+    "url": "https://www.rolex.com/",
+    "palette": [
+      "#081f18",
+      "#0b5f3a",
+      "#d4af37",
+      "#f4efe2",
+      "#111111"
+    ],
+    "visualDirection": "Rolex-style luxury with deep green, gold restraint, heritage pacing, and private product focus",
+    "premiumDirection": "A luxury service site with green-gold maison mood, heritage cards, private access routes, and discreet proof",
+    "layoutSignature": "heritage luxury maison",
+    "heroType": "deep-green private hero",
+    "headerType": "maison heritage header",
+    "cardStyle": "gold hairline cards",
+    "formStyle": "private access form",
+    "motionStyle": "slow heritage reveal",
+    "imageDirection": "craft details, watches, private rooms, heritage materials",
+    "cssProfile": "rolex"
+  },
+  "targetCssProfile": "rolex",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Rolex",
+      "url": "https://www.rolex.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Louis Vuitton",
+      "url": "https://www.louisvuitton.com"
+    },
+    {
+      "category": "direct",
+      "name": "Aman",
+      "url": "https://www.aman.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Bang and Olufsen",
+      "url": "https://www.bang-olufsen.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "NetJets",
+      "url": "https://www.netjets.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aesop",
+      "url": "https://www.aesop.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Polestar",
+      "url": "https://www.polestar.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin private access patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/luxury-logo.svg",
+    "brandSymbol": "assets/brand/luxury-symbol.svg",
+    "favicon": "assets/brand/luxury-favicon.svg",
+    "appleTouchIcon": "assets/brand/luxury-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/luxury-home-open-graph.svg",
+    "mockup": "assets/mockups/luxury-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Promise",
+        "Exclusivity",
+        "Services",
+        "Experience",
+        "Portfolio",
+        "Discretion",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "House",
+      "file": "house.html",
+      "sections": [
+        "Hero",
+        "Heritage",
+        "Founder",
+        "Recognition",
+        "Values",
+        "Craft",
+        "Standards",
+        "Taste",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Maison",
+      "file": "maison.html",
+      "sections": [
+        "Hero",
+        "World",
+        "Taste",
+        "Philosophy",
+        "Signature",
+        "Materials",
+        "Rituals",
+        "Culture",
+        "Discover",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Bespoke",
+        "Concierge",
+        "Advisory",
+        "Sourcing",
+        "Access",
+        "Inclusions",
+        "Fit",
+        "Enquire",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Experience",
+      "file": "experience.html",
+      "sections": [
+        "Hero",
+        "Personalisation",
+        "Detail",
+        "Privacy",
+        "Touchpoints",
+        "Rituals",
+        "Care",
+        "Aftercare",
+        "Feeling",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Portfolio",
+      "file": "portfolio.html",
+      "sections": [
+        "Hero",
+        "Selected",
+        "Visuals",
+        "Details",
+        "Story",
+        "Outcome",
+        "Discretion",
+        "Recognition",
+        "View",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Private",
+      "file": "private.html",
+      "sections": [
+        "Hero",
+        "Invitation",
+        "Consultation",
+        "Criteria",
+        "Access",
+        "Privacy",
+        "Process",
+        "Response",
+        "Request",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Journal",
+      "file": "journal.html",
+      "sections": [
+        "Hero",
+        "Culture",
+        "Design",
+        "Lifestyle",
+        "Craft",
+        "Travel",
+        "Objects",
+        "Essays",
+        "Read",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Members",
+      "file": "members.html",
+      "sections": [
+        "Hero",
+        "Membership",
+        "Levels",
+        "Benefits",
+        "Access",
+        "Criteria",
+        "Invitations",
+        "Application",
+        "Apply",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Private",
+        "Appointment",
+        "Concierge",
+        "Location",
+        "Response",
+        "Privacy",
+        "Form",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "siteName": "Forum",
+  "industry": "Government, Public Sector & Civic Services",
+  "number": 46,
+  "slug": "government",
+  "baseUrl": "https://team-ashtra-ai.github.io/46/",
+  "repo": "https://github.com/team-ashtra-ai/46.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Start Request",
+  "schema": "GovernmentOrganization",
+  "visualDirection": "Public service with plain language, blue actions, and high-contrast forms",
+  "premiumDirection": "A civic service site with task-first pages, blue start buttons, form patterns, and accessibility-first structure",
+  "layoutSignature": "Public service task flow",
+  "heroType": "Plain service hero",
+  "headerType": "GOV-style service header",
+  "footerType": "service directory footer",
+  "cardStyle": "Square service boxes",
+  "formStyle": "Public request form",
+  "jsSignature": "Service search, form finder, document filter, alert controls",
+  "motionStyle": "Minimal state reveal",
+  "themeMode": "civic",
+  "designPassport": {
+    "premiumDirection": "A civic service site with task-first pages, blue start buttons, form patterns, and accessibility-first structure",
+    "brandMood": "plain civic",
+    "buyerPsychology": "public service access",
+    "typography": {
+      "display": "\"Arial Narrow\", Arial, sans-serif",
+      "body": "\"Segoe UI\", Tahoma, Geneva, sans-serif",
+      "accent": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "summary": "\"Arial Narrow\" display with \"Segoe UI\" body and \"Lucida Sans\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for public service access",
+    "layoutArchetype": "Public service task flow",
+    "density": "practical",
+    "shapeLanguage": "Square service boxes",
+    "surfaceMaterial": "Public service with plain language, blue actions, and high-contrast forms",
+    "imageSystem": "Forms, service lists, notices, public task flows",
+    "interactionModel": "Plain service hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Start Request",
+    "pricingStyle": "service eligibility cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "GOV.UK Design System",
+    "url": "https://design-system.service.gov.uk/",
+    "palette": [
+      "#ffffff",
+      "#1d70b8",
+      "#0b0c0c",
+      "#f3f2f1",
+      "#ffdd00"
+    ],
+    "visualDirection": "GOV.UK Design System-style public service with plain language, blue actions, and high-contrast forms",
+    "premiumDirection": "A civic service site with task-first pages, blue start buttons, form patterns, and accessibility-first structure",
+    "layoutSignature": "public service task flow",
+    "heroType": "plain service hero",
+    "headerType": "GOV-style service header",
+    "cardStyle": "square service boxes",
+    "formStyle": "public request form",
+    "motionStyle": "minimal state reveal",
+    "imageDirection": "forms, service lists, notices, public task flows",
+    "cssProfile": "govuk"
+  },
+  "targetCssProfile": "govuk",
+  "references": [
+    {
+      "category": "direct",
+      "name": "GOV.UK Design System",
+      "url": "https://design-system.service.gov.uk/"
+    },
+    {
+      "category": "direct",
+      "name": "GOV.UK",
+      "url": "https://www.gov.uk"
+    },
+    {
+      "category": "direct",
+      "name": "USWDS",
+      "url": "https://designsystem.digital.gov"
+    },
+    {
+      "category": "adjacent",
+      "name": "NYC.gov",
+      "url": "https://www.nyc.gov"
+    },
+    {
+      "category": "adjacent",
+      "name": "Data.gov",
+      "url": "https://data.gov"
+    },
+    {
+      "category": "contrast",
+      "name": "Citymapper",
+      "url": "https://citymapper.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Octopus Energy",
+      "url": "https://octopus.energy"
+    },
+    {
+      "category": "interaction",
+      "name": "USWDS service form patterns",
+      "url": "https://designsystem.digital.gov"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/government-logo.svg",
+    "brandSymbol": "assets/brand/government-symbol.svg",
+    "favicon": "assets/brand/government-favicon.svg",
+    "appleTouchIcon": "assets/brand/government-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/government-home-open-graph.svg",
+    "mockup": "assets/mockups/government-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Access",
+        "Updates",
+        "Services",
+        "Forms",
+        "Support",
+        "Transparency",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Council",
+      "file": "council.html",
+      "sections": [
+        "Hero",
+        "Organisation",
+        "Governance",
+        "Departments",
+        "Leaders",
+        "Value",
+        "Standards",
+        "Access",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Applications",
+        "Payments",
+        "Requests",
+        "Eligibility",
+        "Documents",
+        "Timelines",
+        "Steps",
+        "Start",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Offices",
+      "file": "offices.html",
+      "sections": [
+        "Hero",
+        "Departments",
+        "Duties",
+        "Contacts",
+        "Locations",
+        "Leaders",
+        "Functions",
+        "Hours",
+        "Visit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "News",
+      "file": "news.html",
+      "sections": [
+        "Hero",
+        "Announcements",
+        "Alerts",
+        "Consultations",
+        "Dates",
+        "Notices",
+        "Updates",
+        "Archive",
+        "Read",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Forms",
+      "file": "forms.html",
+      "sections": [
+        "Hero",
+        "Permits",
+        "Requests",
+        "Registrations",
+        "Requirements",
+        "Downloads",
+        "Instructions",
+        "Submit",
+        "Start",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Policies",
+        "Reports",
+        "Guides",
+        "Documents",
+        "Downloads",
+        "Search",
+        "Records",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Support",
+      "file": "support.html",
+      "sections": [
+        "Hero",
+        "Issues",
+        "Complaints",
+        "Requests",
+        "Escalation",
+        "Help",
+        "Response",
+        "Contact",
+        "Resolve",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Access",
+        "Documents",
+        "Rules",
+        "Payments",
+        "Applications",
+        "Offices",
+        "Complaints",
+        "Help",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Phone",
+        "Email",
+        "Offices",
+        "Emergency",
+        "Hours",
+        "Map",
+        "Routing",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

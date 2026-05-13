@@ -1,0 +1,45 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-12T19:23:09.943Z",
+    "viewport": {
+      "width": 1440,
+      "height": 960,
+      "mobile": false,
+      "quality": 68
+    },
+    "screenshotMode": "all",
+    "totalPages": 2,
+    "totalSections": 0,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 2,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-12T19-23-06-880Z"
+  },
+  "bySite": {
+    "01": {
+      "pages": 2,
+      "sections": 0,
+      "sectionIssues": 0,
+      "pageIssues": 2
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/01-healthcare/404.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "error": "TypeError: section.images is not iterable\n    at <anonymous>:20:32\n    at Array.map (<anonymous>)\n    at sectionAuditDom (<anonymous>:13:69)\n    at <anonymous>:73:3"
+    },
+    {
+      "file": "demo-sites/01-healthcare/accessibility.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "error": "TypeError: section.images is not iterable\n    at <anonymous>:20:32\n    at Array.map (<anonymous>)\n    at sectionAuditDom (<anonymous>:13:69)\n    at <anonymous>:73:3"
+    }
+  ]
+}

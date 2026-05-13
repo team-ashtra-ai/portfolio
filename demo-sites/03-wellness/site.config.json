@@ -1,0 +1,288 @@
+{
+  "siteName": "Luma",
+  "industry": "Wellness, Personal Care & Lifestyle Services",
+  "number": 3,
+  "slug": "wellness",
+  "baseUrl": "https://team-ashtra-ai.github.io/3/",
+  "repo": "https://github.com/team-ashtra-ai/3.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Book Consultation",
+  "schema": "Organization",
+  "visualDirection": "Supplement commerce with warm yellow, navy copy, pill buttons, and routine shelves",
+  "premiumDirection": "A routine-first wellness shop with offer strip, product education, rounded capsules, and evidence-led reassurance",
+  "layoutSignature": "Routine commerce shelf",
+  "heroType": "Product routine hero",
+  "headerType": "Promo shop header",
+  "footerType": "self-care journal footer",
+  "cardStyle": "Supplement capsule cards",
+  "formStyle": "Routine quiz form",
+  "jsSignature": "Routine builder, service fit quiz, package toggle",
+  "motionStyle": "Gentle shelf reveal",
+  "themeMode": "care",
+  "designPassport": {
+    "premiumDirection": "A routine-first wellness shop with offer strip, product education, rounded capsules, and evidence-led reassurance",
+    "brandMood": "warm lifestyle",
+    "buyerPsychology": "personal improvement and reassurance",
+    "typography": {
+      "display": "Inter, ui-sans-serif, system-ui, sans-serif",
+      "body": "Verdana, Geneva, sans-serif",
+      "accent": "\"Palatino Linotype\", Palatino, serif",
+      "summary": "Inter display with Verdana body and \"Palatino Linotype\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for personal improvement and reassurance",
+    "layoutArchetype": "Routine commerce shelf",
+    "density": "relaxed",
+    "shapeLanguage": "Supplement capsule cards",
+    "surfaceMaterial": "Supplement commerce with warm yellow, navy copy, pill buttons, and routine shelves",
+    "imageSystem": "Bright product jars, daily rituals, ingredient callouts",
+    "interactionModel": "Product routine hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Book Consultation",
+    "pricingStyle": "session packages",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Ritual",
+    "url": "https://ritual.com/",
+    "palette": [
+      "#fff6dc",
+      "#19355f",
+      "#ffcf2e",
+      "#11264b",
+      "#f6a900"
+    ],
+    "visualDirection": "Ritual-style supplement commerce with warm yellow, navy copy, pill buttons, and routine shelves",
+    "premiumDirection": "A routine-first wellness shop with offer strip, product education, rounded capsules, and evidence-led reassurance",
+    "layoutSignature": "routine commerce shelf",
+    "heroType": "product routine hero",
+    "headerType": "promo shop header",
+    "cardStyle": "supplement capsule cards",
+    "formStyle": "routine quiz form",
+    "motionStyle": "gentle shelf reveal",
+    "imageDirection": "bright product jars, daily rituals, ingredient callouts",
+    "cssProfile": "ritual"
+  },
+  "targetCssProfile": "ritual",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Ritual",
+      "url": "https://ritual.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Headspace",
+      "url": "https://www.headspace.com"
+    },
+    {
+      "category": "direct",
+      "name": "Calm",
+      "url": "https://www.calm.com"
+    },
+    {
+      "category": "direct",
+      "name": "ClassPass",
+      "url": "https://classpass.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Ritual",
+      "url": "https://ritual.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Alo Moves",
+      "url": "https://www.alomoves.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aesop",
+      "url": "https://www.aesop.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Soho House",
+      "url": "https://www.sohohouse.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mindbody booking flows",
+      "url": "https://www.mindbodyonline.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/wellness-logo.svg",
+    "brandSymbol": "assets/brand/wellness-symbol.svg",
+    "favicon": "assets/brand/wellness-favicon.svg",
+    "appleTouchIcon": "assets/brand/wellness-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/wellness-home-open-graph.svg",
+    "mockup": "assets/mockups/wellness-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Goal",
+        "Problem",
+        "Promise",
+        "Services",
+        "Method",
+        "Results",
+        "Reviews",
+        "Reassurance",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Studio",
+      "file": "studio.html",
+      "sections": [
+        "Hero",
+        "Story",
+        "Philosophy",
+        "Expertise",
+        "Values",
+        "Atmosphere",
+        "Standards",
+        "Care",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Overview",
+        "Treatments",
+        "Programs",
+        "Consults",
+        "Benefits",
+        "Fit",
+        "Experience",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Method",
+      "file": "method.html",
+      "sections": [
+        "Hero",
+        "Assessment",
+        "Plan",
+        "Routine",
+        "Session",
+        "Support",
+        "Progress",
+        "Adjustments",
+        "Maintenance",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Outcomes",
+        "Stories",
+        "Reviews",
+        "Photos",
+        "Timeline",
+        "Expectations",
+        "Proof",
+        "Confidence",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Sessions",
+        "Packages",
+        "Memberships",
+        "Addons",
+        "Inclusions",
+        "Payments",
+        "Policies",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Products",
+      "file": "products.html",
+      "sections": [
+        "Hero",
+        "Range",
+        "Routines",
+        "Bundles",
+        "Ingredients",
+        "Usage",
+        "Benefits",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Journal",
+      "file": "journal.html",
+      "sections": [
+        "Hero",
+        "Topics",
+        "Selfcare",
+        "Lifestyle",
+        "Beauty",
+        "Recovery",
+        "Education",
+        "Tips",
+        "Articles",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Suitability",
+        "Preparation",
+        "Frequency",
+        "Products",
+        "Safety",
+        "Payment",
+        "Cancellation",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Booking",
+        "Form",
+        "WhatsApp",
+        "Phone",
+        "Location",
+        "Hours",
+        "Socials",
+        "Map",
+        "CTA"
+      ]
+    }
+  ]
+}

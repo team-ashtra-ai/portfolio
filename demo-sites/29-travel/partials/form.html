@@ -1,0 +1,25 @@
+<!-- Source partial: Trip planner form. -->
+<div class="container form-panel form-trip-planner-form" id="contact-form" data-form-style="Trip planner form">
+    <figure class="form-visual">
+      <img src="../assets/images/utility/travel-form-visual.svg" alt="AtlasKind enquiry form support visual" width="420" height="360" loading="lazy" decoding="async">
+    </figure>
+    <form action="https://formspree.io/f/mdabwgdk" method="post" data-contact-form>
+      <input type="hidden" name="site" value="29">
+      <input type="hidden" name="industry" value="Travel, Tourism &amp; Destination Experiences">
+      <input type="hidden" name="source_page" value="Contact">
+      <input class="honeypot" type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" aria-label="Leave this field empty">
+      <div class="form-grid">
+        <label for="name-contact">Name <input id="name-contact" name="name" type="text" autocomplete="name" required></label>
+        <label for="email-contact">Email <input id="email-contact" name="email" type="email" autocomplete="email" required></label>
+        <label for="phone-contact">Phone <input id="phone-contact" name="phone" type="tel" autocomplete="tel"></label>
+        <label for="service-contact">Destination <input id="service-contact" name="service" type="text" autocomplete="off"></label>
+      </div>
+      <label for="message-contact">Message <textarea id="message-contact" name="message" rows="5" required></textarea></label>
+      <div class="consent-field">
+        <input id="consent-contact" name="consent" type="checkbox" required>
+        <label for="consent-contact">I agree to be contacted about this enquiry and have read the <a href="../privacy.html">privacy notice</a>.</label>
+      </div>
+      <p class="form-status" data-form-status aria-live="polite">We respond through the trip planner form with the next practical step.</p>
+      <button class="button primary" type="submit" data-track="form_submit_travel">Send enquiry</button>
+    </form>
+  </div>

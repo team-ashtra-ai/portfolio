@@ -1,0 +1,283 @@
+{
+  "siteName": "Grain",
+  "industry": "Food Production, Packaged Goods & Consumer Foods",
+  "number": 26,
+  "slug": "food-production",
+  "baseUrl": "https://team-ashtra-ai.github.io/26/",
+  "repo": "https://github.com/team-ashtra-ai/26.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Trade Info",
+  "schema": "Organization",
+  "visualDirection": "Food brand with playful packaging, chunky copy blocks, and offbeat product shelves",
+  "premiumDirection": "A packaged food site with bold copy, illustrated product cards, allergen filters, and stockist routes",
+  "layoutSignature": "Playful product manifesto",
+  "heroType": "Packaging shelf hero",
+  "headerType": "Food brand header",
+  "footerType": "stockist footer",
+  "cardStyle": "Chunky ingredient cards",
+  "formStyle": "Trade enquiry form",
+  "jsSignature": "Product/allergen filter, stockist finder, recipe tabs",
+  "motionStyle": "Poster-style reveal",
+  "themeMode": "commerce",
+  "designPassport": {
+    "premiumDirection": "A packaged food site with bold copy, illustrated product cards, allergen filters, and stockist routes",
+    "brandMood": "ingredient-led",
+    "buyerPsychology": "quality, safety and taste",
+    "typography": {
+      "display": "\"Palatino Linotype\", Palatino, serif",
+      "body": "Georgia, \"Times New Roman\", serif",
+      "accent": "\"Trebuchet MS\", Arial, sans-serif",
+      "summary": "\"Palatino Linotype\" display with Georgia body and \"Trebuchet MS\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for quality, safety and taste",
+    "layoutArchetype": "Playful product manifesto",
+    "density": "image-rich",
+    "shapeLanguage": "Chunky ingredient cards",
+    "surfaceMaterial": "Food brand with playful packaging, chunky copy blocks, and offbeat product shelves",
+    "imageSystem": "Cartons, ingredients, recipe panels, hand-made notes",
+    "interactionModel": "Packaging shelf hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Trade Info",
+    "pricingStyle": "trade pack cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Oatly",
+    "url": "https://www.oatly.com/",
+    "palette": [
+      "#f5ead2",
+      "#004b8d",
+      "#111111",
+      "#ffdf3d",
+      "#f26b3a"
+    ],
+    "visualDirection": "Oatly-style food brand with playful packaging, chunky copy blocks, and offbeat product shelves",
+    "premiumDirection": "A packaged food site with bold copy, illustrated product cards, allergen filters, and stockist routes",
+    "layoutSignature": "playful product manifesto",
+    "heroType": "packaging shelf hero",
+    "headerType": "food brand header",
+    "cardStyle": "chunky ingredient cards",
+    "formStyle": "trade enquiry form",
+    "motionStyle": "poster-style reveal",
+    "imageDirection": "cartons, ingredients, recipe panels, hand-made notes",
+    "cssProfile": "oatly"
+  },
+  "targetCssProfile": "oatly",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Oatly",
+      "url": "https://www.oatly.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Innocent Drinks",
+      "url": "https://www.innocentdrinks.co.uk"
+    },
+    {
+      "category": "direct",
+      "name": "Tonys Chocolonely",
+      "url": "https://tonyschocolonely.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Impossible Foods",
+      "url": "https://impossiblefoods.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Chobani",
+      "url": "https://www.chobani.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aesop",
+      "url": "https://www.aesop.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Dishoom",
+      "url": "https://www.dishoom.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin allergen filter patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/food-production-logo.svg",
+    "brandSymbol": "assets/brand/food-production-symbol.svg",
+    "favicon": "assets/brand/food-production-favicon.svg",
+    "appleTouchIcon": "assets/brand/food-production-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/food-production-home-open-graph.svg",
+    "mockup": "assets/mockups/food-production-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Promise",
+        "Taste",
+        "Quality",
+        "Products",
+        "Story",
+        "Stockists",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Brand",
+      "file": "brand.html",
+      "sections": [
+        "Hero",
+        "Origin",
+        "Makers",
+        "Mission",
+        "Values",
+        "Process",
+        "Sustainability",
+        "Recognition",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Products",
+      "file": "products.html",
+      "sections": [
+        "Hero",
+        "Range",
+        "Flavours",
+        "Sizes",
+        "Ingredients",
+        "Nutrition",
+        "Allergens",
+        "Pairings",
+        "Reviews",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Quality",
+      "file": "quality.html",
+      "sections": [
+        "Hero",
+        "Sourcing",
+        "Production",
+        "Testing",
+        "Safety",
+        "Certifications",
+        "Packaging",
+        "Traceability",
+        "Standards",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Story",
+      "file": "story.html",
+      "sections": [
+        "Hero",
+        "Heritage",
+        "Inspiration",
+        "Craft",
+        "People",
+        "Locality",
+        "Values",
+        "Milestones",
+        "Identity",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Stockists",
+      "file": "stockists.html",
+      "sections": [
+        "Hero",
+        "Retailers",
+        "Regions",
+        "Map",
+        "Online",
+        "Availability",
+        "Trade",
+        "Updates",
+        "Find",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Recipes",
+      "file": "recipes.html",
+      "sections": [
+        "Hero",
+        "Ideas",
+        "Pairings",
+        "Ingredients",
+        "Steps",
+        "Occasions",
+        "Products",
+        "Tips",
+        "Related",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Wholesale",
+      "file": "wholesale.html",
+      "sections": [
+        "Hero",
+        "Trade",
+        "Distribution",
+        "Bulk",
+        "Retail",
+        "Packaging",
+        "Margins",
+        "Requirements",
+        "Process",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Questions",
+      "file": "questions.html",
+      "sections": [
+        "Hero",
+        "Ingredients",
+        "Allergens",
+        "Storage",
+        "Shipping",
+        "Stock",
+        "Wholesale",
+        "Returns",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Retail",
+        "Wholesale",
+        "Press",
+        "Support",
+        "Form",
+        "Social",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

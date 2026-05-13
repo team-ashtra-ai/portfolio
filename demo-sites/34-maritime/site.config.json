@@ -1,0 +1,283 @@
+{
+  "siteName": "Port",
+  "industry": "Maritime, Shipping & Marine Services",
+  "number": 34,
+  "slug": "maritime",
+  "baseUrl": "https://team-ashtra-ai.github.io/34/",
+  "repo": "https://github.com/team-ashtra-ai/34.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Shipping",
+  "schema": "Organization",
+  "visualDirection": "Maritime corporate clarity with pale blue, logistics forms, and route tracking",
+  "premiumDirection": "A shipping site with ocean-blue service panels, cargo quote logic, port schedules, and tracking proof",
+  "layoutSignature": "Blue ocean logistics portal",
+  "heroType": "Shipping route hero",
+  "headerType": "Maritime utility header",
+  "footerType": "port support footer",
+  "cardStyle": "Cargo service cards",
+  "formStyle": "Shipping quote form",
+  "jsSignature": "Vessel filter, port schedule, cargo quote form",
+  "motionStyle": "Route schedule reveal",
+  "themeMode": "dark",
+  "designPassport": {
+    "premiumDirection": "A shipping site with ocean-blue service panels, cargo quote logic, port schedules, and tracking proof",
+    "brandMood": "marine operations",
+    "buyerPsychology": "cargo reliability and reach",
+    "typography": {
+      "display": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "body": "Georgia, \"Times New Roman\", serif",
+      "accent": "Verdana, Geneva, sans-serif",
+      "summary": "Aptos display with Georgia body and Verdana accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for cargo reliability and reach",
+    "layoutArchetype": "Blue ocean logistics portal",
+    "density": "dense",
+    "shapeLanguage": "Cargo service cards",
+    "surfaceMaterial": "Maritime corporate clarity with pale blue, logistics forms, and route tracking",
+    "imageSystem": "Ships, containers, ports, route maps, logistics docs",
+    "interactionModel": "Shipping route hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Shipping",
+    "pricingStyle": "cargo quote cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Maersk",
+    "url": "https://www.maersk.com/",
+    "palette": [
+      "#ecf8ff",
+      "#40b4e5",
+      "#003a5d",
+      "#ffffff",
+      "#9ad7f5"
+    ],
+    "visualDirection": "Maersk-style maritime corporate clarity with pale blue, logistics forms, and route tracking",
+    "premiumDirection": "A shipping site with ocean-blue service panels, cargo quote logic, port schedules, and tracking proof",
+    "layoutSignature": "blue ocean logistics portal",
+    "heroType": "shipping route hero",
+    "headerType": "maritime utility header",
+    "cardStyle": "cargo service cards",
+    "formStyle": "shipping quote form",
+    "motionStyle": "route schedule reveal",
+    "imageDirection": "ships, containers, ports, route maps, logistics docs",
+    "cssProfile": "maersk"
+  },
+  "targetCssProfile": "maersk",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Maersk",
+      "url": "https://www.maersk.com/"
+    },
+    {
+      "category": "direct",
+      "name": "MSC",
+      "url": "https://www.msc.com"
+    },
+    {
+      "category": "direct",
+      "name": "Ocean Network Express",
+      "url": "https://www.one-line.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Port of Rotterdam",
+      "url": "https://www.portofrotterdam.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Stena Line",
+      "url": "https://www.stenaline.com"
+    },
+    {
+      "category": "contrast",
+      "name": "National Geographic",
+      "url": "https://www.nationalgeographic.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Flexport",
+      "url": "https://www.flexport.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin cargo quote patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/maritime-logo.svg",
+    "brandSymbol": "assets/brand/maritime-symbol.svg",
+    "favicon": "assets/brand/maritime-favicon.svg",
+    "appleTouchIcon": "assets/brand/maritime-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/maritime-home-open-graph.svg",
+    "mockup": "assets/mockups/maritime-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Capacity",
+        "Promise",
+        "Services",
+        "Fleet",
+        "Ports",
+        "Tracking",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Company",
+      "file": "company.html",
+      "sections": [
+        "Hero",
+        "Experience",
+        "Crew",
+        "Certifications",
+        "Values",
+        "Standards",
+        "Partners",
+        "Reputation",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Shipping",
+        "Charter",
+        "Repair",
+        "Agency",
+        "Cargo",
+        "Ports",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Fleet",
+      "file": "fleet.html",
+      "sections": [
+        "Hero",
+        "Vessels",
+        "Capacity",
+        "Routes",
+        "Specs",
+        "Equipment",
+        "Availability",
+        "Maintenance",
+        "Gallery",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Ports",
+      "file": "ports.html",
+      "sections": [
+        "Hero",
+        "Locations",
+        "Facilities",
+        "Partners",
+        "Schedules",
+        "Routes",
+        "Documents",
+        "Notes",
+        "Maps",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Safety",
+      "file": "safety.html",
+      "sections": [
+        "Hero",
+        "Crew",
+        "Vessel",
+        "Cargo",
+        "Emergency",
+        "Compliance",
+        "Training",
+        "Audits",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Tracking",
+      "file": "tracking.html",
+      "sections": [
+        "Hero",
+        "ETA",
+        "Documents",
+        "Status",
+        "Exceptions",
+        "Alerts",
+        "Proof",
+        "Support",
+        "Track",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Cargo",
+        "Route",
+        "Level",
+        "Fees",
+        "Contracts",
+        "Addons",
+        "Terms",
+        "Quote",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Support",
+      "file": "support.html",
+      "sections": [
+        "Hero",
+        "Claims",
+        "Delays",
+        "Documents",
+        "Customs",
+        "Escalation",
+        "Routes",
+        "Help",
+        "Contact",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Cargo",
+        "Vessel",
+        "Port",
+        "Details",
+        "Sales",
+        "Response",
+        "Form",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

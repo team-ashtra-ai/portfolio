@@ -1,0 +1,283 @@
+{
+  "siteName": "Stay",
+  "industry": "Hospitality, Hotels & Guest Accommodation",
+  "number": 28,
+  "slug": "hotel",
+  "baseUrl": "https://team-ashtra-ai.github.io/28/",
+  "repo": "https://github.com/team-ashtra-ai/28.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Check Availability",
+  "schema": "Hotel",
+  "visualDirection": "Hospitality with quiet luxury, large tranquil imagery, and restrained booking paths",
+  "premiumDirection": "A hotel site with serene full-bleed rooms, understated booking modules, experience cards, and policy calm",
+  "layoutSignature": "Quiet retreat booking flow",
+  "heroType": "Serene full-bleed stay hero",
+  "headerType": "Discreet hotel header",
+  "footerType": "stay support footer",
+  "cardStyle": "Retreat room cards",
+  "formStyle": "Availability form",
+  "jsSignature": "Room filter, booking panel, offer selector, amenities tabs",
+  "motionStyle": "Slow luxury fade",
+  "themeMode": "hospitality",
+  "designPassport": {
+    "premiumDirection": "A hotel site with serene full-bleed rooms, understated booking modules, experience cards, and policy calm",
+    "brandMood": "restful hospitality",
+    "buyerPsychology": "comfort and availability",
+    "typography": {
+      "display": "\"Palatino Linotype\", Palatino, serif",
+      "body": "Aptos, Calibri, sans-serif",
+      "accent": "Didot, Bodoni 72, Georgia, serif",
+      "summary": "\"Palatino Linotype\" display with Aptos body and Didot accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for comfort and availability",
+    "layoutArchetype": "Quiet retreat booking flow",
+    "density": "spacious",
+    "shapeLanguage": "Retreat room cards",
+    "surfaceMaterial": "Hospitality with quiet luxury, large tranquil imagery, and restrained booking paths",
+    "imageSystem": "Villas, landscapes, spa spaces, calm interiors",
+    "interactionModel": "Serene full-bleed stay hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Check Availability",
+    "pricingStyle": "room rate cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Aman",
+    "url": "https://www.aman.com/",
+    "palette": [
+      "#f3efe7",
+      "#2f2a24",
+      "#b89b72",
+      "#ffffff",
+      "#6c756b"
+    ],
+    "visualDirection": "Aman-style hospitality with quiet luxury, large tranquil imagery, and restrained booking paths",
+    "premiumDirection": "A hotel site with serene full-bleed rooms, understated booking modules, experience cards, and policy calm",
+    "layoutSignature": "quiet retreat booking flow",
+    "heroType": "serene full-bleed stay hero",
+    "headerType": "discreet hotel header",
+    "cardStyle": "retreat room cards",
+    "formStyle": "availability form",
+    "motionStyle": "slow luxury fade",
+    "imageDirection": "villas, landscapes, spa spaces, calm interiors",
+    "cssProfile": "aman"
+  },
+  "targetCssProfile": "aman",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Aman",
+      "url": "https://www.aman.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Rosewood Hotels",
+      "url": "https://www.rosewoodhotels.com"
+    },
+    {
+      "category": "direct",
+      "name": "Four Seasons",
+      "url": "https://www.fourseasons.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Ace Hotel",
+      "url": "https://acehotel.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Airbnb",
+      "url": "https://www.airbnb.com"
+    },
+    {
+      "category": "contrast",
+      "name": "The Modern House",
+      "url": "https://www.themodernhouse.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Monocle",
+      "url": "https://monocle.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin room booking patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/hotel-logo.svg",
+    "brandSymbol": "assets/brand/hotel-symbol.svg",
+    "favicon": "assets/brand/hotel-favicon.svg",
+    "appleTouchIcon": "assets/brand/hotel-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/hotel-home-open-graph.svg",
+    "mockup": "assets/mockups/hotel-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Stay",
+        "Location",
+        "Rooms",
+        "Amenities",
+        "Experiences",
+        "Offers",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Hotel",
+      "file": "hotel.html",
+      "sections": [
+        "Hero",
+        "Story",
+        "Hospitality",
+        "Standards",
+        "Team",
+        "Design",
+        "Locality",
+        "Care",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Rooms",
+      "file": "rooms.html",
+      "sections": [
+        "Hero",
+        "Types",
+        "Features",
+        "Views",
+        "Rates",
+        "Availability",
+        "Amenities",
+        "Gallery",
+        "Policies",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Amenities",
+      "file": "amenities.html",
+      "sections": [
+        "Hero",
+        "Facilities",
+        "Dining",
+        "Spa",
+        "Pool",
+        "Workspace",
+        "Family",
+        "Access",
+        "Details",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Experiences",
+      "file": "experiences.html",
+      "sections": [
+        "Hero",
+        "Local",
+        "Romantic",
+        "Family",
+        "Business",
+        "Wellness",
+        "Seasonal",
+        "Packages",
+        "Tips",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Offers",
+      "file": "offers.html",
+      "sections": [
+        "Hero",
+        "Seasonal",
+        "Longstay",
+        "Weekend",
+        "Romance",
+        "Business",
+        "Conditions",
+        "Availability",
+        "Savings",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Booking",
+      "file": "booking.html",
+      "sections": [
+        "Hero",
+        "Dates",
+        "Guests",
+        "Rooms",
+        "Addons",
+        "Policies",
+        "Payment",
+        "Confirmation",
+        "Help",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Gallery",
+      "file": "gallery.html",
+      "sections": [
+        "Hero",
+        "Rooms",
+        "Lobby",
+        "Food",
+        "Views",
+        "Pool",
+        "Experiences",
+        "Details",
+        "Atmosphere",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Checkin",
+        "Parking",
+        "Pets",
+        "Cancellation",
+        "Breakfast",
+        "Access",
+        "Family",
+        "Payments",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Address",
+        "Phone",
+        "Email",
+        "Map",
+        "Transport",
+        "Reception",
+        "Socials",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

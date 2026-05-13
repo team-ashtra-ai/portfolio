@@ -1,0 +1,288 @@
+{
+  "siteName": "Market",
+  "industry": "E-commerce, Marketplaces & Digital Commerce",
+  "number": 36,
+  "slug": "ecommerce",
+  "baseUrl": "https://team-ashtra-ai.github.io/36/",
+  "repo": "https://github.com/team-ashtra-ai/36.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Browse Market",
+  "schema": "Product",
+  "visualDirection": "E-commerce with monochrome grid discipline, compact type, and catalogue authority",
+  "premiumDirection": "A marketplace catalogue with black-white product grids, tiny metadata, filter logic, and checkout routing",
+  "layoutSignature": "Monochrome catalogue system",
+  "heroType": "Fashion-commerce grid hero",
+  "headerType": "Compact shop header",
+  "footerType": "seller support footer",
+  "cardStyle": "Monochrome product cards",
+  "formStyle": "Support routing form",
+  "jsSignature": "Catalogue filter, seller/customer support routing",
+  "motionStyle": "Grid snap reveal",
+  "themeMode": "commerce",
+  "designPassport": {
+    "premiumDirection": "A marketplace catalogue with black-white product grids, tiny metadata, filter logic, and checkout routing",
+    "brandMood": "marketplace",
+    "buyerPsychology": "speed and transaction trust",
+    "typography": {
+      "display": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "body": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "accent": "\"Gill Sans\", Candara, sans-serif",
+      "summary": "Aptos display with \"Lucida Sans\" body and \"Gill Sans\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for speed and transaction trust",
+    "layoutArchetype": "Monochrome catalogue system",
+    "density": "compact",
+    "shapeLanguage": "Monochrome product cards",
+    "surfaceMaterial": "E-commerce with monochrome grid discipline, compact type, and catalogue authority",
+    "imageSystem": "Product grids, editorial crops, order panels, marketplace lists",
+    "interactionModel": "Fashion-commerce grid hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Browse Market",
+    "pricingStyle": "seller/customer route cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "SSENSE",
+    "url": "https://www.ssense.com/",
+    "palette": [
+      "#ffffff",
+      "#000000",
+      "#777777",
+      "#f5f5f5",
+      "#d9d9d9"
+    ],
+    "visualDirection": "SSENSE-style e-commerce with monochrome grid discipline, compact type, and catalogue authority",
+    "premiumDirection": "A marketplace catalogue with black-white product grids, tiny metadata, filter logic, and checkout routing",
+    "layoutSignature": "monochrome catalogue system",
+    "heroType": "fashion-commerce grid hero",
+    "headerType": "compact shop header",
+    "cardStyle": "monochrome product cards",
+    "formStyle": "support routing form",
+    "motionStyle": "grid snap reveal",
+    "imageDirection": "product grids, editorial crops, order panels, marketplace lists",
+    "cssProfile": "ssense"
+  },
+  "targetCssProfile": "ssense",
+  "references": [
+    {
+      "category": "direct",
+      "name": "SSENSE",
+      "url": "https://www.ssense.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Shopify",
+      "url": "https://www.shopify.com"
+    },
+    {
+      "category": "direct",
+      "name": "Amazon",
+      "url": "https://www.amazon.com"
+    },
+    {
+      "category": "direct",
+      "name": "Etsy",
+      "url": "https://www.etsy.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Farfetch",
+      "url": "https://www.farfetch.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br"
+    },
+    {
+      "category": "contrast",
+      "name": "Stripe",
+      "url": "https://stripe.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Airbnb",
+      "url": "https://www.airbnb.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin commerce checkout flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/ecommerce-logo.svg",
+    "brandSymbol": "assets/brand/ecommerce-symbol.svg",
+    "favicon": "assets/brand/ecommerce-favicon.svg",
+    "appleTouchIcon": "assets/brand/ecommerce-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/ecommerce-home-open-graph.svg",
+    "mockup": "assets/mockups/ecommerce-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Promise",
+        "Featured",
+        "Categories",
+        "Deals",
+        "Trust",
+        "Sellers",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Market",
+      "file": "market.html",
+      "sections": [
+        "Hero",
+        "Mission",
+        "Sellers",
+        "Standards",
+        "Quality",
+        "Payments",
+        "Security",
+        "Scale",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Shop",
+      "file": "shop.html",
+      "sections": [
+        "Hero",
+        "Catalogue",
+        "New",
+        "Popular",
+        "Filters",
+        "Cards",
+        "Reviews",
+        "Recommendations",
+        "Checkout",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Categories",
+      "file": "categories.html",
+      "sections": [
+        "Hero",
+        "Main",
+        "Sub",
+        "Collections",
+        "Trending",
+        "Seasonal",
+        "Recommendations",
+        "Filters",
+        "Browse",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Deals",
+      "file": "deals.html",
+      "sections": [
+        "Hero",
+        "Discounts",
+        "Bundles",
+        "Limited",
+        "Flash",
+        "Conditions",
+        "Expiry",
+        "Products",
+        "Savings",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Sellers",
+      "file": "sellers.html",
+      "sections": [
+        "Hero",
+        "Benefits",
+        "Requirements",
+        "Fees",
+        "Onboarding",
+        "Setup",
+        "Standards",
+        "Support",
+        "Apply",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Support",
+      "file": "support.html",
+      "sections": [
+        "Hero",
+        "Orders",
+        "Returns",
+        "Delivery",
+        "Refunds",
+        "Tickets",
+        "Help",
+        "Policies",
+        "Contact",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Account",
+      "file": "account.html",
+      "sections": [
+        "Hero",
+        "Orders",
+        "Details",
+        "Preferences",
+        "Security",
+        "Addresses",
+        "Wishlist",
+        "Payments",
+        "Help",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Shipping",
+        "Refunds",
+        "Payments",
+        "Sellers",
+        "Accounts",
+        "Delivery",
+        "Returns",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Customer",
+        "Seller",
+        "Press",
+        "Partnership",
+        "Routing",
+        "Response",
+        "Form",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

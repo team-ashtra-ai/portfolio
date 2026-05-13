@@ -1,0 +1,283 @@
+{
+  "siteName": "Aero",
+  "industry": "Aviation, Aerospace & Air Services",
+  "number": 33,
+  "slug": "aviation",
+  "baseUrl": "https://team-ashtra-ai.github.io/33/",
+  "repo": "https://github.com/team-ashtra-ai/33.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Charter",
+  "schema": "Organization",
+  "visualDirection": "Aviation future with dark aerospace surfaces, orange velocity, and fleet-spec confidence",
+  "premiumDirection": "An aviation site with speed-led hero, aircraft spec cards, route modules, safety proof, and charter enquiry",
+  "layoutSignature": "Supersonic operations deck",
+  "heroType": "Aerospace velocity hero",
+  "headerType": "Aviation product header",
+  "footerType": "compliance footer",
+  "cardStyle": "Fleet specification cards",
+  "formStyle": "Charter route form",
+  "jsSignature": "Fleet specs tabs, safety checklist, charter route form",
+  "motionStyle": "Velocity line reveal",
+  "themeMode": "dark",
+  "designPassport": {
+    "premiumDirection": "An aviation site with speed-led hero, aircraft spec cards, route modules, safety proof, and charter enquiry",
+    "brandMood": "aviation precision",
+    "buyerPsychology": "safety and premium reliability",
+    "typography": {
+      "display": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "body": "Verdana, Geneva, sans-serif",
+      "accent": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "summary": "Aptos display with Verdana body and \"Lucida Sans\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for safety and premium reliability",
+    "layoutArchetype": "Supersonic operations deck",
+    "density": "spacious",
+    "shapeLanguage": "Fleet specification cards",
+    "surfaceMaterial": "Aviation future with dark aerospace surfaces, orange velocity, and fleet-spec confidence",
+    "imageSystem": "Aircraft, runways, hangars, flight paths",
+    "interactionModel": "Aerospace velocity hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Charter",
+    "pricingStyle": "charter route cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Boom Supersonic",
+    "url": "https://boomsupersonic.com/",
+    "palette": [
+      "#050b18",
+      "#ff6f2c",
+      "#4cc9f0",
+      "#ffffff",
+      "#223456"
+    ],
+    "visualDirection": "Boom-style aviation future with dark aerospace surfaces, orange velocity, and fleet-spec confidence",
+    "premiumDirection": "An aviation site with speed-led hero, aircraft spec cards, route modules, safety proof, and charter enquiry",
+    "layoutSignature": "supersonic operations deck",
+    "heroType": "aerospace velocity hero",
+    "headerType": "aviation product header",
+    "cardStyle": "fleet specification cards",
+    "formStyle": "charter route form",
+    "motionStyle": "velocity line reveal",
+    "imageDirection": "aircraft, runways, hangars, flight paths",
+    "cssProfile": "boom"
+  },
+  "targetCssProfile": "boom",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Boom Supersonic",
+      "url": "https://boomsupersonic.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Virgin Atlantic",
+      "url": "https://www.virginatlantic.com"
+    },
+    {
+      "category": "direct",
+      "name": "Airbus",
+      "url": "https://www.airbus.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "NetJets",
+      "url": "https://www.netjets.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "VistaJet",
+      "url": "https://www.vistajet.com"
+    },
+    {
+      "category": "contrast",
+      "name": "NASA",
+      "url": "https://www.nasa.gov"
+    },
+    {
+      "category": "contrast",
+      "name": "Aman",
+      "url": "https://www.aman.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin fleet tab patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/aviation-logo.svg",
+    "brandSymbol": "assets/brand/aviation-symbol.svg",
+    "favicon": "assets/brand/aviation-favicon.svg",
+    "appleTouchIcon": "assets/brand/aviation-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/aviation-home-open-graph.svg",
+    "mockup": "assets/mockups/aviation-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Safety",
+        "Promise",
+        "Services",
+        "Fleet",
+        "Operations",
+        "Compliance",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Company",
+      "file": "company.html",
+      "sections": [
+        "Hero",
+        "Leadership",
+        "Values",
+        "Credentials",
+        "Experience",
+        "Team",
+        "Standards",
+        "Reputation",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Charter",
+        "Maintenance",
+        "Training",
+        "Ground",
+        "Technical",
+        "Missions",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Fleet",
+      "file": "fleet.html",
+      "sections": [
+        "Hero",
+        "Aircraft",
+        "Capacity",
+        "Range",
+        "Specs",
+        "Interiors",
+        "Availability",
+        "Maintenance",
+        "Gallery",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Safety",
+      "file": "safety.html",
+      "sections": [
+        "Hero",
+        "Culture",
+        "Training",
+        "Audits",
+        "Maintenance",
+        "Risk",
+        "Certification",
+        "Procedures",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Operations",
+      "file": "operations.html",
+      "sections": [
+        "Hero",
+        "Routes",
+        "Scheduling",
+        "Ground",
+        "Control",
+        "Logistics",
+        "Weather",
+        "Communication",
+        "Reliability",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Compliance",
+      "file": "compliance.html",
+      "sections": [
+        "Hero",
+        "Authorities",
+        "Documents",
+        "Audits",
+        "Records",
+        "Standards",
+        "Approvals",
+        "Governance",
+        "Evidence",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Projects",
+      "file": "projects.html",
+      "sections": [
+        "Hero",
+        "Aerospace",
+        "Engineering",
+        "Logistics",
+        "Mission",
+        "Outcomes",
+        "Notes",
+        "Metrics",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Careers",
+      "file": "careers.html",
+      "sections": [
+        "Hero",
+        "Roles",
+        "Pilots",
+        "Engineers",
+        "Operations",
+        "Requirements",
+        "Culture",
+        "Benefits",
+        "Apply",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Charter",
+        "Technical",
+        "Partners",
+        "Details",
+        "Route",
+        "Phone",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

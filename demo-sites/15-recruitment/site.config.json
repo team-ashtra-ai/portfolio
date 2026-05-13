@@ -1,0 +1,288 @@
+{
+  "siteName": "Talent",
+  "industry": "Recruitment, HR & Workplace Services",
+  "number": 15,
+  "slug": "recruitment",
+  "baseUrl": "https://team-ashtra-ai.github.io/15/",
+  "repo": "https://github.com/team-ashtra-ai/15.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Start Hiring",
+  "schema": "Organization",
+  "visualDirection": "Hiring editorial with yellow blocks, human stories, and job-board modules",
+  "premiumDirection": "A recruitment magazine site with candidate/employer split, bold editorial cards, people proof, and upload routes",
+  "layoutSignature": "Editorial talent marketplace",
+  "heroType": "Yellow job magazine hero",
+  "headerType": "Magazine hiring header",
+  "footerType": "candidate support footer",
+  "cardStyle": "Job story cards",
+  "formStyle": "Candidate upload form",
+  "jsSignature": "Employer/candidate toggle, role filter, upload CV flow",
+  "motionStyle": "Editorial card shuffle",
+  "themeMode": "professional",
+  "designPassport": {
+    "premiumDirection": "A recruitment magazine site with candidate/employer split, bold editorial cards, people proof, and upload routes",
+    "brandMood": "human career",
+    "buyerPsychology": "matching confidence for two audiences",
+    "typography": {
+      "display": "\"Trebuchet MS\", Arial, sans-serif",
+      "body": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+      "accent": "Aptos, Calibri, sans-serif",
+      "summary": "\"Trebuchet MS\" display with Inter body and Aptos accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for matching confidence for two audiences",
+    "layoutArchetype": "Editorial talent marketplace",
+    "density": "medium",
+    "shapeLanguage": "Job story cards",
+    "surfaceMaterial": "Hiring editorial with yellow blocks, human stories, and job-board modules",
+    "imageSystem": "Workplace portraits, job cards, culture pages",
+    "interactionModel": "Yellow job magazine hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Start Hiring",
+    "pricingStyle": "placement fee cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Welcome to the Jungle",
+    "url": "https://www.welcometothejungle.com/",
+    "palette": [
+      "#ffe45e",
+      "#111111",
+      "#ff6a3d",
+      "#f8f4e8",
+      "#1f6feb"
+    ],
+    "visualDirection": "Welcome to the Jungle-style hiring editorial with yellow blocks, human stories, and job-board modules",
+    "premiumDirection": "A recruitment magazine site with candidate/employer split, bold editorial cards, people proof, and upload routes",
+    "layoutSignature": "editorial talent marketplace",
+    "heroType": "yellow job magazine hero",
+    "headerType": "magazine hiring header",
+    "cardStyle": "job story cards",
+    "formStyle": "candidate upload form",
+    "motionStyle": "editorial card shuffle",
+    "imageDirection": "workplace portraits, job cards, culture pages",
+    "cssProfile": "jungle"
+  },
+  "targetCssProfile": "jungle",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Welcome to the Jungle",
+      "url": "https://www.welcometothejungle.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Greenhouse",
+      "url": "https://www.greenhouse.com"
+    },
+    {
+      "category": "direct",
+      "name": "Workday",
+      "url": "https://www.workday.com"
+    },
+    {
+      "category": "direct",
+      "name": "Lever",
+      "url": "https://www.lever.co"
+    },
+    {
+      "category": "adjacent",
+      "name": "Indeed",
+      "url": "https://www.indeed.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Remote",
+      "url": "https://remote.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Airbnb Careers",
+      "url": "https://careers.airbnb.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Spotify Careers",
+      "url": "https://www.lifeatspotify.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin job search and upload flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/recruitment-logo.svg",
+    "brandSymbol": "assets/brand/recruitment-symbol.svg",
+    "favicon": "assets/brand/recruitment-favicon.svg",
+    "appleTouchIcon": "assets/brand/recruitment-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/recruitment-home-open-graph.svg",
+    "mockup": "assets/mockups/recruitment-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Workforce",
+        "Pressure",
+        "Promise",
+        "Services",
+        "Process",
+        "Results",
+        "Reviews",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Agency",
+      "file": "agency.html",
+      "sections": [
+        "Hero",
+        "Specialisms",
+        "Values",
+        "Team",
+        "Market",
+        "Standards",
+        "Care",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Hiring",
+      "file": "hiring.html",
+      "sections": [
+        "Hero",
+        "Need",
+        "Brief",
+        "Search",
+        "Screening",
+        "Shortlist",
+        "Interviews",
+        "Offers",
+        "Onboarding",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Talent",
+      "file": "talent.html",
+      "sections": [
+        "Hero",
+        "Goal",
+        "Opportunities",
+        "CV",
+        "Interviews",
+        "Matching",
+        "Advice",
+        "Process",
+        "Apply",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Recruitment",
+        "HR",
+        "Payroll",
+        "Training",
+        "Policy",
+        "Support",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Brief",
+        "Search",
+        "Screen",
+        "Present",
+        "Interview",
+        "Select",
+        "Onboard",
+        "Review",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Results",
+      "file": "results.html",
+      "sections": [
+        "Hero",
+        "Placements",
+        "Retention",
+        "Speed",
+        "Employers",
+        "Candidates",
+        "Metrics",
+        "Reviews",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Contingency",
+        "Retainer",
+        "Project",
+        "HR",
+        "Terms",
+        "Comparison",
+        "Inclusions",
+        "Fit",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Insights",
+      "file": "insights.html",
+      "sections": [
+        "Hero",
+        "Hiring",
+        "Culture",
+        "Leadership",
+        "HR",
+        "Candidates",
+        "Salaries",
+        "Guides",
+        "Trends",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Employers",
+        "Candidates",
+        "Partners",
+        "Roles",
+        "Upload",
+        "Response",
+        "Steps",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

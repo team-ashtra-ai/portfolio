@@ -1,0 +1,283 @@
+{
+  "siteName": "Cipher",
+  "industry": "Cybersecurity, Privacy & Risk Protection",
+  "number": 7,
+  "slug": "cybersecurity",
+  "baseUrl": "https://team-ashtra-ai.github.io/7/",
+  "repo": "https://github.com/team-ashtra-ai/7.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Request Audit",
+  "schema": "Organization",
+  "visualDirection": "Cloud-security energy with purple depth, blue diagrams, and bold risk visuals",
+  "premiumDirection": "A cloud-risk command site with neon topology, rounded security modules, compliance proof, and audit routing",
+  "layoutSignature": "Cloud security command centre",
+  "heroType": "Purple cloud-risk hero",
+  "headerType": "Security product header",
+  "footerType": "security evidence footer",
+  "cardStyle": "Rounded cloud-risk cards",
+  "formStyle": "Audit request form",
+  "jsSignature": "Risk matrix, compliance checklist, incident response stepper",
+  "motionStyle": "Glowing topology reveal",
+  "themeMode": "dark",
+  "designPassport": {
+    "premiumDirection": "A cloud-risk command site with neon topology, rounded security modules, compliance proof, and audit routing",
+    "brandMood": "controlled risk",
+    "buyerPsychology": "privacy and threat reduction",
+    "typography": {
+      "display": "Inter, ui-sans-serif, system-ui, sans-serif",
+      "body": "\"Lucida Sans\", \"Segoe UI\", sans-serif",
+      "accent": "\"Courier New\", ui-monospace, monospace",
+      "summary": "Inter display with \"Lucida Sans\" body and \"Courier New\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for privacy and threat reduction",
+    "layoutArchetype": "Cloud security command centre",
+    "density": "dense",
+    "shapeLanguage": "Rounded cloud-risk cards",
+    "surfaceMaterial": "Cloud-security energy with purple depth, blue diagrams, and bold risk visuals",
+    "imageSystem": "Cloud graphs, risk paths, security dashboards",
+    "interactionModel": "Purple cloud-risk hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Request Audit",
+    "pricingStyle": "audit and retainer cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Wiz",
+    "url": "https://www.wiz.io/",
+    "palette": [
+      "#11092a",
+      "#7b2cff",
+      "#19c6ff",
+      "#f8f6ff",
+      "#ff6bd6"
+    ],
+    "visualDirection": "Wiz-style cloud-security energy with purple depth, blue diagrams, and bold risk visuals",
+    "premiumDirection": "A cloud-risk command site with neon topology, rounded security modules, compliance proof, and audit routing",
+    "layoutSignature": "cloud security command centre",
+    "heroType": "purple cloud-risk hero",
+    "headerType": "security product header",
+    "cardStyle": "rounded cloud-risk cards",
+    "formStyle": "audit request form",
+    "motionStyle": "glowing topology reveal",
+    "imageDirection": "cloud graphs, risk paths, security dashboards",
+    "cssProfile": "wiz"
+  },
+  "targetCssProfile": "wiz",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Wiz",
+      "url": "https://www.wiz.io/"
+    },
+    {
+      "category": "direct",
+      "name": "Snyk",
+      "url": "https://snyk.io"
+    },
+    {
+      "category": "direct",
+      "name": "CrowdStrike",
+      "url": "https://www.crowdstrike.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Okta",
+      "url": "https://www.okta.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "1Password",
+      "url": "https://1password.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Linear",
+      "url": "https://linear.app"
+    },
+    {
+      "category": "contrast",
+      "name": "GOV.UK service patterns",
+      "url": "https://design-system.service.gov.uk"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin security console patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/cybersecurity-logo.svg",
+    "brandSymbol": "assets/brand/cybersecurity-symbol.svg",
+    "favicon": "assets/brand/cybersecurity-favicon.svg",
+    "appleTouchIcon": "assets/brand/cybersecurity-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/cybersecurity-home-open-graph.svg",
+    "mockup": "assets/mockups/cybersecurity-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Threats",
+        "Exposure",
+        "Promise",
+        "Services",
+        "Risk",
+        "Proof",
+        "Compliance",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Firm",
+      "file": "firm.html",
+      "sections": [
+        "Hero",
+        "Story",
+        "Ethics",
+        "Team",
+        "Credentials",
+        "Methods",
+        "Tools",
+        "Privacy",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Testing",
+        "Monitoring",
+        "Training",
+        "Advisory",
+        "Response",
+        "Deliverables",
+        "Benefits",
+        "Scope",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Risk",
+      "file": "risk.html",
+      "sections": [
+        "Hero",
+        "Overview",
+        "People",
+        "Systems",
+        "Data",
+        "Vendors",
+        "Access",
+        "Priorities",
+        "Matrix",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Compliance",
+      "file": "compliance.html",
+      "sections": [
+        "Hero",
+        "Regulation",
+        "GDPR",
+        "LGPD",
+        "ISO",
+        "SOC",
+        "Policies",
+        "Evidence",
+        "Reporting",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Process",
+      "file": "process.html",
+      "sections": [
+        "Hero",
+        "Discovery",
+        "Scope",
+        "Testing",
+        "Findings",
+        "Remediation",
+        "Verification",
+        "Reporting",
+        "Monitoring",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Response",
+      "file": "response.html",
+      "sections": [
+        "Hero",
+        "Incident",
+        "Triage",
+        "Containment",
+        "Investigation",
+        "Recovery",
+        "Reporting",
+        "Lessons",
+        "Prevention",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Audits",
+        "Retainers",
+        "Response",
+        "Training",
+        "Scope",
+        "Deliverables",
+        "Comparison",
+        "Terms",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Insights",
+      "file": "insights.html",
+      "sections": [
+        "Hero",
+        "Threats",
+        "Guides",
+        "Checklists",
+        "Privacy",
+        "Compliance",
+        "Training",
+        "Resources",
+        "Alerts",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Secure",
+        "Emergency",
+        "Audit",
+        "Sales",
+        "Form",
+        "Confidentiality",
+        "Response",
+        "Details",
+        "CTA"
+      ]
+    }
+  ]
+}

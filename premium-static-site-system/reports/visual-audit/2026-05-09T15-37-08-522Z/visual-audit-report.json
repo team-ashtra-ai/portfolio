@@ -1,0 +1,230 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-09T15:37:20.807Z",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "totalPages": 2,
+    "pagesWithErrors": 0,
+    "pagesWithLowContrast": 2,
+    "pagesWithOverflow": 0,
+    "pagesWithBrokenImages": 0,
+    "pagesWithTallHeaders": 0,
+    "outputDirectory": "premium-static-site-system/reports/visual-audit/2026-05-09T15-37-08-522Z"
+  },
+  "bySite": {
+    "01": {
+      "pages": 2,
+      "errors": 0,
+      "lowContrast": 2,
+      "overflow": 0,
+      "brokenImages": 0,
+      "tallHeaders": 0
+    }
+  },
+  "results": [
+    {
+      "file": "demo-sites/01-healthcare/404.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/404.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Page Not Found | AsterCare Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1799
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 123,
+          "footerHeight": 613,
+          "navWidth": 481
+        },
+        "lowContrast": [
+          {
+            "selector": "p",
+            "text": "Clean health-tech with scan-first white space, black copy, and electric blue data accents ",
+            "ratio": 1,
+            "required": 4.5,
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "a",
+            "text": "Contact ASH-TRA",
+            "ratio": 1.11,
+            "required": 4.5,
+            "color": "color(srgb 0.895059 0.966588 0.981647)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "a",
+            "text": "Open booking route",
+            "ratio": 1.11,
+            "required": 4.5,
+            "color": "color(srgb 0.895059 0.966588 0.981647)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Main",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Services",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Proof",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Support",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Legal",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    },
+    {
+      "file": "demo-sites/01-healthcare/accessibility.html",
+      "site": "01",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/accessibility.html",
+      "screenshot": "",
+      "consoleMessages": [],
+      "pageErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | AsterCare Static Site",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "documentSize": {
+          "width": 1440,
+          "height": 1890
+        },
+        "sectionCount": 1,
+        "componentMetrics": {
+          "headerHeight": 123,
+          "footerHeight": 613,
+          "navWidth": 481
+        },
+        "lowContrast": [
+          {
+            "selector": "p",
+            "text": "Clean health-tech with scan-first white space, black copy, and electric blue data accents ",
+            "ratio": 1,
+            "required": 4.5,
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "a",
+            "text": "Contact ASH-TRA",
+            "ratio": 1.11,
+            "required": 4.5,
+            "color": "color(srgb 0.895059 0.966588 0.981647)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "a",
+            "text": "Open booking route",
+            "ratio": 1.11,
+            "required": 4.5,
+            "color": "color(srgb 0.895059 0.966588 0.981647)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Main",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Services",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Proof",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Support",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "selector": "h2",
+            "text": "Legal",
+            "ratio": 1.07,
+            "required": 4.5,
+            "color": "rgb(7, 20, 30)",
+            "background": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "horizontalOverflow": [],
+        "brokenImages": [],
+        "verySparseSections": [],
+        "flags": {
+          "tallHeader": false,
+          "footerMissing": false,
+          "headerMissing": false,
+          "noSections": false,
+          "pageWiderThanViewport": false
+        }
+      }
+    }
+  ]
+}

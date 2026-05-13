@@ -1,0 +1,283 @@
+{
+  "siteName": "Paw",
+  "industry": "Pets, Animals & Veterinary Services",
+  "number": 48,
+  "slug": "veterinary",
+  "baseUrl": "https://team-ashtra-ai.github.io/48/",
+  "repo": "https://github.com/team-ashtra-ai/48.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Book Visit",
+  "schema": "VeterinaryCare",
+  "visualDirection": "Veterinary care with warm clinic colours, rounded forms, and friendly triage",
+  "premiumDirection": "A veterinary site with warm urgent-care modules, appointment paths, team proof, and symptom routing",
+  "layoutSignature": "Modern clinic care flow",
+  "heroType": "Warm appointment hero",
+  "headerType": "Friendly clinic header",
+  "footerType": "care guide footer",
+  "cardStyle": "Rounded care cards",
+  "formStyle": "Appointment form",
+  "jsSignature": "Emergency symptom helper, appointment form, care guide filter",
+  "motionStyle": "Triage card reveal",
+  "themeMode": "care",
+  "designPassport": {
+    "premiumDirection": "A veterinary site with warm urgent-care modules, appointment paths, team proof, and symptom routing",
+    "brandMood": "compassionate urgent",
+    "buyerPsychology": "care and quick triage",
+    "typography": {
+      "display": "\"Arial Narrow\", Arial, sans-serif",
+      "body": "Georgia, \"Times New Roman\", serif",
+      "accent": "\"Courier New\", ui-monospace, monospace",
+      "summary": "\"Arial Narrow\" display with Georgia body and \"Courier New\" accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for care and quick triage",
+    "layoutArchetype": "Modern clinic care flow",
+    "density": "practical",
+    "shapeLanguage": "Rounded care cards",
+    "surfaceMaterial": "Veterinary care with warm clinic colours, rounded forms, and friendly triage",
+    "imageSystem": "Clinic rooms, pets, care teams, appointment panels",
+    "interactionModel": "Warm appointment hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Book Visit",
+    "pricingStyle": "care plan cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Modern Animal",
+    "url": "https://www.modernanimal.com/",
+    "palette": [
+      "#fff7ef",
+      "#256a5e",
+      "#ffb199",
+      "#ffffff",
+      "#21413a"
+    ],
+    "visualDirection": "Modern Animal-style veterinary care with warm clinic colours, rounded forms, and friendly triage",
+    "premiumDirection": "A veterinary site with warm urgent-care modules, appointment paths, team proof, and symptom routing",
+    "layoutSignature": "modern clinic care flow",
+    "heroType": "warm appointment hero",
+    "headerType": "friendly clinic header",
+    "cardStyle": "rounded care cards",
+    "formStyle": "appointment form",
+    "motionStyle": "triage card reveal",
+    "imageDirection": "clinic rooms, pets, care teams, appointment panels",
+    "cssProfile": "modernanimal"
+  },
+  "targetCssProfile": "modernanimal",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Modern Animal",
+      "url": "https://www.modernanimal.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Rover",
+      "url": "https://www.rover.com"
+    },
+    {
+      "category": "direct",
+      "name": "Chewy",
+      "url": "https://www.chewy.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "The Farmers Dog",
+      "url": "https://www.thefarmersdog.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "VCA Animal Hospitals",
+      "url": "https://vcahospitals.com"
+    },
+    {
+      "category": "contrast",
+      "name": "One Medical",
+      "url": "https://www.onemedical.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Glossier",
+      "url": "https://www.glossier.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin appointment and emergency helper patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/veterinary-logo.svg",
+    "brandSymbol": "assets/brand/veterinary-symbol.svg",
+    "favicon": "assets/brand/veterinary-favicon.svg",
+    "appleTouchIcon": "assets/brand/veterinary-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/veterinary-home-open-graph.svg",
+    "mockup": "assets/mockups/veterinary-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Concern",
+        "Promise",
+        "Services",
+        "Emergency",
+        "Team",
+        "Reviews",
+        "Trust",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Clinic",
+      "file": "clinic.html",
+      "sections": [
+        "Hero",
+        "Values",
+        "Facilities",
+        "Standards",
+        "Team",
+        "Reviews",
+        "Welfare",
+        "Experience",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Services",
+      "file": "services.html",
+      "sections": [
+        "Hero",
+        "Checkups",
+        "Vaccines",
+        "Dental",
+        "Surgery",
+        "Diagnostics",
+        "Prevention",
+        "Benefits",
+        "Safety",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Care",
+      "file": "care.html",
+      "sections": [
+        "Hero",
+        "Prevention",
+        "Nutrition",
+        "Behaviour",
+        "Stages",
+        "Symptoms",
+        "Homecare",
+        "Advice",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Team",
+      "file": "team.html",
+      "sections": [
+        "Hero",
+        "Vets",
+        "Nurses",
+        "Specialists",
+        "Profiles",
+        "Experience",
+        "Style",
+        "Availability",
+        "Meet",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "file": "pricing.html",
+      "sections": [
+        "Hero",
+        "Consults",
+        "Procedures",
+        "Packages",
+        "Insurance",
+        "Payments",
+        "Inclusions",
+        "Policies",
+        "Quote",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Emergency",
+      "file": "emergency.html",
+      "sections": [
+        "Hero",
+        "Symptoms",
+        "Steps",
+        "Call",
+        "Directions",
+        "Hours",
+        "Bring",
+        "Aftercare",
+        "Urgent",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Resources",
+      "file": "resources.html",
+      "sections": [
+        "Hero",
+        "Guides",
+        "Aftercare",
+        "Prevention",
+        "Nutrition",
+        "Behaviour",
+        "Downloads",
+        "Advice",
+        "Learn",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Appointments",
+        "Vaccines",
+        "Surgery",
+        "Recovery",
+        "Payment",
+        "Insurance",
+        "Emergencies",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Booking",
+        "Phone",
+        "WhatsApp",
+        "Location",
+        "Hours",
+        "Map",
+        "Emergency",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "siteName": "Stage",
+  "industry": "Entertainment, Music & Performance",
+  "number": 40,
+  "slug": "entertainment",
+  "baseUrl": "https://team-ashtra-ai.github.io/40/",
+  "repo": "https://github.com/team-ashtra-ai/40.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "View Tickets",
+  "schema": "Organization",
+  "visualDirection": "Entertainment with black cinema mood, poster grids, and understated weirdness",
+  "premiumDirection": "An entertainment site with film-poster rhythm, dark editorial cards, ticket routes, and venue proof",
+  "layoutSignature": "Indie film poster system",
+  "heroType": "Dark poster hero",
+  "headerType": "Film studio header",
+  "footerType": "venue footer",
+  "cardStyle": "Poster event cards",
+  "formStyle": "Ticket enquiry form",
+  "jsSignature": "Event calendar, ticket selector, artist filter",
+  "motionStyle": "Poster fade reveal",
+  "themeMode": "dark",
+  "designPassport": {
+    "premiumDirection": "An entertainment site with film-poster rhythm, dark editorial cards, ticket routes, and venue proof",
+    "brandMood": "live energy",
+    "buyerPsychology": "excitement and access",
+    "typography": {
+      "display": "Verdana, Geneva, sans-serif",
+      "body": "Georgia, \"Times New Roman\", serif",
+      "accent": "Arial, Helvetica, sans-serif",
+      "summary": "Verdana display with Georgia body and Arial accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for excitement and access",
+    "layoutArchetype": "Indie film poster system",
+    "density": "theatrical",
+    "shapeLanguage": "Poster event cards",
+    "surfaceMaterial": "Entertainment with black cinema mood, poster grids, and understated weirdness",
+    "imageSystem": "Film posters, stage stills, credits, audience moments",
+    "interactionModel": "Dark poster hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using View Tickets",
+    "pricingStyle": "ticket tier cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "A24",
+    "url": "https://a24films.com/",
+    "palette": [
+      "#050505",
+      "#ffffff",
+      "#c69a55",
+      "#181818",
+      "#e24a2e"
+    ],
+    "visualDirection": "A24-style entertainment with black cinema mood, poster grids, and understated weirdness",
+    "premiumDirection": "An entertainment site with film-poster rhythm, dark editorial cards, ticket routes, and venue proof",
+    "layoutSignature": "indie film poster system",
+    "heroType": "dark poster hero",
+    "headerType": "film studio header",
+    "cardStyle": "poster event cards",
+    "formStyle": "ticket enquiry form",
+    "motionStyle": "poster fade reveal",
+    "imageDirection": "film posters, stage stills, credits, audience moments",
+    "cssProfile": "a24"
+  },
+  "targetCssProfile": "a24",
+  "references": [
+    {
+      "category": "direct",
+      "name": "A24",
+      "url": "https://a24films.com/"
+    },
+    {
+      "category": "direct",
+      "name": "Netflix",
+      "url": "https://www.netflix.com"
+    },
+    {
+      "category": "direct",
+      "name": "Spotify",
+      "url": "https://www.spotify.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Ticketmaster",
+      "url": "https://www.ticketmaster.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Dice",
+      "url": "https://dice.fm"
+    },
+    {
+      "category": "contrast",
+      "name": "Nike",
+      "url": "https://www.nike.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aman",
+      "url": "https://www.aman.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin ticket selector patterns",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/entertainment-logo.svg",
+    "brandSymbol": "assets/brand/entertainment-symbol.svg",
+    "favicon": "assets/brand/entertainment-favicon.svg",
+    "appleTouchIcon": "assets/brand/entertainment-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/entertainment-home-open-graph.svg",
+    "mockup": "assets/mockups/entertainment-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Hook",
+        "Upcoming",
+        "Artists",
+        "Tickets",
+        "Media",
+        "Reviews",
+        "Energy",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Venue",
+      "file": "venue.html",
+      "sections": [
+        "Hero",
+        "Story",
+        "Stage",
+        "Sound",
+        "Team",
+        "Values",
+        "Facilities",
+        "Reputation",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Shows",
+      "file": "shows.html",
+      "sections": [
+        "Hero",
+        "Calendar",
+        "Featured",
+        "Genres",
+        "Artists",
+        "Tickets",
+        "Times",
+        "Details",
+        "Book",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Artists",
+      "file": "artists.html",
+      "sections": [
+        "Hero",
+        "Lineup",
+        "Profiles",
+        "Music",
+        "Videos",
+        "Dates",
+        "Socials",
+        "Press",
+        "Discover",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Tickets",
+      "file": "tickets.html",
+      "sections": [
+        "Hero",
+        "Options",
+        "Seating",
+        "Pricing",
+        "Access",
+        "Terms",
+        "Delivery",
+        "Questions",
+        "Buy",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Private",
+      "file": "private.html",
+      "sections": [
+        "Hero",
+        "Events",
+        "Hire",
+        "Capacity",
+        "Packages",
+        "Production",
+        "Catering",
+        "Proof",
+        "Enquire",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Gallery",
+      "file": "gallery.html",
+      "sections": [
+        "Hero",
+        "Photos",
+        "Videos",
+        "Stage",
+        "Crowd",
+        "Details",
+        "Press",
+        "Socials",
+        "View",
+        "CTA"
+      ]
+    },
+    {
+      "name": "News",
+      "file": "news.html",
+      "sections": [
+        "Hero",
+        "Updates",
+        "Releases",
+        "Announcements",
+        "Features",
+        "Interviews",
+        "Archive",
+        "Read",
+        "Subscribe",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Entry",
+        "Age",
+        "Access",
+        "Refunds",
+        "Parking",
+        "Security",
+        "Timing",
+        "Support",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Booking",
+        "Press",
+        "Venue",
+        "Partnerships",
+        "Phone",
+        "Form",
+        "Response",
+        "Submit",
+        "CTA"
+      ]
+    }
+  ]
+}

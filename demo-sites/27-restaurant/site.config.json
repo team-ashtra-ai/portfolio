@@ -1,0 +1,283 @@
+{
+  "siteName": "Table",
+  "industry": "Restaurants, Cafes & Food Service",
+  "number": 27,
+  "slug": "restaurant",
+  "baseUrl": "https://team-ashtra-ai.github.io/27/",
+  "repo": "https://github.com/team-ashtra-ai/27.git",
+  "formEndpoint": "https://formspree.io/f/mdabwgdk",
+  "contactUrl": "https://ash-tra.com/contact/",
+  "cta": "Reserve Table",
+  "schema": "Restaurant",
+  "visualDirection": "Restaurant experience with surreal pastel rooms, dramatic menus, and reservation focus",
+  "premiumDirection": "A sensory restaurant site with pastel stage surfaces, menu cards, room-gallery rhythm, and booking CTAs",
+  "layoutSignature": "Surreal reservation stage",
+  "heroType": "Pastel dining-room hero",
+  "headerType": "Reservation theatre header",
+  "footerType": "location and hours footer",
+  "cardStyle": "Ornate menu cards",
+  "formStyle": "Reservation form",
+  "jsSignature": "Menu filter, allergen toggle, reservation widget, gallery",
+  "motionStyle": "Room-scene reveal",
+  "themeMode": "hospitality",
+  "designPassport": {
+    "premiumDirection": "A sensory restaurant site with pastel stage surfaces, menu cards, room-gallery rhythm, and booking CTAs",
+    "brandMood": "sensory warm",
+    "buyerPsychology": "desire and social confidence",
+    "typography": {
+      "display": "\"Palatino Linotype\", Palatino, serif",
+      "body": "\"Trebuchet MS\", Arial, sans-serif",
+      "accent": "Aptos, \"Segoe UI\", system-ui, sans-serif",
+      "summary": "\"Palatino Linotype\" display with \"Trebuchet MS\" body and Aptos accent labels"
+    },
+    "colorPsychology": "palette and contrast selected for desire and social confidence",
+    "layoutArchetype": "Surreal reservation stage",
+    "density": "image-rich",
+    "shapeLanguage": "Ornate menu cards",
+    "surfaceMaterial": "Restaurant experience with surreal pastel rooms, dramatic menus, and reservation focus",
+    "imageSystem": "Dining rooms, plates, cocktails, theatrical interiors",
+    "interactionModel": "Pastel dining-room hero",
+    "ctaStyle": "Primary-reference CTA hierarchy using Reserve Table",
+    "pricingStyle": "menu/package cards",
+    "resourceStyle": "Primary-reference resource rhythm",
+    "mobileMenuStyle": "Primary-reference mobile navigation",
+    "cookieStyle": "Primary-reference compact consent",
+    "legalStyle": "Primary-reference plain legal notes"
+  },
+  "targetReference": {
+    "name": "Sketch London",
+    "url": "https://sketch.london/",
+    "palette": [
+      "#f8d7e8",
+      "#1b1b1b",
+      "#f2c94c",
+      "#7b406c",
+      "#ffffff"
+    ],
+    "visualDirection": "Sketch-style restaurant experience with surreal pastel rooms, dramatic menus, and reservation focus",
+    "premiumDirection": "A sensory restaurant site with pastel stage surfaces, menu cards, room-gallery rhythm, and booking CTAs",
+    "layoutSignature": "surreal reservation stage",
+    "heroType": "pastel dining-room hero",
+    "headerType": "reservation theatre header",
+    "cardStyle": "ornate menu cards",
+    "formStyle": "reservation form",
+    "motionStyle": "room-scene reveal",
+    "imageDirection": "dining rooms, plates, cocktails, theatrical interiors",
+    "cssProfile": "sketch"
+  },
+  "targetCssProfile": "sketch",
+  "references": [
+    {
+      "category": "direct",
+      "name": "Sketch London",
+      "url": "https://sketch.london/"
+    },
+    {
+      "category": "direct",
+      "name": "Dishoom",
+      "url": "https://www.dishoom.com"
+    },
+    {
+      "category": "direct",
+      "name": "Noma",
+      "url": "https://noma.dk"
+    },
+    {
+      "category": "adjacent",
+      "name": "Sweetgreen",
+      "url": "https://www.sweetgreen.com"
+    },
+    {
+      "category": "adjacent",
+      "name": "Blue Bottle Coffee",
+      "url": "https://bluebottlecoffee.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aman",
+      "url": "https://www.aman.com"
+    },
+    {
+      "category": "contrast",
+      "name": "Aesop",
+      "url": "https://www.aesop.com"
+    },
+    {
+      "category": "interaction",
+      "name": "Mobbin reservation and menu flows",
+      "url": "https://mobbin.com"
+    }
+  ],
+  "assets": {
+    "brandLogo": "assets/brand/restaurant-logo.svg",
+    "brandSymbol": "assets/brand/restaurant-symbol.svg",
+    "favicon": "assets/brand/restaurant-favicon.svg",
+    "appleTouchIcon": "assets/brand/restaurant-apple-touch-icon.png",
+    "openGraphDefault": "assets/og/restaurant-home-open-graph.svg",
+    "mockup": "assets/mockups/restaurant-interface-mockup.svg",
+    "assetInventory": "docs/asset-inventory.md",
+    "assetLicenses": "docs/asset-licenses.md"
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "file": "index.html",
+      "sections": [
+        "Hero",
+        "Mood",
+        "Food",
+        "Menu",
+        "Booking",
+        "Gallery",
+        "Reviews",
+        "Location",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Story",
+      "file": "story.html",
+      "sections": [
+        "Hero",
+        "Chef",
+        "Ingredients",
+        "Values",
+        "Atmosphere",
+        "Team",
+        "Locality",
+        "Heritage",
+        "Trust",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Menu",
+      "file": "menu.html",
+      "sections": [
+        "Hero",
+        "Overview",
+        "Starters",
+        "Mains",
+        "Desserts",
+        "Drinks",
+        "Specials",
+        "Allergens",
+        "Prices",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Booking",
+      "file": "booking.html",
+      "sections": [
+        "Hero",
+        "Reservations",
+        "Dates",
+        "Groups",
+        "Policies",
+        "Confirmation",
+        "Requests",
+        "Reminders",
+        "Questions",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Events",
+      "file": "events.html",
+      "sections": [
+        "Hero",
+        "Private",
+        "Corporate",
+        "Catering",
+        "Menus",
+        "Capacity",
+        "Styling",
+        "Packages",
+        "Proof",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Gallery",
+      "file": "gallery.html",
+      "sections": [
+        "Hero",
+        "Food",
+        "Interior",
+        "People",
+        "Events",
+        "Details",
+        "Mood",
+        "Social",
+        "Instagram",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Delivery",
+      "file": "delivery.html",
+      "sections": [
+        "Hero",
+        "Takeaway",
+        "Platforms",
+        "Menu",
+        "Timing",
+        "Packaging",
+        "Collection",
+        "Area",
+        "Policies",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Offers",
+      "file": "offers.html",
+      "sections": [
+        "Hero",
+        "Lunch",
+        "Seasonal",
+        "Loyalty",
+        "Happyhour",
+        "Groups",
+        "Conditions",
+        "Expiry",
+        "Signup",
+        "CTA"
+      ]
+    },
+    {
+      "name": "FAQ",
+      "file": "faq.html",
+      "sections": [
+        "Hero",
+        "Allergens",
+        "Parking",
+        "Children",
+        "Groups",
+        "Reservations",
+        "Delivery",
+        "Payments",
+        "Policies",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Contact",
+      "file": "contact.html",
+      "sections": [
+        "Hero",
+        "Address",
+        "Hours",
+        "Phone",
+        "WhatsApp",
+        "Map",
+        "Transport",
+        "Socials",
+        "Reserve",
+        "CTA"
+      ]
+    }
+  ]
+}
