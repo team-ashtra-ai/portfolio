@@ -6,11 +6,6 @@ Static portfolio component pass for RoomMuse. WordPress export remains optional,
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `interiors-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `interiors-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | resource-index | route-cards | `interiors-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | article-stack | editorial-split | `interiors-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | document-preview | proof-ledger | `interiors-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | gallery-strip | collage-stack | `interiors-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | archive-filter | form-studio | `interiors-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | product-stage | bento-grid | `interiors-contact-hero-01` |
 | contact.html | Form | contact | upload-enquiry | form-studio | `interiors-contact-form-02` |
 | contact.html | Photos | contact | priority-contact | proof-ledger | `interiors-contact-photos-03` |

@@ -1,0 +1,2878 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-13T18:48:16.237Z",
+    "viewport": {
+      "width": 390,
+      "height": 844,
+      "mobile": true,
+      "quality": 68
+    },
+    "screenshotMode": "issues",
+    "offsetPages": 0,
+    "totalPages": 17,
+    "totalSections": 117,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-13T18-47-50-320Z"
+  },
+  "bySite": {
+    "42": {
+      "pages": 17,
+      "sections": 117,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/42-marketing/404.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/404.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1663
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 615
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/accessibility.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/accessibility.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1907
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 859
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/agency.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/agency.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Agency | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/agency.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 13182
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Agency by Spark",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "video-poster-stage",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 867
+            },
+            "textLength": 536,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-team",
+            "label": "Team",
+            "heading": "Who handles team",
+            "sectionType": "profiles",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credentials-split",
+            "rect": {
+              "x": 0,
+              "y": 971,
+              "width": 390,
+              "height": 1517
+            },
+            "textLength": 627,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-culture",
+            "label": "Culture",
+            "heading": "Culture inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 2488,
+              "width": 390,
+              "height": 750
+            },
+            "textLength": 600,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-values",
+            "label": "Values",
+            "heading": "Values inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 3238,
+              "width": 390,
+              "height": 1604
+            },
+            "textLength": 738,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-standards",
+            "label": "Standards",
+            "heading": "Standards, not claims",
+            "sectionType": "trust",
+            "patternFamily": "route-cards",
+            "layoutVariation": "evidence-cards",
+            "rect": {
+              "x": 0,
+              "y": 4841,
+              "width": 390,
+              "height": 1302
+            },
+            "textLength": 565,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-fit",
+            "label": "Fit",
+            "heading": "Fit inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 6143,
+              "width": 390,
+              "height": 1571
+            },
+            "textLength": 729,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-recognition",
+            "label": "Recognition",
+            "heading": "Recognition inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 7713,
+              "width": 390,
+              "height": 1400
+            },
+            "textLength": 762,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-experience",
+            "label": "Experience",
+            "heading": "Experience inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 9113,
+              "width": 390,
+              "height": 1184
+            },
+            "textLength": 750,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust, not claims",
+            "sectionType": "trust",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "compliance-grid",
+            "rect": {
+              "x": 0,
+              "y": 10297,
+              "width": 390,
+              "height": 1271
+            },
+            "textLength": 549,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "cta",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "full-width-final-banner",
+            "rect": {
+              "x": 0,
+              "y": 11568,
+              "width": 390,
+              "height": 436
+            },
+            "textLength": 302,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 12003,
+              "width": 390,
+              "height": 236
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/contact.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/contact.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Contact | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/contact.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 14529
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Contact by Spark",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "search-led-hero",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 867
+            },
+            "textLength": 540,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-brief",
+            "label": "Brief",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 971,
+              "width": 390,
+              "height": 1524
+            },
+            "textLength": 638,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-budget",
+            "label": "Budget",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 2495,
+              "width": 390,
+              "height": 699
+            },
+            "textLength": 529,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-timeline",
+            "label": "Timeline",
+            "heading": "How the timeline works",
+            "sectionType": "process",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "horizontal-stepper",
+            "rect": {
+              "x": 0,
+              "y": 3193,
+              "width": 390,
+              "height": 1498
+            },
+            "textLength": 594,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-goals",
+            "label": "Goals",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 4690,
+              "width": 390,
+              "height": 1325
+            },
+            "textLength": 639,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-call",
+            "label": "Call",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 6015,
+              "width": 390,
+              "height": 1500
+            },
+            "textLength": 637,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-proposal",
+            "label": "Proposal",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 7514,
+              "width": 390,
+              "height": 1200
+            },
+            "textLength": 650,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-response",
+            "label": "Response",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 8714,
+              "width": 390,
+              "height": 1127
+            },
+            "textLength": 641,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-submit",
+            "label": "Submit",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 9841,
+              "width": 390,
+              "height": 1328
+            },
+            "textLength": 640,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 11168,
+              "width": 390,
+              "height": 2192
+            },
+            "textLength": 1032,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 13360,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/cookies.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/cookies.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cookie Notice | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/cookies.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1869
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Cookies section 1",
+            "heading": "Cookie Notice",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 821
+            },
+            "textLength": 586,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/index.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/index.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Home | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/index.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 14270
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Spark",
+            "sectionType": "hero",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "product-stage",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 1052
+            },
+            "textLength": 613,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-problem",
+            "label": "Problem",
+            "heading": "Problem: what to solve",
+            "sectionType": "problem",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 1156,
+              "width": 390,
+              "height": 1602
+            },
+            "textLength": 684,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-positioning",
+            "label": "Positioning",
+            "heading": "Positioning that guides the brief",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 2757,
+              "width": 390,
+              "height": 760
+            },
+            "textLength": 615,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-promise",
+            "label": "Promise",
+            "heading": "Promise: the better state",
+            "sectionType": "solution",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "overview-panel",
+            "rect": {
+              "x": 0,
+              "y": 3517,
+              "width": 390,
+              "height": 1593
+            },
+            "textLength": 720,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-services",
+            "label": "Services",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "treatment-product-shelf",
+            "rect": {
+              "x": 0,
+              "y": 5109,
+              "width": 390,
+              "height": 1545
+            },
+            "textLength": 608,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-work",
+            "label": "Work",
+            "heading": "Work that guides the brief",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 6654,
+              "width": 390,
+              "height": 2190
+            },
+            "textLength": 783,
+            "imageCount": 6,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-results",
+            "label": "Results",
+            "heading": "Results visitors can see",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "score-improvement-cards",
+            "rect": {
+              "x": 0,
+              "y": 8844,
+              "width": 390,
+              "height": 959
+            },
+            "textLength": 624,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust, not claims",
+            "sectionType": "trust",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credential-panel",
+            "rect": {
+              "x": 0,
+              "y": 9802,
+              "width": 390,
+              "height": 1044
+            },
+            "textLength": 561,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-questions",
+            "label": "Questions",
+            "heading": "Questions before you send a campaign brief",
+            "sectionType": "faq",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "two-column-faq",
+            "rect": {
+              "x": 0,
+              "y": 10846,
+              "width": 390,
+              "height": 1821
+            },
+            "textLength": 737,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 12666,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "cta",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "cta-with-trust",
+            "rect": {
+              "x": 0,
+              "y": 12891,
+              "width": 390,
+              "height": 436
+            },
+            "textLength": 300,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/insights.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/insights.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Insights | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/insights.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 15498
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Insights by Spark",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-location-hero",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 867
+            },
+            "textLength": 552,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-trends",
+            "label": "Trends",
+            "heading": "Trends for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 971,
+              "width": 390,
+              "height": 1508
+            },
+            "textLength": 618,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-guides",
+            "label": "Guides",
+            "heading": "Guides for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 2479,
+              "width": 390,
+              "height": 2095
+            },
+            "textLength": 999,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-frameworks",
+            "label": "Frameworks",
+            "heading": "Frameworks for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 4573,
+              "width": 390,
+              "height": 1498
+            },
+            "textLength": 626,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-analysis",
+            "label": "Analysis",
+            "heading": "Analysis for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 6071,
+              "width": 390,
+              "height": 1325
+            },
+            "textLength": 625,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-campaigns",
+            "label": "Campaigns",
+            "heading": "Campaigns for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 7395,
+              "width": 390,
+              "height": 1495
+            },
+            "textLength": 624,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-tips",
+            "label": "Tips",
+            "heading": "Tips for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 8889,
+              "width": 390,
+              "height": 1294
+            },
+            "textLength": 623,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-downloads",
+            "label": "Downloads",
+            "heading": "Downloads for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "route-cards",
+            "layoutVariation": "resource-index",
+            "rect": {
+              "x": 0,
+              "y": 10183,
+              "width": 390,
+              "height": 2377
+            },
+            "textLength": 1014,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-read",
+            "label": "Read",
+            "heading": "Read for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 12559,
+              "width": 390,
+              "height": 1335
+            },
+            "textLength": 617,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "cta",
+            "patternFamily": "form-studio",
+            "layoutVariation": "embedded-form-cta",
+            "rect": {
+              "x": 0,
+              "y": 13894,
+              "width": 390,
+              "height": 436
+            },
+            "textLength": 304,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 14330,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/pricing.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/pricing.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Pricing | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/pricing.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 14064
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Pricing by Spark",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "portrait-authority",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 867
+            },
+            "textLength": 547,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-projects",
+            "label": "Projects",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 971,
+              "width": 390,
+              "height": 1963
+            },
+            "textLength": 703,
+            "imageCount": 5,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-retainers",
+            "label": "Retainers",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "form-studio",
+            "layoutVariation": "calculator-style",
+            "rect": {
+              "x": 0,
+              "y": 2934,
+              "width": 390,
+              "height": 699
+            },
+            "textLength": 490,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-campaigns",
+            "label": "Campaigns",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 3633,
+              "width": 390,
+              "height": 1557
+            },
+            "textLength": 668,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-scope",
+            "label": "Scope",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 5189,
+              "width": 390,
+              "height": 1377
+            },
+            "textLength": 651,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-inclusions",
+            "label": "Inclusions",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 6565,
+              "width": 390,
+              "height": 1554
+            },
+            "textLength": 669,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-comparison",
+            "label": "Comparison",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 8118,
+              "width": 390,
+              "height": 1183
+            },
+            "textLength": 678,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-fit",
+            "label": "Fit",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 9301,
+              "width": 390,
+              "height": 1175
+            },
+            "textLength": 662,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-terms",
+            "label": "Terms",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 10476,
+              "width": 390,
+              "height": 1377
+            },
+            "textLength": 651,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "pricing",
+            "patternFamily": "form-studio",
+            "layoutVariation": "calculator-style",
+            "rect": {
+              "x": 0,
+              "y": 11852,
+              "width": 390,
+              "height": 1034
+            },
+            "textLength": 830,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 12885,
+              "width": 390,
+              "height": 236
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/privacy.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/privacy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Privacy Notice | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/privacy.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1946
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Privacy section 1",
+            "heading": "Privacy Notice",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 898
+            },
+            "textLength": 667,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/process.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/process.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Process | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/process.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 13332
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Process by Spark",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "cinematic-full-bleed",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 867
+            },
+            "textLength": 540,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-discover",
+            "label": "Discover",
+            "heading": "How the discover path works",
+            "sectionType": "process",
+            "patternFamily": "route-cards",
+            "layoutVariation": "numbered-cards",
+            "rect": {
+              "x": 0,
+              "y": 971,
+              "width": 390,
+              "height": 1505
+            },
+            "textLength": 595,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-plan",
+            "label": "Plan",
+            "heading": "How the plan path works",
+            "sectionType": "process",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "scroll-journey",
+            "rect": {
+              "x": 0,
+              "y": 2476,
+              "width": 390,
+              "height": 699
+            },
+            "textLength": 504,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-create",
+            "label": "Create",
+            "heading": "How the create path works",
+            "sectionType": "process",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "icon-process",
+            "rect": {
+              "x": 0,
+              "y": 3175,
+              "width": 390,
+              "height": 1495
+            },
+            "textLength": 591,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-launch",
+            "label": "Launch",
+            "heading": "How the launch path works",
+            "sectionType": "process",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "image-per-step",
+            "rect": {
+              "x": 0,
+              "y": 4669,
+              "width": 390,
+              "height": 1299
+            },
+            "textLength": 565,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-measure",
+            "label": "Measure",
+            "heading": "How the measure path works",
+            "sectionType": "process",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "you-we-split",
+            "rect": {
+              "x": 0,
+              "y": 5967,
+              "width": 390,
+              "height": 1508
+            },
+            "textLength": 593,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-optimise",
+            "label": "Optimise",
+            "heading": "How the optimise path works",
+            "sectionType": "process",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "roadmap-board",
+            "rect": {
+              "x": 0,
+              "y": 7475,
+              "width": 390,
+              "height": 1238
+            },
+            "textLength": 604,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-report",
+            "label": "Report",
+            "heading": "How the report path works",
+            "sectionType": "process",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "horizontal-stepper",
+            "rect": {
+              "x": 0,
+              "y": 8712,
+              "width": 390,
+              "height": 1071
+            },
+            "textLength": 591,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-scale",
+            "label": "Scale",
+            "heading": "How the scale path works",
+            "sectionType": "process",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "vertical-timeline",
+            "rect": {
+              "x": 0,
+              "y": 9783,
+              "width": 390,
+              "height": 1299
+            },
+            "textLength": 563,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "process",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "zig-zag-process",
+            "rect": {
+              "x": 0,
+              "y": 11082,
+              "width": 390,
+              "height": 1082
+            },
+            "textLength": 837,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "process",
+            "patternFamily": "map-console",
+            "layoutVariation": "circular-process",
+            "rect": {
+              "x": 0,
+              "y": 12163,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/results.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/results.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Results | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/results.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 12961
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Results by Spark",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-overscale",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 867
+            },
+            "textLength": 535,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-leads",
+            "label": "Leads",
+            "heading": "Leads visitors can see",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "score-improvement-cards",
+            "rect": {
+              "x": 0,
+              "y": 971,
+              "width": 390,
+              "height": 1500
+            },
+            "textLength": 597,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-sales",
+            "label": "Sales",
+            "heading": "Sales visitors can see",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "savings-cards",
+            "rect": {
+              "x": 0,
+              "y": 2471,
+              "width": 390,
+              "height": 725
+            },
+            "textLength": 532,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-reach",
+            "label": "Reach",
+            "heading": "Reach visitors can see",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "impact-report-style",
+            "rect": {
+              "x": 0,
+              "y": 3195,
+              "width": 390,
+              "height": 1500
+            },
+            "textLength": 597,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-lift",
+            "label": "Lift",
+            "heading": "Lift visitors can see",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "evidence-table",
+            "rect": {
+              "x": 0,
+              "y": 4695,
+              "width": 390,
+              "height": 1297
+            },
+            "textLength": 582,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-metrics",
+            "label": "Metrics",
+            "heading": "Metrics visitors can see",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "portfolio-outcome-cards",
+            "rect": {
+              "x": 0,
+              "y": 5992,
+              "width": 390,
+              "height": 1520
+            },
+            "textLength": 605,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Reviews visitors can see",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "stats-dashboard",
+            "rect": {
+              "x": 0,
+              "y": 7512,
+              "width": 390,
+              "height": 1162
+            },
+            "textLength": 614,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-before",
+            "label": "Before",
+            "heading": "Before visitors can see",
+            "sectionType": "results",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 8674,
+              "width": 390,
+              "height": 1108
+            },
+            "textLength": 601,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-proof",
+            "label": "Proof",
+            "heading": "Proof visitors can see",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "transformation-grid",
+            "rect": {
+              "x": 0,
+              "y": 9781,
+              "width": 390,
+              "height": 979
+            },
+            "textLength": 622,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "results",
+            "patternFamily": "route-cards",
+            "layoutVariation": "review-result-cards",
+            "rect": {
+              "x": 0,
+              "y": 10759,
+              "width": 390,
+              "height": 1034
+            },
+            "textLength": 833,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "results",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "before-after-proof",
+            "rect": {
+              "x": 0,
+              "y": 11793,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/services.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/services.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Services | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/services.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 13960
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Services by Spark",
+            "sectionType": "hero",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dashboard-command",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 867
+            },
+            "textLength": 549,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-branding",
+            "label": "Branding",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "map-console",
+            "layoutVariation": "logistics-lane-cards",
+            "rect": {
+              "x": 0,
+              "y": 971,
+              "width": 390,
+              "height": 1548
+            },
+            "textLength": 619,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-campaigns",
+            "label": "Campaigns",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "course-service-catalogue",
+            "rect": {
+              "x": 0,
+              "y": 2519,
+              "width": 390,
+              "height": 800
+            },
+            "textLength": 572,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-content",
+            "label": "Content",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "concierge-service-list",
+            "rect": {
+              "x": 0,
+              "y": 3319,
+              "width": 390,
+              "height": 1548
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-ads",
+            "label": "Ads",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "program-impact-cards",
+            "rect": {
+              "x": 0,
+              "y": 4867,
+              "width": 390,
+              "height": 1325
+            },
+            "textLength": 583,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-communications",
+            "label": "Communications",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "patient-need-cards",
+            "rect": {
+              "x": 0,
+              "y": 6192,
+              "width": 390,
+              "height": 1556
+            },
+            "textLength": 631,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-social",
+            "label": "Social",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-service-matrix",
+            "rect": {
+              "x": 0,
+              "y": 7747,
+              "width": 390,
+              "height": 1432
+            },
+            "textLength": 624,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-deliverables",
+            "label": "Deliverables",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-practice-index",
+            "rect": {
+              "x": 0,
+              "y": 9179,
+              "width": 390,
+              "height": 1133
+            },
+            "textLength": 627,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-benefits",
+            "label": "Benefits",
+            "heading": "Benefits: the better state",
+            "sectionType": "solution",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "abstract-system-visual",
+            "rect": {
+              "x": 0,
+              "y": 10311,
+              "width": 390,
+              "height": 1397
+            },
+            "textLength": 727,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "services",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "build-scope-lanes",
+            "rect": {
+              "x": 0,
+              "y": 11708,
+              "width": 390,
+              "height": 1084
+            },
+            "textLength": 852,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "advisory-pillar-cards",
+            "rect": {
+              "x": 0,
+              "y": 12792,
+              "width": 390,
+              "height": 225
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/sitemap.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/sitemap.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Sitemap Page | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/sitemap.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 2177
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Sitemap section 1",
+            "heading": "Sitemap Page",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 1129
+            },
+            "textLength": 553,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/strategy.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/strategy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Strategy | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/strategy.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 13233
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Strategy by Spark",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 867
+            },
+            "textLength": 551,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-audience",
+            "label": "Audience",
+            "heading": "Audience inside strategy",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 971,
+              "width": 390,
+              "height": 1604
+            },
+            "textLength": 752,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-message",
+            "label": "Message",
+            "heading": "Message inside strategy",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 2575,
+              "width": 390,
+              "height": 750
+            },
+            "textLength": 608,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-channels",
+            "label": "Channels",
+            "heading": "Channels inside strategy",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 3324,
+              "width": 390,
+              "height": 1604
+            },
+            "textLength": 752,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-funnel",
+            "label": "Funnel",
+            "heading": "Funnel inside strategy",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 4927,
+              "width": 390,
+              "height": 1412
+            },
+            "textLength": 733,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-kpis",
+            "label": "KPIs",
+            "heading": "Kpis inside strategy",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 6339,
+              "width": 390,
+              "height": 1571
+            },
+            "textLength": 740,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-roadmap",
+            "label": "Roadmap",
+            "heading": "How the roadmap path works",
+            "sectionType": "process",
+            "patternFamily": "map-console",
+            "layoutVariation": "circular-process",
+            "rect": {
+              "x": 0,
+              "y": 7909,
+              "width": 390,
+              "height": 1238
+            },
+            "textLength": 604,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-testing",
+            "label": "Testing",
+            "heading": "How the testing path works",
+            "sectionType": "process",
+            "patternFamily": "route-cards",
+            "layoutVariation": "numbered-cards",
+            "rect": {
+              "x": 0,
+              "y": 9147,
+              "width": 390,
+              "height": 1071
+            },
+            "textLength": 595,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-alignment",
+            "label": "Alignment",
+            "heading": "Alignment inside strategy",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 10218,
+              "width": 390,
+              "height": 1402
+            },
+            "textLength": 745,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "cta",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "minimal-luxury-cta",
+            "rect": {
+              "x": 0,
+              "y": 11619,
+              "width": 390,
+              "height": 436
+            },
+            "textLength": 304,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 12054,
+              "width": 390,
+              "height": 236
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/terms.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/terms.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Terms of Use | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/terms.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1843
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Terms section 1",
+            "heading": "Terms of Use",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 795
+            },
+            "textLength": 592,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/thanks.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/thanks.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Thank You | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/thanks.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 1879
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Thanks section 1",
+            "heading": "Thank You",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 831
+            },
+            "textLength": 510,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/42-marketing/work.html",
+      "site": "42",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/work.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Work | Spark Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/42-marketing/work.html",
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "documentSize": {
+          "width": 390,
+          "height": 13613
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Work by Spark",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "search-led-hero",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 390,
+              "height": 819
+            },
+            "textLength": 530,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-portfolio",
+            "label": "Portfolio",
+            "heading": "Portfolio inside work",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 924,
+              "width": 390,
+              "height": 2158
+            },
+            "textLength": 788,
+            "imageCount": 6,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-campaigns",
+            "label": "Campaigns",
+            "heading": "Campaigns inside work",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 3081,
+              "width": 390,
+              "height": 760
+            },
+            "textLength": 598,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-brands",
+            "label": "Brands",
+            "heading": "Brands inside work",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 3840,
+              "width": 390,
+              "height": 1571
+            },
+            "textLength": 730,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-websites",
+            "label": "Websites",
+            "heading": "Websites inside work",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 5411,
+              "width": 390,
+              "height": 1412
+            },
+            "textLength": 725,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-direction",
+            "label": "Direction",
+            "heading": "Direction inside work",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 6822,
+              "width": 390,
+              "height": 1593
+            },
+            "textLength": 739,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-outcomes",
+            "label": "Outcomes",
+            "heading": "Outcomes visitors can see",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "savings-cards",
+            "rect": {
+              "x": 0,
+              "y": 8415,
+              "width": 390,
+              "height": 1162
+            },
+            "textLength": 612,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-metrics",
+            "label": "Metrics",
+            "heading": "Metrics visitors can see",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "impact-report-style",
+            "rect": {
+              "x": 0,
+              "y": 9577,
+              "width": 390,
+              "height": 1097
+            },
+            "textLength": 599,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Stories behind reviews",
+            "sectionType": "reviews",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "review-carousel",
+            "rect": {
+              "x": 0,
+              "y": 10674,
+              "width": 390,
+              "height": 1325
+            },
+            "textLength": 605,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Send Campaign Brief",
+            "sectionType": "cta",
+            "patternFamily": "route-cards",
+            "layoutVariation": "two-option-cta",
+            "rect": {
+              "x": 0,
+              "y": 11998,
+              "width": 390,
+              "height": 436
+            },
+            "textLength": 300,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 12434,
+              "width": 390,
+              "height": 236
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -6,11 +6,6 @@ Static portfolio component pass for CivicLex. WordPress export remains optional,
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `legal-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `legal-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | download-cover-grid | bento-grid | `legal-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | resource-index | route-cards | `legal-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | article-stack | editorial-split | `legal-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | document-preview | proof-ledger | `legal-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | gallery-strip | collage-stack | `legal-asset-system-asset-system-section-5-05` |
 | cases.html | Hero | hero | editorial-overscale | editorial-split | `legal-cases-hero-01` |
 | cases.html | Cases section 2 | results | savings-cards | proof-ledger | `legal-cases-cases-section-2-02` |
 | cases.html | Cases section 3 | results | impact-report-style | proof-ledger | `legal-cases-cases-section-3-03` |

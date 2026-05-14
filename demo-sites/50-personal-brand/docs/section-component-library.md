@@ -6,11 +6,6 @@ Static portfolio component pass for Nameplate. WordPress export remains optional
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `personal-brand-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `personal-brand-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | gallery-strip | collage-stack | `personal-brand-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | archive-filter | form-studio | `personal-brand-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | case-study-grid | bento-grid | `personal-brand-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | download-cover-grid | bento-grid | `personal-brand-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | resource-index | route-cards | `personal-brand-asset-system-asset-system-section-5-05` |
 | booking.html | Hero | hero | editorial-overscale | editorial-split | `personal-brand-booking-hero-01` |
 | booking.html | Event | contact | multi-route-contact-cards | route-cards | `personal-brand-booking-event-02` |
 | booking.html | Collaboration | contact | map-form-layout | map-console | `personal-brand-booking-collaboration-03` |

@@ -17,11 +17,6 @@ Static portfolio component pass for WaveCast. WordPress export remains optional,
 | advertise.html | Contact | contact | department-routing | dashboard-command | `media-advertise-contact-09` |
 | advertise.html | CTA | cta | two-option-cta | route-cards | `media-advertise-cta-10` |
 | advertise.html | Important notes | editorial | central-statement-pillars | editorial-split | `media-advertise-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | resource-index | route-cards | `media-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | article-stack | editorial-split | `media-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | document-preview | proof-ledger | `media-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | gallery-strip | collage-stack | `media-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | archive-filter | form-studio | `media-asset-system-asset-system-section-5-05` |
 | careers.html | Hero | hero | collage-window | collage-stack | `media-careers-hero-01` |
 | careers.html | Roles | editorial | case-study-preview-strip | editorial-split | `media-careers-roles-02` |
 | careers.html | Culture | editorial | central-statement-pillars | editorial-split | `media-careers-culture-03` |

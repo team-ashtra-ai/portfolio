@@ -1,0 +1,2878 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-13T19:36:20.169Z",
+    "viewport": {
+      "width": 1366,
+      "height": 768,
+      "mobile": false,
+      "quality": 68
+    },
+    "screenshotMode": "issues",
+    "offsetPages": 0,
+    "totalPages": 17,
+    "totalSections": 117,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-13T19-35-18-373Z"
+  },
+  "bySite": {
+    "16": {
+      "pages": 17,
+      "sections": 117,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/16-real-estate/404.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/404.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 1782
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 961
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/accessibility.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/accessibility.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 1876
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 1055
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/agency.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/agency.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Agency | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/agency.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 8906
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Agency by Urban",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "video-poster-stage",
+            "rect": {
+              "x": 0,
+              "y": 102,
+              "width": 1351,
+              "height": 775
+            },
+            "textLength": 631,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-market",
+            "label": "Market",
+            "heading": "Market inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 876,
+              "width": 1351,
+              "height": 799
+            },
+            "textLength": 590,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-team",
+            "label": "Team",
+            "heading": "Who handles team",
+            "sectionType": "profiles",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "founder-spotlight",
+            "rect": {
+              "x": 0,
+              "y": 1675,
+              "width": 1351,
+              "height": 908
+            },
+            "textLength": 627,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-values",
+            "label": "Values",
+            "heading": "Values inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 2582,
+              "width": 1351,
+              "height": 903
+            },
+            "textLength": 745,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Stories behind reviews",
+            "sectionType": "reviews",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "quote-wall",
+            "rect": {
+              "x": 0,
+              "y": 3485,
+              "width": 1351,
+              "height": 643
+            },
+            "textLength": 615,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-standards",
+            "label": "Standards",
+            "heading": "Standards, not claims",
+            "sectionType": "trust",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credential-panel",
+            "rect": {
+              "x": 0,
+              "y": 4127,
+              "width": 1351,
+              "height": 861
+            },
+            "textLength": 584,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-local",
+            "label": "Local",
+            "heading": "Local inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 4987,
+              "width": 1351,
+              "height": 799
+            },
+            "textLength": 587,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-experience",
+            "label": "Experience",
+            "heading": "Experience inside agency",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 5785,
+              "width": 1351,
+              "height": 828
+            },
+            "textLength": 748,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust, not claims",
+            "sectionType": "trust",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "review-carousel-static",
+            "rect": {
+              "x": 0,
+              "y": 6613,
+              "width": 1351,
+              "height": 863
+            },
+            "textLength": 563,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "cta",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "split-cta-image",
+            "rect": {
+              "x": 0,
+              "y": 7476,
+              "width": 1351,
+              "height": 440
+            },
+            "textLength": 286,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 7915,
+              "width": 1351,
+              "height": 275
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/areas.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/areas.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Areas | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/areas.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 8914
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Areas by Urban",
+            "sectionType": "hero",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "data-stat-hero",
+            "rect": {
+              "x": 0,
+              "y": 102,
+              "width": 1351,
+              "height": 754
+            },
+            "textLength": 640,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-locations",
+            "label": "Locations",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 855,
+              "width": 1351,
+              "height": 643
+            },
+            "textLength": 515,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-neighbourhoods",
+            "label": "Neighbourhoods",
+            "heading": "Neighbourhoods inside areas",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 1498,
+              "width": 1351,
+              "height": 903
+            },
+            "textLength": 765,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-prices",
+            "label": "Prices",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 2400,
+              "width": 1351,
+              "height": 906
+            },
+            "textLength": 655,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-lifestyle",
+            "label": "Lifestyle",
+            "heading": "Lifestyle inside areas",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 3306,
+              "width": 1351,
+              "height": 799
+            },
+            "textLength": 762,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-schools",
+            "label": "Schools",
+            "heading": "Schools inside areas",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 4104,
+              "width": 1351,
+              "height": 799
+            },
+            "textLength": 753,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-transport",
+            "label": "Transport",
+            "heading": "Transport inside areas",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 4902,
+              "width": 1351,
+              "height": 799
+            },
+            "textLength": 595,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-maps",
+            "label": "Maps",
+            "heading": "Maps inside areas",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 5700,
+              "width": 1351,
+              "height": 799
+            },
+            "textLength": 720,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-tips",
+            "label": "Tips",
+            "heading": "Tips inside areas",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 6499,
+              "width": 1351,
+              "height": 903
+            },
+            "textLength": 735,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "cta",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dark-contrast-cta",
+            "rect": {
+              "x": 0,
+              "y": 7401,
+              "width": 1351,
+              "height": 440
+            },
+            "textLength": 285,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 7840,
+              "width": 1351,
+              "height": 358
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/contact.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/contact.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Contact | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/contact.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 9243
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Contact by Urban",
+            "sectionType": "hero",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-focused-panel",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 775
+            },
+            "textLength": 642,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-viewings",
+            "label": "Viewings",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 879,
+              "width": 1351,
+              "height": 566
+            },
+            "textLength": 515,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-valuation",
+            "label": "Valuation",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 1445,
+              "width": 1351,
+              "height": 885
+            },
+            "textLength": 630,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-phone",
+            "label": "Phone",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 2330,
+              "width": 1351,
+              "height": 877
+            },
+            "textLength": 626,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-office",
+            "label": "Office",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 3206,
+              "width": 1351,
+              "height": 643
+            },
+            "textLength": 645,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-hours",
+            "label": "Hours",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 3848,
+              "width": 1351,
+              "height": 643
+            },
+            "textLength": 635,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-map",
+            "label": "Map",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 4490,
+              "width": 1351,
+              "height": 613
+            },
+            "textLength": 505,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-response",
+            "label": "Response",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 5103,
+              "width": 1351,
+              "height": 710
+            },
+            "textLength": 630,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-submit",
+            "label": "Submit",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 5812,
+              "width": 1351,
+              "height": 885
+            },
+            "textLength": 627,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 6697,
+              "width": 1351,
+              "height": 1556
+            },
+            "textLength": 997,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 8252,
+              "width": 1351,
+              "height": 275
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/cookies.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/cookies.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cookie Notice | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/cookies.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 1779
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Cookies section 1",
+            "heading": "Cookie Notice",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 959
+            },
+            "textLength": 586,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/index.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/index.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Home | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/index.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 9098
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Urban",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-location-hero",
+            "rect": {
+              "x": 0,
+              "y": 102,
+              "width": 1351,
+              "height": 758
+            },
+            "textLength": 697,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-goal",
+            "label": "Goal",
+            "heading": "Goal that guides the brief",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 860,
+              "width": 1351,
+              "height": 799
+            },
+            "textLength": 585,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-market",
+            "label": "Market",
+            "heading": "Market that guides the brief",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 1658,
+              "width": 1351,
+              "height": 903
+            },
+            "textLength": 750,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-featured",
+            "label": "Featured",
+            "heading": "Featured that guides the brief",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 2561,
+              "width": 1351,
+              "height": 903
+            },
+            "textLength": 754,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-services",
+            "label": "Services",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "concierge-service-list",
+            "rect": {
+              "x": 0,
+              "y": 3464,
+              "width": 1351,
+              "height": 882
+            },
+            "textLength": 610,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-areas",
+            "label": "Areas",
+            "heading": "Areas that guides the brief",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 4346,
+              "width": 1351,
+              "height": 780
+            },
+            "textLength": 753,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-proof",
+            "label": "Proof",
+            "heading": "Proof visitors can see",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "stats-dashboard",
+            "rect": {
+              "x": 0,
+              "y": 5125,
+              "width": 1351,
+              "height": 587
+            },
+            "textLength": 611,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-reviews",
+            "label": "Reviews",
+            "heading": "Stories behind reviews",
+            "sectionType": "reviews",
+            "patternFamily": "route-cards",
+            "layoutVariation": "testimonial-grid",
+            "rect": {
+              "x": 0,
+              "y": 5712,
+              "width": 1351,
+              "height": 713
+            },
+            "textLength": 607,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-questions",
+            "label": "Questions",
+            "heading": "Questions before you get a valuation",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "accessible-accordion",
+            "rect": {
+              "x": 0,
+              "y": 6424,
+              "width": 1351,
+              "height": 1162
+            },
+            "textLength": 733,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 7585,
+              "width": 1351,
+              "height": 358
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "cta",
+            "patternFamily": "route-cards",
+            "layoutVariation": "two-option-cta",
+            "rect": {
+              "x": 0,
+              "y": 7943,
+              "width": 1351,
+              "height": 440
+            },
+            "textLength": 284,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/pricing.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/pricing.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Pricing | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/pricing.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 9160
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Pricing by Urban",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "portrait-authority",
+            "rect": {
+              "x": 0,
+              "y": 102,
+              "width": 1351,
+              "height": 775
+            },
+            "textLength": 647,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-fees",
+            "label": "Fees",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 876,
+              "width": 1351,
+              "height": 1082
+            },
+            "textLength": 997,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-commission",
+            "label": "Commission",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 1958,
+              "width": 1351,
+              "height": 908
+            },
+            "textLength": 663,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-management",
+            "label": "Management",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 2865,
+              "width": 1351,
+              "height": 914
+            },
+            "textLength": 663,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-marketing",
+            "label": "Marketing",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 3779,
+              "width": 1351,
+              "height": 617
+            },
+            "textLength": 685,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-inclusions",
+            "label": "Inclusions",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 4395,
+              "width": 1351,
+              "height": 719
+            },
+            "textLength": 672,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-comparison",
+            "label": "Comparison",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 5114,
+              "width": 1351,
+              "height": 587
+            },
+            "textLength": 488,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-terms",
+            "label": "Terms",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "form-studio",
+            "layoutVariation": "calculator-style",
+            "rect": {
+              "x": 0,
+              "y": 5700,
+              "width": 1351,
+              "height": 735
+            },
+            "textLength": 651,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-clarity",
+            "label": "Clarity",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 6435,
+              "width": 1351,
+              "height": 894
+            },
+            "textLength": 660,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 7329,
+              "width": 1351,
+              "height": 840
+            },
+            "textLength": 784,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 8169,
+              "width": 1351,
+              "height": 275
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/privacy.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/privacy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Privacy Notice | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/privacy.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 1805
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Privacy section 1",
+            "heading": "Privacy Notice",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 985
+            },
+            "textLength": 667,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/process.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/process.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Process | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/process.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 8808
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Process by Urban",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "cinematic-full-bleed",
+            "rect": {
+              "x": 0,
+              "y": 102,
+              "width": 1351,
+              "height": 775
+            },
+            "textLength": 646,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-valuation",
+            "label": "Valuation",
+            "heading": "How the valuation path works",
+            "sectionType": "process",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "you-we-split",
+            "rect": {
+              "x": 0,
+              "y": 876,
+              "width": 1351,
+              "height": 717
+            },
+            "textLength": 507,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-marketing",
+            "label": "Marketing",
+            "heading": "How the marketing path works",
+            "sectionType": "process",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "roadmap-board",
+            "rect": {
+              "x": 0,
+              "y": 1593,
+              "width": 1351,
+              "height": 897
+            },
+            "textLength": 597,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-viewings",
+            "label": "Viewings",
+            "heading": "How the viewings path works",
+            "sectionType": "process",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "horizontal-stepper",
+            "rect": {
+              "x": 0,
+              "y": 2489,
+              "width": 1351,
+              "height": 885
+            },
+            "textLength": 595,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-offers",
+            "label": "Offers",
+            "heading": "Offers: the better state",
+            "sectionType": "solution",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "abstract-system-visual",
+            "rect": {
+              "x": 0,
+              "y": 3374,
+              "width": 1351,
+              "height": 639
+            },
+            "textLength": 727,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-negotiation",
+            "label": "Negotiation",
+            "heading": "How the negotiation path works",
+            "sectionType": "process",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "zig-zag-process",
+            "rect": {
+              "x": 0,
+              "y": 4013,
+              "width": 1351,
+              "height": 717
+            },
+            "textLength": 610,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "How the documents path works",
+            "sectionType": "process",
+            "patternFamily": "map-console",
+            "layoutVariation": "circular-process",
+            "rect": {
+              "x": 0,
+              "y": 4729,
+              "width": 1351,
+              "height": 664
+            },
+            "textLength": 507,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-closing",
+            "label": "Closing",
+            "heading": "How the closing path works",
+            "sectionType": "process",
+            "patternFamily": "route-cards",
+            "layoutVariation": "numbered-cards",
+            "rect": {
+              "x": 0,
+              "y": 5393,
+              "width": 1351,
+              "height": 690
+            },
+            "textLength": 567,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-aftercare",
+            "label": "Aftercare",
+            "heading": "How the aftercare path works",
+            "sectionType": "process",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "scroll-journey",
+            "rect": {
+              "x": 0,
+              "y": 6082,
+              "width": 1351,
+              "height": 896
+            },
+            "textLength": 597,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "process",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "icon-process",
+            "rect": {
+              "x": 0,
+              "y": 6978,
+              "width": 1351,
+              "height": 840
+            },
+            "textLength": 791,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "process",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "image-per-step",
+            "rect": {
+              "x": 0,
+              "y": 7817,
+              "width": 1351,
+              "height": 275
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/properties.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/properties.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Properties | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/properties.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 9290
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Properties by Urban",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-overscale",
+            "rect": {
+              "x": 0,
+              "y": 102,
+              "width": 1351,
+              "height": 775
+            },
+            "textLength": 658,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-search",
+            "label": "Search",
+            "heading": "Search inside properties",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 876,
+              "width": 1351,
+              "height": 673
+            },
+            "textLength": 761,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-featured",
+            "label": "Featured",
+            "heading": "Featured inside properties",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 1548,
+              "width": 1351,
+              "height": 903
+            },
+            "textLength": 767,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-filters",
+            "label": "Filters",
+            "heading": "Filters inside properties",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 2451,
+              "width": 1351,
+              "height": 903
+            },
+            "textLength": 764,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-cards",
+            "label": "Cards",
+            "heading": "Cards inside properties",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 3354,
+              "width": 1351,
+              "height": 828
+            },
+            "textLength": 770,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-details",
+            "label": "Details",
+            "heading": "Details inside properties",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 4182,
+              "width": 1351,
+              "height": 828
+            },
+            "textLength": 773,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-gallery",
+            "label": "Gallery",
+            "heading": "Gallery inside properties",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 5010,
+              "width": 1351,
+              "height": 1156
+            },
+            "textLength": 802,
+            "imageCount": 5,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-enquiry",
+            "label": "Enquiry",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 6166,
+              "width": 1351,
+              "height": 710
+            },
+            "textLength": 632,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-similar",
+            "label": "Similar",
+            "heading": "Similar inside properties",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 6875,
+              "width": 1351,
+              "height": 903
+            },
+            "textLength": 764,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "cta",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "split-cta-image",
+            "rect": {
+              "x": 0,
+              "y": 7778,
+              "width": 1351,
+              "height": 440
+            },
+            "textLength": 290,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 8217,
+              "width": 1351,
+              "height": 358
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/questions.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/questions.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Questions | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/questions.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 9182
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Questions by Urban",
+            "sectionType": "hero",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dashboard-command",
+            "rect": {
+              "x": 0,
+              "y": 102,
+              "width": 1351,
+              "height": 775
+            },
+            "textLength": 650,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-buying",
+            "label": "Buying",
+            "heading": "Questions before you get a valuation",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 876,
+              "width": 1351,
+              "height": 587
+            },
+            "textLength": 507,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-selling",
+            "label": "Selling",
+            "heading": "Questions before you get a valuation",
+            "sectionType": "faq",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-faq",
+            "rect": {
+              "x": 0,
+              "y": 1463,
+              "width": 1351,
+              "height": 912
+            },
+            "textLength": 665,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-renting",
+            "label": "Renting",
+            "heading": "Questions before you get a valuation",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "accessible-accordion",
+            "rect": {
+              "x": 0,
+              "y": 2374,
+              "width": 1351,
+              "height": 927
+            },
+            "textLength": 665,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-fees",
+            "label": "Fees",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 3301,
+              "width": 1351,
+              "height": 1082
+            },
+            "textLength": 999,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Questions before you get a valuation",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 4383,
+              "width": 1351,
+              "height": 739
+            },
+            "textLength": 678,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-timelines",
+            "label": "Timelines",
+            "heading": "How the timelines path works",
+            "sectionType": "process",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "scroll-journey",
+            "rect": {
+              "x": 0,
+              "y": 5122,
+              "width": 1351,
+              "height": 587
+            },
+            "textLength": 511,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-legal",
+            "label": "Legal",
+            "heading": "Questions before you get a valuation",
+            "sectionType": "faq",
+            "patternFamily": "route-cards",
+            "layoutVariation": "faq-cards",
+            "rect": {
+              "x": 0,
+              "y": 5709,
+              "width": 1351,
+              "height": 738
+            },
+            "textLength": 648,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "course-service-catalogue",
+            "rect": {
+              "x": 0,
+              "y": 6447,
+              "width": 1351,
+              "height": 906
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 7352,
+              "width": 1351,
+              "height": 840
+            },
+            "textLength": 797,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "faq",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-faq",
+            "rect": {
+              "x": 0,
+              "y": 8191,
+              "width": 1351,
+              "height": 275
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/resources.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/resources.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Resources | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/resources.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 9048
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Resources by Urban",
+            "sectionType": "hero",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "luxury-minimal",
+            "rect": {
+              "x": 0,
+              "y": 102,
+              "width": 1351,
+              "height": 775
+            },
+            "textLength": 658,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-buyers",
+            "label": "Buyers",
+            "heading": "Buyers for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 876,
+              "width": 1351,
+              "height": 617
+            },
+            "textLength": 523,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-sellers",
+            "label": "Sellers",
+            "heading": "Sellers for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 1493,
+              "width": 1351,
+              "height": 885
+            },
+            "textLength": 616,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-landlords",
+            "label": "Landlords",
+            "heading": "Landlords for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 2378,
+              "width": 1351,
+              "height": 885
+            },
+            "textLength": 620,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-checklists",
+            "label": "Checklists",
+            "heading": "Checklists for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 3262,
+              "width": 1351,
+              "height": 617
+            },
+            "textLength": 635,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-reports",
+            "label": "Reports",
+            "heading": "Reports for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 3879,
+              "width": 1351,
+              "height": 1055
+            },
+            "textLength": 1005,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Documents for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "route-cards",
+            "layoutVariation": "resource-index",
+            "rect": {
+              "x": 0,
+              "y": 4934,
+              "width": 1351,
+              "height": 617
+            },
+            "textLength": 532,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-downloads",
+            "label": "Downloads",
+            "heading": "Downloads for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 5550,
+              "width": 1351,
+              "height": 1192
+            },
+            "textLength": 1000,
+            "imageCount": 6,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-learn",
+            "label": "Learn",
+            "heading": "Learn for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 6742,
+              "width": 1351,
+              "height": 877
+            },
+            "textLength": 612,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "cta",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "minimal-luxury-cta",
+            "rect": {
+              "x": 0,
+              "y": 7618,
+              "width": 1351,
+              "height": 440
+            },
+            "textLength": 289,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 8057,
+              "width": 1351,
+              "height": 275
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/services.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/services.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Services | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/services.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 8684
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Services by Urban",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 775
+            },
+            "textLength": 652,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-sales",
+            "label": "Sales",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-practice-index",
+            "rect": {
+              "x": 0,
+              "y": 879,
+              "width": 1351,
+              "height": 773
+            },
+            "textLength": 554,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-lettings",
+            "label": "Lettings",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "treatment-product-shelf",
+            "rect": {
+              "x": 0,
+              "y": 1652,
+              "width": 1351,
+              "height": 906
+            },
+            "textLength": 621,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-management",
+            "label": "Management",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "build-scope-lanes",
+            "rect": {
+              "x": 0,
+              "y": 2557,
+              "width": 1351,
+              "height": 885
+            },
+            "textLength": 625,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-valuation",
+            "label": "Valuation",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "advisory-pillar-cards",
+            "rect": {
+              "x": 0,
+              "y": 3442,
+              "width": 1351,
+              "height": 617
+            },
+            "textLength": 627,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-land",
+            "label": "Land",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "map-console",
+            "layoutVariation": "logistics-lane-cards",
+            "rect": {
+              "x": 0,
+              "y": 4058,
+              "width": 1351,
+              "height": 617
+            },
+            "textLength": 622,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-investment",
+            "label": "Investment",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "course-service-catalogue",
+            "rect": {
+              "x": 0,
+              "y": 4675,
+              "width": 1351,
+              "height": 617
+            },
+            "textLength": 564,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-benefits",
+            "label": "Benefits",
+            "heading": "Benefits: the better state",
+            "sectionType": "solution",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "what-changes-comparison",
+            "rect": {
+              "x": 0,
+              "y": 5291,
+              "width": 1351,
+              "height": 710
+            },
+            "textLength": 729,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-scope",
+            "label": "Scope",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "program-impact-cards",
+            "rect": {
+              "x": 0,
+              "y": 6000,
+              "width": 1351,
+              "height": 854
+            },
+            "textLength": 615,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Get Valuation",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "patient-need-cards",
+            "rect": {
+              "x": 0,
+              "y": 6854,
+              "width": 1351,
+              "height": 840
+            },
+            "textLength": 806,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "services",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-service-matrix",
+            "rect": {
+              "x": 0,
+              "y": 7693,
+              "width": 1351,
+              "height": 275
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/sitemap.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/sitemap.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Sitemap Page | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/sitemap.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 2165
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Sitemap section 1",
+            "heading": "Sitemap Page",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 1345
+            },
+            "textLength": 559,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/terms.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/terms.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Terms of Use | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/terms.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 1805
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Terms section 1",
+            "heading": "Terms of Use",
+            "sectionType": "faq",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "two-column-faq",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 985
+            },
+            "textLength": 590,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/16-real-estate/thanks.html",
+      "site": "16",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/thanks.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Thank You | Urban Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/thanks.html",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "documentSize": {
+          "width": 1351,
+          "height": 1798
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Thanks section 1",
+            "heading": "Thank You",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 105,
+              "width": 1351,
+              "height": 977
+            },
+            "textLength": 510,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    }
+  ]
+}

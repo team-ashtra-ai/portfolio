@@ -1,0 +1,2878 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-13T19:14:08.879Z",
+    "viewport": {
+      "width": 768,
+      "height": 1024,
+      "mobile": true,
+      "quality": 68
+    },
+    "screenshotMode": "issues",
+    "offsetPages": 0,
+    "totalPages": 17,
+    "totalSections": 117,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-13T19-12-28-198Z"
+  },
+  "bySite": {
+    "41": {
+      "pages": 17,
+      "sections": 117,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/41-publishing/404.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/404.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 1840
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 751
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/accessibility.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/accessibility.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 1935
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 845
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/articles.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/articles.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Articles | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/articles.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 11483
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Articles by Index",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 638,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-latest",
+            "label": "Latest",
+            "heading": "Latest for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 1116,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 615,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-analysis",
+            "label": "Analysis",
+            "heading": "Analysis for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 1922,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 517,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-guides",
+            "label": "Guides",
+            "heading": "Guides for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 2567,
+              "width": 768,
+              "height": 1939
+            },
+            "textLength": 967,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-opinion",
+            "label": "Opinion",
+            "heading": "Opinion for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 4506,
+              "width": 768,
+              "height": 1416
+            },
+            "textLength": 608,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-research",
+            "label": "Research",
+            "heading": "Research for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 5921,
+              "width": 768,
+              "height": 880
+            },
+            "textLength": 629,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-authors",
+            "label": "Authors",
+            "heading": "Authors for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "route-cards",
+            "layoutVariation": "resource-index",
+            "rect": {
+              "x": 0,
+              "y": 6801,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 617,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-related",
+            "label": "Related",
+            "heading": "Related for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 7607,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 514,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-read",
+            "label": "Read",
+            "heading": "Read for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 8270,
+              "width": 768,
+              "height": 1654
+            },
+            "textLength": 593,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "cta",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "pattern-background-cta",
+            "rect": {
+              "x": 0,
+              "y": 9923,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 270,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 10300,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/authors.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/authors.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Authors | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/authors.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 11511
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Authors by Index",
+            "sectionType": "hero",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "data-stat-hero",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 637,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-experts",
+            "label": "Experts",
+            "heading": "Experts inside authors",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 1116,
+              "width": 768,
+              "height": 963
+            },
+            "textLength": 742,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-profiles",
+            "label": "Profiles",
+            "heading": "Who handles profiles",
+            "sectionType": "profiles",
+            "patternFamily": "route-cards",
+            "layoutVariation": "profile-card-grid",
+            "rect": {
+              "x": 0,
+              "y": 2079,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 492,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-credentials",
+            "label": "Credentials",
+            "heading": "Credentials, not claims",
+            "sectionType": "trust",
+            "patternFamily": "route-cards",
+            "layoutVariation": "evidence-cards",
+            "rect": {
+              "x": 0,
+              "y": 2724,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 577,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-topics",
+            "label": "Topics",
+            "heading": "Topics inside authors",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 4155,
+              "width": 768,
+              "height": 1459
+            },
+            "textLength": 730,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-contributions",
+            "label": "Contributions",
+            "heading": "Contributions inside authors",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 5614,
+              "width": 768,
+              "height": 945
+            },
+            "textLength": 769,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-interviews",
+            "label": "Interviews",
+            "heading": "Interviews inside authors",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 6558,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 751,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-socials",
+            "label": "Socials",
+            "heading": "Socials inside authors",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 7563,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 563,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-follow",
+            "label": "Follow",
+            "heading": "Follow inside authors",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 8208,
+              "width": 768,
+              "height": 1698
+            },
+            "textLength": 717,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "cta",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "split-cta-image",
+            "rect": {
+              "x": 0,
+              "y": 9906,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 269,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 10283,
+              "width": 768,
+              "height": 249
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/contact.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/contact.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Contact | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/contact.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 12592
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Contact by Index",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "search-led-hero",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 642,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-editorial",
+            "label": "Editorial",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 1116,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 629,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-submissions",
+            "label": "Submissions",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 1922,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 507,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-partnerships",
+            "label": "Partnerships",
+            "heading": "Partnerships as proof",
+            "sectionType": "trust",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "publication-list",
+            "rect": {
+              "x": 0,
+              "y": 2567,
+              "width": 768,
+              "height": 1437
+            },
+            "textLength": 571,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-press",
+            "label": "Press",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 4003,
+              "width": 768,
+              "height": 1419
+            },
+            "textLength": 616,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-form",
+            "label": "Form",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 5422,
+              "width": 768,
+              "height": 1958
+            },
+            "textLength": 707,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-routing",
+            "label": "Routing",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 7380,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 627,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-response",
+            "label": "Response",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 8186,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 501,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-submit",
+            "label": "Submit",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 8831,
+              "width": 768,
+              "height": 1658
+            },
+            "textLength": 618,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 10489,
+              "width": 768,
+              "height": 922
+            },
+            "textLength": 763,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 11410,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/cookies.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/cookies.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cookie Notice | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/cookies.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 1935
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Cookies section 1",
+            "heading": "Cookie Notice",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 845
+            },
+            "textLength": 586,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/faq.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/faq.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "FAQ | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/faq.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 10790
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "FAQ by Index",
+            "sectionType": "hero",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "product-stage",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 963
+            },
+            "textLength": 611,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-access",
+            "label": "Access",
+            "heading": "Questions before you subscribe",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 1074,
+              "width": 768,
+              "height": 943
+            },
+            "textLength": 659,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-sources",
+            "label": "Sources",
+            "heading": "Questions before you subscribe",
+            "sectionType": "faq",
+            "patternFamily": "form-studio",
+            "layoutVariation": "searchable-faq",
+            "rect": {
+              "x": 0,
+              "y": 2017,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 481,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-rights",
+            "label": "Rights",
+            "heading": "Questions before you subscribe",
+            "sectionType": "faq",
+            "patternFamily": "route-cards",
+            "layoutVariation": "faq-cards",
+            "rect": {
+              "x": 0,
+              "y": 2662,
+              "width": 768,
+              "height": 1454
+            },
+            "textLength": 650,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-submissions",
+            "label": "Submissions",
+            "heading": "Questions before you subscribe",
+            "sectionType": "faq",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "before-you-book",
+            "rect": {
+              "x": 0,
+              "y": 4115,
+              "width": 768,
+              "height": 1442
+            },
+            "textLength": 660,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-corrections",
+            "label": "Corrections",
+            "heading": "Questions before you subscribe",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 5556,
+              "width": 768,
+              "height": 880
+            },
+            "textLength": 679,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-accounts",
+            "label": "Accounts",
+            "heading": "Questions before you subscribe",
+            "sectionType": "faq",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-faq",
+            "rect": {
+              "x": 0,
+              "y": 6435,
+              "width": 768,
+              "height": 943
+            },
+            "textLength": 663,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "map-console",
+            "layoutVariation": "logistics-lane-cards",
+            "rect": {
+              "x": 0,
+              "y": 7378,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 538,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-contact",
+            "label": "Contact",
+            "heading": "Questions before you subscribe",
+            "sectionType": "faq",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "two-column-faq",
+            "rect": {
+              "x": 0,
+              "y": 8023,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 481,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 8686,
+              "width": 768,
+              "height": 922
+            },
+            "textLength": 753,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "faq",
+            "patternFamily": "form-studio",
+            "layoutVariation": "searchable-faq",
+            "rect": {
+              "x": 0,
+              "y": 9607,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/index.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/index.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Home | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/index.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 11225
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Index",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-location-hero",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1023
+            },
+            "textLength": 670,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-promise",
+            "label": "Promise",
+            "heading": "Promise: the better state",
+            "sectionType": "solution",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-pillar-framework",
+            "rect": {
+              "x": 0,
+              "y": 1133,
+              "width": 768,
+              "height": 906
+            },
+            "textLength": 715,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-topics",
+            "label": "Topics",
+            "heading": "Topics with editorial intent",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 2038,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 558,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-featured",
+            "label": "Featured",
+            "heading": "Featured with editorial intent",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 2701,
+              "width": 768,
+              "height": 1442
+            },
+            "textLength": 735,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-archive",
+            "label": "Archive",
+            "heading": "Archive with editorial intent",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 4142,
+              "width": 768,
+              "height": 1459
+            },
+            "textLength": 731,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-authors",
+            "label": "Authors",
+            "heading": "Authors with editorial intent",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 5601,
+              "width": 768,
+              "height": 920
+            },
+            "textLength": 749,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-newsletter",
+            "label": "Newsletter",
+            "heading": "Newsletter for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 6521,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 618,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust, not claims",
+            "sectionType": "trust",
+            "patternFamily": "route-cards",
+            "layoutVariation": "evidence-cards",
+            "rect": {
+              "x": 0,
+              "y": 7327,
+              "width": 768,
+              "height": 618
+            },
+            "textLength": 491,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-questions",
+            "label": "Questions",
+            "heading": "Questions before you subscribe",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 7944,
+              "width": 768,
+              "height": 1676
+            },
+            "textLength": 732,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 9620,
+              "width": 768,
+              "height": 249
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "cta",
+            "patternFamily": "form-studio",
+            "layoutVariation": "embedded-form-cta",
+            "rect": {
+              "x": 0,
+              "y": 9869,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 266,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/library.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/library.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Library | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/library.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 11632
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Library by Index",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "portrait-authority",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 963
+            },
+            "textLength": 635,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-categories",
+            "label": "Categories",
+            "heading": "Categories inside library",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 1074,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 751,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-search",
+            "label": "Search",
+            "heading": "Search inside library",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 2079,
+              "width": 768,
+              "height": 872
+            },
+            "textLength": 730,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-featured",
+            "label": "Featured",
+            "heading": "Featured inside library",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 2951,
+              "width": 768,
+              "height": 1484
+            },
+            "textLength": 736,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-recent",
+            "label": "Recent",
+            "heading": "Recent inside library",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 4434,
+              "width": 768,
+              "height": 1423
+            },
+            "textLength": 730,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-popular",
+            "label": "Popular",
+            "heading": "Popular inside library",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 5857,
+              "width": 768,
+              "height": 920
+            },
+            "textLength": 751,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-filters",
+            "label": "Filters",
+            "heading": "Filters inside library",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 6777,
+              "width": 768,
+              "height": 945
+            },
+            "textLength": 742,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-access",
+            "label": "Access",
+            "heading": "Access inside library",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 7721,
+              "width": 768,
+              "height": 627
+            },
+            "textLength": 560,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-explore",
+            "label": "Explore",
+            "heading": "Explore inside library",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 8347,
+              "width": 768,
+              "height": 1680
+            },
+            "textLength": 721,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "cta",
+            "patternFamily": "route-cards",
+            "layoutVariation": "two-option-cta",
+            "rect": {
+              "x": 0,
+              "y": 10026,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 269,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 10403,
+              "width": 768,
+              "height": 249
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/newsletter.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/newsletter.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Newsletter | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/newsletter.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 10712
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Newsletter by Index",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "calm-trust-split",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 652,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-promise",
+            "label": "Promise",
+            "heading": "Promise: the better state",
+            "sectionType": "solution",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "outcome-grid",
+            "rect": {
+              "x": 0,
+              "y": 1116,
+              "width": 768,
+              "height": 906
+            },
+            "textLength": 726,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-topics",
+            "label": "Topics",
+            "heading": "Topics for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 2021,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 515,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-frequency",
+            "label": "Frequency",
+            "heading": "Frequency for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 2666,
+              "width": 768,
+              "height": 1416
+            },
+            "textLength": 616,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-samples",
+            "label": "Samples",
+            "heading": "Samples for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 4082,
+              "width": 768,
+              "height": 1416
+            },
+            "textLength": 612,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-benefits",
+            "label": "Benefits",
+            "heading": "Benefits: the better state",
+            "sectionType": "solution",
+            "patternFamily": "map-console",
+            "layoutVariation": "solution-diagram",
+            "rect": {
+              "x": 0,
+              "y": 5497,
+              "width": 768,
+              "height": 906
+            },
+            "textLength": 725,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-form",
+            "label": "Form",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 6403,
+              "width": 768,
+              "height": 1958
+            },
+            "textLength": 719,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-archive",
+            "label": "Archive",
+            "heading": "Archive for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 8361,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 518,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-subscribe",
+            "label": "Subscribe",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "cta",
+            "patternFamily": "route-cards",
+            "layoutVariation": "two-option-cta",
+            "rect": {
+              "x": 0,
+              "y": 9006,
+              "width": 768,
+              "height": 101
+            },
+            "textLength": 0,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "cta",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "final-reassurance",
+            "rect": {
+              "x": 0,
+              "y": 9107,
+              "width": 768,
+              "height": 423
+            },
+            "textLength": 272,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 9529,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/platform.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/platform.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Platform | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/platform.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 11411
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Platform by Index",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "cinematic-full-bleed",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 640,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-mission",
+            "label": "Mission",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 1116,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 635,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-editorial",
+            "label": "Editorial",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 1922,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 511,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-standards",
+            "label": "Standards",
+            "heading": "Standards, not claims",
+            "sectionType": "trust",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "credential-panel",
+            "rect": {
+              "x": 0,
+              "y": 2567,
+              "width": 768,
+              "height": 1394
+            },
+            "textLength": 574,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-team",
+            "label": "Team",
+            "heading": "Who handles team",
+            "sectionType": "profiles",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "founder-spotlight",
+            "rect": {
+              "x": 0,
+              "y": 3960,
+              "width": 768,
+              "height": 1392
+            },
+            "textLength": 631,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-values",
+            "label": "Values",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 5351,
+              "width": 768,
+              "height": 880
+            },
+            "textLength": 649,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-sources",
+            "label": "Sources",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 6231,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 635,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-governance",
+            "label": "Governance",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 7037,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 513,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust, not claims",
+            "sectionType": "trust",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "compliance-grid",
+            "rect": {
+              "x": 0,
+              "y": 7682,
+              "width": 768,
+              "height": 1626
+            },
+            "textLength": 556,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 9307,
+              "width": 768,
+              "height": 922
+            },
+            "textLength": 766,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 10229,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/privacy.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/privacy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Privacy Notice | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/privacy.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 1935
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Privacy section 1",
+            "heading": "Privacy Notice",
+            "sectionType": "utility",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "asset-inventory-grid",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 845
+            },
+            "textLength": 667,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/reports.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/reports.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Reports | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/reports.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 12748
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Reports by Index",
+            "sectionType": "hero",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dashboard-command",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 637,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-research",
+            "label": "Research",
+            "heading": "Research inside reports",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 1116,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 745,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-data",
+            "label": "Data",
+            "heading": "Data inside reports",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 2122,
+              "width": 768,
+              "height": 627
+            },
+            "textLength": 554,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-downloads",
+            "label": "Downloads",
+            "heading": "Downloads for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 2748,
+              "width": 768,
+              "height": 2640
+            },
+            "textLength": 981,
+            "imageCount": 7,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-methodology",
+            "label": "Methodology",
+            "heading": "Methodology inside reports",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 5387,
+              "width": 768,
+              "height": 1466
+            },
+            "textLength": 745,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-findings",
+            "label": "Findings",
+            "heading": "Findings inside reports",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 6853,
+              "width": 768,
+              "height": 945
+            },
+            "textLength": 754,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-sources",
+            "label": "Sources",
+            "heading": "Sources inside reports",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 7798,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 742,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-archive",
+            "label": "Archive",
+            "heading": "Archive inside reports",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 8803,
+              "width": 768,
+              "height": 688
+            },
+            "textLength": 563,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-access",
+            "label": "Access",
+            "heading": "Access inside reports",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 9491,
+              "width": 768,
+              "height": 1698
+            },
+            "textLength": 717,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "cta",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "split-cta-image",
+            "rect": {
+              "x": 0,
+              "y": 11188,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 269,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 11565,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/sitemap.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/sitemap.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Sitemap Page | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/sitemap.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 2321
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Sitemap section 1",
+            "heading": "Sitemap Page",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1231
+            },
+            "textLength": 559,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/submissions.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/submissions.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Submissions | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/submissions.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 11181
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Submissions by Index",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 1006
+            },
+            "textLength": 660,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-guidelines",
+            "label": "Guidelines",
+            "heading": "Guidelines for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 1116,
+              "width": 768,
+              "height": 824
+            },
+            "textLength": 629,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-topics",
+            "label": "Topics",
+            "heading": "Topics inside submissions",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 1940,
+              "width": 768,
+              "height": 670
+            },
+            "textLength": 576,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-review",
+            "label": "Review",
+            "heading": "Stories behind review",
+            "sectionType": "reviews",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "single-large-testimonial",
+            "rect": {
+              "x": 0,
+              "y": 2610,
+              "width": 768,
+              "height": 1437
+            },
+            "textLength": 612,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-standards",
+            "label": "Standards",
+            "heading": "Standards, not claims",
+            "sectionType": "trust",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "compliance-grid",
+            "rect": {
+              "x": 0,
+              "y": 4046,
+              "width": 768,
+              "height": 1413
+            },
+            "textLength": 583,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-rights",
+            "label": "Rights",
+            "heading": "Rights inside submissions",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 5459,
+              "width": 768,
+              "height": 945
+            },
+            "textLength": 764,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-process",
+            "label": "Process",
+            "heading": "How the process works",
+            "sectionType": "process",
+            "patternFamily": "map-console",
+            "layoutVariation": "circular-process",
+            "rect": {
+              "x": 0,
+              "y": 6403,
+              "width": 768,
+              "height": 824
+            },
+            "textLength": 605,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-timeline",
+            "label": "Timeline",
+            "heading": "How the timeline works",
+            "sectionType": "process",
+            "patternFamily": "route-cards",
+            "layoutVariation": "numbered-cards",
+            "rect": {
+              "x": 0,
+              "y": 7227,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 497,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-submit",
+            "label": "Submit",
+            "heading": "Submit inside submissions",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 7872,
+              "width": 768,
+              "height": 1705
+            },
+            "textLength": 733,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Subscribe to the briefing",
+            "sectionType": "cta",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "minimal-luxury-cta",
+            "rect": {
+              "x": 0,
+              "y": 9576,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 273,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 9953,
+              "width": 768,
+              "height": 249
+            },
+            "textLength": 144,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/terms.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/terms.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Terms of Use | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/terms.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 1935
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Terms section 1",
+            "heading": "Terms of Use",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "category-faq-tabs",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 845
+            },
+            "textLength": 598,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/41-publishing/thanks.html",
+      "site": "41",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/thanks.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Thank You | Index Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/41-publishing/thanks.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 1927
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Thanks section 1",
+            "heading": "Thank You",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 111,
+              "width": 768,
+              "height": 837
+            },
+            "textLength": 510,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    }
+  ]
+}

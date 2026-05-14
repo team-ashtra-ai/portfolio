@@ -17,11 +17,6 @@ Static portfolio component pass for SignalCraft. WordPress export remains option
 | agency.html | Trust | trust | compliance-grid | dashboard-command | `marketing-agency-trust-09` |
 | agency.html | CTA | cta | full-width-final-banner | cinematic-bleed | `marketing-agency-cta-10` |
 | agency.html | Important notes | editorial | editorial-problem-essay | editorial-split | `marketing-agency-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | gallery-strip | collage-stack | `marketing-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | archive-filter | form-studio | `marketing-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | case-study-grid | bento-grid | `marketing-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | download-cover-grid | bento-grid | `marketing-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | resource-index | route-cards | `marketing-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | search-led-hero | map-console | `marketing-contact-hero-01` |
 | contact.html | Brief | contact | booking-panel | form-studio | `marketing-contact-brief-02` |
 | contact.html | Budget | contact | whatsapp-first | minimal-luxury | `marketing-contact-budget-03` |

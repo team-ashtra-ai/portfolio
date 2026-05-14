@@ -6,11 +6,6 @@ Static portfolio component pass for HelixNova. WordPress export remains optional
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `life-sciences-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `life-sciences-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | archive-filter | form-studio | `life-sciences-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | case-study-grid | bento-grid | `life-sciences-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | download-cover-grid | bento-grid | `life-sciences-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | resource-index | route-cards | `life-sciences-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | article-stack | editorial-split | `life-sciences-asset-system-asset-system-section-5-05` |
 | company.html | Hero | hero | video-poster-stage | cinematic-bleed | `life-sciences-company-hero-01` |
 | company.html | Origin | editorial | editorial-problem-essay | editorial-split | `life-sciences-company-origin-02` |
 | company.html | Vision | editorial | authority-quote | editorial-split | `life-sciences-company-vision-03` |

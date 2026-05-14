@@ -13,6 +13,6 @@
 | Questions | assets/images/hero/engineering-questions-hero.svg | assets/images/hero/engineering-questions-hero-tablet.svg | assets/images/hero/engineering-questions-hero-mobile.svg | assets/images/pages/engineering-questions-page.svg | assets/og/engineering-questions-open-graph.svg | assets/images/gallery/engineering-questions-gallery-1.svg | CoreSystems Questions hero visual; decorative thumbnails use empty alt where repeated |
 | Contact | assets/images/hero/engineering-contact-hero.svg | assets/images/hero/engineering-contact-hero-tablet.svg | assets/images/hero/engineering-contact-hero-mobile.svg | assets/images/pages/engineering-contact-page.svg | assets/og/engineering-contact-open-graph.svg | assets/images/gallery/engineering-contact-gallery-1.svg | CoreSystems Contact hero visual; decorative thumbnails use empty alt where repeated |
 
-## Static Asset System Page
+## Asset Handoff Documentation
 
-`asset-system.html` displays local assets for brand, logo, favicon, images, video posters, icons, illustrations, typography, CSS, JavaScript, animation, SEO, Open Graph, social sharing, header, footer, form, analytics, cookie, accessibility, multilingual, blog, service, industry, case study, downloadable, legal, and trust/proof categories. Files live under this site's own `assets/` tree and are linked from the site navigation.
+The public site no longer exposes an asset-system HTML route. Asset inventories remain in the docs folder and local asset tree for QA and handoff; public navigation uses only the 10 core pages and 7 universal utility pages.

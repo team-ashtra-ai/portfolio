@@ -1,14 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="720" viewBox="0 0 900 720" role="img" aria-labelledby="title desc">
-  <title id="title">PawHealth Home</title>
-  <desc id="desc">Tablet crop</desc>
-  <rect width="900" height="720" rx="44" fill="#fff7ef"/>
-  <path d="M0 115 H900 M0 360 H900 M0 605 H900" stroke="#256a5e" stroke-width="1.2" opacity=".11"/>
-  <path d="M162 0 V720 M450 0 V720 M738 0 V720" stroke="#256a5e" stroke-width="1.2" opacity=".09"/>
-  <circle cx="780" cy="106" r="120" fill="#ffb199" opacity=".15"/>
-  <circle cx="128" cy="625" r="96" fill="#21413a" opacity=".16"/>
-  <circle cx="260" cy="278" r="150" fill="#ffb199" opacity=".28"/>
-  <circle cx="560" cy="332" r="180" fill="#21413a" opacity=".22"/>
-  <path d="M162 570 C280 330 362 410 480 284 S690 226 804 142" fill="none" stroke="#256a5e" stroke-width="24" stroke-linecap="round"/>
-  <rect x="130" y="118" width="180" height="96" rx="28" fill="#fff8f2" stroke="#256a5e" stroke-width="4"/>
-  <rect x="610" y="420" width="220" height="92" rx="28" fill="#fff8f2" stroke="#ffb199" stroke-width="4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="760" viewBox="0 0 960 760" role="img" aria-labelledby="title desc">
+<title id="title">Paw hero visual</title>
+<desc id="desc">Pets themed clinical calm artwork with no visible text.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fffbf8"/>
+    <stop offset=".48" stop-color="#fff7ef"/>
+    <stop offset="1" stop-color="#d8ded5"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffb199"/>
+    <stop offset="1" stop-color="#ab8675"/>
+  </linearGradient>
+  <pattern id="grain" width="38" height="38" patternUnits="userSpaceOnUse">
+    <path d="M0 19 H38" stroke="#256a5e" stroke-width="1" opacity=".06"/>
+    <path d="M19 0 V38" stroke="#256a5e" stroke-width="1" opacity=".045"/>
+  </pattern>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#18453d" flood-opacity=".22"/>
+  </filter>
+  <clipPath id="frame">
+    <rect x="16" y="14" width="928" height="732" rx="63"/>
+  </clipPath>
+</defs>
+<rect width="960" height="760" fill="url(#bg)"/>
+<rect width="960" height="760" fill="url(#grain)"/>
+<g clip-path="url(#frame)">
+  <path d="M-115 137 L557 -91 L1094 289 L307 699 Z" fill="url(#accent)" opacity=".18"/>
+  <path d="M691 -61 C518 152,806 319,586 547 C749 654,1037 578,1133 334 L1133 -61 Z" fill="#ffffff" opacity=".36"/>
+
+  <path d="M-38 577 C 172 395, 355 699, 556 471 S 844 258, 1040 410" fill="none" stroke="#ffb199" stroke-width="26" opacity=".38"/>
+  <path d="M76 136 C 268 30, 403 136, 556 60 S 844 15, 921 167" fill="none" stroke="#256a5e" stroke-width="13" opacity=".16"/>
+
+  <g filter="url(#softShadow)" transform="translate(115 106)">
+    <rect width="345" height="440" rx="38" fill="#ffffff" opacity=".92"/>
+    <path d="M57 326 C 124 167, 240 167, 297 326" fill="none" stroke="#ffb199" stroke-width="20" stroke-linecap="round"/>
+    <circle cx="172" cy="174" r="57" fill="#ffc4b2" opacity=".76"/>
+  </g>
+  <g transform="translate(537 136) rotate(4)" filter="url(#softShadow)">
+    <rect width="268" height="364" rx="30" fill="#fff9f7"/>
+    <path d="M38 258 C 105 174, 182 319, 240 228" fill="none" stroke="#256a5e" stroke-width="10" opacity=".25" stroke-linecap="round"/>
+  </g>
+
+  <path d="M58 669 C230 593,365 730,538 638 S845 547,941 654" fill="none" stroke="#256a5e" stroke-width="6" opacity=".12"/>
+</g>
 </svg>

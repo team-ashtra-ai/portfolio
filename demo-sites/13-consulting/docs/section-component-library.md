@@ -6,11 +6,6 @@ Static portfolio component pass for VectorNorth. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `consulting-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `consulting-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | article-stack | editorial-split | `consulting-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | document-preview | proof-ledger | `consulting-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | gallery-strip | collage-stack | `consulting-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | archive-filter | form-studio | `consulting-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | case-study-grid | bento-grid | `consulting-asset-system-asset-system-section-5-05` |
 | cases.html | Hero | hero | luxury-minimal | minimal-luxury | `consulting-cases-hero-01` |
 | cases.html | Problem | problem | split-problem-impact | editorial-split | `consulting-cases-problem-02` |
 | cases.html | Context | results | portfolio-outcome-cards | bento-grid | `consulting-cases-context-03` |

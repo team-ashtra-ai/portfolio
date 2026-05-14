@@ -13,6 +13,6 @@
 | Resources | assets/images/hero/nonprofit-resources-hero.svg | assets/images/hero/nonprofit-resources-hero-tablet.svg | assets/images/hero/nonprofit-resources-hero-mobile.svg | assets/images/pages/nonprofit-resources-page.svg | assets/og/nonprofit-resources-open-graph.svg | assets/images/gallery/nonprofit-resources-gallery-1.svg | CommonGood Resources hero visual; decorative thumbnails use empty alt where repeated |
 | Contact | assets/images/hero/nonprofit-contact-hero.svg | assets/images/hero/nonprofit-contact-hero-tablet.svg | assets/images/hero/nonprofit-contact-hero-mobile.svg | assets/images/pages/nonprofit-contact-page.svg | assets/og/nonprofit-contact-open-graph.svg | assets/images/gallery/nonprofit-contact-gallery-1.svg | CommonGood Contact hero visual; decorative thumbnails use empty alt where repeated |
 
-## Static Asset System Page
+## Asset Handoff Documentation
 
-`asset-system.html` displays local assets for brand, logo, favicon, images, video posters, icons, illustrations, typography, CSS, JavaScript, animation, SEO, Open Graph, social sharing, header, footer, form, analytics, cookie, accessibility, multilingual, blog, service, industry, case study, downloadable, legal, and trust/proof categories. Files live under this site's own `assets/` tree and are linked from the site navigation.
+The public site no longer exposes an asset-system HTML route. Asset inventories remain in the docs folder and local asset tree for QA and handoff; public navigation uses only the 10 core pages and 7 universal utility pages.

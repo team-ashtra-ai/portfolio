@@ -6,11 +6,6 @@ Static portfolio component pass for AtelierGrid. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `architecture-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `architecture-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | download-cover-grid | bento-grid | `architecture-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | resource-index | route-cards | `architecture-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | article-stack | editorial-split | `architecture-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | document-preview | proof-ledger | `architecture-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | gallery-strip | collage-stack | `architecture-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | booking-focused-panel | form-studio | `architecture-contact-hero-01` |
 | contact.html | Project | contact | department-routing | dashboard-command | `architecture-contact-project-02` |
 | contact.html | Site | contact | upload-enquiry | form-studio | `architecture-contact-site-03` |

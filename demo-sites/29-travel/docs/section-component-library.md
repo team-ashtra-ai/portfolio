@@ -17,11 +17,6 @@ Static portfolio component pass for AtlasKind. WordPress export remains optional
 | agency.html | Trust | trust | credential-panel | proof-ledger | `travel-agency-trust-09` |
 | agency.html | CTA | cta | embedded-form-cta | form-studio | `travel-agency-cta-10` |
 | agency.html | Important notes | editorial | article-stack | editorial-split | `travel-agency-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | archive-filter | form-studio | `travel-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | case-study-grid | bento-grid | `travel-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | download-cover-grid | bento-grid | `travel-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | resource-index | route-cards | `travel-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | article-stack | editorial-split | `travel-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | search-led-hero | map-console | `travel-contact-hero-01` |
 | contact.html | Destination | contact | office-location-cards | map-console | `travel-contact-destination-02` |
 | contact.html | Dates | contact | form-contact-split | form-studio | `travel-contact-dates-03` |

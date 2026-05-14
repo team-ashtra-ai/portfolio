@@ -28,11 +28,6 @@ Static portfolio component pass for UrbanNest. WordPress export remains optional
 | areas.html | Tips | editorial | central-statement-pillars | editorial-split | `real-estate-areas-tips-09` |
 | areas.html | CTA | cta | dark-contrast-cta | dashboard-command | `real-estate-areas-cta-10` |
 | areas.html | Important notes | editorial | article-stack | editorial-split | `real-estate-areas-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | download-cover-grid | bento-grid | `real-estate-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | resource-index | route-cards | `real-estate-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | article-stack | editorial-split | `real-estate-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | document-preview | proof-ledger | `real-estate-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | gallery-strip | collage-stack | `real-estate-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | booking-focused-panel | form-studio | `real-estate-contact-hero-01` |
 | contact.html | Viewings | contact | department-routing | dashboard-command | `real-estate-contact-viewings-02` |
 | contact.html | Valuation | contact | upload-enquiry | form-studio | `real-estate-contact-valuation-03` |

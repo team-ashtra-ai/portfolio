@@ -6,11 +6,6 @@ Static portfolio component pass for LumaStudio. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `wellness-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `wellness-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | case-study-grid | bento-grid | `wellness-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | download-cover-grid | bento-grid | `wellness-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | resource-index | route-cards | `wellness-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | article-stack | editorial-split | `wellness-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | document-preview | proof-ledger | `wellness-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | data-stat-hero | proof-ledger | `wellness-contact-hero-01` |
 | contact.html | Booking | contact | office-location-cards | map-console | `wellness-contact-booking-02` |
 | contact.html | Form | contact | form-contact-split | form-studio | `wellness-contact-form-03` |

@@ -13,6 +13,6 @@
 | FAQ | assets/images/hero/ecommerce-faq-hero.svg | assets/images/hero/ecommerce-faq-hero-tablet.svg | assets/images/hero/ecommerce-faq-hero-mobile.svg | assets/images/pages/ecommerce-faq-page.svg | assets/og/ecommerce-faq-open-graph.svg | assets/images/gallery/ecommerce-faq-gallery-1.svg | MarketPulse FAQ hero visual; decorative thumbnails use empty alt where repeated |
 | Contact | assets/images/hero/ecommerce-contact-hero.svg | assets/images/hero/ecommerce-contact-hero-tablet.svg | assets/images/hero/ecommerce-contact-hero-mobile.svg | assets/images/pages/ecommerce-contact-page.svg | assets/og/ecommerce-contact-open-graph.svg | assets/images/gallery/ecommerce-contact-gallery-1.svg | MarketPulse Contact hero visual; decorative thumbnails use empty alt where repeated |
 
-## Static Asset System Page
+## Asset Handoff Documentation
 
-`asset-system.html` displays local assets for brand, logo, favicon, images, video posters, icons, illustrations, typography, CSS, JavaScript, animation, SEO, Open Graph, social sharing, header, footer, form, analytics, cookie, accessibility, multilingual, blog, service, industry, case study, downloadable, legal, and trust/proof categories. Files live under this site's own `assets/` tree and are linked from the site navigation.
+The public site no longer exposes an asset-system HTML route. Asset inventories remain in the docs folder and local asset tree for QA and handoff; public navigation uses only the 10 core pages and 7 universal utility pages.

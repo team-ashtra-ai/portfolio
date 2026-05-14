@@ -1,0 +1,2878 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-13T19:14:15.327Z",
+    "viewport": {
+      "width": 768,
+      "height": 1024,
+      "mobile": true,
+      "quality": 68
+    },
+    "screenshotMode": "issues",
+    "offsetPages": 0,
+    "totalPages": 17,
+    "totalSections": 117,
+    "sectionsCaptured": 0,
+    "pagesWithIssues": 0,
+    "sectionsWithIssues": 0,
+    "outputDirectory": "premium-static-site-system/reports/section-visual-audit/2026-05-13T19-12-28-511Z"
+  },
+  "bySite": {
+    "11": {
+      "pages": 17,
+      "sections": 117,
+      "sectionIssues": 0,
+      "pageIssues": 0
+    }
+  },
+  "sectionIssues": [],
+  "results": [
+    {
+      "file": "demo-sites/11-legal/404.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/404.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Page Not Found | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/404.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 2362
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "404 section 1",
+            "heading": "Page Not Found",
+            "sectionType": "utility",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-prose-panel",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 758
+            },
+            "textLength": 192,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/accessibility.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/accessibility.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Accessibility Statement | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/accessibility.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 2456
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Accessibility section 1",
+            "heading": "Accessibility Statement",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 852
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/cases.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/cases.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cases | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/cases.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 13302
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Cases by Legal",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-overscale",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 875
+            },
+            "textLength": 754,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-types",
+            "label": "Types",
+            "heading": "Types visitors can see",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "portfolio-outcome-cards",
+            "rect": {
+              "x": 0,
+              "y": 985,
+              "width": 768,
+              "height": 1428
+            },
+            "textLength": 593,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-individuals",
+            "label": "Individuals",
+            "heading": "Individuals visitors can see",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "stats-dashboard",
+            "rect": {
+              "x": 0,
+              "y": 2412,
+              "width": 768,
+              "height": 1425
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-families",
+            "label": "Families",
+            "heading": "Families visitors can see",
+            "sectionType": "results",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 3837,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 533,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-companies",
+            "label": "Companies",
+            "heading": "Companies visitors can see",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "transformation-grid",
+            "rect": {
+              "x": 0,
+              "y": 4499,
+              "width": 768,
+              "height": 1428
+            },
+            "textLength": 609,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Documents visitors can see",
+            "sectionType": "results",
+            "patternFamily": "route-cards",
+            "layoutVariation": "review-result-cards",
+            "rect": {
+              "x": 0,
+              "y": 5927,
+              "width": 768,
+              "height": 1658
+            },
+            "textLength": 598,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-requirements",
+            "label": "Requirements",
+            "heading": "Requirements visitors can see",
+            "sectionType": "results",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "before-after-proof",
+            "rect": {
+              "x": 0,
+              "y": 7584,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 621,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-timelines",
+            "label": "Timelines",
+            "heading": "How the timelines path works",
+            "sectionType": "process",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "scroll-journey",
+            "rect": {
+              "x": 0,
+              "y": 9015,
+              "width": 768,
+              "height": 824
+            },
+            "textLength": 602,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-risks",
+            "label": "Risks",
+            "heading": "Risks: what to solve",
+            "sectionType": "problem",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "problem-consequence-opportunity",
+            "rect": {
+              "x": 0,
+              "y": 9839,
+              "width": 768,
+              "height": 846
+            },
+            "textLength": 682,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "impact-report-style",
+            "rect": {
+              "x": 0,
+              "y": 10684,
+              "width": 768,
+              "height": 920
+            },
+            "textLength": 806,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "evidence-table",
+            "rect": {
+              "x": 0,
+              "y": 11604,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/contact.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/contact.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Contact | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/contact.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 14841
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Contact by Legal",
+            "sectionType": "hero",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "dashboard-command",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 917
+            },
+            "textLength": 751,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-consultation",
+            "label": "Consultation",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 1027,
+              "width": 768,
+              "height": 1457
+            },
+            "textLength": 641,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-upload",
+            "label": "Upload",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-panel",
+            "rect": {
+              "x": 0,
+              "y": 2483,
+              "width": 768,
+              "height": 1457
+            },
+            "textLength": 635,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-phone",
+            "label": "Phone",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "whatsapp-first",
+            "rect": {
+              "x": 0,
+              "y": 3940,
+              "width": 768,
+              "height": 671
+            },
+            "textLength": 521,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-office",
+            "label": "Office",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "department-routing",
+            "rect": {
+              "x": 0,
+              "y": 4611,
+              "width": 768,
+              "height": 1451
+            },
+            "textLength": 635,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-notes",
+            "label": "Notes",
+            "heading": "Important context for contact",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "upload-enquiry",
+            "rect": {
+              "x": 0,
+              "y": 6061,
+              "width": 768,
+              "height": 1684
+            },
+            "textLength": 642,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-response",
+            "label": "Response",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "priority-contact",
+            "rect": {
+              "x": 0,
+              "y": 7745,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 637,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-emergency",
+            "label": "Emergency",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "office-location-cards",
+            "rect": {
+              "x": 0,
+              "y": 9176,
+              "width": 768,
+              "height": 832
+            },
+            "textLength": 647,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-submit",
+            "label": "Submit",
+            "heading": "Send the right details",
+            "sectionType": "contact",
+            "patternFamily": "form-studio",
+            "layoutVariation": "form-contact-split",
+            "rect": {
+              "x": 0,
+              "y": 10008,
+              "width": 768,
+              "height": 904
+            },
+            "textLength": 635,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "contact",
+            "patternFamily": "route-cards",
+            "layoutVariation": "multi-route-contact-cards",
+            "rect": {
+              "x": 0,
+              "y": 10911,
+              "width": 768,
+              "height": 2233
+            },
+            "textLength": 1020,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "contact",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-form-layout",
+            "rect": {
+              "x": 0,
+              "y": 13143,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/cookies.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/cookies.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Cookie Notice | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/cookies.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 2456
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Cookies section 1",
+            "heading": "Cookie Notice",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 852
+            },
+            "textLength": 586,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/firm.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/firm.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Firm | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/firm.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 13091
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Firm by Legal",
+            "sectionType": "hero",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "collage-window",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 875
+            },
+            "textLength": 752,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-credentials",
+            "label": "Credentials",
+            "heading": "Credentials, not claims",
+            "sectionType": "trust",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 985,
+              "width": 768,
+              "height": 1449
+            },
+            "textLength": 573,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-jurisdictions",
+            "label": "Jurisdictions",
+            "heading": "Jurisdictions inside firm",
+            "sectionType": "editorial",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "benefit-image-split",
+            "rect": {
+              "x": 0,
+              "y": 2433,
+              "width": 768,
+              "height": 1504
+            },
+            "textLength": 752,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-team",
+            "label": "Team",
+            "heading": "Who handles team",
+            "sectionType": "profiles",
+            "patternFamily": "route-cards",
+            "layoutVariation": "profile-card-grid",
+            "rect": {
+              "x": 0,
+              "y": 3937,
+              "width": 768,
+              "height": 618
+            },
+            "textLength": 492,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-values",
+            "label": "Values",
+            "heading": "Values inside firm",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 4554,
+              "width": 768,
+              "height": 1486
+            },
+            "textLength": 731,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-standards",
+            "label": "Standards",
+            "heading": "Standards, not claims",
+            "sectionType": "trust",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "publication-list",
+            "rect": {
+              "x": 0,
+              "y": 6039,
+              "width": 768,
+              "height": 1676
+            },
+            "textLength": 555,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-privacy",
+            "label": "Privacy",
+            "heading": "Privacy without dead ends",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 7714,
+              "width": 768,
+              "height": 1406
+            },
+            "textLength": 622,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-experience",
+            "label": "Experience",
+            "heading": "Experience inside firm",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "central-statement-pillars",
+            "rect": {
+              "x": 0,
+              "y": 9119,
+              "width": 768,
+              "height": 1032
+            },
+            "textLength": 752,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust, not claims",
+            "sectionType": "trust",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "compliance-grid",
+            "rect": {
+              "x": 0,
+              "y": 10151,
+              "width": 768,
+              "height": 820
+            },
+            "textLength": 555,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "cta",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "minimal-luxury-cta",
+            "rect": {
+              "x": 0,
+              "y": 10970,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 289,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 11348,
+              "width": 768,
+              "height": 249
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/index.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/index.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Home | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/index.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 12948
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Legal",
+            "sectionType": "hero",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "video-poster-stage",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 958
+            },
+            "textLength": 806,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-problem",
+            "label": "Problem",
+            "heading": "Problem: what to solve",
+            "sectionType": "problem",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "editorial-problem-essay",
+            "rect": {
+              "x": 0,
+              "y": 1067,
+              "width": 768,
+              "height": 1494
+            },
+            "textLength": 682,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-risk",
+            "label": "Risk",
+            "heading": "Risk: what to solve",
+            "sectionType": "problem",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "friction-icon-grid",
+            "rect": {
+              "x": 0,
+              "y": 2561,
+              "width": 768,
+              "height": 1445
+            },
+            "textLength": 677,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-promise",
+            "label": "Promise",
+            "heading": "Promise: the better state",
+            "sectionType": "solution",
+            "patternFamily": "map-console",
+            "layoutVariation": "solution-diagram",
+            "rect": {
+              "x": 0,
+              "y": 4006,
+              "width": 768,
+              "height": 697
+            },
+            "textLength": 633,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-services",
+            "label": "Services",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "map-console",
+            "layoutVariation": "logistics-lane-cards",
+            "rect": {
+              "x": 0,
+              "y": 4702,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 604,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-process",
+            "label": "Process",
+            "heading": "How the process works",
+            "sectionType": "process",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "image-per-step",
+            "rect": {
+              "x": 0,
+              "y": 6133,
+              "width": 768,
+              "height": 824
+            },
+            "textLength": 591,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-trust",
+            "label": "Trust",
+            "heading": "Trust, not claims",
+            "sectionType": "trust",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "partner-strip-safe",
+            "rect": {
+              "x": 0,
+              "y": 6957,
+              "width": 768,
+              "height": 1404
+            },
+            "textLength": 555,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-cases",
+            "label": "Cases",
+            "heading": "Cases visitors can see",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "portfolio-outcome-cards",
+            "rect": {
+              "x": 0,
+              "y": 8360,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 602,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-questions",
+            "label": "Questions",
+            "heading": "Questions before you book a consultation",
+            "sectionType": "faq",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "objection-handling",
+            "rect": {
+              "x": 0,
+              "y": 9166,
+              "width": 768,
+              "height": 1663
+            },
+            "textLength": 740,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "editorial",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "authority-quote",
+            "rect": {
+              "x": 0,
+              "y": 10828,
+              "width": 768,
+              "height": 249
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "cta",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "cta-with-trust",
+            "rect": {
+              "x": 0,
+              "y": 11077,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 289,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/pricing.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/pricing.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Pricing | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/pricing.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 14044
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Pricing by Legal",
+            "sectionType": "hero",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "data-stat-hero",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 917
+            },
+            "textLength": 741,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-models",
+            "label": "Models",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 1027,
+              "width": 768,
+              "height": 1448
+            },
+            "textLength": 660,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-fixed",
+            "label": "Fixed",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "form-studio",
+            "layoutVariation": "calculator-style",
+            "rect": {
+              "x": 0,
+              "y": 2474,
+              "width": 768,
+              "height": 1454
+            },
+            "textLength": 659,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-hourly",
+            "label": "Hourly",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 3927,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 478,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-packages",
+            "label": "Packages",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "addon-pricing",
+            "rect": {
+              "x": 0,
+              "y": 4590,
+              "width": 768,
+              "height": 1884
+            },
+            "textLength": 1009,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-inclusions",
+            "label": "Inclusions",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "route-cards",
+            "layoutVariation": "three-package-grid",
+            "rect": {
+              "x": 0,
+              "y": 6474,
+              "width": 768,
+              "height": 1684
+            },
+            "textLength": 653,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-extras",
+            "label": "Extras",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "simple-fee-table",
+            "rect": {
+              "x": 0,
+              "y": 8157,
+              "width": 768,
+              "height": 1428
+            },
+            "textLength": 660,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-payments",
+            "label": "Payments",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 9585,
+              "width": 768,
+              "height": 924
+            },
+            "textLength": 671,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-terms",
+            "label": "Terms",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "comparison-table",
+            "rect": {
+              "x": 0,
+              "y": 10509,
+              "width": 768,
+              "height": 874
+            },
+            "textLength": 659,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "pricing",
+            "patternFamily": "form-studio",
+            "layoutVariation": "calculator-style",
+            "rect": {
+              "x": 0,
+              "y": 11382,
+              "width": 768,
+              "height": 920
+            },
+            "textLength": 809,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "pricing",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "retainer-project-split",
+            "rect": {
+              "x": 0,
+              "y": 12301,
+              "width": 768,
+              "height": 249
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/privacy.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/privacy.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Privacy Notice | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/privacy.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 2456
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Privacy section 1",
+            "heading": "Privacy Notice",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 852
+            },
+            "textLength": 667,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/process.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/process.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Process | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/process.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 13424
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Process by Legal",
+            "sectionType": "hero",
+            "patternFamily": "form-studio",
+            "layoutVariation": "booking-focused-panel",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 917
+            },
+            "textLength": 756,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-assessment",
+            "label": "Assessment",
+            "heading": "How the assessment path works",
+            "sectionType": "process",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "icon-process",
+            "rect": {
+              "x": 0,
+              "y": 1027,
+              "width": 768,
+              "height": 1428
+            },
+            "textLength": 599,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-strategy",
+            "label": "Strategy",
+            "heading": "How the strategy path works",
+            "sectionType": "process",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "image-per-step",
+            "rect": {
+              "x": 0,
+              "y": 2454,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 595,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-review",
+            "label": "Review",
+            "heading": "How the review path works",
+            "sectionType": "process",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "you-we-split",
+            "rect": {
+              "x": 0,
+              "y": 3885,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 506,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-filing",
+            "label": "Filing",
+            "heading": "How the filing path works",
+            "sectionType": "process",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "roadmap-board",
+            "rect": {
+              "x": 0,
+              "y": 4548,
+              "width": 768,
+              "height": 1425
+            },
+            "textLength": 591,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-representation",
+            "label": "Representation",
+            "heading": "How the representation path works",
+            "sectionType": "process",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "horizontal-stepper",
+            "rect": {
+              "x": 0,
+              "y": 5972,
+              "width": 768,
+              "height": 1686
+            },
+            "textLength": 581,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-updates",
+            "label": "Updates",
+            "heading": "How the updates path works",
+            "sectionType": "process",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "vertical-timeline",
+            "rect": {
+              "x": 0,
+              "y": 7657,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 593,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-followup",
+            "label": "Followup",
+            "heading": "How the followup path works",
+            "sectionType": "process",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "zig-zag-process",
+            "rect": {
+              "x": 0,
+              "y": 9088,
+              "width": 768,
+              "height": 842
+            },
+            "textLength": 604,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-closure",
+            "label": "Closure",
+            "heading": "How the closure path works",
+            "sectionType": "process",
+            "patternFamily": "map-console",
+            "layoutVariation": "circular-process",
+            "rect": {
+              "x": 0,
+              "y": 9930,
+              "width": 768,
+              "height": 878
+            },
+            "textLength": 593,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "process",
+            "patternFamily": "route-cards",
+            "layoutVariation": "numbered-cards",
+            "rect": {
+              "x": 0,
+              "y": 10807,
+              "width": 768,
+              "height": 920
+            },
+            "textLength": 816,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "process",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "scroll-journey",
+            "rect": {
+              "x": 0,
+              "y": 11726,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/questions.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/questions.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Questions | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/questions.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 14036
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Questions by Legal",
+            "sectionType": "hero",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "product-stage",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 941
+            },
+            "textLength": 778,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-eligibility",
+            "label": "Eligibility",
+            "heading": "Questions before you book a consultation",
+            "sectionType": "faq",
+            "patternFamily": "form-studio",
+            "layoutVariation": "searchable-faq",
+            "rect": {
+              "x": 0,
+              "y": 1050,
+              "width": 768,
+              "height": 1454
+            },
+            "textLength": 680,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Questions before you book a consultation",
+            "sectionType": "faq",
+            "patternFamily": "route-cards",
+            "layoutVariation": "faq-cards",
+            "rect": {
+              "x": 0,
+              "y": 2503,
+              "width": 768,
+              "height": 1454
+            },
+            "textLength": 676,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-timelines",
+            "label": "Timelines",
+            "heading": "How the timelines path works",
+            "sectionType": "process",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "roadmap-board",
+            "rect": {
+              "x": 0,
+              "y": 3956,
+              "width": 768,
+              "height": 645
+            },
+            "textLength": 519,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-fees",
+            "label": "Fees",
+            "heading": "Compare scope and terms",
+            "sectionType": "pricing",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "from-price-cards",
+            "rect": {
+              "x": 0,
+              "y": 4601,
+              "width": 768,
+              "height": 1878
+            },
+            "textLength": 1007,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-risks",
+            "label": "Risks",
+            "heading": "Risks: what to solve",
+            "sectionType": "problem",
+            "patternFamily": "form-studio",
+            "layoutVariation": "symptom-checker",
+            "rect": {
+              "x": 0,
+              "y": 6479,
+              "width": 768,
+              "height": 1705
+            },
+            "textLength": 710,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-privacy",
+            "label": "Privacy",
+            "heading": "Questions before you book a consultation",
+            "sectionType": "faq",
+            "patternFamily": "faq-panel",
+            "layoutVariation": "accessible-accordion",
+            "rect": {
+              "x": 0,
+              "y": 8183,
+              "width": 768,
+              "height": 1454
+            },
+            "textLength": 672,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-policies",
+            "label": "Policies",
+            "heading": "Questions before you book a consultation",
+            "sectionType": "faq",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "two-column-faq",
+            "rect": {
+              "x": 0,
+              "y": 9637,
+              "width": 768,
+              "height": 961
+            },
+            "textLength": 683,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-support",
+            "label": "Support",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "build-scope-lanes",
+            "rect": {
+              "x": 0,
+              "y": 10597,
+              "width": 768,
+              "height": 822
+            },
+            "textLength": 611,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "faq",
+            "patternFamily": "form-studio",
+            "layoutVariation": "searchable-faq",
+            "rect": {
+              "x": 0,
+              "y": 11419,
+              "width": 768,
+              "height": 920
+            },
+            "textLength": 822,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "faq",
+            "patternFamily": "route-cards",
+            "layoutVariation": "faq-cards",
+            "rect": {
+              "x": 0,
+              "y": 12338,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/resources.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/resources.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Resources | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/resources.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 15750
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Resources by Legal",
+            "sectionType": "hero",
+            "patternFamily": "map-console",
+            "layoutVariation": "map-location-hero",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 941
+            },
+            "textLength": 770,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-guides",
+            "label": "Guides",
+            "heading": "Guides for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 1050,
+              "width": 768,
+              "height": 1936
+            },
+            "textLength": 996,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-updates",
+            "label": "Updates",
+            "heading": "Updates for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "route-cards",
+            "layoutVariation": "resource-index",
+            "rect": {
+              "x": 0,
+              "y": 2986,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 620,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-checklists",
+            "label": "Checklists",
+            "heading": "Checklists for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 4416,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 543,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Documents for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 5079,
+              "width": 768,
+              "height": 1406
+            },
+            "textLength": 624,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-explainers",
+            "label": "Explainers",
+            "heading": "Explainers for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "gallery-strip",
+            "rect": {
+              "x": 0,
+              "y": 6484,
+              "width": 768,
+              "height": 1658
+            },
+            "textLength": 627,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-downloads",
+            "label": "Downloads",
+            "heading": "Downloads for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "form-studio",
+            "layoutVariation": "archive-filter",
+            "rect": {
+              "x": 0,
+              "y": 8142,
+              "width": 768,
+              "height": 2635
+            },
+            "textLength": 1011,
+            "imageCount": 7,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-articles",
+            "label": "Articles",
+            "heading": "Articles for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "case-study-grid",
+            "rect": {
+              "x": 0,
+              "y": 10776,
+              "width": 768,
+              "height": 2007
+            },
+            "textLength": 1015,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-learn",
+            "label": "Learn",
+            "heading": "Learn for deeper decisions",
+            "sectionType": "resources",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "download-cover-grid",
+            "rect": {
+              "x": 0,
+              "y": 12782,
+              "width": 768,
+              "height": 848
+            },
+            "textLength": 616,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "cta",
+            "patternFamily": "cinematic-bleed",
+            "layoutVariation": "full-width-final-banner",
+            "rect": {
+              "x": 0,
+              "y": 13629,
+              "width": 768,
+              "height": 378
+            },
+            "textLength": 294,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "resources",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "article-stack",
+            "rect": {
+              "x": 0,
+              "y": 14006,
+              "width": 768,
+              "height": 249
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/results.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/results.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Results | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/results.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 13382
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Results by Legal",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "portrait-authority",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 917
+            },
+            "textLength": 774,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-outcomes",
+            "label": "Outcomes",
+            "heading": "Outcomes visitors can see",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "portfolio-outcome-cards",
+            "rect": {
+              "x": 0,
+              "y": 1027,
+              "width": 768,
+              "height": 1428
+            },
+            "textLength": 609,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-testimonials",
+            "label": "Testimonials",
+            "heading": "Testimonials visitors can see",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "stats-dashboard",
+            "rect": {
+              "x": 0,
+              "y": 2454,
+              "width": 768,
+              "height": 1425
+            },
+            "textLength": 625,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-summaries",
+            "label": "Summaries",
+            "heading": "Summaries visitors can see",
+            "sectionType": "results",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "case-study-preview-strip",
+            "rect": {
+              "x": 0,
+              "y": 3879,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 540,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-factors",
+            "label": "Factors",
+            "heading": "Factors visitors can see",
+            "sectionType": "results",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "transformation-grid",
+            "rect": {
+              "x": 0,
+              "y": 4542,
+              "width": 768,
+              "height": 1428
+            },
+            "textLength": 605,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-limits",
+            "label": "Limits",
+            "heading": "Limits visitors can see",
+            "sectionType": "results",
+            "patternFamily": "route-cards",
+            "layoutVariation": "review-result-cards",
+            "rect": {
+              "x": 0,
+              "y": 5969,
+              "width": 768,
+              "height": 1658
+            },
+            "textLength": 590,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-privacy",
+            "label": "Privacy",
+            "heading": "Privacy visitors can see",
+            "sectionType": "results",
+            "patternFamily": "collage-stack",
+            "layoutVariation": "before-after-proof",
+            "rect": {
+              "x": 0,
+              "y": 7627,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 605,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-proof",
+            "label": "Proof",
+            "heading": "Proof visitors can see",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "score-improvement-cards",
+            "rect": {
+              "x": 0,
+              "y": 9057,
+              "width": 768,
+              "height": 861
+            },
+            "textLength": 618,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-disclaimer",
+            "label": "Disclaimer",
+            "heading": "Disclaimer visitors can see",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "savings-cards",
+            "rect": {
+              "x": 0,
+              "y": 9917,
+              "width": 768,
+              "height": 848
+            },
+            "textLength": 617,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "results",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "impact-report-style",
+            "rect": {
+              "x": 0,
+              "y": 10765,
+              "width": 768,
+              "height": 920
+            },
+            "textLength": 812,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "results",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "evidence-table",
+            "rect": {
+              "x": 0,
+              "y": 11684,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/services.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/services.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Services | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/services.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 13305
+        },
+        "pageOverflow": false,
+        "sectionCount": 11,
+        "sections": [
+          {
+            "index": 1,
+            "id": "section-hero",
+            "label": "Hero",
+            "heading": "Services by Legal",
+            "sectionType": "hero",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "calm-trust-split",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 917
+            },
+            "textLength": 759,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 2,
+            "id": "section-areas",
+            "label": "Areas",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "patient-need-cards",
+            "rect": {
+              "x": 0,
+              "y": 1027,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 609,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 3,
+            "id": "section-legal",
+            "label": "Legal",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "dashboard-command",
+            "layoutVariation": "technical-service-matrix",
+            "rect": {
+              "x": 0,
+              "y": 2457,
+              "width": 768,
+              "height": 1425
+            },
+            "textLength": 609,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 4,
+            "id": "section-compliance",
+            "label": "Compliance",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "editorial-split",
+            "layoutVariation": "legal-practice-index",
+            "rect": {
+              "x": 0,
+              "y": 3882,
+              "width": 768,
+              "height": 663
+            },
+            "textLength": 566,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 5,
+            "id": "section-immigration",
+            "label": "Immigration",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "treatment-product-shelf",
+            "rect": {
+              "x": 0,
+              "y": 4545,
+              "width": 768,
+              "height": 1428
+            },
+            "textLength": 621,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 6,
+            "id": "section-advisory",
+            "label": "Advisory",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "timeline-rail",
+            "layoutVariation": "build-scope-lanes",
+            "rect": {
+              "x": 0,
+              "y": 5972,
+              "width": 768,
+              "height": 1658
+            },
+            "textLength": 594,
+            "imageCount": 3,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 7,
+            "id": "section-documents",
+            "label": "Documents",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "route-cards",
+            "layoutVariation": "advisory-pillar-cards",
+            "rect": {
+              "x": 0,
+              "y": 7630,
+              "width": 768,
+              "height": 1431
+            },
+            "textLength": 617,
+            "imageCount": 4,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 8,
+            "id": "section-representation",
+            "label": "Representation",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "map-console",
+            "layoutVariation": "logistics-lane-cards",
+            "rect": {
+              "x": 0,
+              "y": 9060,
+              "width": 768,
+              "height": 806
+            },
+            "textLength": 636,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 9,
+            "id": "section-scope",
+            "label": "Scope",
+            "heading": "Compare service routes",
+            "sectionType": "services",
+            "patternFamily": "bento-grid",
+            "layoutVariation": "course-service-catalogue",
+            "rect": {
+              "x": 0,
+              "y": 9866,
+              "width": 768,
+              "height": 822
+            },
+            "textLength": 609,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 10,
+            "id": "section-cta",
+            "label": "CTA",
+            "heading": "Book Consultation",
+            "sectionType": "services",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "concierge-service-list",
+            "rect": {
+              "x": 0,
+              "y": 10688,
+              "width": 768,
+              "height": 920
+            },
+            "textLength": 831,
+            "imageCount": 2,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          },
+          {
+            "index": 11,
+            "id": "",
+            "label": "Important notes",
+            "heading": "Important notes before you act",
+            "sectionType": "services",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "program-impact-cards",
+            "rect": {
+              "x": 0,
+              "y": 11607,
+              "width": 768,
+              "height": 204
+            },
+            "textLength": 149,
+            "imageCount": 0,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/sitemap.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/sitemap.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Sitemap Page | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/sitemap.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 2842
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Sitemap section 1",
+            "heading": "Sitemap Page",
+            "sectionType": "utility",
+            "patternFamily": "proof-ledger",
+            "layoutVariation": "document-preview",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 1238
+            },
+            "textLength": 554,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/terms.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/terms.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Terms of Use | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/terms.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 2456
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Terms section 1",
+            "heading": "Terms of Use",
+            "sectionType": "faq",
+            "patternFamily": "route-cards",
+            "layoutVariation": "faq-cards",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 852
+            },
+            "textLength": 598,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    },
+    {
+      "file": "demo-sites/11-legal/thanks.html",
+      "site": "11",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/thanks.html",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "audit": {
+        "title": "Thank You | Legal Static Site",
+        "url": "file:///home/ash/portfolio/demo-sites/11-legal/thanks.html",
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "documentSize": {
+          "width": 768,
+          "height": 2448
+        },
+        "pageOverflow": false,
+        "sectionCount": 1,
+        "sections": [
+          {
+            "index": 1,
+            "id": "",
+            "label": "Thanks section 1",
+            "heading": "Thank You",
+            "sectionType": "utility",
+            "patternFamily": "minimal-luxury",
+            "layoutVariation": "utility-state-panel",
+            "rect": {
+              "x": 0,
+              "y": 110,
+              "width": 768,
+              "height": 845
+            },
+            "textLength": 510,
+            "imageCount": 1,
+            "visibleSignaturePanels": 0,
+            "brokenImages": [],
+            "overflowing": [],
+            "issues": []
+          }
+        ]
+      }
+    }
+  ]
+}

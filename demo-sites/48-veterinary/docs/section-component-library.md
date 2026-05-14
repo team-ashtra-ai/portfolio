@@ -6,11 +6,6 @@ Static portfolio component pass for PawHealth. WordPress export remains optional
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | utility-state-panel | minimal-luxury | `veterinary-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | asset-inventory-grid | bento-grid | `veterinary-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | article-stack | editorial-split | `veterinary-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | document-preview | proof-ledger | `veterinary-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | gallery-strip | collage-stack | `veterinary-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | archive-filter | form-studio | `veterinary-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | case-study-grid | bento-grid | `veterinary-asset-system-asset-system-section-5-05` |
 | care.html | Hero | hero | calm-trust-split | editorial-split | `veterinary-care-hero-01` |
 | care.html | Prevention | editorial | benefit-image-split | collage-stack | `veterinary-care-prevention-02` |
 | care.html | Nutrition | editorial | article-stack | editorial-split | `veterinary-care-nutrition-03` |

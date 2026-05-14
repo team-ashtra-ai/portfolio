@@ -6,11 +6,6 @@ Static portfolio component pass for LineaMode. WordPress export remains optional
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `fashion-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `fashion-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | archive-filter | form-studio | `fashion-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | case-study-grid | bento-grid | `fashion-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | download-cover-grid | bento-grid | `fashion-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | resource-index | route-cards | `fashion-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | article-stack | editorial-split | `fashion-asset-system-asset-system-section-5-05` |
 | brand.html | Hero | hero | editorial-overscale | editorial-split | `fashion-brand-hero-01` |
 | brand.html | Story | editorial | article-stack | editorial-split | `fashion-brand-story-02` |
 | brand.html | Inspiration | editorial | editorial-problem-essay | editorial-split | `fashion-brand-inspiration-03` |

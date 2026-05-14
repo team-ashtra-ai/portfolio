@@ -6,11 +6,6 @@ Static portfolio component pass for CivicAccess. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `government-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `government-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | download-cover-grid | bento-grid | `government-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | resource-index | route-cards | `government-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | article-stack | editorial-split | `government-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | document-preview | proof-ledger | `government-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | gallery-strip | collage-stack | `government-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | map-location-hero | map-console | `government-contact-hero-01` |
 | contact.html | Phone | contact | upload-enquiry | form-studio | `government-contact-phone-02` |
 | contact.html | Email | contact | priority-contact | proof-ledger | `government-contact-email-03` |

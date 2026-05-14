@@ -6,11 +6,6 @@ Static portfolio component pass for HarborLine. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `maritime-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `maritime-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | article-stack | editorial-split | `maritime-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | document-preview | proof-ledger | `maritime-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | gallery-strip | collage-stack | `maritime-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | archive-filter | form-studio | `maritime-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | case-study-grid | bento-grid | `maritime-asset-system-asset-system-section-5-05` |
 | company.html | Hero | hero | portrait-authority | editorial-split | `maritime-company-hero-01` |
 | company.html | Experience | editorial | case-study-preview-strip | editorial-split | `maritime-company-experience-02` |
 | company.html | Crew | editorial | central-statement-pillars | editorial-split | `maritime-company-crew-03` |

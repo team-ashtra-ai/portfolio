@@ -6,11 +6,6 @@ Static portfolio component pass for ChainPilot. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `logistics-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `logistics-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | case-study-grid | bento-grid | `logistics-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | download-cover-grid | bento-grid | `logistics-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | resource-index | route-cards | `logistics-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | article-stack | editorial-split | `logistics-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | document-preview | proof-ledger | `logistics-asset-system-asset-system-section-5-05` |
 | company.html | Hero | hero | booking-focused-panel | form-studio | `logistics-company-hero-01` |
 | company.html | Fleet | services | logistics-lane-cards | map-console | `logistics-company-fleet-02` |
 | company.html | Hubs | editorial | editorial-problem-essay | editorial-split | `logistics-company-hubs-03` |

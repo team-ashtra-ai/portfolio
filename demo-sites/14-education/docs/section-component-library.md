@@ -6,11 +6,6 @@ Static portfolio component pass for BrightPath. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `education-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `education-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | document-preview | proof-ledger | `education-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | gallery-strip | collage-stack | `education-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | archive-filter | form-studio | `education-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | case-study-grid | bento-grid | `education-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | download-cover-grid | bento-grid | `education-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | collage-window | collage-stack | `education-contact-hero-01` |
 | contact.html | Trial | contact | multi-route-contact-cards | route-cards | `education-contact-trial-02` |
 | contact.html | Placement | contact | map-form-layout | map-console | `education-contact-placement-03` |

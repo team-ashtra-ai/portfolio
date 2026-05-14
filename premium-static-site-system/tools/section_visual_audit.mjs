@@ -21,9 +21,11 @@ for (let index = 2; index < process.argv.length; index += 1) {
 const onlySite = args.get("--site");
 const includeRootPages = args.get("--include-root") === "true";
 const limitPages = Number(args.get("--limit-pages") || 0);
+const offsetPages = Math.max(0, Number(args.get("--offset-pages") || 0));
 const screenshotMode = args.get("--screenshots") || "all"; // all, issues, false
 const browserBatchSize = Math.max(1, Math.min(12, Number(args.get("--batch-size") || 8)));
 const concurrency = Math.max(1, Math.min(6, Number(args.get("--concurrency") || 1)));
+const progressEvery = Math.max(1, Number(args.get("--progress-every") || 10));
 const viewport = {
   width: Number(args.get("--width") || 1440),
   height: Number(args.get("--height") || 960),
@@ -168,7 +170,10 @@ function sectionAuditDom() {
     const sectionType = section.getAttribute("data-section-type") || "";
     const label = section.getAttribute("data-section") || section.getAttribute("data-section-label") || h2;
     const textLength = (section.innerText || "").trim().length;
+    const sectionText = (section.innerText || "").trim().replace(/\s+/g, " ");
     const images = [...section.querySelectorAll("img")];
+    const visibleSignaturePanels = [...section.querySelectorAll(".signature-panel")].filter(visible).length;
+    const visiblePrimaryGrids = [...section.querySelectorAll(":scope > .section-grid")].filter(visible).length;
     const brokenImages = images
       .filter((img) => !img.complete || img.naturalWidth === 0 || img.naturalHeight === 0)
       .map((img) => img.getAttribute("src"))
@@ -188,7 +193,12 @@ function sectionAuditDom() {
     if (rect.height > 1800 && textLength < 180) issues.push("oversized-sparse-section");
     if (rect.height < 80 && textLength > 20) issues.push("compressed-section");
     if (rect.height > 220 && textLength < 24 && images.length === 0) issues.push("blank-or-hidden-section");
+    if (sectionType === "hero" && rect.height > innerHeight * 1.35) issues.push("oversized-hero");
     if (sectionType === "cta" && /^CTA$/i.test(h2)) issues.push("generic-cta-heading");
+    if (sectionType && sectionType !== "hero" && sectionType !== "homepage-atlas" && h2.trim().split(/\s+/).length <= 1) issues.push("weak-section-heading");
+    if (/Every route through/i.test(sectionText)) issues.push("generic-route-copy");
+    if (visibleSignaturePanels) issues.push("visible-repeated-signature-panel");
+    if (sectionType === "cta" && visiblePrimaryGrids && section.querySelector(".cta-panel")) issues.push("cta-has-competing-generic-grid");
     if (section.matches(".content-section") && !section.querySelector(".section-copy,.cta-panel,.form-panel,.resource-board,.faq-list")) {
       issues.push("missing-primary-content-block");
     }
@@ -208,6 +218,7 @@ function sectionAuditDom() {
       },
       textLength,
       imageCount: images.length,
+      visibleSignaturePanels,
       brokenImages,
       overflowing,
       issues,
@@ -457,7 +468,7 @@ async function main() {
     .filter((file) => includeRootPages || siteNumberFor(file))
     .filter((file) => !onlySite || siteNumberFor(file) === String(onlySite).padStart(2, "0"))
     .sort((a, b) => path.relative(ROOT, a).localeCompare(path.relative(ROOT, b)));
-  const files = limitPages > 0 ? allFiles.slice(0, limitPages) : allFiles;
+  const files = limitPages > 0 ? allFiles.slice(offsetPages, offsetPages + limitPages) : allFiles.slice(offsetPages);
   const stamp = new Date().toISOString().replace(/[:.]/g, "-");
   const outDir = path.join(REPORT_ROOT, stamp);
   await fs.mkdir(outDir, { recursive: true });
@@ -480,7 +491,7 @@ async function main() {
         results[index] = await auditFile(browser.client, files[index], outDir);
         browserUses += 1;
         completed += 1;
-        if (completed % 10 === 0 || completed === files.length) {
+        if (completed % progressEvery === 0 || completed === files.length) {
           const sections = results.reduce((sum, record) => sum + (record?.audit?.sections?.length || 0), 0);
           console.log(`Audited ${completed}/${files.length} pages, ${sections} sections`);
         }
@@ -509,6 +520,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     viewport,
     screenshotMode,
+    offsetPages,
     totalPages: results.length,
     totalSections,
     sectionsCaptured,

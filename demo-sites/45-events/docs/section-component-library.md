@@ -6,11 +6,6 @@ Static portfolio component pass for VowVenue. WordPress export remains optional,
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `events-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `events-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | case-study-grid | bento-grid | `events-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | download-cover-grid | bento-grid | `events-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | resource-index | route-cards | `events-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | article-stack | editorial-split | `events-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | document-preview | proof-ledger | `events-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | product-stage | bento-grid | `events-contact-hero-01` |
 | contact.html | Date | contact | department-routing | dashboard-command | `events-contact-date-02` |
 | contact.html | Location | contact | upload-enquiry | form-studio | `events-contact-location-03` |

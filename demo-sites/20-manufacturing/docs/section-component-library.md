@@ -6,11 +6,6 @@ Static portfolio component pass for LineWorks. WordPress export remains optional
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | utility-state-panel | minimal-luxury | `manufacturing-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | asset-inventory-grid | bento-grid | `manufacturing-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | article-stack | editorial-split | `manufacturing-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | document-preview | proof-ledger | `manufacturing-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | gallery-strip | collage-stack | `manufacturing-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | archive-filter | form-studio | `manufacturing-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | case-study-grid | bento-grid | `manufacturing-asset-system-asset-system-section-5-05` |
 | capabilities.html | Hero | hero | map-location-hero | map-console | `manufacturing-capabilities-hero-01` |
 | capabilities.html | Capabilities section 2 | editorial | editorial-problem-essay | editorial-split | `manufacturing-capabilities-capabilities-section-2-02` |
 | capabilities.html | Capabilities section 3 | editorial | authority-quote | editorial-split | `manufacturing-capabilities-capabilities-section-3-03` |

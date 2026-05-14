@@ -664,6 +664,6 @@ Site image system: Author portraits, books, essays, podcast and speaking panels.
 | partial card | assets/images/cards/personal-brand-home-01-resources-card-2.svg | Generated locally by premium-static-site-system/tools/build_demo_sites.py | Original ASH-TRA generated asset; no external image licence; no copied inspiration-site asset | source partial resources card 2 | replaced/local/documented |
 | partial card | assets/images/cards/personal-brand-home-01-resources-card-3.svg | Generated locally by premium-static-site-system/tools/build_demo_sites.py | Original ASH-TRA generated asset; no external image licence; no copied inspiration-site asset | source partial resources card 3 | replaced/local/documented |
 
-## Static Asset System Page
+## Asset Handoff Documentation
 
-`asset-system.html` displays local assets for brand, logo, favicon, images, video posters, icons, illustrations, typography, CSS, JavaScript, animation, SEO, Open Graph, social sharing, header, footer, form, analytics, cookie, accessibility, multilingual, blog, service, industry, case study, downloadable, legal, and trust/proof categories. Files live under this site's own `assets/` tree and are linked from the site navigation.
+The public site no longer exposes an asset-system HTML route. Asset inventories remain in the docs folder and local asset tree for QA and handoff; public navigation uses only the 10 core pages and 7 universal utility pages.

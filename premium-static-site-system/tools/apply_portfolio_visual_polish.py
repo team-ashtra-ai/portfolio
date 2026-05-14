@@ -153,6 +153,27 @@ def compact_industry(config: dict[str, object]) -> str:
     return first or industry
 
 
+def industry_context(config: dict[str, object]) -> str:
+    value = compact_industry(config)
+    singular = {
+        "restaurants": "restaurant",
+        "interiors": "interior",
+        "utilities": "utility",
+        "life sciences": "life sciences",
+        "data analytics": "data analytics",
+        "logistics": "logistics",
+        "sports": "sports",
+        "events": "event",
+    }
+    if value in singular:
+        return singular[value]
+    if value.endswith("ies"):
+        return value[:-3] + "y"
+    if value.endswith("s") and value not in {"business", "wellness"}:
+        return value[:-1]
+    return value
+
+
 def full_industry(config: dict[str, object]) -> str:
     return str(config.get("industry", "visitors")).lower()
 
@@ -183,6 +204,16 @@ def decision_phrase(config: dict[str, object]) -> str:
     if cta.startswith(("book", "request", "schedule", "join", "start", "browse", "shop", "donate", "buy")):
         return cta
     return f"choose whether to {cta}"
+
+
+def cta_heading(config: dict[str, object]) -> str:
+    cta = str(config.get("cta", "Next Step")).strip() or "Next Step"
+    if len(cta.split()) > 1:
+        return cta
+    single_word = {
+        "subscribe": "Subscribe to the briefing",
+    }
+    return single_word.get(cta.lower(), f"{cta} when ready")
 
 
 def lead_copy(
@@ -275,6 +306,70 @@ def body_copy(
     if section_type == "faq":
         return f"Answers are short by design: enough to remove hesitation, not so much that the page turns into documentation before the visitor can act."
     return f"{brand} uses {card_style} and focused copy to make the decision easier to scan, aligning the section with {driver} rather than filling space."
+
+
+def display_heading(
+    brand: str,
+    config: dict[str, object],
+    page: str,
+    section: str,
+    section_type: str,
+) -> str:
+    label = human(section)
+    lower = label.lower()
+    action = decision_phrase(config)
+    industry = industry_context(config)
+    if section == "Hero":
+        return label
+    if lower == "notes":
+        return f"Important context for {page.lower()}"
+    if section_type == "cta" or section == "CTA":
+        return cta_heading(config)
+    if section_type == "contact":
+        return "Send the right details"
+    if section_type == "pricing":
+        return "Compare scope and terms"
+    if section_type == "process":
+        if lower in {"process", "pathway", "method", "journey", "timeline"}:
+            return f"How the {lower} works"
+        return f"How the {lower} path works"
+    if section_type == "resources":
+        return f"{label} for deeper decisions"
+    if section_type == "profiles":
+        return f"Who handles {lower}"
+    if section_type == "reviews":
+        return f"Stories behind {lower}"
+    if section_type == "utility":
+        return f"{label} without dead ends"
+    if section_type == "services":
+        return "Compare service routes"
+    if section_type == "trust":
+        if lower in {"evidence", "proof", "trust", "credentials", "standards"}:
+            return f"{label}, not claims"
+        return f"{label} as proof"
+    if section_type == "results":
+        return f"{label} visitors can see"
+    if section_type == "problem":
+        return f"{label}: what to solve"
+    if section_type == "solution":
+        return f"{label}: the better state"
+    if section_type == "faq":
+        return f"Questions before you {action}"
+    if page == "Home":
+        mode = str(config.get("themeMode", "professional"))
+        home_suffix = {
+            "care": "in the care path",
+            "technical": "in the system map",
+            "dark": "with focused tension",
+            "editorial": "with editorial intent",
+            "luxury": "with private restraint",
+            "commerce": "shoppers can compare",
+            "hospitality": "guests can picture",
+            "civic": "people can act on",
+            "professional": "that guides the brief",
+        }.get(mode, f"in {industry} context")
+        return f"{label} {home_suffix}"
+    return f"{label} inside {page.lower()}"
 
 
 def card_set(
@@ -390,6 +485,16 @@ def replace_lead_and_body(block: str, lead: str, body: str) -> str:
         flags=re.S,
     )
     return block
+
+
+def replace_section_heading(block: str, heading: str) -> str:
+    return re.sub(
+        r'(<div class="section-copy">\s*(?:<img\b[^>]*>\s*)?<p class="eyebrow">.*?</p>\s*<h2>).*?(</h2>)',
+        rf"\1{esc(heading)}\2",
+        block,
+        count=1,
+        flags=re.S,
+    )
 
 
 def replace_generic_cards(block: str, cards: list[tuple[str, str]]) -> str:
@@ -597,6 +702,12 @@ def transform_section(
     section_type = type_match.group(1) if type_match else "editorial"
     if section == "CTA":
         block = block.replace("<h2>CTA</h2>", f"<h2>{esc(config.get('cta', 'Next Step'))}</h2>")
+    heading = display_heading(brand, config, page, section, section_type)
+    block = replace_section_heading(block, heading)
+    if section_type == "cta" or section == "CTA":
+        cta = esc(str(config.get("cta", "Next Step")))
+        if cta and heading != cta:
+            block = re.sub(rf"<h2>{re.escape(cta)}</h2>", f"<h2>{esc(heading)}</h2>", block)
     lead = lead_copy(brand, config, page, section, section_type)
     body = body_copy(brand, config, page, section, section_type)
     block = replace_lead_and_body(block, lead, body)
@@ -616,6 +727,13 @@ def update_html_page(path: Path, config: dict[str, object]) -> None:
         return transform_section(match.group(0), brand, config, page)
 
     text = re.sub(r"<section\b[^>]*data-section=\"[^\"]+\"[^>]*>.*?</section>", section_replace, text, flags=re.S)
+    text = re.sub(
+        r'(<section\b[^>]*\bdisclaimer\b[^>]*>.*?<h2>)Notes(</h2>)',
+        r"\1Important notes before you act\2",
+        text,
+        count=1,
+        flags=re.S,
+    )
     path.write_text(text, encoding="utf-8")
 
 
@@ -640,14 +758,19 @@ def visual_polish_css(slug: str) -> str:
 {selector} .whatsapp-widget{{max-width:calc(100vw - 1.5rem)}}
 {selector} .whatsapp-button{{max-width:100%;min-width:0}}
 @media (max-width:1180px){{{selector} .card-grid,{selector} .pricing-grid,{selector} .resource-board{{grid-template-columns:repeat(2,minmax(0,1fr))}}}}
-@media (max-width:760px){{{selector} .hero-grid,{selector} .section-grid,{selector} .form-panel,{selector} .cta-panel,{selector} .visual-card-stack,{selector} .dashboard-panel,{selector} .pricing-grid,{selector} .resource-board{{grid-template-columns:minmax(0,1fr)!important}}{selector} .card-grid{{grid-template-columns:minmax(0,1fr)!important;display:grid!important;overflow:visible!important}}{selector} .hero-copy,{selector} .section-copy{{width:100%!important;max-width:100%!important}}{selector} .button-row,{selector} .hero-atlas-links,{selector} .hero-proof{{max-width:100%}}{selector} .button-row>a,{selector} .hero-atlas-links>a{{flex:1 1 min(150px,100%)}}}}
+@media (max-width:760px){{{selector} .hero-grid,{selector} .section-grid,{selector} .form-panel,{selector} .cta-panel,{selector} .visual-card-stack,{selector} .dashboard-panel,{selector} .pricing-grid,{selector} .resource-board{{grid-template-columns:minmax(0,1fr)!important}}{selector} .card-grid{{grid-template-columns:minmax(0,1fr)!important;display:grid!important;overflow:visible!important}}{selector} .hero-copy,{selector} .section-copy{{width:100%!important;max-width:100%!important}}{selector} .button-row,{selector} .hero-flow-links,{selector} .hero-proof{{max-width:100%}}{selector} .button-row>a,{selector} .hero-flow-links>a{{flex:1 1 min(150px,100%)}}}}
 """.strip()
 
 
 def update_css(site_root: Path, slug: str) -> None:
     path = site_root / "css" / "styles.css"
     text = path.read_text(encoding="utf-8")
-    text = re.sub(r"\n?/\* Portfolio Visual QA Pass - 2026-05-12:.*", "", text, flags=re.S)
+    text = re.sub(
+        r"\n*/\* Portfolio Visual QA Pass - 2026-05-12:.*?(?=\n/\* Portfolio Design Refactor Pass - 2026-05-13:|\Z)",
+        "",
+        text,
+        flags=re.S,
+    )
     path.write_text(text.rstrip() + "\n\n" + visual_polish_css(slug) + "\n", encoding="utf-8")
 
 
@@ -657,6 +780,7 @@ def pack_note(config: dict[str, object]) -> str:
 ## Portfolio Visual QA Pass - 2026-05-12
 
 - Section copy was tightened so reusable blocks explain `{config['siteName']}` with clearer role, proof, fit, and next-step language instead of repeated placeholder patterns.
+- One-word section headings were rewritten into decision-focused labels so each page scans like a designed journey rather than a content matrix.
 - Generic card labels were replaced with section-purpose labels across services, trust, results, editorial, FAQ, and CTA blocks.
 - CSS now keeps screenshot and no-JS states visible, disables problematic `content-visibility` reservations for portfolio review, prevents horizontal overflow, and avoids awkward mid-word breaks.
 - The pass preserves each site's existing inspiration pack, local assets, component families, section rhythm, and cross-site identity while improving presentation quality across all pages.
@@ -679,7 +803,7 @@ def master_note() -> str:
 
 ## Portfolio Visual QA Pass - 2026-05-12
 
-The 50-site portfolio received a section-level visual QA polish pass across all numbered site pages. The update improves screenshot readiness, visible reusable section states, responsive wrapping, repeated card copy, CTA labeling, and section-specific narrative clarity without changing the approved inspiration reference mix or reducing cross-site diversity.
+The 50-site portfolio received a section-level visual QA polish pass across all numbered site pages. The update improves screenshot readiness, visible reusable section states, responsive wrapping, repeated card copy, CTA labeling, section heading hierarchy, and section-specific narrative clarity without changing the approved inspiration reference mix or reducing cross-site diversity.
 """.rstrip()
 
 

@@ -6,11 +6,6 @@ Static portfolio component pass for RideSure. WordPress export remains optional,
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `transport-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `transport-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | archive-filter | form-studio | `transport-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | case-study-grid | bento-grid | `transport-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | download-cover-grid | bento-grid | `transport-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | resource-index | route-cards | `transport-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | article-stack | editorial-split | `transport-asset-system-asset-system-section-5-05` |
 | booking.html | Hero | hero | search-led-hero | map-console | `transport-booking-hero-01` |
 | booking.html | Pickup | contact | office-location-cards | map-console | `transport-booking-pickup-02` |
 | booking.html | Destination | contact | form-contact-split | form-studio | `transport-booking-destination-03` |

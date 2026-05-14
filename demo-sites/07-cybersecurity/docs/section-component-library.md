@@ -6,11 +6,6 @@ Static portfolio component pass for CipherWard. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `cybersecurity-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `cybersecurity-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | document-preview | proof-ledger | `cybersecurity-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | gallery-strip | collage-stack | `cybersecurity-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | archive-filter | form-studio | `cybersecurity-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | case-study-grid | bento-grid | `cybersecurity-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | download-cover-grid | bento-grid | `cybersecurity-asset-system-asset-system-section-5-05` |
 | compliance.html | Hero | hero | map-location-hero | map-console | `cybersecurity-compliance-hero-01` |
 | compliance.html | Regulation | trust | partner-strip-safe | minimal-luxury | `cybersecurity-compliance-regulation-02` |
 | compliance.html | GDPR | trust | compliance-grid | dashboard-command | `cybersecurity-compliance-gdpr-03` |

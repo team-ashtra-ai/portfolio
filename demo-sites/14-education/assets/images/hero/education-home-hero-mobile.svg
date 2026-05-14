@@ -1,19 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960" role="img" aria-labelledby="title desc">
-  <title id="title">BrightPath Home</title>
-  <desc id="desc">Mobile crop</desc>
-  <rect width="720" height="960" rx="44" fill="#050505"/>
-  <path d="M0 154 H720 M0 480 H720 M0 806 H720" stroke="#ffffff" stroke-width="1.2" opacity=".11"/>
-  <path d="M130 0 V960 M360 0 V960 M590 0 V960" stroke="#ffffff" stroke-width="1.2" opacity=".09"/>
-  <circle cx="573" cy="122" r="130" fill="#d71920" opacity=".15"/>
-  <circle cx="148" cy="865" r="102" fill="#b28b55" opacity=".16"/>
-  <rect x="60" y="64" width="600" height="832" rx="12" fill="#323232" opacity=".64"/>
-  <rect x="92" y="96" width="160" height="184" rx="18" fill="#323232" stroke="#ffffff" opacity=".92"/>
-  <rect x="290" y="96" width="160" height="184" rx="0" fill="#d71920" stroke="#ffffff" opacity=".92"/>
-  <rect x="488" y="96" width="160" height="184" rx="18" fill="#b28b55" stroke="#ffffff" opacity=".92"/>
-  <rect x="686" y="96" width="160" height="184" rx="0" fill="#e6e6e6" stroke="#ffffff" opacity=".92"/>
-  <rect x="92" y="316" width="160" height="184" rx="18" fill="#323232" stroke="#ffffff" opacity=".92"/>
-  <rect x="290" y="316" width="160" height="184" rx="0" fill="#d71920" stroke="#ffffff" opacity=".92"/>
-  <rect x="488" y="316" width="160" height="184" rx="18" fill="#b28b55" stroke="#ffffff" opacity=".92"/>
-  <rect x="686" y="316" width="160" height="184" rx="0" fill="#e6e6e6" stroke="#ffffff" opacity=".92"/>
-  <path d="M92 878 H628" stroke="#d71920" stroke-width="10" opacity=".72"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1120" viewBox="0 0 900 1120" role="img" aria-labelledby="title desc">
+<title id="title">Bright hero visual</title>
+<desc id="desc">Education themed clinical calm artwork with no visible text.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#8e8e8e"/>
+    <stop offset=".48" stop-color="#050505"/>
+    <stop offset="1" stop-color="#323232"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#d71920"/>
+    <stop offset="1" stop-color="#c94434"/>
+  </linearGradient>
+  <pattern id="grain" width="49" height="49" patternUnits="userSpaceOnUse">
+    <path d="M0 24 H49" stroke="#ffffff" stroke-width="1" opacity=".06"/>
+    <path d="M24 0 V49" stroke="#ffffff" stroke-width="1" opacity=".045"/>
+  </pattern>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="24" stdDeviation="14" flood-color="#a6a6a6" flood-opacity=".22"/>
+  </filter>
+  <clipPath id="frame">
+    <rect x="15" y="18" width="870" height="1083" rx="75"/>
+  </clipPath>
+</defs>
+<rect width="900" height="1120" fill="url(#bg)"/>
+<rect width="900" height="1120" fill="url(#grain)"/>
+<g clip-path="url(#frame)">
+  <path d="M-108 202 L522 -134 L1026 426 L288 1030 Z" fill="url(#accent)" opacity=".18"/>
+  <path d="M648 -90 C486 224,756 470,549 806 C702 963,972 851,1062 493 L1062 -90 Z" fill="#ffffff" opacity=".36"/>
+
+  <path d="M-24 851 C 162 582, 333 1030, 522 694 S 792 380, 980 604" fill="none" stroke="#d71920" stroke-width="25" opacity=".38"/>
+  <path d="M72 201 C 252 44, 378 201, 522 89 S 792 22, 864 246" fill="none" stroke="#ffffff" stroke-width="12" opacity=".16"/>
+
+  <g filter="url(#softShadow)" transform="translate(108 156)">
+    <rect width="324" height="649" rx="38" fill="#ffffff" opacity=".92"/>
+    <path d="M54 481 C 117 246, 225 246, 279 481" fill="none" stroke="#d71920" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="162" cy="257" r="67" fill="#e15258" opacity=".76"/>
+  </g>
+  <g transform="translate(504 201) rotate(4)" filter="url(#softShadow)">
+    <rect width="252" height="537" rx="30" fill="#fceded"/>
+    <path d="M36 380 C 99 257, 171 470, 225 336" fill="none" stroke="#ffffff" stroke-width="10" opacity=".25" stroke-linecap="round"/>
+  </g>
+
+  <path d="M54 986 C216 874,342 1075,504 941 S792 806,882 963" fill="none" stroke="#ffffff" stroke-width="6" opacity=".12"/>
+</g>
 </svg>

@@ -6,11 +6,6 @@ Static portfolio component pass for TerraMetric. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | utility-state-panel | minimal-luxury | `environmental-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | asset-inventory-grid | bento-grid | `environmental-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | case-study-grid | bento-grid | `environmental-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | download-cover-grid | bento-grid | `environmental-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | resource-index | route-cards | `environmental-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | article-stack | editorial-split | `environmental-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | document-preview | proof-ledger | `environmental-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | editorial-overscale | editorial-split | `environmental-contact-hero-01` |
 | contact.html | Contact section 2 | contact | map-form-layout | map-console | `environmental-contact-contact-section-2-02` |
 | contact.html | Contact section 3 | contact | booking-panel | form-studio | `environmental-contact-contact-section-3-03` |

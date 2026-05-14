@@ -6,11 +6,6 @@ Static portfolio component pass for LedgerFlow. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | utility-state-panel | minimal-luxury | `accounting-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | asset-inventory-grid | bento-grid | `accounting-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | resource-index | route-cards | `accounting-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | article-stack | editorial-split | `accounting-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | document-preview | proof-ledger | `accounting-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | gallery-strip | collage-stack | `accounting-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | archive-filter | form-studio | `accounting-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | dashboard-command | dashboard-command | `accounting-contact-hero-01` |
 | contact.html | Contact section 2 | contact | office-location-cards | map-console | `accounting-contact-contact-section-2-02` |
 | contact.html | Contact section 3 | contact | form-contact-split | form-studio | `accounting-contact-contact-section-3-03` |

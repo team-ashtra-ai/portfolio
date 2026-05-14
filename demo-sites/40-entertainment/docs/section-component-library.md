@@ -17,11 +17,6 @@ Static portfolio component pass for StageCurrent. WordPress export remains optio
 | artists.html | Discover | editorial | case-study-preview-strip | editorial-split | `entertainment-artists-discover-09` |
 | artists.html | CTA | cta | final-reassurance | editorial-split | `entertainment-artists-cta-10` |
 | artists.html | Important notes | editorial | benefit-image-split | collage-stack | `entertainment-artists-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | article-stack | editorial-split | `entertainment-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | document-preview | proof-ledger | `entertainment-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | gallery-strip | collage-stack | `entertainment-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | archive-filter | form-studio | `entertainment-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | case-study-grid | bento-grid | `entertainment-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | video-poster-stage | cinematic-bleed | `entertainment-contact-hero-01` |
 | contact.html | Booking | contact | multi-route-contact-cards | route-cards | `entertainment-contact-booking-02` |
 | contact.html | Press | contact | map-form-layout | map-console | `entertainment-contact-press-03` |

@@ -17,11 +17,6 @@ Static portfolio component pass for Fieldwise. WordPress export remains optional
 | advice.html | Support | services | logistics-lane-cards | map-console | `agriculture-advice-support-09` |
 | advice.html | CTA | cta | split-cta-image | collage-stack | `agriculture-advice-cta-10` |
 | advice.html | Important notes | editorial | authority-quote | editorial-split | `agriculture-advice-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | resource-index | route-cards | `agriculture-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | article-stack | editorial-split | `agriculture-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | document-preview | proof-ledger | `agriculture-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | gallery-strip | collage-stack | `agriculture-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | archive-filter | form-studio | `agriculture-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | luxury-minimal | minimal-luxury | `agriculture-contact-hero-01` |
 | contact.html | Visit | contact | whatsapp-first | minimal-luxury | `agriculture-contact-visit-02` |
 | contact.html | Order | contact | department-routing | dashboard-command | `agriculture-contact-order-03` |

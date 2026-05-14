@@ -17,11 +17,6 @@ Static portfolio component pass for StayHaven. WordPress export remains optional
 | amenities.html | Details | editorial | case-study-preview-strip | editorial-split | `hotel-amenities-details-09` |
 | amenities.html | CTA | cta | cta-with-trust | proof-ledger | `hotel-amenities-cta-10` |
 | amenities.html | Important notes | editorial | benefit-image-split | collage-stack | `hotel-amenities-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | gallery-strip | collage-stack | `hotel-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | archive-filter | form-studio | `hotel-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | case-study-grid | bento-grid | `hotel-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | download-cover-grid | bento-grid | `hotel-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | resource-index | route-cards | `hotel-asset-system-asset-system-section-5-05` |
 | booking.html | Hero | hero | data-stat-hero | proof-ledger | `hotel-booking-hero-01` |
 | booking.html | Dates | contact | priority-contact | proof-ledger | `hotel-booking-dates-02` |
 | booking.html | Guests | contact | office-location-cards | map-console | `hotel-booking-guests-03` |

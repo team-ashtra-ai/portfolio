@@ -1,11 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
-<title id="title">SignalNorth Image assets</title><desc id="desc">Original local image asset for the SignalNorth static portfolio site.</desc>
-<rect width="960" height="640" fill="#050505"/>
-<path d="M0 126 C180 76 300 266 480 186 S780 86 960 166" fill="none" stroke="#ffffff" stroke-width="18" opacity=".86"/>
-<path d="M80 520 H880" stroke="#f5f5f5" stroke-width="2" opacity=".22"/><path d="M120 88 H840 M120 148 H640 M120 208 H760" stroke="#f5f5f5" stroke-width="10" opacity=".16"/>
-<g transform="translate(90 280)"><rect width="330" height="210" rx="6" fill="#fff" opacity=".86" stroke="#ffffff" stroke-width="3"/><circle cx="66" cy="68" r="28" fill="#8b949e"/><circle cx="138" cy="68" r="28" fill="#b8c7d9"/><circle cx="210" cy="68" r="28" fill="#ffffff"/><path d="M52 145 H278 M52 176 H218" stroke="#f5f5f5" stroke-width="12" opacity=".38"/></g>
-<g transform="translate(500 252)"><rect width="320" height="250" rx="0" fill="#f5f5f5" opacity=".92"/><path d="M40 182 L104 126 L160 156 L224 72 L284 116" fill="none" stroke="#8b949e" stroke-width="12" stroke-linejoin="round"/><path d="M40 62 H280 M40 102 H180 M40 218 H250" stroke="#fff" stroke-width="8" opacity=".28"/></g>
-<text x="90" y="92" font-family="Inter,Arial,sans-serif" font-size="32" font-weight="800" fill="#f5f5f5">Image assets</text>
-<text x="90" y="130" font-family="Inter,Arial,sans-serif" font-size="18" fill="#f5f5f5" opacity=".72">SignalNorth / image / local asset</text>
-<text x="820" y="600" font-family="monospace" font-size="18" fill="#ffffff" opacity=".86">06</text>
+<title id="title">Signal hero visual</title>
+<desc id="desc">Telecommunications themed executive decision artwork with no visible text.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#8e8e8e"/>
+    <stop offset=".48" stop-color="#050505"/>
+    <stop offset="1" stop-color="#323232"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8b949e"/>
+    <stop offset="1" stop-color="#9ca7b4"/>
+  </linearGradient>
+  <pattern id="grain" width="37" height="37" patternUnits="userSpaceOnUse">
+    <path d="M0 18 H37" stroke="#ffffff" stroke-width="1" opacity=".06"/>
+    <path d="M18 0 V37" stroke="#ffffff" stroke-width="1" opacity=".045"/>
+  </pattern>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="13" stdDeviation="14" flood-color="#a6a6a6" flood-opacity=".22"/>
+  </filter>
+  <clipPath id="frame">
+    <rect x="16" y="14" width="928" height="612" rx="53"/>
+  </clipPath>
+</defs>
+<rect width="960" height="640" fill="url(#bg)"/>
+<rect width="960" height="640" fill="url(#grain)"/>
+<g clip-path="url(#frame)">
+  <path d="M-115 115 L557 -77 L1094 243 L307 589 Z" fill="url(#accent)" opacity=".18"/>
+  <path d="M691 -51 C518 128,806 269,586 461 C749 550,1037 486,1133 282 L1133 -51 Z" fill="#ffffff" opacity=".36"/>
+
+  <path d="M-80 486 C 172 332, 355 588, 556 396 S 844 217, 1040 345" fill="none" stroke="#8b949e" stroke-width="26" opacity=".38"/>
+  <path d="M76 115 C 268 25, 403 115, 556 51 S 844 12, 921 140" fill="none" stroke="#ffffff" stroke-width="13" opacity=".16"/>
+
+  <g filter="url(#softShadow)" transform="translate(105 108)">
+    <rect width="633" height="307" rx="30" fill="#ffffff" opacity=".9"/>
+    <path d="M57 217 L172 121 L307 179 L460 83 L566 153" fill="none" stroke="#8b949e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="57" y="256" width="172" height="25" rx="8" fill="#ffffff" opacity=".18"/>
+    <rect x="288" y="256" width="230" height="25" rx="8" fill="#ffffff" opacity=".12"/>
+  </g>
+
+  <path d="M58 563 C230 499,365 614,538 538 S845 461,941 550" fill="none" stroke="#ffffff" stroke-width="6" opacity=".12"/>
+</g>
 </svg>

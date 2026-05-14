@@ -103,6 +103,6 @@
 | Contact | Map | assets/images/sections/wellness-contact-09-map-1.svg | assets/icons/sections/wellness-contact-09-map.svg | assets/images/cards/wellness-contact-09-map-card-1.svg | icon or texture detail following Supplement commerce with warm yellow, navy copy, pill buttons, and routine shelves | local SVG, lazy-loaded unless hero/utility first view | source/licence recorded in asset-inventory and asset-licenses |
 | Contact | CTA | assets/images/sections/wellness-contact-10-cta-1.svg | assets/icons/sections/wellness-contact-10-cta.svg | assets/images/cards/wellness-contact-10-cta-card-1.svg | icon or texture detail following Supplement commerce with warm yellow, navy copy, pill buttons, and routine shelves | local SVG, lazy-loaded unless hero/utility first view | source/licence recorded in asset-inventory and asset-licenses |
 
-## Static Asset System Page
+## Asset Handoff Documentation
 
-`asset-system.html` displays local assets for brand, logo, favicon, images, video posters, icons, illustrations, typography, CSS, JavaScript, animation, SEO, Open Graph, social sharing, header, footer, form, analytics, cookie, accessibility, multilingual, blog, service, industry, case study, downloadable, legal, and trust/proof categories. Files live under this site's own `assets/` tree and are linked from the site navigation.
+The public site no longer exposes an asset-system HTML route. Asset inventories remain in the docs folder and local asset tree for QA and handoff; public navigation uses only the 10 core pages and 7 universal utility pages.

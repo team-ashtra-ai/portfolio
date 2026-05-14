@@ -1,19 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="720" viewBox="0 0 900 720" role="img" aria-labelledby="title desc">
-  <title id="title">TalentBridge Home</title>
-  <desc id="desc">Tablet crop</desc>
-  <rect width="900" height="720" rx="44" fill="#ffe45e"/>
-  <path d="M0 115 H900 M0 360 H900 M0 605 H900" stroke="#111111" stroke-width="1.2" opacity=".11"/>
-  <path d="M162 0 V720 M450 0 V720 M738 0 V720" stroke="#111111" stroke-width="1.2" opacity=".09"/>
-  <circle cx="767" cy="114" r="120" fill="#ff6a3d" opacity=".15"/>
-  <circle cx="137" cy="625" r="96" fill="#1f6feb" opacity=".16"/>
-  <rect x="60" y="64" width="780" height="592" rx="12" fill="#242217" opacity=".64"/>
-  <rect x="92" y="96" width="160" height="184" rx="18" fill="#242217" stroke="#111111" opacity=".92"/>
-  <rect x="290" y="96" width="160" height="184" rx="0" fill="#ff6a3d" stroke="#111111" opacity=".92"/>
-  <rect x="488" y="96" width="160" height="184" rx="18" fill="#1f6feb" stroke="#111111" opacity=".92"/>
-  <rect x="686" y="96" width="160" height="184" rx="0" fill="#ffe97b" stroke="#111111" opacity=".92"/>
-  <rect x="92" y="316" width="160" height="184" rx="18" fill="#242217" stroke="#111111" opacity=".92"/>
-  <rect x="290" y="316" width="160" height="184" rx="0" fill="#ff6a3d" stroke="#111111" opacity=".92"/>
-  <rect x="488" y="316" width="160" height="184" rx="18" fill="#1f6feb" stroke="#111111" opacity=".92"/>
-  <rect x="686" y="316" width="160" height="184" rx="0" fill="#ffe97b" stroke="#111111" opacity=".92"/>
-  <path d="M92 638 H808" stroke="#ff6a3d" stroke-width="10" opacity=".72"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="760" viewBox="0 0 960 760" role="img" aria-labelledby="title desc">
+<title id="title">Talent hero visual</title>
+<desc id="desc">Recruitment themed executive decision artwork with no visible text.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff3b7"/>
+    <stop offset=".48" stop-color="#ffe45e"/>
+    <stop offset="1" stop-color="#d4be50"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ff6a3d"/>
+    <stop offset="1" stop-color="#aa6c7f"/>
+  </linearGradient>
+  <pattern id="grain" width="43" height="43" patternUnits="userSpaceOnUse">
+    <path d="M0 21 H43" stroke="#111111" stroke-width="1" opacity=".06"/>
+    <path d="M21 0 V43" stroke="#111111" stroke-width="1" opacity=".045"/>
+  </pattern>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#0b0b0b" flood-opacity=".22"/>
+  </filter>
+  <clipPath id="frame">
+    <rect x="16" y="14" width="928" height="732" rx="63"/>
+  </clipPath>
+</defs>
+<rect width="960" height="760" fill="url(#bg)"/>
+<rect width="960" height="760" fill="url(#grain)"/>
+<g clip-path="url(#frame)">
+  <path d="M-115 137 L557 -91 L1094 289 L307 699 Z" fill="url(#accent)" opacity=".18"/>
+  <path d="M691 -61 C518 152,806 319,586 547 C749 654,1037 578,1133 334 L1133 -61 Z" fill="#ffffff" opacity=".36"/>
+
+  <path d="M-59 577 C 172 395, 355 699, 556 471 S 844 258, 1040 410" fill="none" stroke="#ff6a3d" stroke-width="26" opacity=".38"/>
+  <path d="M76 136 C 268 30, 403 136, 556 60 S 844 15, 921 167" fill="none" stroke="#111111" stroke-width="13" opacity=".16"/>
+
+  <g filter="url(#softShadow)" transform="translate(105 129)">
+    <rect width="633" height="364" rx="30" fill="#ffffff" opacity=".9"/>
+    <path d="M57 258 L172 144 L307 212 L460 98 L566 182" fill="none" stroke="#ff6a3d" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="57" y="304" width="172" height="30" rx="8" fill="#111111" opacity=".18"/>
+    <rect x="288" y="304" width="230" height="30" rx="8" fill="#111111" opacity=".12"/>
+  </g>
+
+  <path d="M58 669 C230 593,365 730,538 638 S845 547,941 654" fill="none" stroke="#111111" stroke-width="6" opacity=".12"/>
+</g>
 </svg>

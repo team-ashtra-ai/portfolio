@@ -17,11 +17,6 @@ Static portfolio component pass for MarketPulse. WordPress export remains option
 | account.html | Help | contact | map-form-layout | map-console | `ecommerce-account-help-09` |
 | account.html | CTA | cta | minimal-luxury-cta | minimal-luxury | `ecommerce-account-cta-10` |
 | account.html | Important notes | editorial | editorial-problem-essay | editorial-split | `ecommerce-account-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | archive-filter | form-studio | `ecommerce-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | case-study-grid | bento-grid | `ecommerce-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | download-cover-grid | bento-grid | `ecommerce-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | resource-index | route-cards | `ecommerce-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | article-stack | editorial-split | `ecommerce-asset-system-asset-system-section-5-05` |
 | categories.html | Hero | hero | editorial-overscale | editorial-split | `ecommerce-categories-hero-01` |
 | categories.html | Main | editorial | article-stack | editorial-split | `ecommerce-categories-main-02` |
 | categories.html | Sub | editorial | editorial-problem-essay | editorial-split | `ecommerce-categories-sub-03` |

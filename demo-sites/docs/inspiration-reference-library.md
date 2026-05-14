@@ -56,11 +56,21 @@ Each site must study at least 8 references before visual implementation: 3 direc
 | 50 | Personal Brands, Creators & Public Figures | Nameplate | 3 direct / 2 adjacent / 2 contrast / 1 interaction | direct: James Clear; direct: Seth Godin; direct: Tim Ferriss; adjacent: Marie Forleo; adjacent: Simon Sinek; contrast: Monocle; contrast: The New Yorker; interaction: Mobbin media kit and newsletter patterns |
 
 
-## Homepage Atlas Pass - 2026-05-12
+## Homepage Flow Cleanup Pass - 2026-05-13
 
-All 50 editable static homepages now receive a dedicated `#site-atlas` section. The pass preserves the required inspiration mix and cross-site difference scores while adding hero-first, CTA-final homepage structure, complete internal links to every site page, section anchor navigation, utility/legal/recovery links, and variant-specific atlas layouts so the pages do not collapse into one shared template.
+All 50 editable static homepages now keep the approved section order without an inserted public atlas block. The pass preserves the required inspiration mix and cross-site difference scores while replacing the route-index section with compact hero shortcuts to real homepage sections and keeping utility/legal/recovery routes in footer and sitemap surfaces.
 
 
 ## Portfolio Visual QA Pass - 2026-05-12
 
-The 50-site portfolio received a section-level visual QA polish pass across all numbered site pages. The update improves screenshot readiness, visible reusable section states, responsive wrapping, repeated card copy, CTA labeling, and section-specific narrative clarity without changing the approved inspiration reference mix or reducing cross-site diversity.
+The 50-site portfolio received a section-level visual QA polish pass across all numbered site pages. The update improves screenshot readiness, visible reusable section states, responsive wrapping, repeated card copy, CTA labeling, section heading hierarchy, and section-specific narrative clarity without changing the approved inspiration reference mix or reducing cross-site diversity.
+
+
+## Portfolio Design Refactor Pass - 2026-05-13
+
+All 50 numbered sites received a broad visual refactor pass after a full 900-page baseline section audit. The pass removed repeated homepage route-index clutter, suppressed duplicated signature panels, stripped visible SVG asset-inventory labels, restored reliable hero/media grid containment, strengthened card/form/CTA/footer rhythm, and preserved the documented reference packs and difference scores.
+
+
+## Homepage Premium UX Refactor Pass - 2026-05-13
+
+All 50 numbered homepages received the premium UX pass: each homepage keeps 10 top-level sections, uses minimal hero copy, limits hero actions to one primary and one secondary button, replaces text-heavy hero UI mockups with no-visible-text local hero artwork, improves card/media balance, adds button icon affordances and reveal/hover transitions, and hardens footer contrast across themes. The changes preserve each site's documented reference set, transformation pack, local CSS/JS/assets, and 4-5 cross-site difference requirement.

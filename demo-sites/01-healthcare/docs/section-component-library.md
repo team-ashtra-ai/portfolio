@@ -6,11 +6,6 @@ Static portfolio component pass for AsterCare. WordPress export remains optional
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `healthcare-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `healthcare-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | gallery-strip | collage-stack | `healthcare-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | archive-filter | form-studio | `healthcare-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | case-study-grid | bento-grid | `healthcare-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | download-cover-grid | bento-grid | `healthcare-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | resource-index | route-cards | `healthcare-asset-system-asset-system-section-5-05` |
 | care.html | Hero | hero | collage-window | collage-stack | `healthcare-care-hero-01` |
 | care.html | Concerns | editorial | article-stack | editorial-split | `healthcare-care-concerns-02` |
 | care.html | Assessment | editorial | editorial-problem-essay | editorial-split | `healthcare-care-assessment-03` |

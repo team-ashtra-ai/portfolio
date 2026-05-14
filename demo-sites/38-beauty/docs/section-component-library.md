@@ -6,11 +6,6 @@ Static portfolio component pass for SkinTheory. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `beauty-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `beauty-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | case-study-grid | bento-grid | `beauty-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | download-cover-grid | bento-grid | `beauty-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | resource-index | route-cards | `beauty-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | article-stack | editorial-split | `beauty-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | document-preview | proof-ledger | `beauty-asset-system-asset-system-section-5-05` |
 | brand.html | Hero | hero | dashboard-command | dashboard-command | `beauty-brand-hero-01` |
 | brand.html | Philosophy | editorial | editorial-problem-essay | editorial-split | `beauty-brand-philosophy-02` |
 | brand.html | Testing | process | numbered-cards | route-cards | `beauty-brand-testing-03` |

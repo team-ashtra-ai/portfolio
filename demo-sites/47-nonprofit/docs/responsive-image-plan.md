@@ -13,6 +13,6 @@
 | Resources | assets/images/hero/nonprofit-resources-hero.svg | assets/images/hero/nonprofit-resources-hero-tablet.svg | assets/images/hero/nonprofit-resources-hero-mobile.svg | picture/source with fixed width/height; object-fit cover |
 | Contact | assets/images/hero/nonprofit-contact-hero.svg | assets/images/hero/nonprofit-contact-hero-tablet.svg | assets/images/hero/nonprofit-contact-hero-mobile.svg | picture/source with fixed width/height; object-fit cover |
 
-## Static Asset System Page
+## Asset Handoff Documentation
 
-`asset-system.html` displays local assets for brand, logo, favicon, images, video posters, icons, illustrations, typography, CSS, JavaScript, animation, SEO, Open Graph, social sharing, header, footer, form, analytics, cookie, accessibility, multilingual, blog, service, industry, case study, downloadable, legal, and trust/proof categories. Files live under this site's own `assets/` tree and are linked from the site navigation.
+The public site no longer exposes an asset-system HTML route. Asset inventories remain in the docs folder and local asset tree for QA and handoff; public navigation uses only the 10 core pages and 7 universal utility pages.

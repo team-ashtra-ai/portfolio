@@ -6,11 +6,6 @@ Static portfolio component pass for StudioFrame. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `creative-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `creative-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | gallery-strip | collage-stack | `creative-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | archive-filter | form-studio | `creative-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | case-study-grid | bento-grid | `creative-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | download-cover-grid | bento-grid | `creative-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | resource-index | route-cards | `creative-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | search-led-hero | map-console | `creative-contact-hero-01` |
 | contact.html | Project | contact | booking-panel | form-studio | `creative-contact-project-02` |
 | contact.html | Timeline | process | roadmap-board | dashboard-command | `creative-contact-timeline-03` |

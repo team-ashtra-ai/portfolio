@@ -6,11 +6,6 @@ Static portfolio component pass for SignalNorth. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `telecommunications-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `telecommunications-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | article-stack | editorial-split | `telecommunications-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | document-preview | proof-ledger | `telecommunications-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | gallery-strip | collage-stack | `telecommunications-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | archive-filter | form-studio | `telecommunications-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | case-study-grid | bento-grid | `telecommunications-asset-system-asset-system-section-5-05` |
 | business.html | Hero | hero | product-stage | bento-grid | `telecommunications-business-hero-01` |
 | business.html | Internet | editorial | benefit-image-split | collage-stack | `telecommunications-business-internet-02` |
 | business.html | Failover | editorial | article-stack | editorial-split | `telecommunications-business-failover-03` |

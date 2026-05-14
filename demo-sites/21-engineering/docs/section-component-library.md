@@ -6,11 +6,6 @@ Static portfolio component pass for CoreSystems. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `engineering-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `engineering-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | document-preview | proof-ledger | `engineering-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | gallery-strip | collage-stack | `engineering-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | archive-filter | form-studio | `engineering-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | case-study-grid | bento-grid | `engineering-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | download-cover-grid | bento-grid | `engineering-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | portrait-authority | editorial-split | `engineering-contact-hero-01` |
 | contact.html | Contact section 2 | contact | office-location-cards | map-console | `engineering-contact-contact-section-2-02` |
 | contact.html | Contact section 3 | contact | form-contact-split | form-studio | `engineering-contact-contact-section-3-03` |

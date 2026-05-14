@@ -6,11 +6,6 @@ Static portfolio component pass for CommonGood. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `nonprofit-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `nonprofit-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | resource-index | route-cards | `nonprofit-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | article-stack | editorial-split | `nonprofit-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | document-preview | proof-ledger | `nonprofit-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | gallery-strip | collage-stack | `nonprofit-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | archive-filter | form-studio | `nonprofit-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | portrait-authority | editorial-split | `nonprofit-contact-hero-01` |
 | contact.html | Donate | contact | priority-contact | proof-ledger | `nonprofit-contact-donate-02` |
 | contact.html | Volunteer | contact | office-location-cards | map-console | `nonprofit-contact-volunteer-03` |

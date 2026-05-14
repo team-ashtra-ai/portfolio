@@ -6,11 +6,6 @@ Static portfolio component pass for HarvestPack. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | document-preview | proof-ledger | `food-production-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | legal-prose-panel | editorial-split | `food-production-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | resource-index | route-cards | `food-production-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | article-stack | editorial-split | `food-production-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | document-preview | proof-ledger | `food-production-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | gallery-strip | collage-stack | `food-production-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | archive-filter | form-studio | `food-production-asset-system-asset-system-section-5-05` |
 | brand.html | Hero | hero | luxury-minimal | minimal-luxury | `food-production-brand-hero-01` |
 | brand.html | Origin | editorial | editorial-problem-essay | editorial-split | `food-production-brand-origin-02` |
 | brand.html | Makers | editorial | authority-quote | editorial-split | `food-production-brand-makers-03` |

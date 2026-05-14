@@ -17,11 +17,6 @@ Static portfolio component pass for TalentBridge. WordPress export remains optio
 | agency.html | Trust | trust | publication-list | editorial-split | `recruitment-agency-trust-09` |
 | agency.html | CTA | cta | full-width-final-banner | cinematic-bleed | `recruitment-agency-cta-10` |
 | agency.html | Important notes | editorial | central-statement-pillars | editorial-split | `recruitment-agency-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | archive-filter | form-studio | `recruitment-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | case-study-grid | bento-grid | `recruitment-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | download-cover-grid | bento-grid | `recruitment-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | resource-index | route-cards | `recruitment-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | article-stack | editorial-split | `recruitment-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | data-stat-hero | proof-ledger | `recruitment-contact-hero-01` |
 | contact.html | Employers | contact | booking-panel | form-studio | `recruitment-contact-employers-02` |
 | contact.html | Candidates | contact | whatsapp-first | minimal-luxury | `recruitment-contact-candidates-03` |

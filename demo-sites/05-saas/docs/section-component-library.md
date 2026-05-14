@@ -6,11 +6,6 @@ Static portfolio component pass for OrbitDesk. WordPress export remains optional
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `saas-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `saas-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | resource-index | route-cards | `saas-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | article-stack | editorial-split | `saas-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | document-preview | proof-ledger | `saas-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | gallery-strip | collage-stack | `saas-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | archive-filter | form-studio | `saas-asset-system-asset-system-section-5-05` |
 | blog.html | Hero | hero | booking-focused-panel | form-studio | `saas-blog-hero-01` |
 | blog.html | Blog section 2 | resources | document-preview | proof-ledger | `saas-blog-blog-section-2-02` |
 | blog.html | Blog section 3 | resources | gallery-strip | collage-stack | `saas-blog-blog-section-3-03` |

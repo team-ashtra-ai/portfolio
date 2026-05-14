@@ -6,11 +6,6 @@ Static portfolio component pass for ClearGrid. WordPress export remains optional
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `utilities-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `utilities-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | archive-filter | form-studio | `utilities-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | case-study-grid | bento-grid | `utilities-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | download-cover-grid | bento-grid | `utilities-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | resource-index | route-cards | `utilities-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | article-stack | editorial-split | `utilities-asset-system-asset-system-section-5-05` |
 | authority.html | Hero | hero | cinematic-full-bleed | cinematic-bleed | `utilities-authority-hero-01` |
 | authority.html | Authority section 2 | trust | partner-strip-safe | minimal-luxury | `utilities-authority-authority-section-2-02` |
 | authority.html | Authority section 3 | trust | compliance-grid | dashboard-command | `utilities-authority-authority-section-3-03` |

@@ -17,11 +17,6 @@ Static portfolio component pass for IndexHouse. WordPress export remains optiona
 | articles.html | Read | resources | document-preview | proof-ledger | `publishing-articles-read-09` |
 | articles.html | CTA | cta | pattern-background-cta | bento-grid | `publishing-articles-cta-10` |
 | articles.html | Important notes | resources | archive-filter | form-studio | `publishing-articles-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | document-preview | proof-ledger | `publishing-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | gallery-strip | collage-stack | `publishing-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | archive-filter | form-studio | `publishing-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | case-study-grid | bento-grid | `publishing-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | download-cover-grid | bento-grid | `publishing-asset-system-asset-system-section-5-05` |
 | authors.html | Hero | hero | data-stat-hero | proof-ledger | `publishing-authors-hero-01` |
 | authors.html | Experts | editorial | benefit-image-split | collage-stack | `publishing-authors-experts-02` |
 | authors.html | Profiles | profiles | profile-card-grid | route-cards | `publishing-authors-profiles-03` |

@@ -1527,7 +1527,7 @@ def render_signature_interaction(site: dict[str, object], page_name: str, sectio
     section_key = slugify(section)
     page_key = slugify(page_name)
     signature = esc(site["jsSignature"])
-    if section not in {"Hero", "Services", "Pricing", "Questions", "FAQ", "Gallery", "Products", "Rooms", "Menu", "Booking", "Coverage", "Risk", "Dashboard", "Donate", "Schedule", "Library", "Media", "Contact"}:
+    if section not in {"Services", "Pricing", "Questions", "FAQ", "Gallery", "Products", "Rooms", "Menu", "Booking", "Coverage", "Risk", "Dashboard", "Donate", "Schedule", "Library", "Media", "Contact"}:
         return ""
     component_type = {
         "healthcare": "pathway", "life-sciences": "tabs", "wellness": "quiz", "technology": "status",
@@ -2201,7 +2201,7 @@ def render_page(site: dict[str, object], page: dict[str, object]) -> str:
 {section_html}
 <section class="section disclaimer" aria-label="Important notes">
   <div class="container">
-    <h2>Notes</h2>
+    <h2>Important notes before you act</h2>
     <p>{esc(site['disclaimer'])}</p>
   </div>
 </section>
@@ -2822,7 +2822,7 @@ def css_for_site(site: dict[str, object]) -> str:
         ".hero-grid{grid-template-columns:minmax(280px,.66fr) minmax(0,1.34fr)}.hero-copy{order:2}.hero-media{order:1}",
         ".hero-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.hero-copy{background:var(--color-surface-alt);padding:clamp(1rem,3vw,2.4rem);box-shadow:var(--shadow-soft)}",
         ".hero-grid{grid-template-columns:minmax(0,.94fr) minmax(380px,1.06fr)}.hero-section{border-bottom:1px solid var(--color-border)}",
-        ".hero-grid{display:block}.hero-copy{width:min(820px,100%)}.hero-media{margin-top:2rem;margin-left:auto;width:min(760px,100%)}",
+        ".hero-grid{grid-template-columns:minmax(0,.9fr) minmax(380px,1.1fr)}.hero-copy{width:min(820px,100%)}.hero-media{margin-left:auto;width:min(760px,100%)}",
     ][hero_case]
     card_case_css = [
         ".card-grid{grid-template-columns:1fr 1fr 1fr}.mini-card:nth-child(2){transform:translateY(1rem)}",

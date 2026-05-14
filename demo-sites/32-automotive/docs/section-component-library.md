@@ -6,11 +6,6 @@ Static portfolio component pass for MotorArc. WordPress export remains optional,
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | utility-state-panel | minimal-luxury | `automotive-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | asset-inventory-grid | bento-grid | `automotive-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | download-cover-grid | bento-grid | `automotive-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | resource-index | route-cards | `automotive-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | article-stack | editorial-split | `automotive-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | document-preview | proof-ledger | `automotive-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | gallery-strip | collage-stack | `automotive-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | product-stage | bento-grid | `automotive-contact-hero-01` |
 | contact.html | Testdrive | contact | multi-route-contact-cards | route-cards | `automotive-contact-testdrive-02` |
 | contact.html | Service | services | concierge-service-list | minimal-luxury | `automotive-contact-service-03` |

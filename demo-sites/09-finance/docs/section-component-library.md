@@ -17,11 +17,6 @@ Static portfolio component pass for HarborLedger. WordPress export remains optio
 | advice.html | Action | editorial | authority-quote | editorial-split | `finance-advice-action-09` |
 | advice.html | CTA | cta | minimal-luxury-cta | minimal-luxury | `finance-advice-cta-10` |
 | advice.html | Important notes | editorial | central-statement-pillars | editorial-split | `finance-advice-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | case-study-grid | bento-grid | `finance-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | download-cover-grid | bento-grid | `finance-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | resource-index | route-cards | `finance-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | article-stack | editorial-split | `finance-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | document-preview | proof-ledger | `finance-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | cinematic-full-bleed | cinematic-bleed | `finance-contact-hero-01` |
 | contact.html | Appointment | contact | upload-enquiry | form-studio | `finance-contact-appointment-02` |
 | contact.html | Form | contact | priority-contact | proof-ledger | `finance-contact-form-03` |

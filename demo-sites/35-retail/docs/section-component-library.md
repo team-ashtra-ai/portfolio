@@ -6,11 +6,6 @@ Static portfolio component pass for CornerGoods. WordPress export remains option
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | legal-prose-panel | editorial-split | `retail-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | utility-state-panel | minimal-luxury | `retail-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | document-preview | proof-ledger | `retail-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | gallery-strip | collage-stack | `retail-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | archive-filter | form-studio | `retail-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | case-study-grid | bento-grid | `retail-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | download-cover-grid | bento-grid | `retail-asset-system-asset-system-section-5-05` |
 | brand.html | Hero | hero | calm-trust-split | editorial-split | `retail-brand-hero-01` |
 | brand.html | Story | editorial | central-statement-pillars | editorial-split | `retail-brand-story-02` |
 | brand.html | Taste | editorial | benefit-image-split | collage-stack | `retail-brand-taste-03` |

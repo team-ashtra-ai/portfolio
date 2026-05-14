@@ -13,6 +13,6 @@
 | Insights | assets/images/hero/recruitment-insights-hero.svg | assets/images/hero/recruitment-insights-hero-tablet.svg | assets/images/hero/recruitment-insights-hero-mobile.svg | assets/images/pages/recruitment-insights-page.svg | assets/og/recruitment-insights-open-graph.svg | assets/images/gallery/recruitment-insights-gallery-1.svg | TalentBridge Insights hero visual; decorative thumbnails use empty alt where repeated |
 | Contact | assets/images/hero/recruitment-contact-hero.svg | assets/images/hero/recruitment-contact-hero-tablet.svg | assets/images/hero/recruitment-contact-hero-mobile.svg | assets/images/pages/recruitment-contact-page.svg | assets/og/recruitment-contact-open-graph.svg | assets/images/gallery/recruitment-contact-gallery-1.svg | TalentBridge Contact hero visual; decorative thumbnails use empty alt where repeated |
 
-## Static Asset System Page
+## Asset Handoff Documentation
 
-`asset-system.html` displays local assets for brand, logo, favicon, images, video posters, icons, illustrations, typography, CSS, JavaScript, animation, SEO, Open Graph, social sharing, header, footer, form, analytics, cookie, accessibility, multilingual, blog, service, industry, case study, downloadable, legal, and trust/proof categories. Files live under this site's own `assets/` tree and are linked from the site navigation.
+The public site no longer exposes an asset-system HTML route. Asset inventories remain in the docs folder and local asset tree for QA and handoff; public navigation uses only the 10 core pages and 7 universal utility pages.

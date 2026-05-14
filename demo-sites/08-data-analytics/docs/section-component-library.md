@@ -6,11 +6,6 @@ Static portfolio component pass for PrismBI. WordPress export remains optional, 
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | utility-state-panel | minimal-luxury | `data-analytics-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | asset-inventory-grid | bento-grid | `data-analytics-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | gallery-strip | collage-stack | `data-analytics-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | archive-filter | form-studio | `data-analytics-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | case-study-grid | bento-grid | `data-analytics-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | download-cover-grid | bento-grid | `data-analytics-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | resource-index | route-cards | `data-analytics-asset-system-asset-system-section-5-05` |
 | company.html | Hero | hero | portrait-authority | editorial-split | `data-analytics-company-hero-01` |
 | company.html | Company section 2 | editorial | editorial-problem-essay | editorial-split | `data-analytics-company-company-section-2-02` |
 | company.html | Company section 3 | editorial | authority-quote | editorial-split | `data-analytics-company-company-section-3-03` |

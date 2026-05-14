@@ -17,11 +17,6 @@ Static portfolio component pass for Shieldline. WordPress export remains optiona
 | advice.html | Questions | faq | before-you-book | minimal-luxury | `insurance-advice-questions-09` |
 | advice.html | CTA | cta | cta-with-trust | proof-ledger | `insurance-advice-cta-10` |
 | advice.html | Important notes | editorial | benefit-image-split | collage-stack | `insurance-advice-important-notes-11` |
-| asset-system.html | Asset-System section 1 | resources | download-cover-grid | bento-grid | `insurance-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | resource-index | route-cards | `insurance-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | article-stack | editorial-split | `insurance-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | document-preview | proof-ledger | `insurance-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | gallery-strip | collage-stack | `insurance-asset-system-asset-system-section-5-05` |
 | broker.html | Hero | hero | editorial-overscale | editorial-split | `insurance-broker-hero-01` |
 | broker.html | Independence | editorial | central-statement-pillars | editorial-split | `insurance-broker-independence-02` |
 | broker.html | Partners | trust | evidence-cards | route-cards | `insurance-broker-partners-03` |

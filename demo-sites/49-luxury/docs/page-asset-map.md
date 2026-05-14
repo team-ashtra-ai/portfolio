@@ -13,6 +13,6 @@
 | Members | assets/images/hero/luxury-members-hero.svg | assets/images/hero/luxury-members-hero-tablet.svg | assets/images/hero/luxury-members-hero-mobile.svg | assets/images/pages/luxury-members-page.svg | assets/og/luxury-members-open-graph.svg | assets/images/gallery/luxury-members-gallery-1.svg | MaisonVale Members hero visual; decorative thumbnails use empty alt where repeated |
 | Contact | assets/images/hero/luxury-contact-hero.svg | assets/images/hero/luxury-contact-hero-tablet.svg | assets/images/hero/luxury-contact-hero-mobile.svg | assets/images/pages/luxury-contact-page.svg | assets/og/luxury-contact-open-graph.svg | assets/images/gallery/luxury-contact-gallery-1.svg | MaisonVale Contact hero visual; decorative thumbnails use empty alt where repeated |
 
-## Static Asset System Page
+## Asset Handoff Documentation
 
-`asset-system.html` displays local assets for brand, logo, favicon, images, video posters, icons, illustrations, typography, CSS, JavaScript, animation, SEO, Open Graph, social sharing, header, footer, form, analytics, cookie, accessibility, multilingual, blog, service, industry, case study, downloadable, legal, and trust/proof categories. Files live under this site's own `assets/` tree and are linked from the site navigation.
+The public site no longer exposes an asset-system HTML route. Asset inventories remain in the docs folder and local asset tree for QA and handoff; public navigation uses only the 10 core pages and 7 universal utility pages.

@@ -6,11 +6,6 @@ Static portfolio component pass for MaisonVale. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `luxury-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `luxury-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | document-preview | proof-ledger | `luxury-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | gallery-strip | collage-stack | `luxury-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | archive-filter | form-studio | `luxury-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | case-study-grid | bento-grid | `luxury-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | download-cover-grid | bento-grid | `luxury-asset-system-asset-system-section-5-05` |
 | contact.html | Hero | hero | cinematic-full-bleed | cinematic-bleed | `luxury-contact-hero-01` |
 | contact.html | Private | contact | form-contact-split | form-studio | `luxury-contact-private-02` |
 | contact.html | Appointment | contact | multi-route-contact-cards | route-cards | `luxury-contact-appointment-03` |

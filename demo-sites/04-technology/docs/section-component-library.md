@@ -6,11 +6,6 @@ Static portfolio component pass for NexusOps. WordPress export remains optional,
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | utility-state-panel | minimal-luxury | `technology-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | asset-inventory-grid | bento-grid | `technology-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | download-cover-grid | bento-grid | `technology-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | resource-index | route-cards | `technology-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | article-stack | editorial-split | `technology-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | document-preview | proof-ledger | `technology-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | gallery-strip | collage-stack | `technology-asset-system-asset-system-section-5-05` |
 | company.html | Hero | hero | search-led-hero | map-console | `technology-company-hero-01` |
 | company.html | Story | editorial | case-study-preview-strip | editorial-split | `technology-company-story-02` |
 | company.html | Expertise | editorial | central-statement-pillars | editorial-split | `technology-company-expertise-03` |

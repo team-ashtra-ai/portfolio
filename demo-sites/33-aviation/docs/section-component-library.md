@@ -6,11 +6,6 @@ Static portfolio component pass for AeroVector. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `aviation-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `aviation-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | resource-index | route-cards | `aviation-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | article-stack | editorial-split | `aviation-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | document-preview | proof-ledger | `aviation-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | gallery-strip | collage-stack | `aviation-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | archive-filter | form-studio | `aviation-asset-system-asset-system-section-5-05` |
 | careers.html | Hero | hero | map-location-hero | map-console | `aviation-careers-hero-01` |
 | careers.html | Roles | editorial | authority-quote | editorial-split | `aviation-careers-roles-02` |
 | careers.html | Pilots | editorial | case-study-preview-strip | editorial-split | `aviation-careers-pilots-03` |

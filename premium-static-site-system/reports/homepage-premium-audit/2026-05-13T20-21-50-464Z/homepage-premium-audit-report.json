@@ -1,0 +1,5038 @@
+{
+  "summary": {
+    "generatedAt": "2026-05-13T20:29:50.874Z",
+    "viewports": {
+      "desktop": {
+        "width": 1440,
+        "height": 1040,
+        "quality": 70
+      },
+      "mobile": {
+        "width": 390,
+        "height": 844,
+        "quality": 72
+      }
+    },
+    "totalHomepages": 50,
+    "totalAudits": 100,
+    "auditsWithIssues": 37,
+    "screenshots": "premium-static-site-system/reports/homepage-premium-audit/2026-05-13T20-21-50-464Z/screenshots",
+    "outputDirectory": "premium-static-site-system/reports/homepage-premium-audit/2026-05-13T20-21-50-464Z"
+  },
+  "results": [
+    {
+      "site": "01-healthcare",
+      "slug": "healthcare",
+      "viewport": "desktop",
+      "file": "demo-sites/01-healthcare/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/index.html",
+      "screenshot": "screenshots/desktop/01-healthcare.jpg",
+      "audit": {
+        "title": "Home | Aster Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 113,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/healthcare-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8636
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "01-healthcare",
+      "slug": "healthcare",
+      "viewport": "mobile",
+      "file": "demo-sites/01-healthcare/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/01-healthcare/index.html",
+      "screenshot": "screenshots/mobile/01-healthcare.jpg",
+      "audit": {
+        "title": "Home | Aster Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 113,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/healthcare-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13673
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "02-life-sciences",
+      "slug": "life-sciences",
+      "viewport": "desktop",
+      "file": "demo-sites/02-life-sciences/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/02-life-sciences/index.html",
+      "screenshot": "screenshots/desktop/02-life-sciences.jpg",
+      "audit": {
+        "title": "Home | Helix Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 121,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/life-sciences-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "SCIENTIFIC OPERATING SYSTEM DOSSIER",
+            "ratio": 1.52,
+            "required": 4.5
+          },
+          {
+            "text": "Helix",
+            "ratio": 1.67,
+            "required": 3
+          },
+          {
+            "text": "TechBio with dark scientific grids, microscopy panels, and pipeline evidence for",
+            "ratio": 1.52,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "92%",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "97%",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "85%",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "Discuss Research",
+            "ratio": 1.67,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8821
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "02-life-sciences",
+      "slug": "life-sciences",
+      "viewport": "mobile",
+      "file": "demo-sites/02-life-sciences/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/02-life-sciences/index.html",
+      "screenshot": "screenshots/mobile/02-life-sciences.jpg",
+      "audit": {
+        "title": "Home | Helix Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 121,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/life-sciences-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "SCIENTIFIC OPERATING SYSTEM DOSSIER",
+            "ratio": 1.52,
+            "required": 4.5
+          },
+          {
+            "text": "Helix",
+            "ratio": 1.67,
+            "required": 3
+          },
+          {
+            "text": "TechBio with dark scientific grids, microscopy panels, and pipeline evidence for",
+            "ratio": 1.52,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "92%",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "97%",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "85%",
+            "ratio": 1.49,
+            "required": 4.5
+          },
+          {
+            "text": "Discuss Research",
+            "ratio": 1.67,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 13696
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "03-wellness",
+      "slug": "wellness",
+      "viewport": "desktop",
+      "file": "demo-sites/03-wellness/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/03-wellness/index.html",
+      "screenshot": "screenshots/desktop/03-wellness.jpg",
+      "audit": {
+        "title": "Home | Luma Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 104,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/wellness-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 7505
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "03-wellness",
+      "slug": "wellness",
+      "viewport": "mobile",
+      "file": "demo-sites/03-wellness/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/03-wellness/index.html",
+      "screenshot": "screenshots/mobile/03-wellness.jpg",
+      "audit": {
+        "title": "Home | Luma Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 104,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/wellness-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12110
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "04-technology",
+      "slug": "technology",
+      "viewport": "desktop",
+      "file": "demo-sites/04-technology/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/04-technology/index.html",
+      "screenshot": "screenshots/desktop/04-technology.jpg",
+      "audit": {
+        "title": "Home | Nexus Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 105,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/technology-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "EDGE NETWORK PRODUCT SYSTEM",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Infrastructure marketing with orange CTAs, network diagrams, and dense product r",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "85%",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "90%",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "95%",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "Request IT Audit",
+            "ratio": 3.35,
+            "required": 4.5
+          },
+          {
+            "text": "A network-first IT site with technical proof, orange action paths, product cards",
+            "ratio": 2.67,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 5861
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "04-technology",
+      "slug": "technology",
+      "viewport": "mobile",
+      "file": "demo-sites/04-technology/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/04-technology/index.html",
+      "screenshot": "screenshots/mobile/04-technology.jpg",
+      "audit": {
+        "title": "Home | Nexus Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 105,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/technology-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "EDGE NETWORK PRODUCT SYSTEM",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Infrastructure marketing with orange CTAs, network diagrams, and dense product r",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "85%",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "90%",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "95%",
+            "ratio": 2.64,
+            "required": 4.5
+          },
+          {
+            "text": "Request IT Audit",
+            "ratio": 3.35,
+            "required": 4.5
+          },
+          {
+            "text": "A network-first IT site with technical proof, orange action paths, product cards",
+            "ratio": 2.67,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 9512
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "05-saas",
+      "slug": "saas",
+      "viewport": "desktop",
+      "file": "demo-sites/05-saas/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/05-saas/index.html",
+      "screenshot": "screenshots/desktop/05-saas.jpg",
+      "audit": {
+        "title": "Home | Orbit Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 110,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/saas-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "Edge",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "90%",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "95%",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "83%",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "A product-led SaaS site with a dark dashboard hero, precise modules, issue-like ",
+            "ratio": 4.16,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8425
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "05-saas",
+      "slug": "saas",
+      "viewport": "mobile",
+      "file": "demo-sites/05-saas/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/05-saas/index.html",
+      "screenshot": "screenshots/mobile/05-saas.jpg",
+      "audit": {
+        "title": "Home | Orbit Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 110,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/saas-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "Edge",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "90%",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "95%",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "83%",
+            "ratio": 4.09,
+            "required": 4.5
+          },
+          {
+            "text": "A product-led SaaS site with a dark dashboard hero, precise modules, issue-like ",
+            "ratio": 4.16,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 12471
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "06-telecommunications",
+      "slug": "telecommunications",
+      "viewport": "desktop",
+      "file": "demo-sites/06-telecommunications/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/06-telecommunications/index.html",
+      "screenshot": "screenshots/desktop/06-telecommunications.jpg",
+      "audit": {
+        "title": "Home | Signal Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 105,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/telecommunications-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "SPACE COVERAGE LANDING",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "SIGNAL",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Black space utility with full-bleed contrast, uppercase navigation, and availabi",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "NETWORK",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PLANS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "COVERAGE",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "BUSINESS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "INSTALL",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "Check Coverage",
+            "ratio": 1.31,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 9251
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "06-telecommunications",
+      "slug": "telecommunications",
+      "viewport": "mobile",
+      "file": "demo-sites/06-telecommunications/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/06-telecommunications/index.html",
+      "screenshot": "screenshots/mobile/06-telecommunications.jpg",
+      "audit": {
+        "title": "Home | Signal Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 105,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/telecommunications-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "SPACE COVERAGE LANDING",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "SIGNAL",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Black space utility with full-bleed contrast, uppercase navigation, and availabi",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "NETWORK",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PLANS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "COVERAGE",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "BUSINESS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "INSTALL",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "Check Coverage",
+            "ratio": 1.31,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 13891
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "07-cybersecurity",
+      "slug": "cybersecurity",
+      "viewport": "desktop",
+      "file": "demo-sites/07-cybersecurity/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/07-cybersecurity/index.html",
+      "screenshot": "screenshots/desktop/07-cybersecurity.jpg",
+      "audit": {
+        "title": "Home | Cipher Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 106,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/cybersecurity-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8057
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "07-cybersecurity",
+      "slug": "cybersecurity",
+      "viewport": "mobile",
+      "file": "demo-sites/07-cybersecurity/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/07-cybersecurity/index.html",
+      "screenshot": "screenshots/mobile/07-cybersecurity.jpg",
+      "audit": {
+        "title": "Home | Cipher Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 106,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/cybersecurity-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13361
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "08-data-analytics",
+      "slug": "data-analytics",
+      "viewport": "desktop",
+      "file": "demo-sites/08-data-analytics/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/08-data-analytics/index.html",
+      "screenshot": "screenshots/desktop/08-data-analytics.jpg",
+      "audit": {
+        "title": "Home | Prism Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 99,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/data-analytics-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 7947
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "08-data-analytics",
+      "slug": "data-analytics",
+      "viewport": "mobile",
+      "file": "demo-sites/08-data-analytics/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/08-data-analytics/index.html",
+      "screenshot": "screenshots/mobile/08-data-analytics.jpg",
+      "audit": {
+        "title": "Home | Prism Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 99,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/data-analytics-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12422
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "09-finance",
+      "slug": "finance",
+      "viewport": "desktop",
+      "file": "demo-sites/09-finance/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/index.html",
+      "screenshot": "screenshots/desktop/09-finance.jpg",
+      "audit": {
+        "title": "Home | Harbor Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/finance-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 7810
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "09-finance",
+      "slug": "finance",
+      "viewport": "mobile",
+      "file": "demo-sites/09-finance/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/09-finance/index.html",
+      "screenshot": "screenshots/mobile/09-finance.jpg",
+      "audit": {
+        "title": "Home | Harbor Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/finance-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12983
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "10-insurance",
+      "slug": "insurance",
+      "viewport": "desktop",
+      "file": "demo-sites/10-insurance/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/10-insurance/index.html",
+      "screenshot": "screenshots/desktop/10-insurance.jpg",
+      "audit": {
+        "title": "Home | Shield Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 90,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/insurance-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "PINK QUOTE JOURNEY",
+            "ratio": 3.57,
+            "required": 4.5
+          },
+          {
+            "text": "Insurance quote flow with hot pink, friendly copy, and simple white cards for In",
+            "ratio": 3.57,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "98%",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "86%",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "91%",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "A quote-first insurance site with pink action, chat-like steps, playful policy c",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "Home",
+            "ratio": 3.57,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8630
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "10-insurance",
+      "slug": "insurance",
+      "viewport": "mobile",
+      "file": "demo-sites/10-insurance/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/10-insurance/index.html",
+      "screenshot": "screenshots/mobile/10-insurance.jpg",
+      "audit": {
+        "title": "Home | Shield Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 90,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/insurance-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "PINK QUOTE JOURNEY",
+            "ratio": 3.57,
+            "required": 4.5
+          },
+          {
+            "text": "Insurance quote flow with hot pink, friendly copy, and simple white cards for In",
+            "ratio": 3.57,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "98%",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "86%",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "91%",
+            "ratio": 3.5,
+            "required": 4.5
+          },
+          {
+            "text": "A quote-first insurance site with pink action, chat-like steps, playful policy c",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "Home",
+            "ratio": 3.57,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 13166
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "11-legal",
+      "slug": "legal",
+      "viewport": "desktop",
+      "file": "demo-sites/11-legal/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/index.html",
+      "screenshot": "screenshots/desktop/11-legal.jpg",
+      "audit": {
+        "title": "Home | Legal Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 94,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/legal-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8012
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "11-legal",
+      "slug": "legal",
+      "viewport": "mobile",
+      "file": "demo-sites/11-legal/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/11-legal/index.html",
+      "screenshot": "screenshots/mobile/11-legal.jpg",
+      "audit": {
+        "title": "Home | Legal Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 94,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/legal-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 14172
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "12-accounting",
+      "slug": "accounting",
+      "viewport": "desktop",
+      "file": "demo-sites/12-accounting/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/12-accounting/index.html",
+      "screenshot": "screenshots/desktop/12-accounting.jpg",
+      "audit": {
+        "title": "Home | Ledger Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/accounting-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "CLOUD ACCOUNTING DASHBOARD",
+            "ratio": 2.56,
+            "required": 4.5
+          },
+          {
+            "text": "Accounting clarity with sky blue, rounded dashboards, and friendly admin paths f",
+            "ratio": 2.56,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "91%",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "96%",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "84%",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "Request Quote",
+            "ratio": 3.03,
+            "required": 4.5
+          },
+          {
+            "text": "An accounting command site with cloud-blue dashboards, deadline cards, plan comp",
+            "ratio": 2.44,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8231
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "12-accounting",
+      "slug": "accounting",
+      "viewport": "mobile",
+      "file": "demo-sites/12-accounting/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/12-accounting/index.html",
+      "screenshot": "screenshots/mobile/12-accounting.jpg",
+      "audit": {
+        "title": "Home | Ledger Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/accounting-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "CLOUD ACCOUNTING DASHBOARD",
+            "ratio": 2.56,
+            "required": 4.5
+          },
+          {
+            "text": "Accounting clarity with sky blue, rounded dashboards, and friendly admin paths f",
+            "ratio": 2.56,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "91%",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "96%",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "84%",
+            "ratio": 2.42,
+            "required": 4.5
+          },
+          {
+            "text": "Request Quote",
+            "ratio": 3.03,
+            "required": 4.5
+          },
+          {
+            "text": "An accounting command site with cloud-blue dashboards, deadline cards, plan comp",
+            "ratio": 2.44,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 12789
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "13-consulting",
+      "slug": "consulting",
+      "viewport": "desktop",
+      "file": "demo-sites/13-consulting/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/13-consulting/index.html",
+      "screenshot": "screenshots/desktop/13-consulting.jpg",
+      "audit": {
+        "title": "Home | Vector Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 111,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/consulting-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8799
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "13-consulting",
+      "slug": "consulting",
+      "viewport": "mobile",
+      "file": "demo-sites/13-consulting/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/13-consulting/index.html",
+      "screenshot": "screenshots/mobile/13-consulting.jpg",
+      "audit": {
+        "title": "Home | Vector Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 111,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/consulting-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12196
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "14-education",
+      "slug": "education",
+      "viewport": "desktop",
+      "file": "demo-sites/14-education/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/14-education/index.html",
+      "screenshot": "screenshots/desktop/14-education.jpg",
+      "audit": {
+        "title": "Home | Bright Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 91,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/education-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "CINEMATIC COURSE CATALOGUE",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "BRIGHT",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Cinematic education with black stage surfaces, instructor tiles, and red CTAs",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "SCHOOL",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "COURSES",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "METHOD",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "RESULTS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PRICING",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "Book Trial",
+            "ratio": 1.31,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8733
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "14-education",
+      "slug": "education",
+      "viewport": "mobile",
+      "file": "demo-sites/14-education/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/14-education/index.html",
+      "screenshot": "screenshots/mobile/14-education.jpg",
+      "audit": {
+        "title": "Home | Bright Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 91,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/education-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "CINEMATIC COURSE CATALOGUE",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "BRIGHT",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Cinematic education with black stage surfaces, instructor tiles, and red CTAs",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "SCHOOL",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "COURSES",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "METHOD",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "RESULTS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PRICING",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "Book Trial",
+            "ratio": 1.31,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 12512
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "15-recruitment",
+      "slug": "recruitment",
+      "viewport": "desktop",
+      "file": "demo-sites/15-recruitment/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/15-recruitment/index.html",
+      "screenshot": "screenshots/desktop/15-recruitment.jpg",
+      "audit": {
+        "title": "Home | Talent Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 111,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/recruitment-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8721
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "15-recruitment",
+      "slug": "recruitment",
+      "viewport": "mobile",
+      "file": "demo-sites/15-recruitment/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/15-recruitment/index.html",
+      "screenshot": "screenshots/mobile/15-recruitment.jpg",
+      "audit": {
+        "title": "Home | Talent Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 111,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/recruitment-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12427
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "16-real-estate",
+      "slug": "real-estate",
+      "viewport": "desktop",
+      "file": "demo-sites/16-real-estate/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/index.html",
+      "screenshot": "screenshots/desktop/16-real-estate.jpg",
+      "audit": {
+        "title": "Home | Urban Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 101,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/real-estate-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8865
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "16-real-estate",
+      "slug": "real-estate",
+      "viewport": "mobile",
+      "file": "demo-sites/16-real-estate/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/16-real-estate/index.html",
+      "screenshot": "screenshots/mobile/16-real-estate.jpg",
+      "audit": {
+        "title": "Home | Urban Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 101,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/real-estate-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13700
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "17-construction",
+      "slug": "construction",
+      "viewport": "desktop",
+      "file": "demo-sites/17-construction/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/index.html",
+      "screenshot": "screenshots/desktop/17-construction.jpg",
+      "audit": {
+        "title": "Home | Forge Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 112,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/construction-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "CONSTRUCTION PLATFORM GRID",
+            "ratio": 2.98,
+            "required": 4.5
+          },
+          {
+            "text": "Construction software with orange action, black contrast, and worksite proof for",
+            "ratio": 2.98,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "82%",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "87%",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "92%",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Request Estimate",
+            "ratio": 3.62,
+            "required": 4.5
+          },
+          {
+            "text": "A build-management site with construction CTAs, project panels, safety proof, an",
+            "ratio": 2.84,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 7650
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "17-construction",
+      "slug": "construction",
+      "viewport": "mobile",
+      "file": "demo-sites/17-construction/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/17-construction/index.html",
+      "screenshot": "screenshots/mobile/17-construction.jpg",
+      "audit": {
+        "title": "Home | Forge Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 112,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/construction-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "CONSTRUCTION PLATFORM GRID",
+            "ratio": 2.98,
+            "required": 4.5
+          },
+          {
+            "text": "Construction software with orange action, black contrast, and worksite proof for",
+            "ratio": 2.98,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "82%",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "87%",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "92%",
+            "ratio": 2.81,
+            "required": 4.5
+          },
+          {
+            "text": "Request Estimate",
+            "ratio": 3.62,
+            "required": 4.5
+          },
+          {
+            "text": "A build-management site with construction CTAs, project panels, safety proof, an",
+            "ratio": 2.84,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 14161
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "18-architecture",
+      "slug": "architecture",
+      "viewport": "desktop",
+      "file": "demo-sites/18-architecture/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/18-architecture/index.html",
+      "screenshot": "screenshots/desktop/18-architecture.jpg",
+      "audit": {
+        "title": "Home | Craft Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 96,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/architecture-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 10915
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "18-architecture",
+      "slug": "architecture",
+      "viewport": "mobile",
+      "file": "demo-sites/18-architecture/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/18-architecture/index.html",
+      "screenshot": "screenshots/mobile/18-architecture.jpg",
+      "audit": {
+        "title": "Home | Craft Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 96,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/architecture-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 15556
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "19-interiors",
+      "slug": "interiors",
+      "viewport": "desktop",
+      "file": "demo-sites/19-interiors/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/19-interiors/index.html",
+      "screenshot": "screenshots/desktop/19-interiors.jpg",
+      "audit": {
+        "title": "Home | Room Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/interiors-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9851
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "19-interiors",
+      "slug": "interiors",
+      "viewport": "mobile",
+      "file": "demo-sites/19-interiors/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/19-interiors/index.html",
+      "screenshot": "screenshots/mobile/19-interiors.jpg",
+      "audit": {
+        "title": "Home | Room Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/interiors-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 14568
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "20-manufacturing",
+      "slug": "manufacturing",
+      "viewport": "desktop",
+      "file": "demo-sites/20-manufacturing/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/20-manufacturing/index.html",
+      "screenshot": "screenshots/desktop/20-manufacturing.jpg",
+      "audit": {
+        "title": "Home | Line Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 105,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/manufacturing-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8437
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "20-manufacturing",
+      "slug": "manufacturing",
+      "viewport": "mobile",
+      "file": "demo-sites/20-manufacturing/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/20-manufacturing/index.html",
+      "screenshot": "screenshots/mobile/20-manufacturing.jpg",
+      "audit": {
+        "title": "Home | Line Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 105,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/manufacturing-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12083
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "21-engineering",
+      "slug": "engineering",
+      "viewport": "desktop",
+      "file": "demo-sites/21-engineering/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/21-engineering/index.html",
+      "screenshot": "screenshots/desktop/21-engineering.jpg",
+      "audit": {
+        "title": "Home | Core Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 96,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/engineering-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "ENGINEERING PROJECT JOURNAL",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "Engineering editorial with red accents, project journalism, and technical depth",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "01",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "ENGINEERING PROOF CARDS",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "02",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "FIRM",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "ENGINEERING PROOF CARDS",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "03",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "SERVICES",
+            "ratio": 4.44,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 9199
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "21-engineering",
+      "slug": "engineering",
+      "viewport": "mobile",
+      "file": "demo-sites/21-engineering/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/21-engineering/index.html",
+      "screenshot": "screenshots/mobile/21-engineering.jpg",
+      "audit": {
+        "title": "Home | Core Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 96,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/engineering-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "ENGINEERING PROJECT JOURNAL",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "Engineering editorial with red accents, project journalism, and technical depth",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "01",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "ENGINEERING PROOF CARDS",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "02",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "FIRM",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "ENGINEERING PROOF CARDS",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "03",
+            "ratio": 4.44,
+            "required": 4.5
+          },
+          {
+            "text": "SERVICES",
+            "ratio": 4.44,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 13615
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "22-energy",
+      "slug": "energy",
+      "viewport": "desktop",
+      "file": "demo-sites/22-energy/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/22-energy/index.html",
+      "screenshot": "screenshots/desktop/22-energy.jpg",
+      "audit": {
+        "title": "Home | Vault Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 104,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/energy-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8179
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "22-energy",
+      "slug": "energy",
+      "viewport": "mobile",
+      "file": "demo-sites/22-energy/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/22-energy/index.html",
+      "screenshot": "screenshots/mobile/22-energy.jpg",
+      "audit": {
+        "title": "Home | Vault Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 104,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/energy-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13091
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "23-utilities",
+      "slug": "utilities",
+      "viewport": "desktop",
+      "file": "demo-sites/23-utilities/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/23-utilities/index.html",
+      "screenshot": "screenshots/desktop/23-utilities.jpg",
+      "audit": {
+        "title": "Home | Clear Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 95,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/utilities-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 7502
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "23-utilities",
+      "slug": "utilities",
+      "viewport": "mobile",
+      "file": "demo-sites/23-utilities/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/23-utilities/index.html",
+      "screenshot": "screenshots/mobile/23-utilities.jpg",
+      "audit": {
+        "title": "Home | Clear Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 95,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/utilities-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12747
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "24-environmental",
+      "slug": "environmental",
+      "viewport": "desktop",
+      "file": "demo-sites/24-environmental/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/24-environmental/index.html",
+      "screenshot": "screenshots/desktop/24-environmental.jpg",
+      "audit": {
+        "title": "Home | Terra Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 110,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/environmental-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8191
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "24-environmental",
+      "slug": "environmental",
+      "viewport": "mobile",
+      "file": "demo-sites/24-environmental/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/24-environmental/index.html",
+      "screenshot": "screenshots/mobile/24-environmental.jpg",
+      "audit": {
+        "title": "Home | Terra Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 110,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/environmental-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13322
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "25-agriculture",
+      "slug": "agriculture",
+      "viewport": "desktop",
+      "file": "demo-sites/25-agriculture/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/25-agriculture/index.html",
+      "screenshot": "screenshots/desktop/25-agriculture.jpg",
+      "audit": {
+        "title": "Home | Field Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 95,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/agriculture-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "VERTICAL FARM GROWTH SYSTEM",
+            "ratio": 2.5,
+            "required": 4.5
+          },
+          {
+            "text": "Field",
+            "ratio": 2.94,
+            "required": 3
+          },
+          {
+            "text": "Agriculture with deep green, vertical-farm rhythm, and controlled-growth proof f",
+            "ratio": 2.5,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "88%",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "93%",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "98%",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "Plan Visit",
+            "ratio": 2.94,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8206
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "25-agriculture",
+      "slug": "agriculture",
+      "viewport": "mobile",
+      "file": "demo-sites/25-agriculture/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/25-agriculture/index.html",
+      "screenshot": "screenshots/mobile/25-agriculture.jpg",
+      "audit": {
+        "title": "Home | Field Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 95,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/agriculture-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "VERTICAL FARM GROWTH SYSTEM",
+            "ratio": 2.5,
+            "required": 4.5
+          },
+          {
+            "text": "Field",
+            "ratio": 2.94,
+            "required": 3
+          },
+          {
+            "text": "Agriculture with deep green, vertical-farm rhythm, and controlled-growth proof f",
+            "ratio": 2.5,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "88%",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "93%",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "98%",
+            "ratio": 2.37,
+            "required": 4.5
+          },
+          {
+            "text": "Plan Visit",
+            "ratio": 2.94,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 12456
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "26-food-production",
+      "slug": "food-production",
+      "viewport": "desktop",
+      "file": "demo-sites/26-food-production/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/26-food-production/index.html",
+      "screenshot": "screenshots/desktop/26-food-production.jpg",
+      "audit": {
+        "title": "Home | Grain Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 105,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/food-production-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8497
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "26-food-production",
+      "slug": "food-production",
+      "viewport": "mobile",
+      "file": "demo-sites/26-food-production/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/26-food-production/index.html",
+      "screenshot": "screenshots/mobile/26-food-production.jpg",
+      "audit": {
+        "title": "Home | Grain Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 105,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/food-production-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 14526
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "27-restaurant",
+      "slug": "restaurant",
+      "viewport": "desktop",
+      "file": "demo-sites/27-restaurant/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/index.html",
+      "screenshot": "screenshots/desktop/27-restaurant.jpg",
+      "audit": {
+        "title": "Home | Table Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 99,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/restaurant-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8941
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "27-restaurant",
+      "slug": "restaurant",
+      "viewport": "mobile",
+      "file": "demo-sites/27-restaurant/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/27-restaurant/index.html",
+      "screenshot": "screenshots/mobile/27-restaurant.jpg",
+      "audit": {
+        "title": "Home | Table Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 99,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/restaurant-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13035
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "28-hotel",
+      "slug": "hotel",
+      "viewport": "desktop",
+      "file": "demo-sites/28-hotel/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/28-hotel/index.html",
+      "screenshot": "screenshots/desktop/28-hotel.jpg",
+      "audit": {
+        "title": "Home | Stay Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 100,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/hotel-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8794
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "28-hotel",
+      "slug": "hotel",
+      "viewport": "mobile",
+      "file": "demo-sites/28-hotel/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/28-hotel/index.html",
+      "screenshot": "screenshots/mobile/28-hotel.jpg",
+      "audit": {
+        "title": "Home | Stay Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 100,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/hotel-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12505
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "29-travel",
+      "slug": "travel",
+      "viewport": "desktop",
+      "file": "demo-sites/29-travel/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/index.html",
+      "screenshot": "screenshots/desktop/29-travel.jpg",
+      "audit": {
+        "title": "Home | Atlas Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 95,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/travel-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "DARK DESTINATION MAGAZINE",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "ATLAS",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Travel editorial with black contrast, immersive destinations, and itinerary stor",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "AGENCY",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "TRIPS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PLACES",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "TOURS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PLANNING",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "Plan Trip",
+            "ratio": 1.31,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8486
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "29-travel",
+      "slug": "travel",
+      "viewport": "mobile",
+      "file": "demo-sites/29-travel/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/29-travel/index.html",
+      "screenshot": "screenshots/mobile/29-travel.jpg",
+      "audit": {
+        "title": "Home | Atlas Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 95,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/travel-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "DARK DESTINATION MAGAZINE",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "ATLAS",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Travel editorial with black contrast, immersive destinations, and itinerary stor",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "AGENCY",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "TRIPS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PLACES",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "TOURS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PLANNING",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "Plan Trip",
+            "ratio": 1.31,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 15119
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "30-transport",
+      "slug": "transport",
+      "viewport": "desktop",
+      "file": "demo-sites/30-transport/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/30-transport/index.html",
+      "screenshot": "screenshots/desktop/30-transport.jpg",
+      "audit": {
+        "title": "Home | Ride Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 84,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/transport-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9193
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "30-transport",
+      "slug": "transport",
+      "viewport": "mobile",
+      "file": "demo-sites/30-transport/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/30-transport/index.html",
+      "screenshot": "screenshots/mobile/30-transport.jpg",
+      "audit": {
+        "title": "Home | Ride Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 84,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/transport-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13971
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "31-logistics",
+      "slug": "logistics",
+      "viewport": "desktop",
+      "file": "demo-sites/31-logistics/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/31-logistics/index.html",
+      "screenshot": "screenshots/desktop/31-logistics.jpg",
+      "audit": {
+        "title": "Home | Chain Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 97,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/logistics-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "Edge",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "84%",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "89%",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "94%",
+            "ratio": 4.42,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8325
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "31-logistics",
+      "slug": "logistics",
+      "viewport": "mobile",
+      "file": "demo-sites/31-logistics/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/31-logistics/index.html",
+      "screenshot": "screenshots/mobile/31-logistics.jpg",
+      "audit": {
+        "title": "Home | Chain Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 97,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/logistics-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "Edge",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "84%",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "89%",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 4.42,
+            "required": 4.5
+          },
+          {
+            "text": "94%",
+            "ratio": 4.42,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 12524
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "32-automotive",
+      "slug": "automotive",
+      "viewport": "desktop",
+      "file": "demo-sites/32-automotive/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/32-automotive/index.html",
+      "screenshot": "screenshots/desktop/32-automotive.jpg",
+      "audit": {
+        "title": "Home | Motor Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 96,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/automotive-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9465
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "32-automotive",
+      "slug": "automotive",
+      "viewport": "mobile",
+      "file": "demo-sites/32-automotive/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/32-automotive/index.html",
+      "screenshot": "screenshots/mobile/32-automotive.jpg",
+      "audit": {
+        "title": "Home | Motor Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 96,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/automotive-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12501
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "33-aviation",
+      "slug": "aviation",
+      "viewport": "desktop",
+      "file": "demo-sites/33-aviation/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/33-aviation/index.html",
+      "screenshot": "screenshots/desktop/33-aviation.jpg",
+      "audit": {
+        "title": "Home | Aero Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 100,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/aviation-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "SUPERSONIC OPERATIONS DECK",
+            "ratio": 2.91,
+            "required": 4.5
+          },
+          {
+            "text": "Aviation future with dark aerospace surfaces, orange velocity, and fleet-spec co",
+            "ratio": 2.91,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "COMPANY",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "SERVICES",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "FLEET",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "SAFETY",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "OPERATIONS",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "Request Charter",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "Private static route",
+            "ratio": 2.91,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 9245
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "33-aviation",
+      "slug": "aviation",
+      "viewport": "mobile",
+      "file": "demo-sites/33-aviation/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/33-aviation/index.html",
+      "screenshot": "screenshots/mobile/33-aviation.jpg",
+      "audit": {
+        "title": "Home | Aero Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 100,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/aviation-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "SUPERSONIC OPERATIONS DECK",
+            "ratio": 2.91,
+            "required": 4.5
+          },
+          {
+            "text": "Aviation future with dark aerospace surfaces, orange velocity, and fleet-spec co",
+            "ratio": 2.91,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "COMPANY",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "SERVICES",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "FLEET",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "SAFETY",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "OPERATIONS",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "Request Charter",
+            "ratio": 3.51,
+            "required": 4.5
+          },
+          {
+            "text": "Private static route",
+            "ratio": 2.91,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 11793
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "34-maritime",
+      "slug": "maritime",
+      "viewport": "desktop",
+      "file": "demo-sites/34-maritime/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/34-maritime/index.html",
+      "screenshot": "screenshots/desktop/34-maritime.jpg",
+      "audit": {
+        "title": "Home | Port Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 99,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/maritime-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "BLUE OCEAN LOGISTICS PORTAL",
+            "ratio": 2.56,
+            "required": 4.5
+          },
+          {
+            "text": "Maritime corporate clarity with pale blue, logistics forms, and route tracking f",
+            "ratio": 2.56,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "82%",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "87%",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "92%",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "Request Shipping",
+            "ratio": 3.01,
+            "required": 4.5
+          },
+          {
+            "text": "A shipping site with ocean-blue service panels, cargo quote logic, port schedule",
+            "ratio": 2.44,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8380
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "34-maritime",
+      "slug": "maritime",
+      "viewport": "mobile",
+      "file": "demo-sites/34-maritime/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/34-maritime/index.html",
+      "screenshot": "screenshots/mobile/34-maritime.jpg",
+      "audit": {
+        "title": "Home | Port Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 99,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/maritime-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "BLUE OCEAN LOGISTICS PORTAL",
+            "ratio": 2.56,
+            "required": 4.5
+          },
+          {
+            "text": "Maritime corporate clarity with pale blue, logistics forms, and route tracking f",
+            "ratio": 2.56,
+            "required": 4.5
+          },
+          {
+            "text": "Edge",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "82%",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "Proof",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "87%",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "Route",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "92%",
+            "ratio": 2.41,
+            "required": 4.5
+          },
+          {
+            "text": "Request Shipping",
+            "ratio": 3.01,
+            "required": 4.5
+          },
+          {
+            "text": "A shipping site with ocean-blue service panels, cargo quote logic, port schedule",
+            "ratio": 2.44,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 12225
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "35-retail",
+      "slug": "retail",
+      "viewport": "desktop",
+      "file": "demo-sites/35-retail/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/35-retail/index.html",
+      "screenshot": "screenshots/desktop/35-retail.jpg",
+      "audit": {
+        "title": "Home | Corner Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 91,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/retail-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 7662
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "35-retail",
+      "slug": "retail",
+      "viewport": "mobile",
+      "file": "demo-sites/35-retail/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/35-retail/index.html",
+      "screenshot": "screenshots/mobile/35-retail.jpg",
+      "audit": {
+        "title": "Home | Corner Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 91,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/retail-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 14950
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "36-ecommerce",
+      "slug": "ecommerce",
+      "viewport": "desktop",
+      "file": "demo-sites/36-ecommerce/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/36-ecommerce/index.html",
+      "screenshot": "screenshots/desktop/36-ecommerce.jpg",
+      "audit": {
+        "title": "Home | Market Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 100,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/ecommerce-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8659
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "36-ecommerce",
+      "slug": "ecommerce",
+      "viewport": "mobile",
+      "file": "demo-sites/36-ecommerce/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/36-ecommerce/index.html",
+      "screenshot": "screenshots/mobile/36-ecommerce.jpg",
+      "audit": {
+        "title": "Home | Market Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 100,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/ecommerce-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 8638
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "37-fashion",
+      "slug": "fashion",
+      "viewport": "desktop",
+      "file": "demo-sites/37-fashion/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/37-fashion/index.html",
+      "screenshot": "screenshots/desktop/37-fashion.jpg",
+      "audit": {
+        "title": "Home | Linea Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 94,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/fashion-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9090
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "37-fashion",
+      "slug": "fashion",
+      "viewport": "mobile",
+      "file": "demo-sites/37-fashion/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/37-fashion/index.html",
+      "error": "page.evaluate: Target page, context or browser has been closed"
+    },
+    {
+      "site": "38-beauty",
+      "slug": "beauty",
+      "viewport": "desktop",
+      "file": "demo-sites/38-beauty/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/38-beauty/index.html",
+      "screenshot": "screenshots/desktop/38-beauty.jpg",
+      "audit": {
+        "title": "Home | Skin Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 86,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/beauty-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9003
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "38-beauty",
+      "slug": "beauty",
+      "viewport": "mobile",
+      "file": "demo-sites/38-beauty/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/38-beauty/index.html",
+      "screenshot": "screenshots/mobile/38-beauty.jpg",
+      "audit": {
+        "title": "Home | Skin Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 86,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/beauty-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 14983
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "39-media",
+      "slug": "media",
+      "viewport": "desktop",
+      "file": "demo-sites/39-media/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/39-media/index.html",
+      "screenshot": "screenshots/desktop/39-media.jpg",
+      "audit": {
+        "title": "Home | Wave Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/media-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "NEON EDITORIAL NEWS GRID",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "Media system with black surfaces, neon accents, angular modules, and dense story",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "01",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "ANGLED STORY CARDS",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "02",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "NETWORK",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "ANGLED STORY CARDS",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "03",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "SHOWS",
+            "ratio": 4.28,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8728
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "39-media",
+      "slug": "media",
+      "viewport": "mobile",
+      "file": "demo-sites/39-media/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/39-media/index.html",
+      "screenshot": "screenshots/mobile/39-media.jpg",
+      "audit": {
+        "title": "Home | Wave Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/media-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "NEON EDITORIAL NEWS GRID",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "Media system with black surfaces, neon accents, angular modules, and dense story",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "01",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "ANGLED STORY CARDS",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "02",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "NETWORK",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "ANGLED STORY CARDS",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "03",
+            "ratio": 4.28,
+            "required": 4.5
+          },
+          {
+            "text": "SHOWS",
+            "ratio": 4.28,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 13935
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "40-entertainment",
+      "slug": "entertainment",
+      "viewport": "desktop",
+      "file": "demo-sites/40-entertainment/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/40-entertainment/index.html",
+      "screenshot": "screenshots/desktop/40-entertainment.jpg",
+      "audit": {
+        "title": "Home | Stage Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/entertainment-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "INDIE FILM POSTER SYSTEM",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "STAGE",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Entertainment with black cinema mood, poster grids, and understated weirdness",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "VENUE",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "SHOWS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "ARTISTS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "TICKETS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PRIVATE",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "View Tickets",
+            "ratio": 1.31,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 8277
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "40-entertainment",
+      "slug": "entertainment",
+      "viewport": "mobile",
+      "file": "demo-sites/40-entertainment/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/40-entertainment/index.html",
+      "screenshot": "screenshots/mobile/40-entertainment.jpg",
+      "audit": {
+        "title": "Home | Stage Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 92,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/entertainment-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "INDIE FILM POSTER SYSTEM",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "STAGE",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Entertainment with black cinema mood, poster grids, and understated weirdness",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "VENUE",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "SHOWS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "ARTISTS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "TICKETS",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "PRIVATE",
+            "ratio": 1.31,
+            "required": 4.5
+          },
+          {
+            "text": "View Tickets",
+            "ratio": 1.31,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 11979
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "41-publishing",
+      "slug": "publishing",
+      "viewport": "desktop",
+      "file": "demo-sites/41-publishing/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/index.html",
+      "screenshot": "screenshots/desktop/41-publishing.jpg",
+      "audit": {
+        "title": "Home | Index Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 86,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/publishing-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8838
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "41-publishing",
+      "slug": "publishing",
+      "viewport": "mobile",
+      "file": "demo-sites/41-publishing/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/41-publishing/index.html",
+      "screenshot": "screenshots/mobile/41-publishing.jpg",
+      "audit": {
+        "title": "Home | Index Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 86,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/publishing-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13487
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "42-marketing",
+      "slug": "marketing",
+      "viewport": "desktop",
+      "file": "demo-sites/42-marketing/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/index.html",
+      "screenshot": "screenshots/desktop/42-marketing.jpg",
+      "audit": {
+        "title": "Home | Spark Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 104,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/marketing-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "DARK AGENCY CASE SYSTEM",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "Spark",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Agency minimalism with dark futurist surfaces, crisp white type, and case-study ",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "01",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "DARK CAMPAIGN CARDS",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "02",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "AGENCY",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "DARK CAMPAIGN CARDS",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "03",
+            "ratio": 1.26,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 9994
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "42-marketing",
+      "slug": "marketing",
+      "viewport": "mobile",
+      "file": "demo-sites/42-marketing/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/42-marketing/index.html",
+      "screenshot": "screenshots/mobile/42-marketing.jpg",
+      "audit": {
+        "title": "Home | Spark Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 104,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/marketing-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "DARK AGENCY CASE SYSTEM",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "Spark",
+            "ratio": 1.31,
+            "required": 3
+          },
+          {
+            "text": "Agency minimalism with dark futurist surfaces, crisp white type, and case-study ",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "01",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "DARK CAMPAIGN CARDS",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "02",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "AGENCY",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "DARK CAMPAIGN CARDS",
+            "ratio": 1.26,
+            "required": 4.5
+          },
+          {
+            "text": "03",
+            "ratio": 1.26,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 13890
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "43-creative",
+      "slug": "creative",
+      "viewport": "desktop",
+      "file": "demo-sites/43-creative/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/43-creative/index.html",
+      "screenshot": "screenshots/desktop/43-creative.jpg",
+      "audit": {
+        "title": "Home | Studio Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 99,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/creative-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9439
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "43-creative",
+      "slug": "creative",
+      "viewport": "mobile",
+      "file": "demo-sites/43-creative/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/43-creative/index.html",
+      "screenshot": "screenshots/mobile/43-creative.jpg",
+      "audit": {
+        "title": "Home | Studio Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 99,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/creative-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 16226
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "44-sports",
+      "slug": "sports",
+      "viewport": "desktop",
+      "file": "demo-sites/44-sports/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/44-sports/index.html",
+      "screenshot": "screenshots/desktop/44-sports.jpg",
+      "audit": {
+        "title": "Home | Pulse Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 91,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/sports-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 8799
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "44-sports",
+      "slug": "sports",
+      "viewport": "mobile",
+      "file": "demo-sites/44-sports/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/44-sports/index.html",
+      "screenshot": "screenshots/mobile/44-sports.jpg",
+      "audit": {
+        "title": "Home | Pulse Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 91,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/sports-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12904
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "45-events",
+      "slug": "events",
+      "viewport": "desktop",
+      "file": "demo-sites/45-events/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/45-events/index.html",
+      "screenshot": "screenshots/desktop/45-events.jpg",
+      "audit": {
+        "title": "Home | Vow Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 87,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/events-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9173
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "45-events",
+      "slug": "events",
+      "viewport": "mobile",
+      "file": "demo-sites/45-events/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/45-events/index.html",
+      "screenshot": "screenshots/mobile/45-events.jpg",
+      "audit": {
+        "title": "Home | Vow Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 87,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/events-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 14352
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "46-government",
+      "slug": "government",
+      "viewport": "desktop",
+      "file": "demo-sites/46-government/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/46-government/index.html",
+      "screenshot": "screenshots/desktop/46-government.jpg",
+      "audit": {
+        "title": "Home | Forum Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 90,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/government-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 7617
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "46-government",
+      "slug": "government",
+      "viewport": "mobile",
+      "file": "demo-sites/46-government/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/46-government/index.html",
+      "screenshot": "screenshots/mobile/46-government.jpg",
+      "audit": {
+        "title": "Home | Forum Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 90,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/government-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 13463
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "47-nonprofit",
+      "slug": "nonprofit",
+      "viewport": "desktop",
+      "file": "demo-sites/47-nonprofit/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/47-nonprofit/index.html",
+      "screenshot": "screenshots/desktop/47-nonprofit.jpg",
+      "audit": {
+        "title": "Home | Good Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 96,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/nonprofit-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "TRANSPARENT DONATION IMPACT FLOW",
+            "ratio": 1.79,
+            "required": 4.5
+          },
+          {
+            "text": "GOOD",
+            "ratio": 1.99,
+            "required": 3
+          },
+          {
+            "text": "Nonprofit with yellow urgency, human impact proof, and donation clarity",
+            "ratio": 1.79,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "ORGANISATION",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "MISSION",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "IMPACT",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "PROGRAMS",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "DONATE",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "Donate Today",
+            "ratio": 1.99,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 1440,
+          "height": 7201
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "47-nonprofit",
+      "slug": "nonprofit",
+      "viewport": "mobile",
+      "file": "demo-sites/47-nonprofit/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/47-nonprofit/index.html",
+      "screenshot": "screenshots/mobile/47-nonprofit.jpg",
+      "audit": {
+        "title": "Home | Good Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 96,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/nonprofit-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [
+          {
+            "text": "TRANSPARENT DONATION IMPACT FLOW",
+            "ratio": 1.79,
+            "required": 4.5
+          },
+          {
+            "text": "GOOD",
+            "ratio": 1.99,
+            "required": 3
+          },
+          {
+            "text": "Nonprofit with yellow urgency, human impact proof, and donation clarity",
+            "ratio": 1.79,
+            "required": 4.5
+          },
+          {
+            "text": "HOME",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "ORGANISATION",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "MISSION",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "IMPACT",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "PROGRAMS",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "DONATE",
+            "ratio": 1.99,
+            "required": 4.5
+          },
+          {
+            "text": "Donate Today",
+            "ratio": 1.99,
+            "required": 4.5
+          }
+        ],
+        "documentSize": {
+          "width": 390,
+          "height": 11591
+        },
+        "issues": [
+          "footer-low-contrast"
+        ],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "48-veterinary",
+      "slug": "veterinary",
+      "viewport": "desktop",
+      "file": "demo-sites/48-veterinary/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/48-veterinary/index.html",
+      "screenshot": "screenshots/desktop/48-veterinary.jpg",
+      "audit": {
+        "title": "Home | Paw Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 78,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/veterinary-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 7858
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "48-veterinary",
+      "slug": "veterinary",
+      "viewport": "mobile",
+      "file": "demo-sites/48-veterinary/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/48-veterinary/index.html",
+      "screenshot": "screenshots/mobile/48-veterinary.jpg",
+      "audit": {
+        "title": "Home | Paw Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 78,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/veterinary-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 12297
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "49-luxury",
+      "slug": "luxury",
+      "viewport": "desktop",
+      "file": "demo-sites/49-luxury/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/49-luxury/index.html",
+      "screenshot": "screenshots/desktop/49-luxury.jpg",
+      "audit": {
+        "title": "Home | Maison Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 94,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/luxury-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9869
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "49-luxury",
+      "slug": "luxury",
+      "viewport": "mobile",
+      "file": "demo-sites/49-luxury/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/49-luxury/index.html",
+      "screenshot": "screenshots/mobile/49-luxury.jpg",
+      "audit": {
+        "title": "Home | Maison Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 94,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/luxury-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 14524
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "50-personal-brand",
+      "slug": "personal-brand",
+      "viewport": "desktop",
+      "file": "demo-sites/50-personal-brand/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/50-personal-brand/index.html",
+      "screenshot": "screenshots/desktop/50-personal-brand.jpg",
+      "audit": {
+        "title": "Home | Brand Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 113,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/personal-brand-home-hero.svg",
+          "naturalWidth": 960,
+          "naturalHeight": 640
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 1440,
+          "height": 9826
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    },
+    {
+      "site": "50-personal-brand",
+      "slug": "personal-brand",
+      "viewport": "mobile",
+      "file": "demo-sites/50-personal-brand/index.html",
+      "url": "file:///home/ash/portfolio/demo-sites/50-personal-brand/index.html",
+      "screenshot": "screenshots/mobile/50-personal-brand.jpg",
+      "audit": {
+        "title": "Home | Brand Static Site",
+        "sectionCount": 10,
+        "firstSection": "Hero",
+        "lastSection": "CTA",
+        "heroButtons": 2,
+        "allHeroButtons": 2,
+        "heroCopyLength": 113,
+        "forbiddenHero": [],
+        "heroImage": {
+          "src": "assets/images/hero/personal-brand-home-hero.svg",
+          "naturalWidth": 900,
+          "naturalHeight": 1120
+        },
+        "brokenImages": [],
+        "overflowing": [],
+        "footerLowContrast": [],
+        "documentSize": {
+          "width": 390,
+          "height": 14130
+        },
+        "issues": [],
+        "svgTextFindings": []
+      }
+    }
+  ]
+}

@@ -6,11 +6,6 @@ Static portfolio component pass for ForgeBuild. WordPress export remains optiona
 | --- | --- | --- | --- | --- | --- |
 | 404.html | 404 section 1 | utility | asset-inventory-grid | bento-grid | `construction-404-404-section-1-01` |
 | accessibility.html | Accessibility section 1 | utility | document-preview | proof-ledger | `construction-accessibility-accessibility-section-1-01` |
-| asset-system.html | Asset-System section 1 | resources | case-study-grid | bento-grid | `construction-asset-system-asset-system-section-1-01` |
-| asset-system.html | Asset-System section 2 | resources | download-cover-grid | bento-grid | `construction-asset-system-asset-system-section-2-02` |
-| asset-system.html | Asset-System section 3 | resources | resource-index | route-cards | `construction-asset-system-asset-system-section-3-03` |
-| asset-system.html | Asset-System section 4 | resources | article-stack | editorial-split | `construction-asset-system-asset-system-section-4-04` |
-| asset-system.html | Asset-System section 5 | resources | document-preview | proof-ledger | `construction-asset-system-asset-system-section-5-05` |
 | company.html | Hero | hero | search-led-hero | map-console | `construction-company-hero-01` |
 | company.html | Company section 2 | editorial | central-statement-pillars | editorial-split | `construction-company-company-section-2-02` |
 | company.html | Company section 3 | editorial | benefit-image-split | collage-stack | `construction-company-company-section-3-03` |
